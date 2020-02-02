@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="sec43_network_200131.svg"
+   sodipodi:docname="ta43_network.svg"
    enable-background="new">
   <sodipodi:namedview
      id="base"
@@ -25,16 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="708.77321"
-     inkscape:cy="556.19917"
+     inkscape:zoom="1"
+     inkscape:cx="657.1831"
+     inkscape:cy="182.00054"
      inkscape:document-units="px"
-     inkscape:current-layer="g3712"
+     inkscape:current-layer="a4364"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1018"
-     inkscape:window-x="-8"
-     inkscape:window-y="63"
+     inkscape:window-height="1135"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -7205,7 +7205,7 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="title"
-     style="display:none">
+     style="display:inline">
     <rect
        y="152.36218"
        x="0"
@@ -7304,8 +7304,8 @@
            id="tspan2581"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Основы сетевых технологий</tspan></tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#203d85;fill-opacity:1"
-         y="645.04199"
-         x="801.25934"
+         y="645.18903"
+         x="801.2594"
          sodipodi:role="line"
          id="tspan2583">Муравьёв С.К.</tspan></text>
     <path
@@ -7320,7 +7320,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="master_slide"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#5f7da9;stroke-opacity:1"
@@ -8022,7 +8022,7 @@
      inkscape:groupmode="layer"
      id="g3335"
      inkscape:label="Сетевые протоколы"
-     style="display:inline">
+     style="display:none">
     <g
        id="g3712"
        transform="translate(-0.04566956,10.000008)">
@@ -8448,7 +8448,7 @@
            height="60"
            x="440"
            y="210" /></flowRegion><flowPara
-         id="flowPara3614"></flowPara></flowRoot>  </g>
+         id="flowPara3614" /></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="g7095"
@@ -8529,23 +8529,23 @@
            id="tspan3721">устройства. </tspan></text>
     </a>
     <image
-       sodipodi:absref="H:\МИФИ\Атаки\img/manchester.png"
+       sodipodi:absref="/media/sergey/Transcend/МИФИ/ta43/img/manchester.png"
        xlink:href="img/manchester.png"
-       y="150"
-       x="897.5"
-       id="image2934"
-       preserveAspectRatio="none"
+       width="600"
        height="214"
-       width="600" />
-    <image
-       sodipodi:absref="H:\МИФИ\Атаки\img/modulation.jpg"
-       xlink:href="img/modulation.jpg"
-       y="390"
-       x="995"
-       id="image2945"
        preserveAspectRatio="none"
+       id="image2934"
+       x="897.5"
+       y="150" />
+    <image
+       sodipodi:absref="/media/sergey/Transcend/МИФИ/ta43/img/modulation.jpg"
+       xlink:href="img/modulation.jpg"
+       width="485"
        height="350"
-       width="485" />
+       preserveAspectRatio="none"
+       id="image2945"
+       x="995"
+       y="390" />
   </g>
   <g
      style="display:none"
@@ -10169,7 +10169,7 @@
          sodipodi:role="line"
          x="70.184631"
          y="549.3974"
-         id="tspan3749"></tspan><tspan
+         id="tspan3749" /><tspan
          sodipodi:role="line"
          x="70.184631"
          y="592.59741"
@@ -10216,25 +10216,22 @@
       <g
          id="g3830"
          style="stroke-width:1.49333334">
-	<path
-   id="path3824"
-   d="m 132.64,384 c -8.064,0 -11.264,-7.792 -6.656,-13.296 l 45.552,-60.512 h -37.76 c -11.12,0 -10.224,-15.712 0,-15.712 h 51.568 c 9.712,0 12.528,9.184 5.632,16.624 l -43.632,56.656 h 41.584 c 10.24,0 11.52,16.256 -1.008,16.256 h -55.28 z"
-   style="fill:#ffffff;stroke-width:1.49333334"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3826"
-   d="m 212.048,303.152 c 0,-10.496 16.896,-10.88 16.896,0 v 73.04 c 0,10.608 -16.896,10.88 -16.896,0 z"
-   style="fill:#ffffff;stroke-width:1.49333334"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path3828"
-   d="m 251.616,303.152 c 0,-4.224 3.328,-8.832 8.704,-8.832 h 29.552 c 16.64,0 31.616,11.136 31.616,32.48 0,20.224 -14.976,31.488 -31.616,31.488 h -21.36 v 16.896 c 0,5.632 -3.584,8.816 -8.192,8.816 -4.224,0 -8.704,-3.184 -8.704,-8.816 z m 16.88,7.28 v 31.872 h 21.36 c 8.576,0 15.36,-7.568 15.36,-15.504 0,-8.944 -6.784,-16.368 -15.36,-16.368 z"
-   style="fill:#ffffff;stroke-width:1.49333334"
-   inkscape:connector-curvature="0" />
-
-</g>
+        <path
+           id="path3824"
+           d="m 132.64,384 c -8.064,0 -11.264,-7.792 -6.656,-13.296 l 45.552,-60.512 h -37.76 c -11.12,0 -10.224,-15.712 0,-15.712 h 51.568 c 9.712,0 12.528,9.184 5.632,16.624 l -43.632,56.656 h 41.584 c 10.24,0 11.52,16.256 -1.008,16.256 h -55.28 z"
+           style="fill:#ffffff;stroke-width:1.49333334"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path3826"
+           d="m 212.048,303.152 c 0,-10.496 16.896,-10.88 16.896,0 v 73.04 c 0,10.608 -16.896,10.88 -16.896,0 z"
+           style="fill:#ffffff;stroke-width:1.49333334"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path3828"
+           d="m 251.616,303.152 c 0,-4.224 3.328,-8.832 8.704,-8.832 h 29.552 c 16.64,0 31.616,11.136 31.616,32.48 0,20.224 -14.976,31.488 -31.616,31.488 h -21.36 v 16.896 c 0,5.632 -3.584,8.816 -8.192,8.816 -4.224,0 -8.704,-3.184 -8.704,-8.816 z m 16.88,7.28 v 31.872 h 21.36 c 8.576,0 15.36,-7.568 15.36,-15.504 0,-8.944 -6.784,-16.368 -15.36,-16.368 z"
+           style="fill:#ffffff;stroke-width:1.49333334"
+           inkscape:connector-curvature="0" />
+      </g>
       <path
          id="path3832"
          d="M 400,432 H 96 v 16 h 304 c 8.8,0 16,-7.2 16,-16 v -16 c 0,8.8 -7.2,16 -16,16 z"
@@ -10242,64 +10239,49 @@
          inkscape:connector-curvature="0" />
       <g
          id="g3834"
-         style="stroke-width:1.49333334">
-</g>
+         style="stroke-width:1.49333334" />
       <g
          id="g3836"
-         style="stroke-width:1.49333334">
-</g>
+         style="stroke-width:1.49333334" />
       <g
          id="g3838"
-         style="stroke-width:1.49333334">
-</g>
+         style="stroke-width:1.49333334" />
       <g
          id="g3840"
-         style="stroke-width:1.49333334">
-</g>
+         style="stroke-width:1.49333334" />
       <g
          id="g3842"
-         style="stroke-width:1.49333334">
-</g>
+         style="stroke-width:1.49333334" />
       <g
          id="g3844"
-         style="stroke-width:1.49333334">
-</g>
+         style="stroke-width:1.49333334" />
       <g
          id="g3846"
-         style="stroke-width:1.49333334">
-</g>
+         style="stroke-width:1.49333334" />
       <g
          id="g3848"
-         style="stroke-width:1.49333334">
-</g>
+         style="stroke-width:1.49333334" />
       <g
          id="g3850"
-         style="stroke-width:1.49333334">
-</g>
+         style="stroke-width:1.49333334" />
       <g
          id="g3852"
-         style="stroke-width:1.49333334">
-</g>
+         style="stroke-width:1.49333334" />
       <g
          id="g3854"
-         style="stroke-width:1.49333334">
-</g>
+         style="stroke-width:1.49333334" />
       <g
          id="g3856"
-         style="stroke-width:1.49333334">
-</g>
+         style="stroke-width:1.49333334" />
       <g
          id="g3858"
-         style="stroke-width:1.49333334">
-</g>
+         style="stroke-width:1.49333334" />
       <g
          id="g3860"
-         style="stroke-width:1.49333334">
-</g>
+         style="stroke-width:1.49333334" />
       <g
          id="g3862"
-         style="stroke-width:1.49333334">
-</g>
+         style="stroke-width:1.49333334" />
     </g>
     <g
        id="g4003"
@@ -10416,11 +10398,7 @@
          id="path4011" />
       <g
          style="stroke-width:1.49333334"
-         id="g4019">
-	
-	
-	
-</g>
+         id="g4019" />
       <path
          inkscape:connector-curvature="0"
          style="fill:#cad1d8;stroke-width:1.49333334"
@@ -10428,64 +10406,49 @@
          id="path4021" />
       <g
          style="stroke-width:1.49333334"
-         id="g4023">
-</g>
+         id="g4023" />
       <g
          style="stroke-width:1.49333334"
-         id="g4025">
-</g>
+         id="g4025" />
       <g
          style="stroke-width:1.49333334"
-         id="g4027">
-</g>
+         id="g4027" />
       <g
          style="stroke-width:1.49333334"
-         id="g4029">
-</g>
+         id="g4029" />
       <g
          style="stroke-width:1.49333334"
-         id="g4031">
-</g>
+         id="g4031" />
       <g
          style="stroke-width:1.49333334"
-         id="g4033">
-</g>
+         id="g4033" />
       <g
          style="stroke-width:1.49333334"
-         id="g4035">
-</g>
+         id="g4035" />
       <g
          style="stroke-width:1.49333334"
-         id="g4037">
-</g>
+         id="g4037" />
       <g
          style="stroke-width:1.49333334"
-         id="g4039">
-</g>
+         id="g4039" />
       <g
          style="stroke-width:1.49333334"
-         id="g4041">
-</g>
+         id="g4041" />
       <g
          style="stroke-width:1.49333334"
-         id="g4043">
-</g>
+         id="g4043" />
       <g
          style="stroke-width:1.49333334"
-         id="g4045">
-</g>
+         id="g4045" />
       <g
          style="stroke-width:1.49333334"
-         id="g4047">
-</g>
+         id="g4047" />
       <g
          style="stroke-width:1.49333334"
-         id="g4049">
-</g>
+         id="g4049" />
       <g
          style="stroke-width:1.49333334"
-         id="g4051">
-</g>
+         id="g4051" />
     </g>
     <text
        xml:space="preserve"
@@ -10524,7 +10487,7 @@
          sodipodi:role="line"
          id="tspan4076"
          x="70.184631"
-         y="270.19739"></tspan><tspan
+         y="270.19739" /><tspan
          sodipodi:role="line"
          id="tspan4078"
          x="70.184631"
@@ -10560,15 +10523,15 @@
          sodipodi:role="line"
          id="tspan4080"
          x="70.184631"
-         y="658.99744"></tspan><tspan
+         y="658.99744" /><tspan
          sodipodi:role="line"
          id="tspan4082"
          x="70.184631"
-         y="702.19745"></tspan><tspan
+         y="702.19745" /><tspan
          sodipodi:role="line"
          id="tspan4084"
          x="70.184631"
-         y="745.3974"></tspan></text>
+         y="745.3974" /></text>
     <g
        id="g4442"
        transform="translate(9.062317,63.437717)">
@@ -10608,64 +10571,49 @@
            id="path4211" />
         <g
            style="stroke-width:1.67183661"
-           id="g4213">
-</g>
+           id="g4213" />
         <g
            style="stroke-width:1.67183661"
-           id="g4215">
-</g>
+           id="g4215" />
         <g
            style="stroke-width:1.67183661"
-           id="g4217">
-</g>
+           id="g4217" />
         <g
            style="stroke-width:1.67183661"
-           id="g4219">
-</g>
+           id="g4219" />
         <g
            style="stroke-width:1.67183661"
-           id="g4221">
-</g>
+           id="g4221" />
         <g
            style="stroke-width:1.67183661"
-           id="g4223">
-</g>
+           id="g4223" />
         <g
            style="stroke-width:1.67183661"
-           id="g4225">
-</g>
+           id="g4225" />
         <g
            style="stroke-width:1.67183661"
-           id="g4227">
-</g>
+           id="g4227" />
         <g
            style="stroke-width:1.67183661"
-           id="g4229">
-</g>
+           id="g4229" />
         <g
            style="stroke-width:1.67183661"
-           id="g4231">
-</g>
+           id="g4231" />
         <g
            style="stroke-width:1.67183661"
-           id="g4233">
-</g>
+           id="g4233" />
         <g
            style="stroke-width:1.67183661"
-           id="g4235">
-</g>
+           id="g4235" />
         <g
            style="stroke-width:1.67183661"
-           id="g4237">
-</g>
+           id="g4237" />
         <g
            style="stroke-width:1.67183661"
-           id="g4239">
-</g>
+           id="g4239" />
         <g
            style="stroke-width:1.67183661"
-           id="g4241">
-</g>
+           id="g4241" />
       </g>
       <text
          id="text4275"
@@ -10685,31 +10633,27 @@
       <g
          id="g4343"
          style="stroke-width:1.79785037">
-	<path
-   id="path4335"
-   d="m 224,149.333 h -21.333 c -5.896,0 -10.667,4.771 -10.667,10.667 0,5.896 4.771,10.667 10.667,10.667 H 224 c 17.646,0 32,-14.354 32,-32 0,-17.646 -14.354,-32 -32,-32 -5.875,0 -10.667,-4.781 -10.667,-10.667 0,-5.885 4.792,-10.667 10.667,-10.667 h 21.333 C 251.229,85.333 256,80.562 256,74.666 256,68.771 251.229,64 245.333,64 H 224 c -17.646,0 -32,14.354 -32,32 0,17.646 14.354,32 32,32 5.875,0 10.667,4.781 10.667,10.667 0,5.886 -4.792,10.666 -10.667,10.666 z"
-   style="fill:#203d85;fill-opacity:1;stroke-width:1.79785037"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path4337"
-   d="m 288,170.667 c 5.896,0 10.667,-4.771 10.667,-10.667 V 74.667 C 298.667,68.771 293.896,64 288,64 c -5.896,0 -10.667,4.771 -10.667,10.667 V 160 c 0,5.896 4.771,10.667 10.667,10.667 z"
-   style="fill:#203d85;fill-opacity:1;stroke-width:1.79785037"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path4339"
-   d="m 330.667,170.667 c 5.896,0 10.667,-4.771 10.667,-10.667 V 128 H 352 c 17.646,0 32,-14.354 32,-32 0,-17.646 -14.354,-32 -32,-32 H 330.667 C 324.771,64 320,68.771 320,74.667 V 160 c 0,5.896 4.771,10.667 10.667,10.667 z M 341.333,85.333 H 352 c 5.875,0 10.667,4.781 10.667,10.667 0,5.885 -4.792,10.667 -10.667,10.667 h -10.667 z"
-   style="fill:#203d85;fill-opacity:1;stroke-width:1.79785037"
-   inkscape:connector-curvature="0" />
-
-	<path
-   id="path4341"
-   d="m 353.188,252.052 c -23.51,0 -46.594,-3.677 -68.469,-10.906 -10.906,-3.719 -23.323,-0.833 -30.438,6.417 l -43.177,32.594 C 161.031,253.428 130.187,222.594 103.823,172.897 l 31.635,-42.052 c 8.219,-8.208 11.167,-20.198 7.635,-31.448 C 135.833,77.407 132.145,54.334 132.145,30.814 132.146,13.823 118.323,0 101.333,0 H 30.813 C 13.823,0 0,13.823 0,30.813 0,225.563 158.438,384 353.188,384 c 16.99,0 30.813,-13.823 30.813,-30.813 V 282.864 C 384,265.875 370.177,252.052 353.188,252.052 Z"
-   style="fill:#203d85;fill-opacity:1;stroke-width:1.79785037"
-   inkscape:connector-curvature="0" />
-
-</g>
+        <path
+           id="path4335"
+           d="m 224,149.333 h -21.333 c -5.896,0 -10.667,4.771 -10.667,10.667 0,5.896 4.771,10.667 10.667,10.667 H 224 c 17.646,0 32,-14.354 32,-32 0,-17.646 -14.354,-32 -32,-32 -5.875,0 -10.667,-4.781 -10.667,-10.667 0,-5.885 4.792,-10.667 10.667,-10.667 h 21.333 C 251.229,85.333 256,80.562 256,74.666 256,68.771 251.229,64 245.333,64 H 224 c -17.646,0 -32,14.354 -32,32 0,17.646 14.354,32 32,32 5.875,0 10.667,4.781 10.667,10.667 0,5.886 -4.792,10.666 -10.667,10.666 z"
+           style="fill:#203d85;fill-opacity:1;stroke-width:1.79785037"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4337"
+           d="m 288,170.667 c 5.896,0 10.667,-4.771 10.667,-10.667 V 74.667 C 298.667,68.771 293.896,64 288,64 c -5.896,0 -10.667,4.771 -10.667,10.667 V 160 c 0,5.896 4.771,10.667 10.667,10.667 z"
+           style="fill:#203d85;fill-opacity:1;stroke-width:1.79785037"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4339"
+           d="m 330.667,170.667 c 5.896,0 10.667,-4.771 10.667,-10.667 V 128 H 352 c 17.646,0 32,-14.354 32,-32 0,-17.646 -14.354,-32 -32,-32 H 330.667 C 324.771,64 320,68.771 320,74.667 V 160 c 0,5.896 4.771,10.667 10.667,10.667 z M 341.333,85.333 H 352 c 5.875,0 10.667,4.781 10.667,10.667 0,5.885 -4.792,10.667 -10.667,10.667 h -10.667 z"
+           style="fill:#203d85;fill-opacity:1;stroke-width:1.79785037"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4341"
+           d="m 353.188,252.052 c -23.51,0 -46.594,-3.677 -68.469,-10.906 -10.906,-3.719 -23.323,-0.833 -30.438,6.417 l -43.177,32.594 C 161.031,253.428 130.187,222.594 103.823,172.897 l 31.635,-42.052 c 8.219,-8.208 11.167,-20.198 7.635,-31.448 C 135.833,77.407 132.145,54.334 132.145,30.814 132.146,13.823 118.323,0 101.333,0 H 30.813 C 13.823,0 0,13.823 0,30.813 0,225.563 158.438,384 353.188,384 c 16.99,0 30.813,-13.823 30.813,-30.813 V 282.864 C 384,265.875 370.177,252.052 353.188,252.052 Z"
+           style="fill:#203d85;fill-opacity:1;stroke-width:1.79785037"
+           inkscape:connector-curvature="0" />
+      </g>
       <path
          id="path4345"
          d="m 362.667,353.188 c 0,5.229 -4.25,9.479 -9.479,9.479 -182.99,0 -331.854,-148.865 -331.854,-331.854 0,-5.229 4.25,-9.479 9.479,-9.479 h 70.521 c 5.229,0 9.479,4.25 9.479,9.479 0,25.802 4.052,51.125 11.979,75.115 1.104,3.542 0.208,7.208 -3.375,10.938 L 82.75,165.427 c -2.458,3.26 -2.844,7.625 -1,11.26 29.927,58.823 66.292,95.188 125.531,125.542 3.604,1.885 8.021,1.49 11.292,-0.979 l 49.677,-37.635 c 2.51,-2.51 6.271,-3.406 9.667,-2.25 24.156,7.979 49.479,12.021 75.271,12.021 5.229,0 9.479,4.25 9.479,9.479 z"
@@ -10727,64 +10671,49 @@
          inkscape:connector-curvature="0" />
       <g
          id="g4356"
-         style="stroke-width:1.79785037">
-</g>
+         style="stroke-width:1.79785037" />
       <g
          id="g4358"
-         style="stroke-width:1.79785037">
-</g>
+         style="stroke-width:1.79785037" />
       <g
          id="g4360"
-         style="stroke-width:1.79785037">
-</g>
+         style="stroke-width:1.79785037" />
       <g
          id="g4362"
-         style="stroke-width:1.79785037">
-</g>
+         style="stroke-width:1.79785037" />
       <g
          id="g4364"
-         style="stroke-width:1.79785037">
-</g>
+         style="stroke-width:1.79785037" />
       <g
          id="g4366"
-         style="stroke-width:1.79785037">
-</g>
+         style="stroke-width:1.79785037" />
       <g
          id="g4368"
-         style="stroke-width:1.79785037">
-</g>
+         style="stroke-width:1.79785037" />
       <g
          id="g4370"
-         style="stroke-width:1.79785037">
-</g>
+         style="stroke-width:1.79785037" />
       <g
          id="g4372"
-         style="stroke-width:1.79785037">
-</g>
+         style="stroke-width:1.79785037" />
       <g
          id="g4374"
-         style="stroke-width:1.79785037">
-</g>
+         style="stroke-width:1.79785037" />
       <g
          id="g4376"
-         style="stroke-width:1.79785037">
-</g>
+         style="stroke-width:1.79785037" />
       <g
          id="g4378"
-         style="stroke-width:1.79785037">
-</g>
+         style="stroke-width:1.79785037" />
       <g
          id="g4380"
-         style="stroke-width:1.79785037">
-</g>
+         style="stroke-width:1.79785037" />
       <g
          id="g4382"
-         style="stroke-width:1.79785037">
-</g>
+         style="stroke-width:1.79785037" />
       <g
          id="g4384"
-         style="stroke-width:1.79785037">
-</g>
+         style="stroke-width:1.79785037" />
     </g>
     <g
        id="g4545"
@@ -10957,7 +10886,7 @@
            sodipodi:role="line"
            id="tspan8673"
            x="80"
-           y="689.11035"></tspan></text>
+           y="689.11035" /></text>
     </a>
     <g
        id="g8659"
@@ -11585,17 +11514,21 @@
     <a
        xlink:href="https://github.com/smurav/sec43"
        id="a4364">
-      <text
-         id="text4358"
-         y="790"
-         x="80"
-         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           id="tspan4362"
-           sodipodi:role="line"
+      <a
+         id="a3219"
+         xlink:href="https://smurav.github.io/ta43/">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
            x="80"
            y="790"
-           style="font-size:40px;line-height:2;font-family:sans-serif">https://github.com/smurav/ta43</tspan></text>
+           id="text4358"><tspan
+             style="font-size:40px;line-height:2;font-family:sans-serif"
+             y="790"
+             x="80"
+             sodipodi:role="line"
+             id="tspan4362">https://smurav.github.io/ta43/</tspan></text>
+      </a>
     </a>
   </g>
   <ns1:mousehandler

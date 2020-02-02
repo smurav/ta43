@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="sec43_env.svg"
+   sodipodi:docname="ta43_env.svg"
    enable-background="new">
   <sodipodi:namedview
      id="base"
@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="425.97248"
+     inkscape:cx="847.03797"
      inkscape:cy="394.93107"
      inkscape:document-units="px"
-     inkscape:current-layer="a7474"
+     inkscape:current-layer="layer13"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1135"
@@ -8217,21 +8217,21 @@
     <image
        sodipodi:absref="/media/sergey/Transcend/МИФИ/ta43/img/add_nat.png"
        xlink:href="img/add_nat.png"
-       width="553"
-       height="365"
-       preserveAspectRatio="none"
-       id="image7004"
+       y="110"
        x="67"
-       y="110" />
+       id="image7004"
+       preserveAspectRatio="none"
+       height="365"
+       width="553" />
     <image
        sodipodi:absref="/media/sergey/Transcend/МИФИ/ta43/img/set_nat.png"
        xlink:href="img/set_nat.png"
-       width="724"
-       height="444"
-       preserveAspectRatio="none"
-       id="image7039"
+       y="350"
        x="800"
-       y="350" />
+       id="image7039"
+       preserveAspectRatio="none"
+       height="444"
+       width="724" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
@@ -8347,12 +8347,12 @@
     <image
        sodipodi:absref="/media/sergey/Transcend/МИФИ/ta43/img/download_kali.png"
        xlink:href="img/download_kali.png"
-       width="770"
-       height="657"
-       preserveAspectRatio="none"
-       id="image7390"
+       y="110"
        x="780"
-       y="110" />
+       id="image7390"
+       preserveAspectRatio="none"
+       height="657"
+       width="770" />
   </g>
   <g
      style="display:none"
@@ -8422,12 +8422,12 @@
     <image
        sodipodi:absref="/media/sergey/Transcend/МИФИ/ta43/img/import_kali.png"
        xlink:href="img/import_kali.png"
-       y="110"
-       x="906"
-       id="image3540"
-       preserveAspectRatio="none"
+       width="652"
        height="542"
-       width="652" />
+       preserveAspectRatio="none"
+       id="image3540"
+       x="906"
+       y="110" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -8483,21 +8483,21 @@
     <image
        sodipodi:absref="/media/sergey/Transcend/МИФИ/ta43/img/start_kali.png"
        xlink:href="img/start_kali.png"
-       width="669"
-       height="448"
-       preserveAspectRatio="none"
-       id="image3542"
+       y="110"
        x="80"
-       y="110" />
+       id="image3542"
+       preserveAspectRatio="none"
+       height="448"
+       width="669" />
     <image
        sodipodi:absref="/media/sergey/Transcend/МИФИ/ta43/img/login_kali.png"
        xlink:href="img/login_kali.png"
-       width="640"
-       height="480"
-       preserveAspectRatio="none"
-       id="image3580"
+       y="330"
        x="830.34283"
-       y="330" />
+       id="image3580"
+       preserveAspectRatio="none"
+       height="480"
+       width="640" />
   </g>
   <g
      style="display:none"
@@ -8549,21 +8549,21 @@
     <image
        sodipodi:absref="/media/sergey/Transcend/МИФИ/ta43/img/vb_guest_additions.png"
        xlink:href="img/vb_guest_additions.png"
-       width="655"
-       height="559"
-       preserveAspectRatio="none"
-       id="image3618"
+       y="110"
        x="80"
-       y="110" />
+       id="image3618"
+       preserveAspectRatio="none"
+       height="559"
+       width="655" />
     <image
        sodipodi:absref="/media/sergey/Transcend/МИФИ/ta43/img/vb_install_ga.png"
        xlink:href="img/vb_install_ga.png"
-       width="706"
-       height="504"
-       preserveAspectRatio="none"
-       id="image3643"
+       y="290"
        x="840"
-       y="290" />
+       id="image3643"
+       preserveAspectRatio="none"
+       height="504"
+       width="706" />
   </g>
   <g
      style="display:none"
@@ -8650,12 +8650,12 @@
     <image
        sodipodi:absref="/media/sergey/Transcend/МИФИ/ta43/img/metasploitable2.png"
        xlink:href="img/metasploitable2.png"
-       width="733"
-       height="620"
-       preserveAspectRatio="none"
-       id="image7551"
+       y="130"
        x="840"
-       y="130" />
+       id="image7551"
+       preserveAspectRatio="none"
+       height="620"
+       width="733" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -8809,21 +8809,21 @@
     <image
        sodipodi:absref="/media/sergey/Transcend/МИФИ/ta43/img/vb_create_vm.png"
        xlink:href="img/vb_create_vm.png"
-       y="130"
-       x="800"
-       id="image7539"
-       preserveAspectRatio="none"
+       width="669"
        height="448"
-       width="669" />
+       preserveAspectRatio="none"
+       id="image7539"
+       x="800"
+       y="130" />
     <image
        sodipodi:absref="/media/sergey/Transcend/МИФИ/ta43/img/create_meta2.png"
        xlink:href="img/create_meta2.png"
-       width="536"
-       height="465"
-       preserveAspectRatio="none"
-       id="image7607"
+       y="330"
        x="1000"
-       y="330" />
+       id="image7607"
+       preserveAspectRatio="none"
+       height="465"
+       width="536" />
     <text
        id="text7484"
        y="645.8736"
@@ -8973,12 +8973,12 @@
     <image
        sodipodi:absref="/media/sergey/Transcend/МИФИ/ta43/img/owasp_bwa.png"
        xlink:href="img/owasp_bwa.png"
-       y="114"
-       x="919"
-       id="image3425"
-       preserveAspectRatio="none"
+       width="641"
        height="672"
-       width="641" />
+       preserveAspectRatio="none"
+       id="image3425"
+       x="919"
+       y="114" />
   </g>
   <g
      style="display:none"
@@ -9145,7 +9145,7 @@
            style="font-size:40px;line-height:2;font-family:sans-serif">smurav@mail.ru </tspan></text>
     </a>
     <a
-       xlink:href="https://github.com/smurav/sec43"
+       xlink:href="https://smurav.github.io/ta43/"
        id="a4364">
       <text
          id="text4358"
@@ -9157,7 +9157,7 @@
            sodipodi:role="line"
            x="80"
            y="790"
-           style="font-size:40px;line-height:2;font-family:sans-serif">https://github.com/smurav/ta43</tspan></text>
+           style="font-size:40px;line-height:2;font-family:sans-serif">https://smurav.github.io/ta43/</tspan></text>
     </a>
   </g>
   <ns1:mousehandler
