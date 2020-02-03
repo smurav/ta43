@@ -26,15 +26,15 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.849375"
-     inkscape:cx="874.9957"
+     inkscape:cx="663.07517"
      inkscape:cy="217.11335"
      inkscape:document-units="px"
      inkscape:current-layer="layer12"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1135"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="63"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -13364,7 +13364,7 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="title"
-     style="display:none">
+     style="display:inline">
     <rect
        y="152.36218"
        x="0"
@@ -13463,8 +13463,8 @@
            id="tspan2581"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Основы сетевых технологий</tspan></tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#203d85;fill-opacity:1"
-         y="645.18903"
-         x="801.2594"
+         y="645.04199"
+         x="801.25934"
          sodipodi:role="line"
          id="tspan2583">Муравьёв С.К.</tspan></text>
     <path
@@ -13479,7 +13479,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="master_slide"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#5f7da9;stroke-opacity:1"
@@ -19140,23 +19140,23 @@
            id="tspan3721">устройства. </tspan></text>
     </a>
     <image
-       sodipodi:absref="/media/sergey/Transcend/МИФИ/ta43/img/manchester.png"
+       sodipodi:absref="H:\МИФИ\ta43\img/manchester.png"
        xlink:href="img/manchester.png"
-       y="150"
-       x="897.5"
-       id="image2934"
-       preserveAspectRatio="none"
+       width="600"
        height="214"
-       width="600" />
-    <image
-       sodipodi:absref="/media/sergey/Transcend/МИФИ/ta43/img/modulation.jpg"
-       xlink:href="img/modulation.jpg"
-       y="390"
-       x="995"
-       id="image2945"
        preserveAspectRatio="none"
+       id="image2934"
+       x="897.5"
+       y="150" />
+    <image
+       sodipodi:absref="H:\МИФИ\ta43\img/modulation.jpg"
+       xlink:href="img/modulation.jpg"
+       width="485"
        height="350"
-       width="485" />
+       preserveAspectRatio="none"
+       id="image2945"
+       x="995"
+       y="390" />
   </g>
   <g
      style="display:none"
@@ -23869,23 +23869,21 @@
       <g
          id="g236"
          style="fill:#1a1a1a;stroke-width:5.12509155">
-	<path
-   d="m 198.88,355.36 c 0,16.016 -12.983,29 -29,29 H 29 c -16.016,0 -29,-12.984 -29,-29 V 29 C 0,12.984 12.984,0 29,0 h 140.88 c 16.017,0 29,12.984 29,29 z"
-   id="path238"
-   inkscape:connector-curvature="0"
-   style="fill:#1a1a1a;stroke-width:5.12509155" />
-
-</g>
+        <path
+           d="m 198.88,355.36 c 0,16.016 -12.983,29 -29,29 H 29 c -16.016,0 -29,-12.984 -29,-29 V 29 C 0,12.984 12.984,0 29,0 h 140.88 c 16.017,0 29,12.984 29,29 z"
+           id="path238"
+           inkscape:connector-curvature="0"
+           style="fill:#1a1a1a;stroke-width:5.12509155" />
+      </g>
       <g
          id="g240-6"
          style="stroke-width:5.12509155">
-	<path
-   d="m 191.71,349.71 c 0,16.346 -13.681,29.595 -30.561,29.595 H 36.229 C 19.351,379.305 5.668,366.056 5.668,349.71 V 36.04 C 5.668,19.695 19.35,6.445 36.229,6.445 h 124.92 c 16.88,0 30.561,13.25 30.561,29.595 v 313.68 z"
-   id="path242"
-   inkscape:connector-curvature="0"
-   style="stroke-width:5.12509155" />
-
-</g>
+        <path
+           d="m 191.71,349.71 c 0,16.346 -13.681,29.595 -30.561,29.595 H 36.229 C 19.351,379.305 5.668,366.056 5.668,349.71 V 36.04 C 5.668,19.695 19.35,6.445 36.229,6.445 h 124.92 c 16.88,0 30.561,13.25 30.561,29.595 v 313.68 z"
+           id="path242"
+           inkscape:connector-curvature="0"
+           style="stroke-width:5.12509155" />
+      </g>
       <path
          d="m 184.2,341.28 c 0,16.017 -12.983,29 -29,29 h -112 c -16.016,0 -29,-12.983 -29,-29 v -300 c 0,-16.016 12.984,-29 29,-29 h 112 c 16.017,0 29,12.984 29,29 z"
          id="path244"
@@ -23950,19 +23948,17 @@
        id="g11218"
        transform="matrix(0.46060076,0,0,0.46060076,940.48193,432.48735)"
        style="stroke-width:2.17107773">
-	<path
-   id="path11214"
-   d="m 299.75,60.587 c -4.108,0 -8.123,0.411 -12.001,1.188 C 275.799,25.9 241.719,0 201.519,0 c -33.761,0 -63.196,18.27 -78.847,45.363 -0.919,-0.036 -1.84,-0.07 -2.769,-0.07 -23.494,0 -44.202,11.816 -56.409,29.777 -3.263,-0.617 -6.627,-0.953 -10.071,-0.953 -29.503,0 -53.42,23.702 -53.42,52.943 0,29.24 23.917,52.94 53.421,52.94 h 66.435 0.045 0.045 81.525 0.045 0.047 98.145 0.046 c 33.28,0 60.25,-26.73 60.25,-59.71 0,-32.972 -26.97,-59.703 -60.25,-59.703 z"
-   inkscape:connector-curvature="0"
-   style="fill:#81a4cb;fill-opacity:1;stroke-width:2.17107773" />
-
-	<path
-   id="path11216"
-   d="M 299.75,182.5 H 53.42 c -30.834,0 -55.92,-24.87 -55.92,-55.44 0,-30.57 25.086,-55.441 55.922,-55.441 2.96,0 5.957,0.241 8.931,0.716 13.225,-18.527 34.616,-29.541 57.549,-29.541 0.458,0 0.914,0.008 1.369,0.02 16.79,-27.991 47.39,-45.314 80.25,-45.314 39.618,0 74.665,24.595 87.896,61.431 3.41,-0.561 6.878,-0.844 10.34,-0.844 34.599,0 62.747,27.905 62.747,62.206 -0.01,34.3 -28.16,62.21 -62.76,62.21 z M 53.42,76.62 c -28.079,0 -50.922,22.628 -50.922,50.443 0,27.815 22.843,50.44 50.921,50.44 h 246.33 c 31.842,0 57.747,-25.663 57.747,-57.207 0,-31.543 -25.905,-57.206 -57.747,-57.206 -3.863,0 -7.736,0.383 -11.51,1.139 l -2.165,0.434 -0.698,-2.095 c -11.97,-35.924 -45.67,-60.062 -83.86,-60.062 -31.581,0 -60.963,16.903 -76.682,44.113 l -0.754,1.306 -1.507,-0.059 c -0.887,-0.034 -1.776,-0.068 -2.672,-0.068 -21.82,0 -42.135,10.722 -54.341,28.682 l -0.921,1.355 -1.611,-0.304 c -3.2,-0.602 -6.433,-0.908 -9.615,-0.908 z"
-   inkscape:connector-curvature="0"
-   style="fill:#5c5c5c;fill-opacity:1;stroke:#5c5c5c;stroke-width:2.17107773;stroke-opacity:1" />
-
-</g>
+      <path
+         id="path11214"
+         d="m 299.75,60.587 c -4.108,0 -8.123,0.411 -12.001,1.188 C 275.799,25.9 241.719,0 201.519,0 c -33.761,0 -63.196,18.27 -78.847,45.363 -0.919,-0.036 -1.84,-0.07 -2.769,-0.07 -23.494,0 -44.202,11.816 -56.409,29.777 -3.263,-0.617 -6.627,-0.953 -10.071,-0.953 -29.503,0 -53.42,23.702 -53.42,52.943 0,29.24 23.917,52.94 53.421,52.94 h 66.435 0.045 0.045 81.525 0.045 0.047 98.145 0.046 c 33.28,0 60.25,-26.73 60.25,-59.71 0,-32.972 -26.97,-59.703 -60.25,-59.703 z"
+         inkscape:connector-curvature="0"
+         style="fill:#81a4cb;fill-opacity:1;stroke-width:2.17107773" />
+      <path
+         id="path11216"
+         d="M 299.75,182.5 H 53.42 c -30.834,0 -55.92,-24.87 -55.92,-55.44 0,-30.57 25.086,-55.441 55.922,-55.441 2.96,0 5.957,0.241 8.931,0.716 13.225,-18.527 34.616,-29.541 57.549,-29.541 0.458,0 0.914,0.008 1.369,0.02 16.79,-27.991 47.39,-45.314 80.25,-45.314 39.618,0 74.665,24.595 87.896,61.431 3.41,-0.561 6.878,-0.844 10.34,-0.844 34.599,0 62.747,27.905 62.747,62.206 -0.01,34.3 -28.16,62.21 -62.76,62.21 z M 53.42,76.62 c -28.079,0 -50.922,22.628 -50.922,50.443 0,27.815 22.843,50.44 50.921,50.44 h 246.33 c 31.842,0 57.747,-25.663 57.747,-57.207 0,-31.543 -25.905,-57.206 -57.747,-57.206 -3.863,0 -7.736,0.383 -11.51,1.139 l -2.165,0.434 -0.698,-2.095 c -11.97,-35.924 -45.67,-60.062 -83.86,-60.062 -31.581,0 -60.963,16.903 -76.682,44.113 l -0.754,1.306 -1.507,-0.059 c -0.887,-0.034 -1.776,-0.068 -2.672,-0.068 -21.82,0 -42.135,10.722 -54.341,28.682 l -0.921,1.355 -1.611,-0.304 c -3.2,-0.602 -6.433,-0.908 -9.615,-0.908 z"
+         inkscape:connector-curvature="0"
+         style="fill:#5c5c5c;fill-opacity:1;stroke:#5c5c5c;stroke-width:2.17107773;stroke-opacity:1" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -25879,7 +25875,7 @@
     </g>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="Ссылки"
      id="layer12"
      inkscape:groupmode="layer">
