@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="ta43_protocols.svg"
+   sodipodi:docname="ta43_data_link_protocols.svg"
    enable-background="new">
   <sodipodi:namedview
      id="base"
@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.4644147"
-     inkscape:cx="973.91299"
-     inkscape:cy="222.85847"
+     inkscape:zoom="0.60148271"
+     inkscape:cx="955.67382"
+     inkscape:cy="253.51874"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g3335"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1135"
@@ -9340,7 +9340,7 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="title"
-     style="display:inline">
+     style="display:none">
     <rect
        y="152.36218"
        x="0"
@@ -9453,7 +9453,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="master_slide"
-     style="display:none">
+     style="display:inline">
     <rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#5f7da9;stroke-opacity:1"
        id="rect9037"
@@ -9542,320 +9542,8 @@
   <g
      inkscape:groupmode="layer"
      id="g3335"
-     inkscape:label="Распределение протоколов по уровням OSI"
-     style="display:none">
-    <rect
-       y="300.00003"
-       x="60.04567"
-       height="79.999977"
-       width="359.90869"
-       id="rect3155"
-       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect3157"
-       width="1120.0457"
-       height="79.999977"
-       x="419.95432"
-       y="300.00003" />
-    <rect
-       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect3159"
-       width="359.90869"
-       height="79.999977"
-       x="60.04567"
-       y="460" />
-    <rect
-       y="460"
-       x="419.95432"
-       height="79.999977"
-       width="1120.0457"
-       id="rect3161"
-       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       y="620"
-       x="60.04567"
-       height="79.999977"
-       width="359.90869"
-       id="rect3163"
-       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <a
-       xlink:href="https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%B7%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C"
-       id="a3169"
-       transform="translate(-0.04566956,10.000008)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-         x="67.355255"
-         y="740.59741"
-         id="text3167"><tspan
-           sodipodi:role="line"
-           id="tspan3165"
-           x="67.355255"
-           y="740.59741">1. Физический</tspan></text>
-    </a>
-    <rect
-       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect3171"
-       width="1120.0457"
-       height="79.999977"
-       x="419.95432"
-       y="620" />
-    <a
-       xlink:href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C"
-       id="a3177"
-       transform="translate(-0.04566956,10.000008)">
-      <text
-         id="text3175"
-         y="660.59741"
-         x="67.355255"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan3173"
-           x="67.355255"
-           y="660.59741">2. Канальный</tspan></text>
-    </a>
-    <rect
-       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect3179"
-       width="359.90869"
-       height="79.999977"
-       x="60.04567"
-       y="540" />
-    <a
-       xlink:href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%D1%8B_%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D0%BE%D0%B3%D0%BE_%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F"
-       id="a3185"
-       transform="translate(-0.04566956,10.000008)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-         x="67.355255"
-         y="580.59741"
-         id="text3183"><tspan
-           sodipodi:role="line"
-           id="tspan3181"
-           x="67.355255"
-           y="580.59741">3. Сетевой</tspan></text>
-    </a>
-    <a
-       xlink:href="https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BD%D1%8B%D0%B9_%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C"
-       id="a3191"
-       transform="translate(-0.04566956,10.000008)">
-      <text
-         id="text3189"
-         y="500.59741"
-         x="67.355255"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan3187"
-           x="67.355255"
-           y="500.59741">4. Транспортный</tspan></text>
-    </a>
-    <a
-       xlink:href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D0%B9_%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C"
-       id="a3197"
-       transform="translate(-0.04566956,10.000008)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-         x="67.355255"
-         y="420.59741"
-         id="text3195"><tspan
-           sodipodi:role="line"
-           id="tspan3193"
-           x="67.355255"
-           y="420.59741">5. Сеансовый</tspan></text>
-    </a>
-    <a
-       xlink:href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C"
-       id="a3203"
-       transform="translate(-0.04566956,10.000008)">
-      <text
-         id="text3201"
-         y="340.59741"
-         x="67.355255"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan3199"
-           x="67.355255"
-           y="340.59741">6. Представления</tspan></text>
-    </a>
-    <rect
-       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:3.00000024;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect3205"
-       width="359.90869"
-       height="100.00001"
-       x="60.04567"
-       y="120.00002" />
-    <text
-       id="text3209"
-       y="183.93948"
-       x="153.48048"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
-         y="183.93948"
-         x="153.48048"
-         id="tspan3207"
-         sodipodi:role="line">Уровень</tspan></text>
-    <rect
-       y="540"
-       x="419.95432"
-       height="79.999977"
-       width="1120.0457"
-       id="rect3211"
-       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       y="120.00002"
-       x="419.95432"
-       height="100.00001"
-       width="1120.0457"
-       id="rect3213"
-       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect3215"
-       width="359.90869"
-       height="79.999977"
-       x="60.04567"
-       y="220.00005" />
-    <a
-       xlink:href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%D1%8B_%D0%BF%D1%80%D0%B8%D0%BA%D0%BB%D0%B0%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F"
-       id="a3221"
-       transform="translate(-0.04566956,10.000008)">
-      <text
-         id="text3219"
-         y="260.59741"
-         x="67.355255"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan3217"
-           x="67.355255"
-           y="260.59741">7. Прикладной</tspan></text>
-    </a>
-    <rect
-       y="220.00005"
-       x="419.95432"
-       height="79.999977"
-       width="1120.0457"
-       id="rect3223"
-       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       y="380.00003"
-       x="60.04567"
-       height="79.999977"
-       width="359.90869"
-       id="rect3225"
-       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect3227"
-       width="1120.0457"
-       height="79.999977"
-       x="419.95432"
-       y="380.00003" />
-    <rect
-       y="700"
-       x="60.04567"
-       height="79.999977"
-       width="359.90869"
-       id="rect3229"
-       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect3231"
-       width="1120.0457"
-       height="79.999977"
-       x="419.95432"
-       y="700" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="863.66272"
-       y="179.46585"
-       id="text3237"><tspan
-         y="179.46585"
-         x="863.66272"
-         id="tspan3233"
-         sodipodi:role="line">Протоколы</tspan><tspan
-         y="222.66585"
-         x="863.66272"
-         id="tspan3235"
-         sodipodi:role="line" /></text>
-    <text
-       id="text3243"
-       y="510.6062"
-       x="427.30954"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="510.6062"
-         x="427.30954"
-         id="tspan3241"
-         sodipodi:role="line">TCP, UDP, SCTP</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="427.30954"
-       y="427.29272"
-       id="text3303"><tspan
-         y="427.29272"
-         x="427.30954"
-         id="tspan3301"
-         sodipodi:role="line">RPC, PAP, L2TP</tspan></text>
-    <text
-       id="text3309"
-       y="350.99292"
-       x="427.30954"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="350.99292"
-         x="427.30954"
-         id="tspan3307"
-         sodipodi:role="line">ASCII, EBCDIC, MP3, JPG</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="427.30954"
-       y="270.42386"
-       id="text3315"><tspan
-         y="270.42386"
-         x="427.30954"
-         id="tspan3313"
-         sodipodi:role="line">HTTP, FTP, POP3, WebSocket</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="427.30954"
-       y="587.26636"
-       id="text3321"><tspan
-         y="587.26636"
-         x="427.30954"
-         id="tspan3319"
-         sodipodi:role="line">IPv4, IPv6, IPsec</tspan></text>
-    <text
-       id="text3327"
-       y="667.60913"
-       x="427.30954"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="667.60913"
-         x="427.30954"
-         id="tspan3325"
-         sodipodi:role="line">Ethernet, ARP, IEEE 802.22</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="427.30954"
-       y="747.27515"
-       id="text3333"><tspan
-         y="747.27515"
-         x="427.30954"
-         id="tspan3331"
-         sodipodi:role="line">USB, оптический кабель, &quot;витая пара&quot;, радиоканал</tspan></text>
+     inkscape:label="Протоколы канального уровня"
+     style="display:inline">
     <flowRoot
        xml:space="preserve"
        id="flowRoot3608"
@@ -9866,7 +9554,313 @@
            height="60"
            x="440"
            y="210" /></flowRegion><flowPara
-         id="flowPara3614" /></flowRoot>  </g>
+         id="flowPara3614" /></flowRoot>    <rect
+       y="450"
+       x="80.091339"
+       height="79.999977"
+       width="499.84525"
+       id="rect5895"
+       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.12118578;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.12118554;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5897"
+       width="499.84525"
+       height="159.99995"
+       x="80.154755"
+       y="610" />
+    <rect
+       y="610"
+       x="580"
+       height="79.999977"
+       width="500.00003"
+       id="rect5899"
+       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48720717;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text5903"
+       y="703.41211"
+       x="107.35526"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan5901"
+         x="107.35526"
+         y="703.41211">1. Канальный</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="607.35522"
+       y="660.59741"
+       id="text5907"><tspan
+         y="660.59741"
+         x="607.35522"
+         id="tspan5905"
+         sodipodi:role="line">2. Канальный</tspan></text>
+    <rect
+       y="530"
+       x="80.091339"
+       height="79.999977"
+       width="499.84525"
+       id="rect5909"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.12118578;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="107.35526"
+       y="580.59741"
+       id="text5913"><tspan
+         sodipodi:role="line"
+         id="tspan5911"
+         x="107.35526"
+         y="580.59741">2. Сетевой</tspan></text>
+    <text
+       id="text5917"
+       y="580.59741"
+       x="607.35522"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="580.59741"
+         x="607.35522"
+         id="tspan5915"
+         sodipodi:role="line">3. Сетевой</tspan></text>
+    <rect
+       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48720717;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5921"
+       width="500.00003"
+       height="79.999977"
+       x="580"
+       y="450" />
+    <text
+       id="text5925"
+       y="500.59741"
+       x="107.35526"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan5923"
+         x="107.35526"
+         y="500.59741">3. Транспортный</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="607.35522"
+       y="500.59741"
+       id="text5929"><tspan
+         y="500.59741"
+         x="607.35522"
+         id="tspan5927"
+         sodipodi:role="line">4. Транспортный</tspan></text>
+    <a
+       style="display:inline"
+       transform="translate(-200,-1.5258789e-5)"
+       id="a5937"
+       xlink:href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D0%B9_%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="807.35522"
+         y="420.59741"
+         id="text5935"><tspan
+           sodipodi:role="line"
+           id="tspan5933"
+           x="807.35522"
+           y="420.59741">5. Сеансовый</tspan></text>
+    </a>
+    <rect
+       y="290"
+       x="580"
+       height="79.999977"
+       width="500.00003"
+       id="rect5939"
+       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48720717;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <a
+       style="display:inline"
+       transform="translate(-200,-1.5258789e-5)"
+       id="a5945"
+       xlink:href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C">
+      <text
+         id="text5943"
+         y="340.59741"
+         x="807.35522"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           sodipodi:role="line"
+           id="tspan5941"
+           x="807.35522"
+           y="340.59741">6. Представления</tspan></text>
+    </a>
+    <rect
+       y="129.99998"
+       x="80.154747"
+       height="79.999977"
+       width="499.84525"
+       id="rect5947"
+       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.12118578;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="265.57443"
+       y="181.68942"
+       id="text5951"><tspan
+         sodipodi:role="line"
+         id="tspan5949"
+         x="265.57443"
+         y="181.68942"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">TCP/IP</tspan></text>
+    <rect
+       y="210.00003"
+       x="80.091339"
+       height="240"
+       width="499.90866"
+       id="rect5953"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.12118554;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text5957"
+       y="340.94897"
+       x="107.35526"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan5955"
+         x="107.35526"
+         y="340.94897">4. Прикладной</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="607.35522"
+       y="260.59741"
+       id="text5961"><tspan
+         y="260.59741"
+         x="607.35522"
+         id="tspan5959"
+         sodipodi:role="line">7. Прикладной</tspan></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48720717;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5963"
+       width="500.00003"
+       height="79.999977"
+       x="580"
+       y="530" />
+    <rect
+       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48720717;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5965"
+       width="500.00003"
+       height="79.999977"
+       x="580"
+       y="130" />
+    <text
+       id="text5969"
+       y="183.10449"
+       x="795.80176"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan5967"
+         x="795.80176"
+         y="183.10449">OSI</tspan></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48720717;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5971"
+       width="500.00003"
+       height="79.999977"
+       x="580"
+       y="210.00002" />
+    <rect
+       y="370"
+       x="580"
+       height="79.999977"
+       width="500.00003"
+       id="rect5973"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48720717;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="690.19208"
+       x="580"
+       height="79.615807"
+       width="500.00006"
+       id="rect5975"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48101521;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text5979"
+       y="189.99998"
+       x="360"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;line-height:1.25;font-family:Aharoni;-inkscape-font-specification:Aharoni;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="189.99998"
+         x="360"
+         id="tspan5977"
+         sodipodi:role="line"> </tspan></text>
+    <a
+       style="display:inline"
+       xlink:href="https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%B7%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C"
+       id="a5985"
+       transform="translate(540,-1.5258789e-5)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="67.355255"
+         y="740.59741"
+         id="text5983"><tspan
+           sodipodi:role="line"
+           id="tspan5981"
+           x="67.355255"
+           y="740.59741">1. Физический</tspan></text>
+    </a>
+    <text
+       id="text3939"
+       y="400.59741"
+       x="1327.3552"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan3937"
+         x="1327.3552"
+         y="400.59741">Ethernet</tspan><tspan
+         sodipodi:role="line"
+         x="1327.3552"
+         y="443.79742"
+         id="tspan3944">VLAN</tspan><tspan
+         sodipodi:role="line"
+         x="1327.3552"
+         y="486.99741"
+         id="tspan4573">Wi-Fi</tspan><tspan
+         sodipodi:role="line"
+         x="1327.3552"
+         y="530.19739"
+         id="tspan4577">ARP</tspan><tspan
+         sodipodi:role="line"
+         x="1327.3552"
+         y="573.3974"
+         id="tspan4581">PPP</tspan><tspan
+         sodipodi:role="line"
+         x="1327.3552"
+         y="616.59741"
+         id="tspan4583">DSL</tspan><tspan
+         sodipodi:role="line"
+         x="1327.3552"
+         y="659.79742"
+         id="tspan4585">ISDN</tspan><tspan
+         sodipodi:role="line"
+         x="1327.3552"
+         y="702.99744"
+         id="tspan4579">CAN</tspan><tspan
+         sodipodi:role="line"
+         x="1327.3552"
+         y="746.19745"
+         id="tspan4587">...</tspan><tspan
+         sodipodi:role="line"
+         x="1327.3552"
+         y="789.3974"
+         id="tspan4575" /><tspan
+         sodipodi:role="line"
+         x="1327.3552"
+         y="832.59741"
+         id="tspan3946" /></text>
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48720717;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1280,330 h 240 V 769.99991 L 1080,770 V 610 Z"
+       id="rect3941"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer5"
@@ -16112,6 +16106,42 @@
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          inkscape:connector-curvature="0" />
     </g>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="VLAN"
+     id="g4200"
+     inkscape:groupmode="layer">
+    <a
+       id="a3980"
+       xlink:href="https://ru.wikipedia.org/wiki/MAC-%D0%B0%D0%B4%D1%80%D0%B5%D1%81">
+      <text
+         id="text3978"
+         y="149.26349"
+         x="77.31543"
+         style="font-style:normal;font-weight:normal;line-height:150%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="149.26349"
+           x="77.31543"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan3976">VLAN</tspan><tspan
+           y="203.26349"
+           x="77.31543"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan4567">IEEE 802.1P: http://standards.ieee.org/catalog/IEEE802.1.html</tspan><tspan
+           y="233.02911"
+           x="77.31543"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan4569"></tspan><tspan
+           y="275.26349"
+           x="77.31543"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan4571">Виртуальная ЛВС (VLAN) представляет собой логическую группу сегментов ЛВС, не зависящую от физического местоположения и организованную на основе общего набора критериев. VLAN отмечает кадры для того, чтобы можно было на основе этих меток (тегов) определить принадлежность кадров к VLAN. Значение поля VID в заголовке тега (Tag Header) идентифицирует VLAN. Это дополнительное поле тегов появляется в протоколах Ethernet и SNAP.</tspan></text>
+    </a>
   </g>
   <g
      style="display:none"
