@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.849375"
-     inkscape:cx="798.94578"
+     inkscape:cx="1075.0475"
      inkscape:cy="452.58061"
      inkscape:document-units="px"
-     inkscape:current-layer="g8795"
+     inkscape:current-layer="g8208"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1135"
@@ -18717,7 +18717,7 @@
          y="740.59741"
          x="1067.3096"
          id="tspan3251"
-         sodipodi:role="line">Биты</tspan></text>
+         sodipodi:role="line">Бит</tspan></text>
     <text
        id="text3257"
        y="660.59741"
@@ -18727,7 +18727,7 @@
          y="660.59741"
          x="1067.3096"
          id="tspan3255"
-         sodipodi:role="line">Кадры</tspan></text>
+         sodipodi:role="line">Кадр</tspan></text>
     <rect
        y="530"
        x="1060.0457"
@@ -18744,7 +18744,7 @@
          y="582.81445"
          x="1067.3096"
          id="tspan3263"
-         sodipodi:role="line">Пакеты</tspan></text>
+         sodipodi:role="line">Пакет</tspan></text>
     <text
        id="text3271"
        y="503.62085"
@@ -18754,7 +18754,7 @@
          id="tspan3269"
          y="503.62085"
          x="1067.3096"
-         sodipodi:role="line">Сегменты / Датаграммы</tspan></text>
+         sodipodi:role="line">Сегмент / Датаграмма</tspan></text>
     <rect
        y="130"
        x="1060.0457"
@@ -18771,7 +18771,7 @@
          y="179.37794"
          x="1299.8682"
          sodipodi:role="line"
-         id="tspan3606">Единицы передачи</tspan></text>
+         id="tspan3606">Единица передачи</tspan></text>
     <rect
        y="210.00003"
        x="1060"
@@ -18788,7 +18788,7 @@
          y="340.12503"
          x="1067.3096"
          id="tspan3291"
-         sodipodi:role="line">Данные</tspan></text>
+         sodipodi:role="line">Сообщение</tspan></text>
     <rect
        style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect3297"
@@ -19369,21 +19369,21 @@
     <image
        sodipodi:absref="/media/sergey/Transcend/МИФИ/ta43/img/manchester.png"
        xlink:href="img/manchester.png"
-       y="150"
-       x="897.5"
-       id="image2934"
-       preserveAspectRatio="none"
+       width="600"
        height="214"
-       width="600" />
+       preserveAspectRatio="none"
+       id="image2934"
+       x="897.5"
+       y="150" />
     <image
        sodipodi:absref="/media/sergey/Transcend/МИФИ/ta43/img/modulation.jpg"
        xlink:href="img/modulation.jpg"
-       y="390"
-       x="995"
-       id="image2945"
-       preserveAspectRatio="none"
+       width="485"
        height="350"
-       width="485" />
+       preserveAspectRatio="none"
+       id="image2945"
+       x="995"
+       y="390" />
   </g>
   <g
      style="display:none"
