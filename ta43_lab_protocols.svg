@@ -25,16 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="769.59107"
-     inkscape:cy="394.93107"
+     inkscape:zoom="1"
+     inkscape:cx="371.79074"
+     inkscape:cy="485.02174"
      inkscape:document-units="px"
-     inkscape:current-layer="g2390"
+     inkscape:current-layer="g31586"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1018"
-     inkscape:window-x="-8"
-     inkscape:window-y="63"
+     inkscape:window-height="1135"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -6899,8 +6899,8 @@
          sodipodi:role="line">Исследование сетевых протоколов</tspan><tspan
          id="tspan8919"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#203d85;fill-opacity:1"
-         y="645.04199"
-         x="801.25934"
+         y="645.18903"
+         x="801.2594"
          sodipodi:role="line">Муравьёв С.К.</tspan></text>
     <path
        style="fill:#224087;fill-opacity:1;stroke-width:0.99999994"
@@ -6920,8 +6920,8 @@
        id="rect9037"
        width="1600"
        height="900"
-       x="0.5"
-       y="0.5" />
+       x="0"
+       y="10" />
     <rect
        style="fill:url(#linearGradient9048);fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="rect9040"
@@ -6951,7 +6951,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">Заголовок</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.33333206px;line-height:0%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-align:start;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.33333206px;line-height:0%;font-family:Courier;-inkscape-font-specification:Courier;text-align:start;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        x="31.882812"
        y="881.53516"
        id="text9302"><tspan
@@ -6959,7 +6959,7 @@
          x="31.882812"
          y="881.53516"
          id="tspan9304"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.33333206px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">Исследование сетевых протоколов</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.33333206px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'">Исследование сетевых протоколов</tspan></text>
     <text
        id="text9306"
        y="881.53516"
@@ -7052,27 +7052,27 @@
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
    id="tspan3570">toor</tspan></tspan></text>
     <image
-       sodipodi:absref="H:\МИФИ\ta43\img/start_kali.png"
+       sodipodi:absref="/media/sergey/Transcend/МИФИ/ta43/img/start_kali.png"
        xlink:href="img/start_kali.png"
-       y="110"
-       x="80"
-       id="image3542"
-       preserveAspectRatio="none"
+       width="669"
        height="448"
-       width="669" />
-    <image
-       sodipodi:absref="H:\МИФИ\ta43\img/login_kali.png"
-       xlink:href="img/login_kali.png"
-       y="330"
-       x="830.34283"
-       id="image3580"
        preserveAspectRatio="none"
+       id="image3542"
+       x="80"
+       y="110" />
+    <image
+       sodipodi:absref="/media/sergey/Transcend/МИФИ/ta43/img/login_kali.png"
+       xlink:href="img/login_kali.png"
+       width="640"
        height="480"
-       width="640" />
+       preserveAspectRatio="none"
+       id="image3580"
+       x="830.34283"
+       y="330" />
   </g>
   <g
-     style="display:inline"
-     inkscape:label="Знакомство с терминалом"
+     style="display:none"
+     inkscape:label="Запуск терминала"
      id="g2390"
      inkscape:groupmode="layer">
     <text
@@ -7081,29 +7081,1327 @@
        x="77.186157"
        y="134.1579"
        id="text2384"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="77.186157"
-         y="134.1579"
-         id="tspan2376">Для входа в систему используется</tspan><tspan
          id="tspan2382"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="77.186157"
-         y="177.35789">логин <tspan
-   id="tspan2378"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">root</tspan> и пароль <tspan
-   id="tspan2380"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">toor</tspan></tspan></text>
+         y="134.1579">Терминал можно запустить через</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="177.35789"
+         id="tspan2375">панель задач, главное меню или с</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="220.55791"
+         id="tspan2381">помощью сочетания клавиш </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="263.7579"
+         id="tspan2383">Ctrl+Alt+T</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="286.32352"
+         id="tspan2399" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="300.72354"
+         id="tspan15091" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="315.12354"
+         id="tspan15093" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="350.1579"
+         id="tspan15095">В появившемся окне отображается</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="393.35791"
+         id="tspan2411">приглашение вида <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan2423">root@kali:~#</tspan> </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="436.55792"
+         id="tspan2407">для ввода команд.</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="459.12354"
+         id="tspan2429" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="473.52353"
+         id="tspan2496" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="487.92352"
+         id="tspan2431" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="522.95789"
+         id="tspan15097">Из приглашения видно, что вводимые</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="566.1579"
+         id="tspan2433">команды будут исполняться от имени </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="609.35791"
+         id="tspan2441">пользователя <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan2451">root</tspan> на машине <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan2453">kali</tspan> в </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="652.55792"
+         id="tspan2443">домашнем каталоге пользователя <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan2455">~</tspan></tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="695.75793"
+         id="tspan2445">и с правами суперпользователя <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan2457">#</tspan>.</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="718.32355"
+         id="tspan2465" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="732.72357"
+         id="tspan2463" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="747.12354"
+         id="tspan2459" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="761.52356"
+         id="tspan2447" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="775.92352"
+         id="tspan2449" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="790.32355"
+         id="tspan2435" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="804.72357"
+         id="tspan2415" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="819.12354"
+         id="tspan2417" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="833.52356"
+         id="tspan2409" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="847.92352"
+         id="tspan2389" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="862.32355"
+         id="tspan2391" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="876.72357"
+         id="tspan2393" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="891.12354"
+         id="tspan2385" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="905.52356"
+         id="tspan2387" /></text>
     <image
-       sodipodi:absref="H:\МИФИ\ta43\img/open_terminal.png"
+       sodipodi:absref="/media/sergey/Transcend/МИФИ/ta43/img/open_terminal.png"
        xlink:href="img/open_terminal.png"
-       width="706"
-       height="504"
-       preserveAspectRatio="none"
+       style="stroke-width:1.02915454"
+       y="110"
+       x="860"
        id="image2602"
-       x="840"
+       preserveAspectRatio="none"
+       height="489.72238"
+       width="686" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g15073"
+     inkscape:label="Знакомство с терминалом"
+     style="display:none">
+    <text
+       id="text15069"
+       y="134.1579"
+       x="77.186157"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan15031"
+         y="134.1579"
+         x="77.186157"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">В unix-подобных операционных системах все пути к файлам и каталогам </tspan><tspan
+         y="177.35789"
+         x="77.186157"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan15296">имеют следующую форму.</tspan><tspan
+         y="199.92352"
+         x="77.186157"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan15298" /><tspan
+         y="214.32353"
+         x="77.186157"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan15300" /><tspan
+         y="249.35791"
+         x="77.186157"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan15302">  </tspan><tspan
+         y="271.92352"
+         x="77.186157"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan15282" /><tspan
+         y="286.32352"
+         x="77.186157"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan15285" /><tspan
+         y="300.72354"
+         x="77.186157"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan15288" /><tspan
+         id="tspan15041"
+         y="315.12354"
+         x="77.186157"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /><tspan
+         y="350.1579"
+         x="77.186157"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan30977">/  - корневой каталог и разделитель</tspan><tspan
+         y="393.35791"
+         x="77.186157"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan30979">~  - путь к домашнему каталогу пользователя</tspan><tspan
+         y="436.55792"
+         x="77.186157"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan30971">.  - текущий каталог</tspan><tspan
+         y="479.7579"
+         x="77.186157"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan30973">.. - родительский каталог </tspan><tspan
+         id="tspan15043"
+         y="502.32355"
+         x="77.186157"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /><tspan
+         id="tspan15045"
+         y="516.72351"
+         x="77.186157"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /><tspan
+         id="tspan15047"
+         y="531.12354"
+         x="77.186157"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /><tspan
+         id="tspan15049"
+         y="545.52356"
+         x="77.186157"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /><tspan
+         id="tspan15051"
+         y="559.92352"
+         x="77.186157"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /><tspan
+         id="tspan15053"
+         y="574.32355"
+         x="77.186157"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /><tspan
+         id="tspan15055"
+         y="588.72351"
+         x="77.186157"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /><tspan
+         id="tspan15057"
+         y="603.12354"
+         x="77.186157"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /><tspan
+         id="tspan15059"
+         y="617.52356"
+         x="77.186157"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /><tspan
+         id="tspan15061"
+         y="631.92352"
+         x="77.186157"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /><tspan
+         id="tspan15063"
+         y="646.32355"
+         x="77.186157"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /><tspan
+         id="tspan15065"
+         y="660.72357"
+         x="77.186157"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /><tspan
+         id="tspan15067"
+         y="675.12354"
+         x="77.186157"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></text>
+    <rect
+       style="opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77952766;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect30510"
+       width="1440"
+       height="60"
+       x="80"
+       y="210"
+       ry="20"
+       rx="20" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120.00000477%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="100.44141"
+       y="250.38867"
+       id="text30570"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="100.44141"
+         y="250.38867"
+         id="tspan30568">/каталог1/каталог2/каталог3/файл1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="77.186157"
+       y="574.1579"
+       id="text31104"><tspan
+         id="tspan31054"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="574.1579">Запуск команд с параметрами и аргументами осуществляется следующим</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="617.35791"
+         id="tspan31413">образом:</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="639.92352"
+         id="tspan31102" /></text>
+    <rect
+       rx="20"
+       ry="20"
+       y="650"
+       x="80"
+       height="60"
+       width="1440"
+       id="rect31405"
+       style="opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77952766;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    <text
+       id="text31409"
+       y="690.38867"
+       x="100.44141"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120.00000477%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan31407"
+         y="690.38867"
+         x="100.44141"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">команда -параматры аргументы</tspan></text>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="Перенаправление ввода-вывода"
+     id="g31489"
+     inkscape:groupmode="layer">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="77.186157"
+       y="134.1579"
+       id="text31467"><tspan
+         id="tspan31417"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="134.1579">В командной оболочке можно перенаправлять стандартные потоки ввода (</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="177.35789"
+         id="tspan31493">команды, вводимые с клавиатуры) и вывода (стандартный вывод в окне </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="220.55791"
+         id="tspan31495">терминала).</tspan><tspan
+         id="tspan31419"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="243.12354" /><tspan
+         id="tspan31421"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="257.52353" /><tspan
+         id="tspan31423"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="292.55789">  </tspan><tspan
+         id="tspan31425"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="315.12354" /><tspan
+         id="tspan31427"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="329.52353" /><tspan
+         id="tspan31429"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="343.92352" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="358.32355"
+         id="tspan31447" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="372.72354"
+         id="tspan31449" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="387.12354"
+         id="tspan31451" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="401.52353"
+         id="tspan31453" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="415.92352"
+         id="tspan31455" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="430.32355"
+         id="tspan31457" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="444.72354"
+         id="tspan31459" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="459.12354"
+         id="tspan31461" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="473.52353"
+         id="tspan31463" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="487.92352"
+         id="tspan31465" /></text>
+    <rect
+       rx="20"
+       ry="20"
+       y="250"
+       x="80"
+       height="140"
+       width="1440"
+       id="rect31469"
+       style="opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77952743;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    <text
+       id="text31473"
+       y="290.38867"
+       x="100.44141"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120.00000477%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan31471"
+         y="290.38867"
+         x="100.44141"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">команда &gt; файл1</tspan><tspan
+         y="333.58868"
+         x="100.44141"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan31516">команда &lt; файл2</tspan><tspan
+         y="376.78867"
+         x="100.44141"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan31518">команда &lt; файл1 &gt; файл2</tspan></text>
+    <text
+       id="text31481"
+       y="654.1579"
+       x="77.186157"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan31477"
+         y="654.1579"
+         x="77.186157"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Группу команд можно объединить в конвейер, перенаправляя выход одной</tspan><tspan
+         y="697.35791"
+         x="77.186157"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan31522">команды на вход другой</tspan><tspan
+         id="tspan31479"
+         y="719.92352"
+         x="77.186157"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></text>
+    <rect
+       style="opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77952766;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect31483"
+       width="1440"
+       height="60"
+       x="80"
+       y="730"
+       ry="20"
+       rx="20" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120.00000477%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="100.44141"
+       y="770.38867"
+       id="text31487"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="100.44141"
+         y="770.38867"
+         id="tspan31485">команда1 | команда 2 | команда 3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="77.186157"
+       y="454.1579"
+       id="text31530"><tspan
+         id="tspan31526"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="454.1579">Перенаправление можно организовать с добавлением в конец файла, вместо</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="497.35791"
+         id="tspan31540">его замены</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="77.186157"
+         y="519.92352"
+         id="tspan31528" /></text>
+    <rect
+       rx="20"
+       ry="20"
+       y="530"
+       x="80"
+       height="60"
+       width="1440"
+       id="rect31532"
+       style="opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77952766;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    <text
+       id="text31536"
+       y="570.38867"
+       x="100.44141"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120.00000477%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan31534"
+         y="570.38867"
+         x="100.44141"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">команда1 &gt;&gt; файл1</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g2588"
+     inkscape:label="Базовые команды"
+     style="display:none">
+    <rect
+       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4714"
+       width="219.94576"
+       height="79.999977"
+       x="40.054237"
+       y="310" />
+    <rect
+       y="469.99997"
+       x="40.054237"
+       height="79.999977"
+       width="219.94576"
+       id="rect7021"
+       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7025"
+       width="219.94576"
+       height="79.999977"
+       x="40.054237"
+       y="629.99994" />
+    <a
+       transform="translate(-20.022828,19.999966)"
+       style="display:inline"
+       id="a7153"
+       xlink:href="https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%B7%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C">
+      <text
+         id="text6933"
+         y="740.59741"
+         x="67.355255"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="740.59741"
+           x="67.355255"
+           id="tspan7061"
+           sodipodi:role="line">rm</tspan></text>
+    </a>
+    <a
+       transform="translate(-20.022828,19.999966)"
+       style="display:inline"
+       id="a7157"
+       xlink:href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="67.355255"
+         y="660.59741"
+         id="text6952"><tspan
+           y="660.59741"
+           x="67.355255"
+           id="tspan7059-6"
+           sodipodi:role="line">mkdir</tspan></text>
+    </a>
+    <rect
+       y="549.99994"
+       x="40.054237"
+       height="79.999977"
+       width="219.94576"
+       id="rect7029"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <a
+       transform="translate(-20.022828,19.999966)"
+       style="display:inline"
+       id="a7161"
+       xlink:href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%D1%8B_%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D0%BE%D0%B3%D0%BE_%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F">
+      <text
+         id="text6956"
+         y="580.59741"
+         x="67.355255"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="580.59741"
+           x="67.355255"
+           id="tspan7057-9"
+           sodipodi:role="line">cp</tspan></text>
+    </a>
+    <a
+       transform="translate(-20.022828,19.999966)"
+       style="display:inline"
+       id="a7165"
+       xlink:href="https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BD%D1%8B%D0%B9_%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="67.355255"
+         y="500.59741"
+         id="text6960"><tspan
+           y="500.59741"
+           x="67.355255"
+           id="tspan7055-2"
+           sodipodi:role="line">man</tspan></text>
+    </a>
+    <a
+       transform="translate(-20.022828,19.999966)"
+       style="display:inline"
+       id="a7169"
+       xlink:href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D0%B9_%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C">
+      <text
+         id="text6964"
+         y="420.59741"
+         x="67.355255"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="420.59741"
+           x="67.355255"
+           id="tspan7053"
+           sodipodi:role="line">cd</tspan></text>
+    </a>
+    <a
+       transform="translate(-20.022828,19.999966)"
+       style="display:inline"
+       id="a7173"
+       xlink:href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="67.355255"
+         y="340.59741"
+         id="text6968"><tspan
+           y="340.59741"
+           x="67.355255"
+           id="tspan7051"
+           sodipodi:role="line">ls</tspan></text>
+    </a>
+    <rect
+       y="109.99999"
+       x="40.022827"
+       height="119.99998"
+       width="219.97717"
+       id="rect7004"
+       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="56.627625"
+       y="180.63475"
+       id="text6972"><tspan
+         sodipodi:role="line"
+         id="tspan6970"
+         x="56.627625"
+         y="180.63475"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Команда</tspan></text>
+    <rect
+       y="230"
+       x="40.054237"
+       height="79.999977"
+       width="219.94576"
+       id="rect7000"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <a
+       transform="translate(-20.022828,19.999966)"
+       style="display:inline"
+       id="a7177"
+       xlink:href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%D1%8B_%D0%BF%D1%80%D0%B8%D0%BA%D0%BB%D0%B0%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="67.355255"
+         y="260.59741"
+         id="text6996"><tspan
+           y="260.59741"
+           x="67.355255"
+           id="tspan7049"
+           sodipodi:role="line">pwd</tspan></text>
+    </a>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7008"
+       width="219.94576"
+       height="79.999977"
+       x="40.054237"
+       y="390" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:3;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7033"
+       width="219.94576"
+       height="79.999977"
+       x="40.054237"
+       y="709.99994" />
+    <rect
+       y="310"
+       x="260.06848"
+       height="79.999977"
+       width="419.93152"
+       id="rect7087"
+       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:3.4236269;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:3.4236269;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7089"
+       width="419.93152"
+       height="79.999977"
+       x="260.06848"
+       y="469.99997" />
+    <rect
+       y="629.99994"
+       x="260.06848"
+       height="79.999977"
+       width="419.93152"
+       id="rect7091"
+       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:3.4236269;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text7095"
+       y="760.59735"
+       x="267.3324"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan7149"
+         x="267.3324"
+         y="760.59735">r f путь</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="267.3324"
+       y="680.59735"
+       id="text7099"><tspan
+         sodipodi:role="line"
+         id="tspan7147"
+         x="267.3324"
+         y="680.59735">путь</tspan></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:3.4236269;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7101"
+       width="419.93152"
+       height="79.999977"
+       x="260.06848"
+       y="549.99994" />
+    <text
+       id="text7105"
+       y="600.59735"
+       x="267.3324"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan7145"
+         x="267.3324"
+         y="600.59735">путь1 путь2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="267.3324"
+       y="520.59735"
+       id="text7109"><tspan
+         sodipodi:role="line"
+         x="267.3324"
+         y="520.59735"
+         id="tspan7151">команда</tspan></text>
+    <text
+       id="text7113"
+       y="440.59738"
+       x="267.3324"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan7141"
+         x="267.3324"
+         y="440.59738">путь</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="267.3324"
+       y="361.08301"
+       id="text7117"><tspan
+         sodipodi:role="line"
+         x="267.3324"
+         y="361.08301"
+         id="tspan7137">a l &lt;путь&gt;</tspan></text>
+    <rect
+       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:3.4236269;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7119"
+       width="419.93152"
+       height="119.99998"
+       x="260.06848"
        y="110" />
+    <text
+       id="text7123"
+       y="143.23729"
+       x="468.52252"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         x="468.52252"
+         y="143.23729"
+         id="tspan14979">Важные</tspan><tspan
+         sodipodi:role="line"
+         x="474.78033"
+         y="179.23729"
+         id="tspan14983">параметры и </tspan><tspan
+         sodipodi:role="line"
+         x="468.52252"
+         y="215.23729"
+         id="tspan14985">аргументы</tspan></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:3.4236269;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7125"
+       width="419.93152"
+       height="79.999977"
+       x="260.06848"
+       y="230" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="267.3324"
+       y="280.59738"
+       id="text7129"><tspan
+         sodipodi:role="line"
+         id="tspan7139"
+         x="267.3324"
+         y="280.59738">P</tspan></text>
+    <rect
+       y="390"
+       x="260.06848"
+       height="79.999977"
+       width="419.93152"
+       id="rect7131"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:3.4236269;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="710.19202"
+       x="260.51688"
+       height="79.615807"
+       width="419.48322"
+       id="rect7133"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:3.41510344;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:3.4236269;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect12835"
+       width="879.93164"
+       height="79.999977"
+       x="680.06842"
+       y="310" />
+    <rect
+       y="469.99997"
+       x="680.06842"
+       height="79.999977"
+       width="879.93164"
+       id="rect12837"
+       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:3.4236269;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:3.4236269;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect12839"
+       width="879.93164"
+       height="79.999977"
+       x="680.06842"
+       y="629.99994" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="687.3324"
+       y="760.59735"
+       id="text12843"><tspan
+         y="760.59735"
+         x="687.3324"
+         id="tspan12841"
+         sodipodi:role="line">Удаление файлов и каталогов</tspan></text>
+    <text
+       id="text12847"
+       y="680.59735"
+       x="687.3324"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="680.59735"
+         x="687.3324"
+         id="tspan12845"
+         sodipodi:role="line">Создание каталогов</tspan></text>
+    <rect
+       y="549.99994"
+       x="680.06842"
+       height="79.999977"
+       width="879.93164"
+       id="rect12849"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:3.4236269;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="687.3324"
+       y="600.59735"
+       id="text12853"><tspan
+         y="600.59735"
+         x="687.3324"
+         id="tspan12851"
+         sodipodi:role="line">Копирование файлов и каталогов</tspan></text>
+    <text
+       id="text12857"
+       y="520.59735"
+       x="687.3324"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan12855"
+         y="520.59735"
+         x="687.3324"
+         sodipodi:role="line">Отображение справки по команде</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="687.3324"
+       y="440.59738"
+       id="text12861"><tspan
+         y="440.59738"
+         x="687.3324"
+         id="tspan12859"
+         sodipodi:role="line">Изменение текущего каталога</tspan></text>
+    <text
+       id="text12865"
+       y="361.08301"
+       x="687.3324"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan12863"
+         y="361.08301"
+         x="687.3324"
+         sodipodi:role="line">Отображение содержимого каталога</tspan></text>
+    <rect
+       y="110.00002"
+       x="680.0965"
+       height="119.99998"
+       width="879.93164"
+       id="rect12867"
+       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:3.4236269;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="1019.5506"
+       y="183.10451"
+       id="text12871"><tspan
+         y="183.10451"
+         x="1019.5506"
+         id="tspan12869"
+         sodipodi:role="line">Описание</tspan></text>
+    <rect
+       y="230"
+       x="680.06842"
+       height="79.999977"
+       width="879.93164"
+       id="rect12873"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:3.4236269;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text12877"
+       y="280.59738"
+       x="687.3324"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="280.59738"
+         x="687.3324"
+         id="tspan12875"
+         sodipodi:role="line">Отображение пути текущего каталога</tspan></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:3.4236269;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect12879"
+       width="879.93164"
+       height="79.999977"
+       x="680.06842"
+       y="390" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:3.41510344;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect12881"
+       width="878.99225"
+       height="79.615807"
+       x="681.00793"
+       y="710.19202" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g31586"
+     inkscape:label="Задания для самостоятельного исполнения"
+     style="display:inline">
+    <a
+       id="a31544"
+       xlink:href="http://www.postgresql.org/docs/current/static/transaction-iso.html"
+       style="fill:#800080">
+      <a
+         id="a31542"
+         xlink:href="http://www.postgresql.org/docs/current/static/sql-prepare-transaction.html" />
+    </a>
+    <a
+       style="fill:#800080"
+       id="a31546"
+       xlink:href="http://momjian.us/main/writings/pgsql/Get_to_know_PostgreSQL.pdf"
+       transform="translate(2.8710938)" />
+    <a
+       transform="translate(2.8710938,-240)"
+       xlink:href="http://www.postgresql.org/docs/9.3/static/dblink.html"
+       id="a31548"
+       style="fill:#800080" />
+    <a
+       transform="translate(2.8710938,-240)"
+       xlink:href="http://www.wikisec.ru/index.php?title=%D0%93%D0%9E%D0%A1%D0%A2_%D0%A0_51275-2006"
+       id="a31550"
+       style="fill:#800080" />
+    <a
+       transform="translate(2.8710938)"
+       xlink:href="http://wiki.postgresql.org/images/7/7e/Conferences-write_a_foreign_data_wrapper_in_15_minutes-presentation.pdf"
+       id="a31552"
+       style="fill:#800080" />
+    <text
+       id="text31556"
+       y="712.11163"
+       x="-541.44177"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:40px;line-height:1.25;font-family:sans-serif"
+         y="712.11163"
+         x="-541.44177"
+         id="tspan31554"
+         sodipodi:role="line"> </tspan></text>
+    <a
+       style="display:inline;fill:#800080"
+       id="a31574"
+       xlink:href="http://www.wikisec.ru/index.php?title=%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD_%D0%BE%D1%82_26_%D0%B8%D1%8E%D0%BB%D1%8F_2017_%D0%B3._N_187-%D0%A4%D0%97"
+       transform="translate(1.3304513,63.30743)" />
+    <a
+       transform="translate(1.3304513,183.30743)"
+       xlink:href="https://media.kaspersky.com/ru/business-security/Kaspersky_Anti_Targeted_Attack_Platform_Datasheet.PDF"
+       id="a31584"
+       style="display:inline;fill:#800080" />
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="137.61469"
+       x="-44.477585"
+       height="20"
+       width="20"
+       id="rect31558"
+       style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text31562"
+       y="222.23846"
+       x="120.11719"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:32px;line-height:1;font-family:sans-serif"
+         sodipodi:role="line"
+         x="120.11719"
+         y="222.23846"
+         id="tspan31560">Создайте в домашнем каталоге каталог Задание1</tspan></text>
+    <rect
+       style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect31566"
+       width="20"
+       height="20"
+       x="-164.08817"
+       y="257.22525"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text31570"
+       y="306.76514"
+       x="117.54475"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:32px;line-height:1;font-family:sans-serif"
+         sodipodi:role="line"
+         x="117.54475"
+         y="306.76514"
+         id="tspan31594">Перейдите в каталог Задание1</tspan></text>
+    <text
+       id="text31578"
+       y="137.69617"
+       x="125.02177"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan31576"
+         x="125.02177"
+         y="137.69617">С помощью команды man посмотрите справку по базовым командам</tspan></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="197.38959"
+       x="-104.25249"
+       height="20"
+       width="20"
+       id="rect31582"
+       style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="313.79385"
+       x="-220.65671"
+       height="20"
+       width="20"
+       id="rect31598"
+       style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+       x="117.54475"
+       y="370.74173"
+       id="text31602"><tspan
+         y="370.74173"
+         x="117.54475"
+         sodipodi:role="line"
+         style="font-size:32px;line-height:1;font-family:sans-serif"
+         id="tspan31690">С использованием перенаправления вывода создайте файл Задача1, содержащий </tspan><tspan
+         y="402.74173"
+         x="117.54475"
+         sodipodi:role="line"
+         style="font-size:32px;line-height:1;font-family:sans-serif"
+         id="tspan31694">полный путь текущего каталога</tspan></text>
+    <rect
+       style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect31604"
+       width="20"
+       height="20"
+       x="-277.22528"
+       y="370.36246"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text31608"
+       y="450.74179"
+       x="117.54475"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:32px;line-height:1;font-family:sans-serif"
+         sodipodi:role="line"
+         x="117.54475"
+         y="450.74179"
+         id="tspan31606">Не меняя текущего каталога создайте в домашнем каталоге файл Задача2, </tspan><tspan
+         style="font-size:32px;line-height:1;font-family:sans-serif"
+         sodipodi:role="line"
+         x="117.54475"
+         y="482.74179"
+         id="tspan31696">содержащий перечень всех файлов в каталоге /usr/bin</tspan></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="426.93106"
+       x="-333.79388"
+       height="20"
+       width="20"
+       id="rect31610"
+       style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+       x="117.54475"
+       y="546.76514"
+       id="text31614"><tspan
+         id="tspan31612"
+         y="546.76514"
+         x="117.54475"
+         sodipodi:role="line"
+         style="font-size:32px;line-height:1;font-family:sans-serif">Скопируйте файл Задача2 в текущий каталог</tspan></text>
+    <rect
+       style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect31616"
+       width="20"
+       height="20"
+       x="-390.36249"
+       y="483.49966"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text31620"
+       y="626.76514"
+       x="117.54475"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:32px;line-height:1;font-family:sans-serif"
+         sodipodi:role="line"
+         x="117.54475"
+         y="626.76514"
+         id="tspan31618">Удалите файл Задача2 в домашнем каталоге</tspan></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="540.06812"
+       x="-446.93109"
+       height="20"
+       width="20"
+       id="rect31622"
+       style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+       x="117.54475"
+       y="690.74194"
+       id="text31626"><tspan
+         id="tspan31624"
+         y="690.74194"
+         x="117.54475"
+         sodipodi:role="line"
+         style="font-size:32px;line-height:1;font-family:sans-serif">С помощью команды cat создайте в родительском каталоге файл Задача3, к </tspan><tspan
+         y="722.74194"
+         x="117.54475"
+         sodipodi:role="line"
+         style="font-size:32px;line-height:1;font-family:sans-serif"
+         id="tspan31704">котором объединено содержимое файлов Задача1 и Задача2</tspan><tspan
+         y="754.74194"
+         x="117.54475"
+         sodipodi:role="line"
+         style="font-size:32px;line-height:1;font-family:sans-serif"
+         id="tspan31702" /></text>
+    <rect
+       style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect31628"
+       width="20"
+       height="20"
+       x="-503.49966"
+       y="596.63672"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text31632"
+       y="786.76514"
+       x="117.54475"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:32px;line-height:1;font-family:sans-serif"
+         sodipodi:role="line"
+         x="117.54475"
+         y="786.76514"
+         id="tspan31630">Удалите каталог Задание1</tspan></text>
   </g>
   <g
      style="display:none"
@@ -7157,23 +8455,23 @@
    id="tspan2799"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">toor</tspan></tspan></text>
     <image
-       sodipodi:absref="H:\МИФИ\ta43\img/start_kali.png"
+       sodipodi:absref="/media/sergey/Transcend/МИФИ/ta43/img/start_kali.png"
        xlink:href="img/start_kali.png"
-       width="669"
-       height="448"
-       preserveAspectRatio="none"
-       id="image2805"
+       y="110"
        x="80"
-       y="110" />
-    <image
-       sodipodi:absref="H:\МИФИ\ta43\img/login_kali.png"
-       xlink:href="img/login_kali.png"
-       width="640"
-       height="480"
+       id="image2805"
        preserveAspectRatio="none"
-       id="image2807"
+       height="448"
+       width="669" />
+    <image
+       sodipodi:absref="/media/sergey/Transcend/МИФИ/ta43/img/login_kali.png"
+       xlink:href="img/login_kali.png"
+       y="330"
        x="830.34283"
-       y="330" />
+       id="image2807"
+       preserveAspectRatio="none"
+       height="480"
+       width="640" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7272,14 +8570,14 @@
            id="tspan3623" /></text>
     </a>
     <image
-       sodipodi:absref="H:\МИФИ\ta43\img/import_kali.png"
+       sodipodi:absref="/media/sergey/Transcend/МИФИ/ta43/img/import_kali.png"
        xlink:href="img/import_kali.png"
-       width="652"
-       height="542"
-       preserveAspectRatio="none"
-       id="image3540"
+       y="110"
        x="906"
-       y="110" />
+       id="image3540"
+       preserveAspectRatio="none"
+       height="542"
+       width="652" />
   </g>
   <g
      style="display:none"
@@ -7308,23 +8606,23 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="tspan7029">необходимо добавить новую сеть NAT</tspan></text>
     <image
-       sodipodi:absref="H:\МИФИ\ta43\img/add_nat.png"
+       sodipodi:absref="/media/sergey/Transcend/МИФИ/ta43/img/add_nat.png"
        xlink:href="img/add_nat.png"
-       y="110"
-       x="67"
-       id="image7004"
-       preserveAspectRatio="none"
+       width="553"
        height="365"
-       width="553" />
-    <image
-       sodipodi:absref="H:\МИФИ\ta43\img/set_nat.png"
-       xlink:href="img/set_nat.png"
-       y="350"
-       x="800"
-       id="image7039"
        preserveAspectRatio="none"
+       id="image7004"
+       x="67"
+       y="110" />
+    <image
+       sodipodi:absref="/media/sergey/Transcend/МИФИ/ta43/img/set_nat.png"
+       xlink:href="img/set_nat.png"
+       width="724"
        height="444"
-       width="724" />
+       preserveAspectRatio="none"
+       id="image7039"
+       x="800"
+       y="350" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
@@ -7400,23 +8698,23 @@
          y="800.55792"
          id="tspan3662">на рисунке.</tspan></text>
     <image
-       sodipodi:absref="H:\МИФИ\ta43\img/vb_guest_additions.png"
+       sodipodi:absref="/media/sergey/Transcend/МИФИ/ta43/img/vb_guest_additions.png"
        xlink:href="img/vb_guest_additions.png"
-       y="110"
-       x="80"
-       id="image3618"
-       preserveAspectRatio="none"
+       width="655"
        height="559"
-       width="655" />
-    <image
-       sodipodi:absref="H:\МИФИ\ta43\img/vb_install_ga.png"
-       xlink:href="img/vb_install_ga.png"
-       y="290"
-       x="840"
-       id="image3643"
        preserveAspectRatio="none"
+       id="image3618"
+       x="80"
+       y="110" />
+    <image
+       sodipodi:absref="/media/sergey/Transcend/МИФИ/ta43/img/vb_install_ga.png"
+       xlink:href="img/vb_install_ga.png"
+       width="706"
        height="504"
-       width="706" />
+       preserveAspectRatio="none"
+       id="image3643"
+       x="840"
+       y="290" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7504,14 +8802,14 @@
            id="tspan7408">рабочего стола</tspan></text>
     </a>
     <image
-       sodipodi:absref="H:\МИФИ\ta43\img/download_kali.png"
+       sodipodi:absref="/media/sergey/Transcend/МИФИ/ta43/img/download_kali.png"
        xlink:href="img/download_kali.png"
-       y="110"
-       x="780"
-       id="image7390"
-       preserveAspectRatio="none"
+       width="770"
        height="657"
-       width="770" />
+       preserveAspectRatio="none"
+       id="image7390"
+       x="780"
+       y="110" />
   </g>
   <g
      style="display:none"
@@ -7654,10 +8952,10 @@
        id="text8913-9"
        y="470"
        x="799.84998"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-align:center;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:middle;display:inline;fill:#203d85;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Courier;-inkscape-font-specification:Courier;text-align:center;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:middle;display:inline;fill:#203d85;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan8919-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#203d85;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#203d85;fill-opacity:1"
          y="470"
          x="800"
          sodipodi:role="line">Спасибо за внимание</tspan></text>
