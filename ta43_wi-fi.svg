@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="ta43_lab_protocols.svg"
+   sodipodi:docname="ta43_wi-fi.svg"
    enable-background="new">
   <sodipodi:namedview
      id="base"
@@ -25,24 +25,24 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="769.59107"
-     inkscape:cy="394.93107"
+     inkscape:zoom="0.4246875"
+     inkscape:cx="891.06761"
+     inkscape:cy="784.28458"
      inkscape:document-units="px"
-     inkscape:current-layer="g2390"
+     inkscape:current-layer="layer12"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1018"
-     inkscape:window-x="-8"
-     inkscape:window-y="63"
+     inkscape:window-height="1135"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
      inkscape:snap-midpoints="true"
      inkscape:snap-object-midpoints="false"
      inkscape:snap-center="false"
-     inkscape:snap-others="true"
+     inkscape:snap-others="false"
      inkscape:snap-grids="true"
      inkscape:snap-to-guides="false">
     <inkscape:grid
@@ -56,9 +56,42 @@
        spacingy="20"
        originy="30"
        originx="0" />
+    <sodipodi:guide
+       position="-936,650"
+       orientation="1,0"
+       id="guide3602"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
      id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker14111"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path14109"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#aa0000;stroke-opacity:1;fill:#aa0000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.3) rotate(180) translate(-2.3,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="EmptyTriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="EmptyTriangleOutM"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path10044"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;fill:#1f3c84;stroke:#1f3c84;stroke-width:1pt;stroke-opacity:1;fill-opacity:1"
+         transform="scale(0.4) translate(-4.5,0)" />
+    </marker>
     <marker
        inkscape:isstock="true"
        style="overflow:visible;"
@@ -1228,17 +1261,6 @@
          id="stop194-6-9-1-6-9" />
     </radialGradient>
     <linearGradient
-       y2="511.96591"
-       x2="286.62845"
-       y1="511.96591"
-       x1="269.96979"
-       spreadMethod="reflect"
-       gradientTransform="matrix(4.9627313,0,0,4.9627313,278.62528,-3355.3596)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient21361-6"
-       xlink:href="#linearGradient5495-0-2"
-       inkscape:collect="always" />
-    <linearGradient
        id="linearGradient5495-0-2">
       <stop
          style="stop-color:#497bb3;stop-opacity:1;"
@@ -1254,15 +1276,6 @@
          id="stop5499-8-0" />
     </linearGradient>
     <linearGradient
-       y2="527.33539"
-       x2="286.6308"
-       y1="518.55707"
-       x1="282.35706"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient21363-9"
-       xlink:href="#linearGradient5466-0-4"
-       inkscape:collect="always" />
-    <linearGradient
        id="linearGradient5466-0-4">
       <stop
          id="stop5468-4-16"
@@ -1273,17 +1286,6 @@
          offset="1"
          style="stop-color:#497bb3;stop-opacity:1;" />
     </linearGradient>
-    <linearGradient
-       y2="520.32812"
-       x2="327.78125"
-       y1="522.61218"
-       x1="308.5"
-       spreadMethod="reflect"
-       gradientTransform="matrix(4.1992341,0,0,4.1992341,407.32744,-3062.9065)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient21365-1"
-       xlink:href="#linearGradient6035-4-6"
-       inkscape:collect="always" />
     <linearGradient
        id="linearGradient6035-4-6">
       <stop
@@ -1296,17 +1298,6 @@
          style="stop-color:#ffffff;stop-opacity:0;" />
     </linearGradient>
     <linearGradient
-       y2="520.32812"
-       x2="327.78125"
-       y1="522.61218"
-       x1="308.5"
-       spreadMethod="reflect"
-       gradientTransform="matrix(4.1992341,0,0,4.1992341,407.32744,-3015.7623)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient21367-8"
-       xlink:href="#linearGradient6035-4-6"
-       inkscape:collect="always" />
-    <linearGradient
        id="linearGradient14344">
       <stop
          id="stop14346"
@@ -1318,17 +1309,6 @@
          style="stop-color:#ffffff;stop-opacity:0;" />
     </linearGradient>
     <linearGradient
-       y2="520.32812"
-       x2="327.78125"
-       y1="522.61218"
-       x1="308.5"
-       spreadMethod="reflect"
-       gradientTransform="matrix(4.1992341,0,0,4.1992341,407.32744,-2971.5731)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient21369-0"
-       xlink:href="#linearGradient6035-4-6"
-       inkscape:collect="always" />
-    <linearGradient
        id="linearGradient14351">
       <stop
          id="stop14353"
@@ -1339,17 +1319,6 @@
          offset="1"
          style="stop-color:#ffffff;stop-opacity:0;" />
     </linearGradient>
-    <linearGradient
-       y2="511.96591"
-       x2="286.62845"
-       y1="511.96591"
-       x1="269.96979"
-       spreadMethod="reflect"
-       gradientTransform="matrix(4.9627313,0,0,4.9627313,278.62528,-3355.3596)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient21224-3"
-       xlink:href="#linearGradient5495-0-5-0-9"
-       inkscape:collect="always" />
     <linearGradient
        id="linearGradient5495-0-5-0-9">
       <stop
@@ -1366,15 +1335,6 @@
          id="stop5499-8-3-3-9" />
     </linearGradient>
     <linearGradient
-       y2="527.33539"
-       x2="286.6308"
-       y1="518.55707"
-       x1="282.35706"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient21226-3"
-       xlink:href="#linearGradient5466-0-5-9-8"
-       inkscape:collect="always" />
-    <linearGradient
        id="linearGradient5466-0-5-9-8">
       <stop
          id="stop5468-4-1-5-1"
@@ -1385,17 +1345,6 @@
          offset="1"
          style="stop-color:#497bb3;stop-opacity:1;" />
     </linearGradient>
-    <linearGradient
-       y2="520.32812"
-       x2="327.78125"
-       y1="522.61218"
-       x1="308.5"
-       spreadMethod="reflect"
-       gradientTransform="matrix(4.1992341,0,0,4.1992341,407.32744,-3062.9065)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient21228-8"
-       xlink:href="#linearGradient6035-4-8-9-1"
-       inkscape:collect="always" />
     <linearGradient
        id="linearGradient6035-4-8-9-1">
       <stop
@@ -1408,17 +1357,6 @@
          style="stop-color:#ffffff;stop-opacity:0;" />
     </linearGradient>
     <linearGradient
-       y2="520.32812"
-       x2="327.78125"
-       y1="522.61218"
-       x1="308.5"
-       spreadMethod="reflect"
-       gradientTransform="matrix(4.1992341,0,0,4.1992341,407.32744,-3015.7623)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient21230-5"
-       xlink:href="#linearGradient6035-4-8-9-1"
-       inkscape:collect="always" />
-    <linearGradient
        id="linearGradient14371">
       <stop
          id="stop14373"
@@ -1429,17 +1367,6 @@
          offset="1"
          style="stop-color:#ffffff;stop-opacity:0;" />
     </linearGradient>
-    <linearGradient
-       y2="520.32812"
-       x2="327.78125"
-       y1="522.61218"
-       x1="308.5"
-       spreadMethod="reflect"
-       gradientTransform="matrix(4.1992341,0,0,4.1992341,407.32744,-2971.5731)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient21232-1"
-       xlink:href="#linearGradient6035-4-8-9-1"
-       inkscape:collect="always" />
     <linearGradient
        id="linearGradient14378">
       <stop
@@ -2944,66 +2871,6 @@
          stop-color="#314e6c"
          offset="1" />
     </linearGradient>
-    <linearGradient
-       y2="55.645"
-       x2="71.571"
-       y1="21.298"
-       x1="71.571"
-       gradientTransform="scale(1.1486,0.87061)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient5420"
-       xlink:href="#linearGradient17580"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="123.08"
-       x2="55.139"
-       y1="50.771"
-       x1="114.47"
-       gradientTransform="matrix(0.93434,0.19964,-0.2187,1.0236,17.419,-25.231)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient5422"
-       xlink:href="#linearGradient17582"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="418.54"
-       x2="330.88"
-       y1="236.13"
-       x1="687.96"
-       gradientTransform="matrix(0.15217,0.032176,-0.032896,0.15557,15.03,-15.747)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient5424"
-       xlink:href="#linearGradient17584"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="191.01"
-       x2="68.709"
-       y1="111.9"
-       x1="68.709"
-       gradientTransform="scale(1.386,0.72151)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient5426"
-       xlink:href="#linearGradient17586"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="82.82"
-       x2="107.02"
-       y1="82.82"
-       x1="11.202"
-       gradientTransform="scale(1.3901,0.71938)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient5428"
-       xlink:href="#linearGradient17588"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="179.43"
-       x2="28.471"
-       y1="216.4"
-       x1="27.728"
-       gradientTransform="scale(3.0245,0.33063)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient5430"
-       xlink:href="#linearGradient17590"
-       inkscape:collect="always" />
     <radialGradient
        id="radialGradient11393"
        gradientUnits="userSpaceOnUse"
@@ -6783,6 +6650,1689 @@
     <path
        d="M13.473 20.126c.013.01.02.01.02.014.013.102.001.195-.092.26-.02.013-.045.007-.05-.016-.018-.108.028-.2.12-.256z"
        id="BU" />
+    <linearGradient
+       id="linearGradient5530">
+      <stop
+         id="stop5532"
+         offset="0"
+         style="stop-color:white;stop-opacity:1" />
+      <stop
+         id="stop5534"
+         offset="0"
+         style="stop-color:white;stop-opacity:1" />
+      <stop
+         id="stop5536"
+         offset="1"
+         style="stop-color:#e6e6e6;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5461">
+      <stop
+         id="stop5463"
+         offset="0"
+         style="stop-color:white;stop-opacity:1" />
+      <stop
+         id="stop5465"
+         offset="0"
+         style="stop-color:white;stop-opacity:1" />
+      <stop
+         id="stop5467"
+         offset="1"
+         style="stop-color:#bcdcff;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5449">
+      <stop
+         id="stop5451"
+         offset="0"
+         style="stop-color:white;stop-opacity:1" />
+      <stop
+         id="stop5453"
+         offset="0"
+         style="stop-color:white;stop-opacity:1" />
+      <stop
+         id="stop5455"
+         offset="1"
+         style="stop-color:#ffdebc;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4823">
+      <stop
+         id="stop4825"
+         offset="0"
+         style="stop-color:white;stop-opacity:1" />
+      <stop
+         id="stop4827"
+         offset="0"
+         style="stop-color:white;stop-opacity:1" />
+      <stop
+         id="stop4829"
+         offset="1"
+         style="stop-color:#fcffbc;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4149">
+      <stop
+         id="stop4151"
+         offset="0"
+         style="stop-color:white;stop-opacity:1" />
+      <stop
+         id="stop4153"
+         offset="0"
+         style="stop-color:white;stop-opacity:1" />
+      <stop
+         id="stop4155"
+         offset="1"
+         style="stop-color:#ceffbc;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4141">
+      <stop
+         id="stop4143"
+         offset="0"
+         style="stop-color:white;stop-opacity:1" />
+      <stop
+         id="stop4145"
+         offset="0"
+         style="stop-color:white;stop-opacity:1" />
+      <stop
+         id="stop4147"
+         offset="1"
+         style="stop-color:#f3f3f3;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4113">
+      <stop
+         id="stop4115"
+         offset="0"
+         style="stop-color:white;stop-opacity:1" />
+      <stop
+         id="stop4117"
+         offset="0"
+         style="stop-color:white;stop-opacity:1" />
+      <stop
+         id="stop4119"
+         offset="1"
+         style="stop-color:#ffbcbc;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3874">
+      <stop
+         id="stop3876"
+         offset="0"
+         style="stop-color:white;stop-opacity:1" />
+      <stop
+         id="stop5459"
+         offset="0"
+         style="stop-color:#e1ddff;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3776">
+      <stop
+         id="stop3778"
+         offset="0"
+         style="stop-color:white;stop-opacity:1" />
+      <stop
+         id="stop3784"
+         offset="0.5"
+         style="stop-color:white;stop-opacity:1" />
+      <stop
+         id="stop3780"
+         offset="1"
+         style="stop-color:#e7e7e7;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(0.28184818,0,0,17.296632,-352.07946,-6626.5088)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient5530"
+       id="linearGradient3848"
+       y2="429.36218"
+       x2="897.5"
+       y1="429.36218"
+       x1="-9.5" />
+    <linearGradient
+       gradientTransform="matrix(0.17584938,0,0,4.1843307,-273.50466,-680.71571)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient5530"
+       id="linearGradient5233"
+       y2="429.36218"
+       x2="897.5"
+       y1="429.36218"
+       x1="-9.5" />
+    <linearGradient
+       gradientTransform="matrix(0.17584938,0,0,9.8943271,-273.50466,-3740.2641)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient5530"
+       id="linearGradient5290"
+       y2="429.36218"
+       x2="897.5"
+       y1="429.36218"
+       x1="-9.5" />
+    <linearGradient
+       gradientTransform="matrix(0.0765348,0,0,3.6438784,-197.96359,-449.44782)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient4823"
+       id="linearGradient5350"
+       y2="429.36218"
+       x2="897.5"
+       y1="429.36218"
+       x1="-9.5" />
+    <linearGradient
+       gradientTransform="matrix(4.978501e-2,0,0,1.536967,-526.0115,177.0846)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient5461"
+       id="linearGradient5436"
+       y2="429.36218"
+       x2="897.5"
+       y1="429.36218"
+       x1="-9.5" />
+    <linearGradient
+       gradientTransform="matrix(0.0765348,0,0,1.4477274,-197.96359,209.2166)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient4113"
+       id="linearGradient5447"
+       y2="429.36218"
+       x2="897.5"
+       y1="429.36218"
+       x1="-9.5" />
+    <linearGradient
+       gradientTransform="matrix(0.04978501,0,0,2.370301,-949.9594,-884.6194)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient5461"
+       id="linearGradient5487"
+       y2="429.36218"
+       x2="897.5"
+       y1="429.36218"
+       x1="-9.5" />
+    <linearGradient
+       gradientTransform="matrix(0.04978501,0,0,2.370301,-949.9594,-674.6194)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient4149"
+       id="linearGradient5507"
+       y2="429.36218"
+       x2="897.5"
+       y1="429.36218"
+       x1="-9.5" />
+    <linearGradient
+       gradientTransform="matrix(0.0765348,0,0,2.3627889,-197.96359,392.74401)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient5461"
+       id="linearGradient8239"
+       y2="429.36218"
+       x2="897.5"
+       y1="429.36218"
+       x1="-9.5" />
+    <linearGradient
+       id="linearGradient3613">
+      <stop
+         offset="0"
+         style="stop-color:#557b8b;stop-opacity:1"
+         id="stop3780-9" />
+      <stop
+         offset="1"
+         style="stop-color:#8aaac0;stop-opacity:1"
+         id="stop3617" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM-7"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         id="path3734"
+         transform="scale(0.4,0.4)"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z" />
+    </marker>
+    <linearGradient
+       gradientTransform="translate(-0.31342216,851.86901)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient3613"
+       id="linearGradient3796"
+       y2="125.12147"
+       x2="299.9375"
+       y1="125.12147"
+       x1="0.65625" />
+    <inkscape:perspective
+       id="perspective57"
+       inkscape:persp3d-origin="1326.25 : 468.75 : 1"
+       inkscape:vp_z="2652.5 : 703.125 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 703.125 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-6"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path34305-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-5"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path34308-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4099"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4097"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4103"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4101"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4107"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4105"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4111"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4109"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4142"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4140"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4146"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4144"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4150"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4148"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4154"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4158"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4156"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4162"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4160"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <radialGradient
+       id="radialGradient6485-9-9"
+       gradientUnits="userSpaceOnUse"
+       cy="67.501999"
+       cx="12.576"
+       gradientTransform="scale(1.9258,0.51926)"
+       r="8.7663002">
+      <stop
+         id="stop2456-3-6"
+         offset="0" />
+      <stop
+         id="stop2458-1-0"
+         stop-opacity="0"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient4177"
+       gradientUnits="userSpaceOnUse"
+       cy="67.501999"
+       cx="12.576"
+       gradientTransform="scale(1.9258,0.51926)"
+       r="8.7663002">
+      <stop
+         id="stop4173"
+         offset="0" />
+      <stop
+         id="stop4175"
+         stop-opacity="0"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient4208"
+       gradientUnits="userSpaceOnUse"
+       cy="67.501999"
+       cx="12.576"
+       gradientTransform="scale(1.9258,0.51926)"
+       r="8.7663002">
+      <stop
+         id="stop4204"
+         offset="0" />
+      <stop
+         id="stop4206"
+         stop-opacity="0"
+         offset="1" />
+    </radialGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter5450-0-4"
+       height="1.2033"
+       width="1.0757"
+       y="-0.10164"
+       x="-0.037861999">
+      <feGaussianBlur
+         id="feGaussianBlur5452-3-8"
+         stdDeviation="0.71465694" />
+    </filter>
+    <radialGradient
+       id="radialGradient4293"
+       gradientUnits="userSpaceOnUse"
+       cy="67.501999"
+       cx="12.576"
+       gradientTransform="scale(1.9258,0.51926)"
+       r="8.7663002">
+      <stop
+         id="stop4289"
+         offset="0" />
+      <stop
+         id="stop4291"
+         stop-opacity="0"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient4307"
+       gradientUnits="userSpaceOnUse"
+       cy="67.501999"
+       cx="12.576"
+       gradientTransform="scale(1.9258,0.51926)"
+       r="8.7663002">
+      <stop
+         id="stop4303"
+         offset="0" />
+      <stop
+         id="stop4305"
+         stop-opacity="0"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient4356"
+       gradientUnits="userSpaceOnUse"
+       cy="67.501999"
+       cx="12.576"
+       gradientTransform="scale(1.9258,0.51926)"
+       r="8.7663002">
+      <stop
+         id="stop4352"
+         offset="0" />
+      <stop
+         id="stop4354"
+         stop-opacity="0"
+         offset="1" />
+    </radialGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter4437"
+       height="1.2033"
+       width="1.0757"
+       y="-0.10164"
+       x="-0.037861999">
+      <feGaussianBlur
+         id="feGaussianBlur4435"
+         stdDeviation="0.71465694" />
+    </filter>
+    <radialGradient
+       id="radialGradient4458"
+       gradientUnits="userSpaceOnUse"
+       cy="67.501999"
+       cx="12.576"
+       gradientTransform="scale(1.9258,0.51926)"
+       r="8.7663002">
+      <stop
+         id="stop4454"
+         offset="0" />
+      <stop
+         id="stop4456"
+         stop-opacity="0"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient4472"
+       gradientUnits="userSpaceOnUse"
+       cy="67.501999"
+       cx="12.576"
+       gradientTransform="scale(1.9258,0.51926)"
+       r="8.7663002">
+      <stop
+         id="stop4468"
+         offset="0" />
+      <stop
+         id="stop4470"
+         stop-opacity="0"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient4521"
+       gradientUnits="userSpaceOnUse"
+       cy="67.501999"
+       cx="12.576"
+       gradientTransform="scale(1.9258,0.51926)"
+       r="8.7663002">
+      <stop
+         id="stop4517"
+         offset="0" />
+      <stop
+         id="stop4519"
+         stop-opacity="0"
+         offset="1" />
+    </radialGradient>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4639"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4637"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4643"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4641"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <inkscape:perspective
+       id="perspective3080"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective3009" />
+    <radialGradient
+       r="117.14286"
+       fy="486.64789"
+       fx="605.71429"
+       cy="486.64789"
+       cx="605.71429"
+       gradientTransform="matrix(2.774389,0,0,1.969706,-1891.633,-872.8854)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient5938"
+       xlink:href="#linearGradient3488"
+       inkscape:collect="always" />
+    <radialGradient
+       r="117.14286"
+       fy="486.64789"
+       fx="605.71429"
+       cy="486.64789"
+       cx="605.71429"
+       gradientTransform="matrix(-2.774389,0,0,1.969706,112.7623,-872.8854)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient5940"
+       xlink:href="#linearGradient3488"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient15107-93">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1.0000000;"
+         offset="0.0000000"
+         id="stop15109-68" />
+      <stop
+         style="stop-color:#e2e2e2;stop-opacity:1.0000000;"
+         offset="1.0000000"
+         id="stop15111-0" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2136-1">
+      <stop
+         style="stop-color:#989690;stop-opacity:1.0000000;"
+         offset="0.0000000"
+         id="stop2138-2" />
+      <stop
+         style="stop-color:#656460;stop-opacity:1.0000000;"
+         offset="1.0000000"
+         id="stop2140-8" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient18913-5">
+      <stop
+         style="stop-color:#ededed;stop-opacity:1.0000000;"
+         offset="0.0000000"
+         id="stop18915-4" />
+      <stop
+         style="stop-color:#c8c8c8;stop-opacity:1.0000000;"
+         offset="1.0000000"
+         id="stop18917-8" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2166-4">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop2168-7" />
+      <stop
+         style="stop-color:#dcdcdc;stop-opacity:1.0000000;"
+         offset="1.0000000"
+         id="stop2170-7" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2152-9">
+      <stop
+         style="stop-color:#9aa29a;stop-opacity:1.0000000;"
+         offset="0.0000000"
+         id="stop2154-2" />
+      <stop
+         style="stop-color:#b5beb5;stop-opacity:1.0000000;"
+         offset="1.0000000"
+         id="stop2156-2" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient9749-59">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop9751-4" />
+      <stop
+         style="stop-color:#ededed;stop-opacity:1.0000000;"
+         offset="1.0000000"
+         id="stop9753-6" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2274-2">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.12871288;"
+         offset="0.0000000"
+         id="stop2276-5" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.0000000;"
+         offset="1.0000000"
+         id="stop2278-40" />
+    </linearGradient>
+    <radialGradient
+       r="14.375"
+       fy="125"
+       fx="55"
+       cy="125"
+       cx="55"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient5959"
+       xlink:href="#linearGradient12512-1"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient12512-1">
+      <stop
+         id="stop12513-0"
+         offset="0.0000000"
+         style="stop-color:#ffffff;stop-opacity:1.0000000;" />
+      <stop
+         id="stop12517-8"
+         offset="0.50000000"
+         style="stop-color:#fff520;stop-opacity:0.89108908;" />
+      <stop
+         id="stop12514-5"
+         offset="1.0000000"
+         style="stop-color:#fff300;stop-opacity:0.0000000;" />
+    </linearGradient>
+    <radialGradient
+       r="117.14286"
+       fy="486.64789"
+       fx="605.71429"
+       cy="486.64789"
+       cx="605.71429"
+       gradientTransform="matrix(2.774389,0,0,1.969706,-1891.633,-872.8854)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient31809"
+       xlink:href="#linearGradient3488"
+       inkscape:collect="always" />
+    <radialGradient
+       r="117.14286"
+       fy="486.64789"
+       fx="605.71429"
+       cy="486.64789"
+       cx="605.71429"
+       gradientTransform="matrix(-2.774389,0,0,1.969706,112.7623,-872.8854)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient31811"
+       xlink:href="#linearGradient3488"
+       inkscape:collect="always" />
+    <radialGradient
+       r="14.375"
+       fy="125"
+       fx="55"
+       cy="125"
+       cx="55"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient31829"
+       xlink:href="#linearGradient12512-1"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4750-9-8">
+      <stop
+         offset="0"
+         style="stop-color:#ffffff"
+         id="stop4752-4-7-3" />
+      <stop
+         offset=".37931"
+         style="stop-color:#fefefe"
+         id="stop4758-2-0-6" />
+      <stop
+         offset="1"
+         style="stop-color:#1d1d1d"
+         id="stop4754-7-4-0" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-6-9"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path34305-7-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-5-7"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path34308-6-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4985"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4983"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4989"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4987"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4993"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4991"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4997"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4995"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5001"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4999"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5005"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5003"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5009"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5007"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5013"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5011"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter5450-0-4-9"
+       height="1.2033"
+       width="1.0757"
+       y="-0.10164"
+       x="-0.037861999">
+      <feGaussianBlur
+         id="feGaussianBlur5452-3-8-9"
+         stdDeviation="0.71465694" />
+    </filter>
+    <radialGradient
+       id="radialGradient6485-9-9-5"
+       gradientUnits="userSpaceOnUse"
+       cy="67.501999"
+       cx="12.576"
+       gradientTransform="scale(1.9258,0.51926)"
+       r="8.7663002">
+      <stop
+         id="stop2456-3-6-8"
+         offset="0" />
+      <stop
+         id="stop2458-1-0-7"
+         stop-opacity="0"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient5038"
+       gradientUnits="userSpaceOnUse"
+       cy="67.501999"
+       cx="12.576"
+       gradientTransform="scale(1.9258,0.51926)"
+       r="8.7663002">
+      <stop
+         id="stop5034"
+         offset="0" />
+      <stop
+         id="stop5036"
+         stop-opacity="0"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient5069"
+       gradientUnits="userSpaceOnUse"
+       cy="67.501999"
+       cx="12.576"
+       gradientTransform="scale(1.9258,0.51926)"
+       r="8.7663002">
+      <stop
+         id="stop5065"
+         offset="0" />
+      <stop
+         id="stop5067"
+         stop-opacity="0"
+         offset="1" />
+    </radialGradient>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-6-91"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path34305-7-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-5-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path34308-6-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <radialGradient
+       id="radialGradient6485-9-9-8"
+       gradientUnits="userSpaceOnUse"
+       cy="67.501999"
+       cx="12.576"
+       gradientTransform="scale(1.9258,0.51926)"
+       r="8.7663002">
+      <stop
+         id="stop2456-3-6-5"
+         offset="0" />
+      <stop
+         id="stop2458-1-0-3"
+         stop-opacity="0"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient6705"
+       gradientUnits="userSpaceOnUse"
+       cy="67.501999"
+       cx="12.576"
+       gradientTransform="scale(1.9258,0.51926)"
+       r="8.7663002">
+      <stop
+         id="stop6701"
+         offset="0" />
+      <stop
+         id="stop6703"
+         stop-opacity="0"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient6736"
+       gradientUnits="userSpaceOnUse"
+       cy="67.501999"
+       cx="12.576"
+       gradientTransform="scale(1.9258,0.51926)"
+       r="8.7663002">
+      <stop
+         id="stop6732"
+         offset="0" />
+      <stop
+         id="stop6734"
+         stop-opacity="0"
+         offset="1" />
+    </radialGradient>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6808"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6806"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6812"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6810"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-6-7"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path34305-7-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-5-2"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path34308-6-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <radialGradient
+       id="radialGradient6485-9-9-3"
+       gradientUnits="userSpaceOnUse"
+       cy="67.501999"
+       cx="12.576"
+       gradientTransform="scale(1.9258,0.51926)"
+       r="8.7663002">
+      <stop
+         id="stop2456-3-6-0"
+         offset="0" />
+      <stop
+         id="stop2458-1-0-2"
+         stop-opacity="0"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient8580"
+       gradientUnits="userSpaceOnUse"
+       cy="67.501999"
+       cx="12.576"
+       gradientTransform="scale(1.9258,0.51926)"
+       r="8.7663002">
+      <stop
+         id="stop8576"
+         offset="0" />
+      <stop
+         id="stop8578"
+         stop-opacity="0"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient8611"
+       gradientUnits="userSpaceOnUse"
+       cy="67.501999"
+       cx="12.576"
+       gradientTransform="scale(1.9258,0.51926)"
+       r="8.7663002">
+      <stop
+         id="stop8607"
+         offset="0" />
+      <stop
+         id="stop8609"
+         stop-opacity="0"
+         offset="1" />
+    </radialGradient>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8683"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8681"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8687"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8685"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8691"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8689"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8695"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8693"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <radialGradient
+       id="radialGradient8702"
+       gradientUnits="userSpaceOnUse"
+       cy="67.501999"
+       cx="12.576"
+       gradientTransform="scale(1.9258,0.51926)"
+       r="8.7663002">
+      <stop
+         id="stop8698"
+         offset="0" />
+      <stop
+         id="stop8700"
+         stop-opacity="0"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient8716"
+       gradientUnits="userSpaceOnUse"
+       cy="67.501999"
+       cx="12.576"
+       gradientTransform="scale(1.9258,0.51926)"
+       r="8.7663002">
+      <stop
+         id="stop8712"
+         offset="0" />
+      <stop
+         id="stop8714"
+         stop-opacity="0"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient8765"
+       gradientUnits="userSpaceOnUse"
+       cy="67.501999"
+       cx="12.576"
+       gradientTransform="scale(1.9258,0.51926)"
+       r="8.7663002">
+      <stop
+         id="stop8761"
+         offset="0" />
+      <stop
+         id="stop8763"
+         stop-opacity="0"
+         offset="1" />
+    </radialGradient>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8846"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8844"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8850"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8848"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter5450-0-4-3"
+       height="1.2033"
+       width="1.0757"
+       y="-0.10164"
+       x="-0.037861999">
+      <feGaussianBlur
+         id="feGaussianBlur5452-3-8-8"
+         stdDeviation="0.71465694" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="M 0,841.89 H 595.276 V 0 H 0 Z"
+         id="path16-9"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath32">
+      <path
+         d="m 195.73,382.848 -12.029,-12.829 3.873,-14.338 13.767,7.529 z"
+         id="path30"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-4.4103241,11.226639,11.226639,4.4103241,195.104,360.47852)"
+       spreadMethod="pad"
+       id="linearGradient44">
+      <stop
+         style="stop-opacity:1;stop-color:#f4f4f4"
+         offset="0"
+         id="stop38" />
+      <stop
+         style="stop-opacity:1;stop-color:#f4f4f4"
+         offset="0.35955"
+         id="stop40" />
+      <stop
+         style="stop-opacity:1;stop-color:#96a0a5"
+         offset="1"
+         id="stop42" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath62">
+      <path
+         d="m 359.21,524.343 c -4.195,-6.9 -8.092,-45.566 -8.092,-45.566 -2.689,-11.091 -11.985,-8.695 -11.985,-8.695 l -10.799,1.805 c -15.882,3.29 -14.681,13.784 -14.681,13.784 -1.5,11.391 5.994,42.873 5.994,42.873 4.202,17.689 20.081,13.186 20.081,13.186 l 12.287,-2.695 c 9.905,-3.299 7.195,-14.692 7.195,-14.692 m 13.79,35.376 -21.882,4.799 c -29.833,5.827 -39.565,-7.269 -36.87,-4.799 -23.977,-13.793 -22.482,-81.838 -22.482,-81.838 l 0.296,-4.201 81.237,-14.69 c -5.994,17.227 5.701,55.157 5.701,55.157 3,11.696 5.704,20.992 5.704,20.992 4.195,20.982 -11.704,24.58 -11.704,24.58"
+         id="path60"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-6.0939636,-81.253891,-81.253891,6.0939636,341.08691,548.47607)"
+       spreadMethod="pad"
+       id="linearGradient76">
+      <stop
+         style="stop-opacity:1;stop-color:#e9f3f7"
+         offset="0"
+         id="stop68" />
+      <stop
+         style="stop-opacity:1;stop-color:#6d7c90"
+         offset="0.55618"
+         id="stop70" />
+      <stop
+         style="stop-opacity:1;stop-color:#282b47"
+         offset="0.932584"
+         id="stop72" />
+      <stop
+         style="stop-opacity:1;stop-color:#0f0d16"
+         offset="1"
+         id="stop74" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath112">
+      <path
+         d="m 148.299,369.822 c 0,0 1.506,-7.552 10.576,-11.581 l 29.203,-9.571 -0.504,10.075 0.504,21.147 33.735,-3.021 129.408,-35.751 8.557,-20.144 -3.02,-11.576 2.522,-7.552 49.345,-10.574 c 0,0 32.722,23.16 45.308,78.047 l -161.622,14.095 -114.296,5.537 z"
+         id="path110"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-12.285095,-53.23761,-53.23761,12.285095,308.375,401.02539)"
+       spreadMethod="pad"
+       id="linearGradient126">
+      <stop
+         style="stop-opacity:1;stop-color:#ffffff"
+         offset="0"
+         id="stop118" />
+      <stop
+         style="stop-opacity:1;stop-color:#ffffff"
+         offset="0.011236"
+         id="stop120" />
+      <stop
+         style="stop-opacity:1;stop-color:#586597"
+         offset="0.52809"
+         id="stop122" />
+      <stop
+         style="stop-opacity:1;stop-color:#282b47"
+         offset="1"
+         id="stop124" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath136">
+      <path
+         d="m 445.888,435.354 -252.785,56.159 c 0,0 -27.185,-6.944 -42.786,-54.126 0,0 -12.594,-45.671 -1.514,-70.541 l 38.771,-11.165 -0.507,13.198 c 0,0 0.595,9.357 12.589,5.077 l 146.022,-38.062 c 0,0 12.586,-2.538 11.578,-22.834 l -0.539,-3.885 52.916,-11.842 c 0,0 28.699,19.28 45.31,73.579 l -0.506,52.77 c 0,0 0.506,10.148 -8.549,11.672"
+         id="path134"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-24.671402,-107.73224,-107.73224,24.671402,313.62207,452.33691)"
+       spreadMethod="pad"
+       id="linearGradient150">
+      <stop
+         style="stop-opacity:1;stop-color:#d3d2d2"
+         offset="0"
+         id="stop142" />
+      <stop
+         style="stop-opacity:1;stop-color:#d3d2d2"
+         offset="0.35955"
+         id="stop144" />
+      <stop
+         style="stop-opacity:1;stop-color:#47494d"
+         offset="0.994382"
+         id="stop146" />
+      <stop
+         style="stop-opacity:1;stop-color:#47494d"
+         offset="1"
+         id="stop148" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath160">
+      <path
+         d="m 442.958,434.973 -249.697,54.77 c 0,0 -24.662,-6.908 -39.958,-52.796 0,0 -12.346,-44.414 -1.48,-68.595 l 37.995,-10.852 -0.498,12.826 c 0,0 2.47,8.394 12.331,4.934 l 143.107,-37.005 c 0,0 12.346,-2.467 11.349,-22.21 l -0.489,-4.931 51.812,-10.356 c 0,0 28.131,18.744 44.408,71.549 l -0.498,51.316 c 0,0 0.498,9.87 -8.382,11.35"
+         id="path158"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-24.210434,-105.71931,-105.71931,24.210434,313.2832,451.6123)"
+       spreadMethod="pad"
+       id="linearGradient172">
+      <stop
+         style="stop-opacity:1;stop-color:#f4f4f4"
+         offset="0"
+         id="stop166" />
+      <stop
+         style="stop-opacity:1;stop-color:#f4f4f4"
+         offset="0.35955"
+         id="stop168" />
+      <stop
+         style="stop-opacity:1;stop-color:#96a0a5"
+         offset="1"
+         id="stop170" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath184">
+      <path
+         d="m 196.642,370.323 c 0,0 -12.595,-9.064 -14.614,-21.146 0,0 110.772,-44.986 168.674,-47.001 0,0 1.327,1.418 2.821,4.538 0.586,1.219 1.459,2.47 1.893,4.339 2.364,10.298 -0.835,17.332 -0.835,17.332 -102.981,23.144 -102.513,22.514 -157.939,41.938"
+         id="path182"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(5.8320618,19.998123,19.998123,-5.8320618,268.0293,327.97559)"
+       spreadMethod="pad"
+       id="linearGradient200">
+      <stop
+         style="stop-opacity:1;stop-color:#f0fafe"
+         offset="0"
+         id="stop190" />
+      <stop
+         style="stop-opacity:1;stop-color:#f0fafe"
+         offset="0.005618"
+         id="stop192" />
+      <stop
+         style="stop-opacity:1;stop-color:#e9f3f7"
+         offset="0.235955"
+         id="stop194" />
+      <stop
+         style="stop-opacity:1;stop-color:#6d7c90"
+         offset="0.780899"
+         id="stop196" />
+      <stop
+         style="stop-opacity:1;stop-color:#0f0d16"
+         offset="1"
+         id="stop198" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath212">
+      <path
+         d="m 242.538,482.671 c 0,0 -25.145,-22.775 -35.314,-52.456 0,0 -9.285,-24.888 -3.305,-33.574 0,0 3.601,-9.891 18.56,-12.595 0,0 78.421,-18.586 91.88,-22.775 0,0 26.508,-9.481 31.594,10.904 0,0 4.749,30.633 37.444,78.668 0,0 -122.003,29.434 -140.859,31.828"
+         id="path210"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-14.594467,-63.245346,-63.245346,14.594467,301.25195,467.97119)"
+       spreadMethod="pad"
+       id="linearGradient226">
+      <stop
+         style="stop-opacity:1;stop-color:#ffffff"
+         offset="0"
+         id="stop218" />
+      <stop
+         style="stop-opacity:1;stop-color:#ffffff"
+         offset="0.011236"
+         id="stop220" />
+      <stop
+         style="stop-opacity:1;stop-color:#586597"
+         offset="0.52809"
+         id="stop222" />
+      <stop
+         style="stop-opacity:1;stop-color:#282b47"
+         offset="1"
+         id="stop224" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath236">
+      <path
+         d="m 223.023,434.144 c 0,0 2.725,9.404 11.787,8.358 L 335.834,419.12 c 0,0 7.494,-0.896 4.195,-11.695 0,0 -8.045,-23.704 -10.561,-29.555 0,0 -2.508,-10.863 -25.905,-4.594 l -82.848,21.563 c 0,0 -10.837,2.865 -6.346,16.049 z"
+         id="path234"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-7.3459625,-31.833847,-31.833847,7.3459625,282.08301,430.46631)"
+       spreadMethod="pad"
+       id="linearGradient252">
+      <stop
+         style="stop-opacity:1;stop-color:#ffffff"
+         offset="0"
+         id="stop242" />
+      <stop
+         style="stop-opacity:1;stop-color:#ffffff"
+         offset="0.011236"
+         id="stop244" />
+      <stop
+         style="stop-opacity:1;stop-color:#7284c5"
+         offset="0.52809"
+         id="stop246" />
+      <stop
+         style="stop-opacity:1;stop-color:#120d14"
+         offset="0.932584"
+         id="stop248" />
+      <stop
+         style="stop-opacity:1;stop-color:#120d14"
+         offset="1"
+         id="stop250" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-6-72"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path34305-7-73"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-5-3"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path34308-6-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <radialGradient
+       id="radialGradient6485-9-9-4"
+       gradientUnits="userSpaceOnUse"
+       cy="67.501999"
+       cx="12.576"
+       gradientTransform="scale(1.9258,0.51926)"
+       r="8.7663002">
+      <stop
+         id="stop2456-3-6-4"
+         offset="0" />
+      <stop
+         id="stop2458-1-0-4"
+         stop-opacity="0"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient11676"
+       gradientUnits="userSpaceOnUse"
+       cy="67.501999"
+       cx="12.576"
+       gradientTransform="scale(1.9258,0.51926)"
+       r="8.7663002">
+      <stop
+         id="stop11672"
+         offset="0" />
+      <stop
+         id="stop11674"
+         stop-opacity="0"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient11707"
+       gradientUnits="userSpaceOnUse"
+       cy="67.501999"
+       cx="12.576"
+       gradientTransform="scale(1.9258,0.51926)"
+       r="8.7663002">
+      <stop
+         id="stop11703"
+         offset="0" />
+      <stop
+         id="stop11705"
+         stop-opacity="0"
+         offset="1" />
+    </radialGradient>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:label="Diffuse light"
+       inkscape:menu-tooltip="Basic diffuse bevel to use for building textures"
+       inkscape:menu="ABCs"
+       id="filter3889">
+      <feGaussianBlur
+         in="SourceGraphic"
+         stdDeviation="6"
+         result="result0"
+         id="feGaussianBlur3891" />
+      <feDiffuseLighting
+         diffuseConstant="1"
+         surfaceScale="10"
+         result="result5"
+         id="feDiffuseLighting3893">
+        <feDistantLight
+           azimuth="235"
+           elevation="25"
+           id="feDistantLight3895" />
+      </feDiffuseLighting>
+      <feComposite
+         operator="arithmetic"
+         in="result5"
+         result="result4"
+         k1="1"
+         k2="0"
+         k3="0.6"
+         in2="SourceGraphic"
+         id="feComposite3897" />
+    </filter>
   </defs>
   <metadata
      id="metadata7">
@@ -6801,7 +8351,7 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="title"
-     style="display:none">
+     style="display:inline">
     <rect
        y="152.36218"
        x="0"
@@ -6892,16 +8442,16 @@
        x="801.10938"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.66666794px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:middle;fill:#203d85;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         id="tspan4346"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
-         y="589.90778"
-         x="801.25934"
-         sodipodi:role="line">Исследование сетевых протоколов</tspan><tspan
          id="tspan8919"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#203d85;fill-opacity:1"
+         y="589.90778"
+         x="801.2594"
+         sodipodi:role="line">Исследование Wi-Fi</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#203d85;fill-opacity:1"
-         y="645.04199"
-         x="801.25934"
-         sodipodi:role="line">Муравьёв С.К.</tspan></text>
+         y="643.24109"
+         x="801.2594"
+         sodipodi:role="line"
+         id="tspan2583">Муравьёв С.К.</tspan></text>
     <path
        style="fill:#224087;fill-opacity:1;stroke-width:0.99999994"
        d="m 129.09366,930.40423 c -15.85799,-8.3239 -32.140275,-19.4241 -40.027805,-27.2884 -7.7415,-7.7186 -19.25137,-25.263 -21.27213,-32.2142 l 0.18331,-52.5182 c 29.30978,-1.7858 57.744495,-3.4464 86.357145,-1.6729 l 9,0.7183 -17.9636,18.2184 c -9.87999,10.02009 -18.44115,18.2183 -19.02482,18.2183 -1.08148,0 -9.5116,-8.4887 -9.5116,-9.5778 0,-0.3288 3.26252,-3.6895 7.25,-7.468 l 7.25,-6.8702 -4.49998,0.051 c -2.47502,0.028 -13.95001,0.5719 -25.50002,1.208 l -20.821415,0.978 0.68738,37.6147 c 5.81242,16.8707 26.673495,36.2696 52.924355,49.2148 l 8.79026,4.33479 8.49695,-4.3509 c 25.24384,-12.9262 42.16441,-27.7756 50.52737,-44.34259 l 2.89512,-5.7351 v -62.8828 -62.88284 l -7.25,-2.15206 C 163.02731,732.47478 118.98935,730.239 80.591775,743.14371 l -0.75761,25.97712 3.75001,-0.5709 c 2.06249,-0.314 7.0125,-0.8797 10.99998,-1.257 3.987515,-0.3774 7.250005,-0.9465 7.250005,-1.2647 0,-0.3183 -1.66844,-2.28731 -3.707645,-4.37565 l -3.70764,-3.79699 4.873475,-4.94787 4.87347,-4.94788 31.66836,28.80469 -10.25,1.5078 c -5.59022,0.8224 -20.80335,1.7955 -33.701935,3.143 -12.89855,1.3474 -23.59389,2.4499 -23.76745,2.4499 -0.17348,0 -0.19502,-11.0923 -0.048,-24.6496 l 0.26759,-24.64961 6.4964,-2.42896 c 9.51757,-3.55856 28.808135,-8.00309 42.304825,-9.74699 28.97889,-3.74435 63.54773,-0.37932 89.89338,8.75048 l 9.30539,3.22469 0.25701,68.70589 0.25701,68.706 -2.41867,5.469 c -8.86844,20.0531 -29.51702,38.6936 -59.30317,53.5359 -6.71445,3.3457 -12.56444,6.075 -12.99999,6.065 -0.43555,-0.011 -6.30013,-2.9094 -13.03234,-6.4431 z M 67.834095,801.60793 v -5.5546 l 4.74999,-0.6031 c 7.98527,-1.01391 42.402145,-3.5846 47.990065,-3.5846 h 5.25997 v 5.8096 5.8096 l -20.25003,1.2095 c -11.137475,0.6651 -24.187505,1.4926 -28.999975,1.8389 l -8.75002,0.6294 z m 69.944125,0.4135 c -4.50266,-3.646 -1.68015,-12.1558 4.03181,-12.1558 3.10961,0 7.02407,3.901 7.02407,7 0,1.893 -0.88766,3.5531 -2.63486,4.9274 -3.2521,2.5581 -5.4697,2.6182 -8.42102,0.2284 z"
@@ -6914,7 +8464,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="master_slide"
-     style="display:inline">
+     style="display:none"
+     sodipodi:insensitive="true">
     <rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#5f7da9;stroke-opacity:1"
        id="rect9037"
@@ -6959,7 +8510,7 @@
          x="31.882812"
          y="881.53516"
          id="tspan9304"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.33333206px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">Исследование сетевых протоколов</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.33333206px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">Исследование Wi-Fi</tspan></text>
     <text
        id="text9306"
        y="881.53516"
@@ -7002,516 +8553,208 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="g3340"
-     inkscape:label="Запуск Kali Linux"
-     style="display:none">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="830.18463"
-       y="140.5974"
-       id="text3324"><tspan
-         id="tspan3322"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="830.18463"
-         y="140.5974">Запуск виртуальной машины</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="830.18463"
-         y="183.79739"
-         id="tspan3550">осуществляется с помощью </tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="830.18463"
-         y="226.99741"
-         id="tspan3552">соответствующей кнопки или через</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="830.18463"
-         y="270.19739"
-         id="tspan3554">двойной щелчок мыши по её имени</tspan></text>
-    <text
-       id="text3338"
-       y="634.1579"
-       x="77.186157"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan3336"
-         y="634.1579"
-         x="77.186157"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Для входа в систему используется</tspan><tspan
-         y="677.35791"
-         x="77.186157"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan3566">логин <tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
-   id="tspan3568">root</tspan> и пароль <tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
-   id="tspan3570">toor</tspan></tspan></text>
-    <image
-       sodipodi:absref="H:\МИФИ\ta43\img/start_kali.png"
-       xlink:href="img/start_kali.png"
-       y="110"
-       x="80"
-       id="image3542"
-       preserveAspectRatio="none"
-       height="448"
-       width="669" />
-    <image
-       sodipodi:absref="H:\МИФИ\ta43\img/login_kali.png"
-       xlink:href="img/login_kali.png"
-       y="330"
-       x="830.34283"
-       id="image3580"
-       preserveAspectRatio="none"
-       height="480"
-       width="640" />
-  </g>
-  <g
-     style="display:inline"
-     inkscape:label="Знакомство с терминалом"
-     id="g2390"
-     inkscape:groupmode="layer">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="77.186157"
-       y="134.1579"
-       id="text2384"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="77.186157"
-         y="134.1579"
-         id="tspan2376">Для входа в систему используется</tspan><tspan
-         id="tspan2382"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="77.186157"
-         y="177.35789">логин <tspan
-   id="tspan2378"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">root</tspan> и пароль <tspan
-   id="tspan2380"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">toor</tspan></tspan></text>
-    <image
-       sodipodi:absref="H:\МИФИ\ta43\img/open_terminal.png"
-       xlink:href="img/open_terminal.png"
-       width="706"
-       height="504"
-       preserveAspectRatio="none"
-       id="image2602"
-       x="840"
-       y="110" />
-  </g>
-  <g
-     style="display:none"
-     inkscape:label="Знакомство с утилитой ifconfig"
-     id="g2809"
-     inkscape:groupmode="layer">
-    <text
-       id="text2793"
-       y="140.5974"
-       x="830.18463"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="140.5974"
-         x="830.18463"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan2785">Запуск виртуальной машины</tspan><tspan
-         id="tspan2787"
-         y="183.79739"
-         x="830.18463"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">осуществляется с помощью </tspan><tspan
-         id="tspan2789"
-         y="226.99741"
-         x="830.18463"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">соответствующей кнопки или через</tspan><tspan
-         id="tspan2791"
-         y="270.19739"
-         x="830.18463"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">двойной щелчок мыши по её имени</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="77.186157"
-       y="634.1579"
-       id="text2803"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="77.186157"
-         y="634.1579"
-         id="tspan2795">Для входа в систему используется</tspan><tspan
-         id="tspan2801"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="77.186157"
-         y="677.35791">логин <tspan
-   id="tspan2797"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">root</tspan> и пароль <tspan
-   id="tspan2799"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">toor</tspan></tspan></text>
-    <image
-       sodipodi:absref="H:\МИФИ\ta43\img/start_kali.png"
-       xlink:href="img/start_kali.png"
-       width="669"
-       height="448"
-       preserveAspectRatio="none"
-       id="image2805"
-       x="80"
-       y="110" />
-    <image
-       sodipodi:absref="H:\МИФИ\ta43\img/login_kali.png"
-       xlink:href="img/login_kali.png"
-       width="640"
-       height="480"
-       preserveAspectRatio="none"
-       id="image2807"
-       x="830.34283"
-       y="330" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="Определение сетевого окружения"
+     inkscape:label="Требования к Wi-Fi адаптерам"
      style="display:none">
     <a
-       id="a5283"
-       xlink:href="https://ru.wikipedia.org/wiki/VirtualBox">
+       id="a6587"
+       xlink:href="https://en.wikipedia.org/wiki/Monitor_mode"
+       transform="translate(0,40)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;line-height:150%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
          x="57.31543"
          y="149.26349"
          id="text8001-4-6"><tspan
-           id="tspan5246"
+           id="tspan6583"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="57.31543"
-           y="149.26349">Определение сетевых интерфейсов</tspan><tspan
+           y="149.26349">Поддержка режима монитора (monitor mode), </tspan><tspan
+           id="tspan6585"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="57.31543"
+           y="203.26349">позволяющего захватывать весь траффик,</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="57.31543"
+           y="257.26349"
+           id="tspan6623">проходящий через беспроводной интерфейс. </tspan><tspan
+           id="tspan22730"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="57.31543"
+           y="287.02911" /><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="57.31543"
+           y="305.02911"
+           id="tspan3240" /></text>
+    </a>
+    <a
+       id="a6672"
+       xlink:href="https://www.wirelesshack.org/best-kali-linux-compatible-usb-adapter-dongles.html">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:150%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="58.35878"
+         y="635.18561"
+         id="text8001-4-6-3"><tspan
+           id="tspan6642"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="58.35878"
+           y="635.18561">Совместимость чипсета с Kali Linux</tspan><tspan
+           id="tspan6654"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="58.35878"
+           y="689.18561">Atheros AR9271, Ralink RT3070, Ralink RT3572, </tspan><tspan
+           id="tspan6658"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="58.35878"
+           y="743.18561">Ralink RT5572, Realtek RTL8812AU, Ralink RT5370N</tspan><tspan
+           id="tspan6646"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="58.35878"
+           y="772.95123" /></text>
+    </a>
+    <g
+       inkscape:label="Layer 1"
+       id="layer1-1"
+       transform="matrix(0.83727887,0,0,0.83727887,962.02734,39.909618)"
+       style="stroke-width:1.19434524">
+      <g
+         id="g4071"
+         style="stroke-width:1.19434524">
+        <g
+           transform="translate(-3.9821)"
+           id="g4063"
+           style="stroke-width:1.19434524">
+          <g
+             transform="matrix(4.2485,0,0,4.2485,-1791.4,-1450.9)"
+             id="g3833"
+             style="stroke-width:1.19434524">
+            <rect
+               x="472.35999"
+               y="378.07999"
+               width="78.75"
+               height="94.820999"
+               rx="0"
+               style="fill:#808080;stroke-width:1.19434524"
+               id="rect3014" />
+            <path
+               inkscape:connector-curvature="0"
+               style="fill:#b3b3b3;stroke-width:1.19434524"
+               sodipodi:nodetypes="cccc"
+               d="m 512.91,472.9 38.196,0.003 0.0283,-94.783 z"
+               id="path3811" />
+          </g>
+          <g
+             transform="matrix(4.2485,0,0,4.2485,-1797.9,-1450.9)"
+             style="fill:#b3b3b3;stroke:#646464;stroke-width:1.19434524"
+             id="g3807">
+            <rect
+               x="484.20999"
+               y="409.79001"
+               width="18.214001"
+               height="14.643"
+               ry="2.7145078"
+               style="fill:#b3b3b3;stroke:#646464;stroke-width:1.19434524"
+               id="rect3020"
+               rx="2.7145078" />
+            <rect
+               x="524.10999"
+               y="409.67001"
+               width="18.214001"
+               height="14.643"
+               ry="2.7145078"
+               style="fill:#b3b3b3;stroke:#646464;stroke-width:1.19434524"
+               id="rect3022"
+               rx="2.7145078" />
+          </g>
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           transform="matrix(4.2485,0,0,4.2485,-1791.4,-1450.9)"
+           sodipodi:nodetypes="csssscc"
+           d="m 464.12,471.58 v 55.488 c 0,5.9943 -0.21345,10.834 7.1562,10.834 h 79.031 c 6.4768,0 7.1875,-4.8394 7.1875,-10.834 V 471.58 Z"
+           style="fill:#191919;stroke-width:1.19434524;filter:url(#filter3889)"
+           id="rect2996" />
+      </g>
+      <g
+         transform="matrix(4.2485,0,0,4.2485,-1252.1,-1326.7)"
+         id="g3798"
+         style="stroke-width:1.19434524">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#d2d2d2;stroke-width:1.19434524px"
+           d="m 380.98,481.2 c 2.8693,2.6477 4.6602,2.0224 7.0536,0.0893"
+           sodipodi:nodetypes="cc"
+           id="path3024" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#dcdcdc;stroke-width:1.19434524px"
+           d="m 378.57,486.2 c 3.6908,2.1566 7.6419,3.015 11.161,-0.35715"
+           id="path3026" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#ffffff;stroke-width:1.19434524px"
+           d="m 375,490.58 c 7.7743,4.7718 12.256,3.7221 17.768,0.17857"
+           sodipodi:nodetypes="cc"
+           id="path3028" />
+      </g>
+      <text
+         x="334.82513"
+         y="684.2179"
+         xml:space="preserve"
+         style="line-height:0%;font-family:'Adobe Arabic';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:1.19434524"
+         id="text3803">       <tspan
+   y="684.2179"
+   style="font-size:46.31200027px;line-height:1.25;font-family:'Capture it';fill:#ffffff;stroke-width:1.19434524"
+   x="334.82513"
+   sodipodi:role="line"
+   id="tspan3805">wifi</tspan>    </text>
+    </g>
+    <a
+       xlink:href="https://en.wikipedia.org/wiki/Packet_injection"
+       id="a6607"
+       transform="translate(0,262.96106)">
+      <text
+         id="text6605"
+         y="149.26349"
+         x="57.31543"
+         style="font-style:normal;font-weight:normal;line-height:150%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="149.26349"
+           x="57.31543"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan6599">Поддержка режима инъёкции пакетов (packet </tspan><tspan
            y="203.26349"
-           id="tspan2589">МАС</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-           sodipodi:role="line"
            x="57.31543"
-           y="232.36755"
-           id="tspan2591" /></text>
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan6611">injection), позволяющий внедрять в сторонний </tspan><tspan
+           y="257.26349"
+           x="57.31543"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan6631">траффик собственные пакеты. </tspan><tspan
+           y="287.02911"
+           x="57.31543"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan6601" /><tspan
+           id="tspan6603"
+           y="305.02911"
+           x="57.31543"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></text>
     </a>
-  </g>
-  <g
-     style="display:none"
-     inkscape:label="Знакомство с Wireshark"
-     id="g3338"
-     inkscape:groupmode="layer">
-    <a
-       xlink:href="https://www.kali.org/downloads/"
-       id="a3316">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-         x="70.184631"
-         y="140.5974"
-         id="text3314"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-           sodipodi:role="line"
-           x="70.184631"
-           y="140.5974"
-           id="tspan3543">Импорт загруженного образа виртуальной </tspan><tspan
-           id="tspan3312"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-           sodipodi:role="line"
-           x="70.184631"
-           y="183.79739">машины осуществляется через меню </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-           sodipodi:role="line"
-           x="70.184631"
-           y="226.99741"
-           id="tspan3560">&quot;Файл&gt;Импорт конфигураций...&quot;.</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-           sodipodi:role="line"
-           x="70.184631"
-           y="248.90147"
-           id="tspan3558" /></text>
-    </a>
-    <a
-       xlink:href="https://ru.wikipedia.org/wiki/ISO-%D0%BE%D0%B1%D1%80%D0%B0%D0%B7"
-       id="a3334">
-      <text
-         id="text3332"
-         y="302.23401"
-         x="66.841797"
-         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="302.23401"
-           x="66.841797"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-           id="tspan3599">После завершения процедуры импорта</tspan><tspan
-           y="345.43402"
-           x="66.841797"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-           id="tspan3603">настройте использование NAT-сети в </tspan><tspan
-           y="388.634"
-           x="66.841797"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-           id="tspan3605">свойствах новой виртуальной машины.</tspan><tspan
-           y="410.53809"
-           x="66.841797"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-           id="tspan3623" /></text>
-    </a>
-    <image
-       sodipodi:absref="H:\МИФИ\ta43\img/import_kali.png"
-       xlink:href="img/import_kali.png"
-       width="652"
-       height="542"
-       preserveAspectRatio="none"
-       id="image3540"
-       x="906"
-       y="110" />
-  </g>
-  <g
-     style="display:none"
-     inkscape:label="Исследование протокола Ethernet"
-     id="g8208"
-     inkscape:groupmode="layer">
-    <text
-       id="text8001-4"
-       y="140.5974"
-       x="670.18463"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="140.5974"
-         x="670.18463"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan8192">В диалоге настроек среды виртуализации, </tspan><tspan
-         y="183.79739"
-         x="670.18463"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan7027">доступном через меню &quot;Файл&gt;Настройки&quot;,</tspan><tspan
-         y="226.99741"
-         x="670.18463"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan7029">необходимо добавить новую сеть NAT</tspan></text>
-    <image
-       sodipodi:absref="H:\МИФИ\ta43\img/add_nat.png"
-       xlink:href="img/add_nat.png"
-       y="110"
-       x="67"
-       id="image7004"
-       preserveAspectRatio="none"
-       height="365"
-       width="553" />
-    <image
-       sodipodi:absref="H:\МИФИ\ta43\img/set_nat.png"
-       xlink:href="img/set_nat.png"
-       y="350"
-       x="800"
-       id="image7039"
-       preserveAspectRatio="none"
-       height="444"
-       width="724" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="66.841797"
-       y="542.23401"
-       id="text7048"><tspan
-         id="tspan7046"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="66.841797"
-         y="542.23401">В дальнейшем у всех виртульных </tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="66.841797"
-         y="585.43402"
-         id="tspan7055">машин тестового окружения </tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="66.841797"
-         y="628.63403"
-         id="tspan7057">необходимо активировать </tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="66.841797"
-         y="671.83398"
-         id="tspan7059">использование созданной сети NAT</tspan></text>
-  </g>
-  <g
-     style="display:none"
-     inkscape:label="Знакомство с утилитой arp"
-     id="g3608"
-     inkscape:groupmode="layer">
-    <text
-       id="text3591"
-       y="140.5974"
-       x="830.18463"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan3589"
-         y="140.5974"
-         x="830.18463"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Для получения возможности работы</tspan><tspan
-         y="183.79739"
-         x="830.18463"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan3631">в полноэкранном режиме необходимо</tspan><tspan
-         y="226.99741"
-         x="830.18463"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan3633">установить гостевые расширения</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="77.186157"
-       y="714.1579"
-       id="text3602"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="77.186157"
-         y="714.1579"
-         id="tspan3654">Установка осуществляется через </tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="77.186157"
-         y="757.35791"
-         id="tspan3652">выполнение команд, приведённых </tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="77.186157"
-         y="800.55792"
-         id="tspan3662">на рисунке.</tspan></text>
-    <image
-       sodipodi:absref="H:\МИФИ\ta43\img/vb_guest_additions.png"
-       xlink:href="img/vb_guest_additions.png"
-       y="110"
-       x="80"
-       id="image3618"
-       preserveAspectRatio="none"
-       height="559"
-       width="655" />
-    <image
-       sodipodi:absref="H:\МИФИ\ta43\img/vb_install_ga.png"
-       xlink:href="img/vb_install_ga.png"
-       y="290"
-       x="840"
-       id="image3643"
-       preserveAspectRatio="none"
-       height="504"
-       width="706" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="g7095"
-     inkscape:label="Исследование протокола ARP"
-     style="display:none">
-    <a
-       id="a7300"
-       xlink:href="https://www.kali.org/downloads/">
-      <text
-         id="text7079"
-         y="140.5974"
-         x="70.184631"
-         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="140.5974"
-           x="70.184631"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-           id="tspan7077">Установка виртуальной машины </tspan><tspan
-           id="tspan7296"
-           y="183.79739"
-           x="70.184631"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Kali Linux возможна с готового </tspan><tspan
-           y="226.99741"
-           x="70.184631"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-           id="tspan7356">образа виртуальной машины, </tspan><tspan
-           id="tspan7298"
-           y="270.19739"
-           x="70.184631"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">который доступен на сайте </tspan><tspan
-           y="313.3974"
-           x="70.184631"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-           id="tspan7380">https://www.kali.org/downloads/</tspan></text>
-    </a>
-    <a
-       id="a7393"
-       xlink:href="https://ru.wikipedia.org/wiki/ISO-%D0%BE%D0%B1%D1%80%D0%B0%D0%B7">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-         x="66.841797"
-         y="422.23401"
-         id="text7093"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-           sodipodi:role="line"
-           x="66.841797"
-           y="422.23401"
-           id="tspan7091">Здесь же доступны ISO-образы для </tspan><tspan
-           id="tspan7329"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-           sodipodi:role="line"
-           x="66.841797"
-           y="465.43402">установки Kali Linux в качестве</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-           sodipodi:role="line"
-           x="66.841797"
-           y="508.634"
-           id="tspan7400">основной системы на различных </tspan><tspan
-           id="tspan7327"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-           sodipodi:role="line"
-           x="66.841797"
-           y="551.83398">аппаратных платформах и с </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-           sodipodi:role="line"
-           x="66.841797"
-           y="595.034"
-           id="tspan7402">возможностью выбора </tspan><tspan
-           id="tspan7346"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-           sodipodi:role="line"
-           x="66.841797"
-           y="638.23401">альтернативных оболочек</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-           sodipodi:role="line"
-           x="66.841797"
-           y="681.43402"
-           id="tspan7408">рабочего стола</tspan></text>
-    </a>
-    <image
-       sodipodi:absref="H:\МИФИ\ta43\img/download_kali.png"
-       xlink:href="img/download_kali.png"
-       y="110"
-       x="780"
-       id="image7390"
-       preserveAspectRatio="none"
-       height="657"
-       width="770" />
   </g>
   <g
      style="display:none"
@@ -7567,8 +8810,8 @@
        ry="0"
        transform="rotate(-45)" />
     <a
-       transform="translate(2.8710938,-137.76154)"
-       xlink:href="https://kali.tools/?p=1913"
+       transform="translate(2.8710938,-222.82727)"
+       xlink:href="https://www.youtube.com/watch?v=0lqRZ3MWPXY"
        id="a8076"
        style="fill:#800080">
       <text
@@ -7581,24 +8824,60 @@
            sodipodi:role="line"
            x="117.24609"
            y="390"
-           id="tspan8623">Описание OWASP Broken Web Applications Project</tspan></text>
+           id="tspan8623">Best USB Wireless (WiFi) Adapters For Hacking 2020</tspan></text>
     </a>
+    <a
+       transform="translate(1.3304513,63.30743)"
+       xlink:href="http://www.wikisec.ru/index.php?title=%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD_%D0%BE%D1%82_26_%D0%B8%D1%8E%D0%BB%D1%8F_2017_%D0%B3._N_187-%D0%A4%D0%97"
+       id="a8076-5-1"
+       style="display:inline;fill:#800080" />
+    <a
+       style="display:inline;fill:#800080"
+       id="a4900"
+       xlink:href="https://media.kaspersky.com/ru/business-security/Kaspersky_Anti_Targeted_Attack_Platform_Datasheet.PDF"
+       transform="translate(1.3304513,183.30743)" />
     <rect
        transform="rotate(-45)"
        ry="0"
-       y="278.43848"
-       x="-185.30136"
+       y="215.39642"
+       x="-122.25932"
        height="20"
        width="20"
-       id="rect8078"
+       id="rect6548"
        style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
     <a
-       transform="translate(0.29865095,-53.234863)"
-       xlink:href="https://www.packtpub.com/networking-and-servers/web-penetration-testing-kali-linux"
-       id="a8076-5"
-       style="display:inline;fill:#800080">
+       style="fill:#800080"
+       id="a6554"
+       xlink:href="https://xakep.ru/2012/09/19/59340/"
+       transform="translate(2.8710938,-142.82727)">
       <text
-         id="text8074-4"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+         x="117.24609"
+         y="390"
+         id="text6552"><tspan
+           id="tspan6550"
+           y="390"
+           x="117.24609"
+           sodipodi:role="line"
+           style="font-size:32px;line-height:1;font-family:sans-serif">Режим монитора Wi-Fi под Android</tspan></text>
+    </a>
+    <rect
+       style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6679"
+       width="20"
+       height="20"
+       x="-178.82787"
+       y="271.965"
+       ry="0"
+       transform="rotate(-45)" />
+    <a
+       transform="translate(2.8710938,-62.82727)"
+       xlink:href="https://hackware.ru/?p=6780#2"
+       id="a6685"
+       style="fill:#800080">
+      <text
+         id="text6683"
          y="390"
          x="117.24609"
          style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
@@ -7607,43 +8886,8 @@
            sodipodi:role="line"
            x="117.24609"
            y="390"
-           id="tspan8596">Web Penetration Testing with Kali Linux</tspan></text>
+           id="tspan6681">USB Wi-Fi адаптеры с поддержкой режима монитора и беспроводных инъекций </tspan></text>
     </a>
-    <a
-       transform="translate(1.3304513,63.30743)"
-       xlink:href="http://www.wikisec.ru/index.php?title=%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD_%D0%BE%D1%82_26_%D0%B8%D1%8E%D0%BB%D1%8F_2017_%D0%B3._N_187-%D0%A4%D0%97"
-       id="a8076-5-1"
-       style="display:inline;fill:#800080" />
-    <a
-       transform="translate(7.7756839,-222.30383)"
-       xlink:href="https://xakep.ru/2012/06/15/58852/"
-       id="a8076-7"
-       style="display:inline;fill:#800080">
-      <text
-         id="text8074-9"
-         y="390"
-         x="117.24609"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan8696"
-           x="117.24609"
-           y="390">Metasploitable 2: виртуальная машина Linux для тренировки</tspan></text>
-    </a>
-    <rect
-       style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect8698"
-       width="20"
-       height="20"
-       x="-125.46569"
-       y="218.60278"
-       ry="0"
-       transform="rotate(-45)" />
-    <a
-       style="display:inline;fill:#800080"
-       id="a4900"
-       xlink:href="https://media.kaspersky.com/ru/business-security/Kaspersky_Anti_Targeted_Attack_Platform_Datasheet.PDF"
-       transform="translate(1.3304513,183.30743)" />
   </g>
   <g
      style="display:none"
@@ -7679,7 +8923,7 @@
     </a>
     <a
        xlink:href="https://smurav.github.io/ta43/"
-       id="a4364">
+       id="a3219">
       <text
          id="text4358"
          y="790"
