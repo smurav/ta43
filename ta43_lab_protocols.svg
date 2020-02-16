@@ -26,14 +26,14 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="371.79074"
+     inkscape:cx="603.73742"
      inkscape:cy="485.02174"
      inkscape:document-units="px"
-     inkscape:current-layer="g31586"
+     inkscape:current-layer="g31489"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1135"
-     inkscape:window-x="0"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
@@ -7463,10 +7463,10 @@
          y="690.38867"
          x="100.44141"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">команда -параматры аргументы</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">команда -параметры аргументы</tspan></text>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="Перенаправление ввода-вывода"
      id="g31489"
      inkscape:groupmode="layer">
@@ -7480,12 +7480,12 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="77.186157"
-         y="134.1579">В командной оболочке можно перенаправлять стандартные потоки ввода (</tspan><tspan
+         y="134.1579">В командной оболочке можно перенаправлять стандартные потоки ввода</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="77.186157"
          y="177.35789"
-         id="tspan31493">команды, вводимые с клавиатуры) и вывода (стандартный вывод в окне </tspan><tspan
+         id="tspan31493">(команды, вводимые с клавиатуры) и вывода (стандартный вывод в окне </tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="77.186157"
@@ -8152,8 +8152,8 @@
   <g
      inkscape:groupmode="layer"
      id="g31586"
-     inkscape:label="Задания для самостоятельного исполнения"
-     style="display:inline">
+     inkscape:label="Задания для самостоятельного выполнения"
+     style="display:none">
     <a
        id="a31544"
        xlink:href="http://www.postgresql.org/docs/current/static/transaction-iso.html"
