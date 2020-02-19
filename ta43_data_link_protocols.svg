@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.60148271"
-     inkscape:cx="483.28188"
-     inkscape:cy="508.32334"
+     inkscape:zoom="0.85062501"
+     inkscape:cx="799.17213"
+     inkscape:cy="376.46808"
      inkscape:document-units="px"
-     inkscape:current-layer="g4588"
+     inkscape:current-layer="g36346"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1135"
@@ -18221,510 +18221,6 @@
     </g>
   </g>
   <g
-     style="display:none"
-     inkscape:label="Кадр Ethernet"
-     id="g12296"
-     inkscape:groupmode="layer">
-    <g
-       id="g12464"
-       transform="matrix(1.4917262,0,0,1.773217,-397.43031,-551.15585)"
-       style="stroke-width:0.61485755">
-      <rect
-         width="166.10527"
-         height="945.1051"
-         rx="1.1278936"
-         ry="1.3407286"
-         x="-764.54071"
-         y="330.16199"
-         transform="rotate(-90)"
-         style="opacity:1;fill:url(#linearGradient12298);fill-opacity:1;stroke:#000000;stroke-width:0.61485755;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.50196078"
-         id="rect12146" />
-      <rect
-         width="103.6359"
-         height="540.63593"
-         rx="2.8197339"
-         ry="3.3518217"
-         x="-712.80664"
-         y="342.44193"
-         transform="rotate(-90)"
-         style="fill:url(#linearGradient12300);fill-opacity:1;stroke:#000000;stroke-width:0.92228633;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect12148" />
-      <g
-         transform="translate(329.66198,-287.32149)"
-         id="g12182"
-         style="stroke-width:0.61485755">
-        <rect
-           width="45.105328"
-           height="199.10527"
-           x="-950.40796"
-           y="33.545227"
-           transform="rotate(-90)"
-           style="fill:url(#linearGradient12302);fill-opacity:1;stroke:#000000;stroke-width:1.22971511;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect12150" />
-        <g
-           transform="translate(57.09788,515.4931)"
-           id="g12176"
-           style="stroke-width:0.61485755">
-          <text
-             x="5"
-             y="406.3656"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="text12154"
-             xml:space="preserve"><tspan
-               x="5"
-               y="406.3656"
-               style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
-               id="tspan12152">80</tspan></text>
-          <text
-             x="32.865147"
-             y="406.3656"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="text12158"
-             xml:space="preserve"><tspan
-               x="32.865147"
-               y="406.3656"
-               style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
-               id="tspan12156">00</tspan></text>
-          <text
-             x="60.730293"
-             y="406.3656"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="text12162"
-             xml:space="preserve"><tspan
-               x="60.730293"
-               y="406.3656"
-               style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
-               id="tspan12160">20</tspan></text>
-          <text
-             x="89.374733"
-             y="406.43054"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="text12166"
-             xml:space="preserve"><tspan
-               x="89.374733"
-               y="406.43054"
-               style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
-               id="tspan12164">7A</tspan></text>
-          <text
-             x="116.8434"
-             y="406.36218"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="text12170"
-             xml:space="preserve"><tspan
-               x="116.8434"
-               y="406.36218"
-               style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
-               id="tspan12168">3F</tspan></text>
-          <text
-             x="145.10503"
-             y="406.36218"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="text12174"
-             xml:space="preserve"><tspan
-               x="145.10503"
-               y="406.36218"
-               style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
-               id="tspan12172">3E</tspan></text>
-        </g>
-        <text
-           x="133.18674"
-           y="938.85535"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           id="text12180"
-           xml:space="preserve"><tspan
-             x="133.18674"
-             y="938.85535"
-             style="font-weight:bold;stroke-width:0.61485755px"
-             id="tspan12178">Destination MAC Address</tspan></text>
-      </g>
-      <g
-         transform="translate(329.66198,-287.32149)"
-         id="g12216"
-         style="stroke-width:0.61485755">
-        <rect
-           width="45.105328"
-           height="199.10527"
-           x="-950.40796"
-           y="243.54524"
-           transform="rotate(-90)"
-           style="fill:url(#linearGradient12304);fill-opacity:1;stroke:#000000;stroke-width:1.22971511;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect12184" />
-        <g
-           transform="translate(267.0978,515.4931)"
-           id="g12210"
-           style="stroke-width:0.61485755">
-          <text
-             x="5"
-             y="406.3656"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="text12188"
-             xml:space="preserve"><tspan
-               x="5"
-               y="406.3656"
-               style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
-               id="tspan12186">80</tspan></text>
-          <text
-             x="32.865147"
-             y="406.3656"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="text12192"
-             xml:space="preserve"><tspan
-               x="32.865147"
-               y="406.3656"
-               style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
-               id="tspan12190">00</tspan></text>
-          <text
-             x="60.730293"
-             y="406.3656"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="text12196"
-             xml:space="preserve"><tspan
-               x="60.730293"
-               y="406.3656"
-               style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
-               id="tspan12194">20</tspan></text>
-          <text
-             x="89.374733"
-             y="406.43054"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="text12200"
-             xml:space="preserve"><tspan
-               x="89.374733"
-               y="406.43054"
-               style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
-               id="tspan12198">20</tspan></text>
-          <text
-             x="116.8434"
-             y="406.36218"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="text12204"
-             xml:space="preserve"><tspan
-               x="116.8434"
-               y="406.36218"
-               style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
-               id="tspan12202">3A</tspan></text>
-          <text
-             x="145.10503"
-             y="406.36218"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="text12208"
-             xml:space="preserve"><tspan
-               x="145.10503"
-               y="406.36218"
-               style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
-               id="tspan12206">AE</tspan></text>
-        </g>
-        <text
-           x="343.18677"
-           y="938.85535"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           id="text12214"
-           xml:space="preserve"><tspan
-             x="343.18677"
-             y="938.85535"
-             style="font-weight:bold;stroke-width:0.61485755px"
-             id="tspan12212">Source MAC Address</tspan></text>
-      </g>
-      <rect
-         width="45.105328"
-         height="79.105324"
-         x="-663.08649"
-         y="783.20715"
-         transform="rotate(-90)"
-         style="fill:url(#linearGradient12306);fill-opacity:1;stroke:#000000;stroke-width:1.22971511;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect12218" />
-      <text
-         x="807.49011"
-         y="634.53729"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="text12222"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan12220"
-           x="807.49011"
-           y="634.53729"
-           style="font-size:14px;line-height:1;stroke-width:0.61485755px">08</tspan></text>
-      <text
-         x="836.13458"
-         y="634.60223"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="text12226"
-         xml:space="preserve"><tspan
-           x="836.13458"
-           y="634.60223"
-           style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
-           id="tspan12224">00</tspan></text>
-      <text
-         x="822.84869"
-         y="651.53387"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="text12230"
-         xml:space="preserve"><tspan
-           x="822.84869"
-           y="651.53387"
-           style="font-weight:bold;stroke-width:0.61485755px"
-           id="tspan12228">EtherType</tspan></text>
-      <text
-         x="612.08801"
-         y="684.53381"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="text12236"
-         xml:space="preserve"><tspan
-           x="612.08801"
-           y="684.53381"
-           style="font-weight:bold;font-size:16px;stroke-width:0.61485755px"
-           id="tspan12232">MAC Header</tspan><tspan
-           x="612.08801"
-           y="698.95929"
-           style="font-weight:normal;font-size:14px;stroke-width:0.61485755px"
-           id="tspan12234">(14 bytes)</tspan></text>
-      <rect
-         width="103.6359"
-         height="228.63602"
-         rx="2.8197339"
-         ry="3.3518217"
-         x="-712.80664"
-         y="893.87024"
-         transform="rotate(-90)"
-         style="fill:url(#linearGradient12308);fill-opacity:1;stroke:#000000;stroke-width:0.92228633;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect12238" />
-      <rect
-         width="45.105328"
-         height="199.10527"
-         x="-663.08649"
-         y="908.12762"
-         transform="rotate(-90)"
-         style="fill:url(#linearGradient12310);fill-opacity:1;stroke:#000000;stroke-width:1.22971511;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect12240" />
-      <text
-         x="1007.6324"
-         y="634.60223"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="text12244"
-         xml:space="preserve"><tspan
-           x="1007.6324"
-           y="634.60223"
-           style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
-           id="tspan12242">IP, ARP, etc.</tspan></text>
-      <text
-         x="1007.7692"
-         y="651.53387"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="text12248"
-         xml:space="preserve"><tspan
-           x="1007.7692"
-           y="651.53387"
-           style="font-weight:bold;stroke-width:0.61485755px"
-           id="tspan12246">Payload</tspan></text>
-      <text
-         x="1007.5162"
-         y="684.53381"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="text12254"
-         xml:space="preserve"><tspan
-           x="1007.5162"
-           y="684.53381"
-           style="font-weight:bold;font-size:16px;stroke-width:0.61485755px"
-           id="tspan12250">Data</tspan><tspan
-           x="1007.5162"
-           y="698.95929"
-           style="font-weight:normal;font-size:14px;stroke-width:0.61485755px"
-           id="tspan12252">(46 - 1500 bytes)</tspan></text>
-      <rect
-         width="45.105328"
-         height="129.10524"
-         x="-663.08643"
-         y="1133.1619"
-         transform="rotate(-90)"
-         style="fill:url(#linearGradient12312);fill-opacity:1;stroke:#000000;stroke-width:1.22971511;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect12256" />
-      <g
-         transform="translate(360.71461,136.62641)"
-         id="g12280"
-         style="stroke-width:0.61485755">
-        <g
-           id="g12274"
-           style="stroke-width:0.61485755">
-          <text
-             x="793.86517"
-             y="497.9108"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="text12260"
-             xml:space="preserve"><tspan
-               x="793.86517"
-               y="497.9108"
-               style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
-               id="tspan12258">00</tspan></text>
-          <text
-             x="821.73029"
-             y="497.9108"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="text12264"
-             xml:space="preserve"><tspan
-               x="821.73029"
-               y="497.9108"
-               style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
-               id="tspan12262">20</tspan></text>
-          <text
-             x="850.37476"
-             y="497.97574"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="text12268"
-             xml:space="preserve"><tspan
-               x="850.37476"
-               y="497.97574"
-               style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
-               id="tspan12266">20</tspan></text>
-          <text
-             x="877.84338"
-             y="497.90738"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="text12272"
-             xml:space="preserve"><tspan
-               x="877.84338"
-               y="497.90738"
-               style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
-               id="tspan12270">3A</tspan></text>
-        </g>
-        <text
-           x="837.08887"
-           y="514.90741"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           id="text12278"
-           xml:space="preserve"><tspan
-             x="837.08887"
-             y="514.90741"
-             style="font-weight:bold;stroke-width:0.61485755px"
-             id="tspan12276">CRC Checksum</tspan></text>
-      </g>
-      <text
-         x="802.43329"
-         y="737.98859"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="text12286"
-         xml:space="preserve"><tspan
-           x="802.43329"
-           y="737.98859"
-           style="font-weight:bold;font-size:16px;stroke-width:0.61485755px"
-           id="tspan12282">Ethernet Type II Frame</tspan><tspan
-           x="802.43329"
-           y="752.414"
-           id="tspan12284"
-           style="stroke-width:0.61485755px">(64 to 1518 bytes)</tspan></text>
-      <text
-         x="1197.0426"
-         y="684.63147"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="text12292"
-         xml:space="preserve"><tspan
-           x="1197.0426"
-           y="684.63147"
-           style="font-weight:bold;font-size:16px;stroke-width:0.61485755px"
-           id="tspan12288" /><tspan
-           x="1197.0426"
-           y="699.05695"
-           style="font-weight:normal;font-size:14px;stroke-width:0.61485755px"
-           id="tspan12290">(4 bytes)</tspan></text>
-      <g
-         id="g12571"
-         transform="translate(0.22620812,-3.3836805)">
-        <text
-           x="894.14203"
-           y="511.28134"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           id="text12493"
-           xml:space="preserve"><tspan
-             x="894.14203"
-             y="511.28134"
-             style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
-             id="tspan12491">08 00 - IPv4</tspan><tspan
-             id="tspan12495"
-             x="894.14203"
-             y="511.28134"
-             style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px" /><tspan
-             id="tspan12497"
-             x="894.14203"
-             y="511.28134"
-             style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px" /><tspan
-             id="tspan12499"
-             x="894.14203"
-             y="511.28134"
-             style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px" /><tspan
-             id="tspan12501"
-             x="894.14203"
-             y="511.28134"
-             style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px" /></text>
-        <text
-           xml:space="preserve"
-           id="text12529"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           y="533.83917"
-           x="896.47992"><tspan
-             id="tspan12519"
-             style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
-             y="533.83917"
-             x="896.47992">86 DD - IPv6</tspan></text>
-        <text
-           x="894.1557"
-           y="556.39703"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           id="text12541"
-           xml:space="preserve"><tspan
-             x="894.1557"
-             y="556.39703"
-             style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
-             id="tspan12531">08 06 - ARP</tspan></text>
-      </g>
-    </g>
-    <path
-       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#203d85;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       d="m 1041.6625,383.39908 c 0,55.22846 -44.7715,100 -99.99996,100 -13.18381,0 -25.77173,-2.55128 -37.297,-7.18705 l -75.21941,75.38426 42.08272,-97.21062 c -18.25915,-18.11781 -29.56631,-43.23174 -29.56631,-70.98659 0,-55.22847 44.77153,-100 100,-100 55.22846,2e-5 99.99996,44.77154 99.99996,100 z"
-       id="path12485"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="sscccsss" />
-    <a
-       style="display:inline"
-       xlink:href="https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82"
-       id="a12553">
-      <text
-         id="text12551"
-         y="149.26349"
-         x="77.31543"
-         style="font-style:normal;font-weight:normal;line-height:150%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           id="tspan12543"
-           y="149.26349"
-           x="77.31543"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">В Ethernet данные передаются блоками, называемыми фреймами. Каждый</tspan><tspan
-           id="tspan12545"
-           y="203.26349"
-           x="77.31543"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">фрейм состоит из заголовка, в котором указаны MAC-адрес отправителя, </tspan><tspan
-           id="tspan12547"
-           y="257.26349"
-           x="77.31543"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">MAC-адрес назначения и тип вышестоящего протокола, полезных данных </tspan><tspan
-           id="tspan12549"
-           y="311.26349"
-           x="77.31543"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">и контрольной суммы в конце.</tspan><tspan
-           y="341.02911"
-           x="77.31543"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-           id="tspan12602" /><tspan
-           y="359.02911"
-           x="77.31543"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-           id="tspan12606" /></text>
-    </a>
-  </g>
-  <g
      inkscape:groupmode="layer"
      id="g36346"
      inkscape:label="MAC-адреса"
@@ -18772,7 +18268,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="77.31543"
-           y="448.36755" /><tspan
+           y="449.02911" /><tspan
            id="tspan7927"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
@@ -18807,12 +18303,12 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="77.31543"
-           y="790.36755" /><tspan
+           y="791.02911" /><tspan
            id="tspan7921"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="77.31543"
-           y="808.36755" /></text>
+           y="809.02911" /></text>
     </a>
     <g
        id="layer1-6"
@@ -19390,6 +18886,510 @@
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          inkscape:connector-curvature="0" />
     </g>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="Кадр Ethernet"
+     id="g12296"
+     inkscape:groupmode="layer">
+    <g
+       id="g12464"
+       transform="matrix(1.4917262,0,0,1.773217,-397.43031,-551.15585)"
+       style="stroke-width:0.61485755">
+      <rect
+         width="166.10527"
+         height="945.1051"
+         rx="1.1278936"
+         ry="1.3407286"
+         x="-764.54071"
+         y="330.16199"
+         transform="rotate(-90)"
+         style="opacity:1;fill:url(#linearGradient12298);fill-opacity:1;stroke:#000000;stroke-width:0.61485755;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.50196078"
+         id="rect12146" />
+      <rect
+         width="103.6359"
+         height="540.63593"
+         rx="2.8197339"
+         ry="3.3518217"
+         x="-712.80664"
+         y="342.44193"
+         transform="rotate(-90)"
+         style="fill:url(#linearGradient12300);fill-opacity:1;stroke:#000000;stroke-width:0.92228633;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect12148" />
+      <g
+         transform="translate(329.66198,-287.32149)"
+         id="g12182"
+         style="stroke-width:0.61485755">
+        <rect
+           width="45.105328"
+           height="199.10527"
+           x="-950.40796"
+           y="33.545227"
+           transform="rotate(-90)"
+           style="fill:url(#linearGradient12302);fill-opacity:1;stroke:#000000;stroke-width:1.22971511;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect12150" />
+        <g
+           transform="translate(57.09788,515.4931)"
+           id="g12176"
+           style="stroke-width:0.61485755">
+          <text
+             x="5"
+             y="406.3656"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="text12154"
+             xml:space="preserve"><tspan
+               x="5"
+               y="406.3656"
+               style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
+               id="tspan12152">80</tspan></text>
+          <text
+             x="32.865147"
+             y="406.3656"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="text12158"
+             xml:space="preserve"><tspan
+               x="32.865147"
+               y="406.3656"
+               style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
+               id="tspan12156">00</tspan></text>
+          <text
+             x="60.730293"
+             y="406.3656"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="text12162"
+             xml:space="preserve"><tspan
+               x="60.730293"
+               y="406.3656"
+               style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
+               id="tspan12160">20</tspan></text>
+          <text
+             x="89.374733"
+             y="406.43054"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="text12166"
+             xml:space="preserve"><tspan
+               x="89.374733"
+               y="406.43054"
+               style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
+               id="tspan12164">7A</tspan></text>
+          <text
+             x="116.8434"
+             y="406.36218"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="text12170"
+             xml:space="preserve"><tspan
+               x="116.8434"
+               y="406.36218"
+               style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
+               id="tspan12168">3F</tspan></text>
+          <text
+             x="145.10503"
+             y="406.36218"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="text12174"
+             xml:space="preserve"><tspan
+               x="145.10503"
+               y="406.36218"
+               style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
+               id="tspan12172">3E</tspan></text>
+        </g>
+        <text
+           x="133.18674"
+           y="938.85535"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="text12180"
+           xml:space="preserve"><tspan
+             x="133.18674"
+             y="938.85535"
+             style="font-weight:bold;stroke-width:0.61485755px"
+             id="tspan12178">Destination MAC Address</tspan></text>
+      </g>
+      <g
+         transform="translate(329.66198,-287.32149)"
+         id="g12216"
+         style="stroke-width:0.61485755">
+        <rect
+           width="45.105328"
+           height="199.10527"
+           x="-950.40796"
+           y="243.54524"
+           transform="rotate(-90)"
+           style="fill:url(#linearGradient12304);fill-opacity:1;stroke:#000000;stroke-width:1.22971511;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect12184" />
+        <g
+           transform="translate(267.0978,515.4931)"
+           id="g12210"
+           style="stroke-width:0.61485755">
+          <text
+             x="5"
+             y="406.3656"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="text12188"
+             xml:space="preserve"><tspan
+               x="5"
+               y="406.3656"
+               style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
+               id="tspan12186">80</tspan></text>
+          <text
+             x="32.865147"
+             y="406.3656"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="text12192"
+             xml:space="preserve"><tspan
+               x="32.865147"
+               y="406.3656"
+               style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
+               id="tspan12190">00</tspan></text>
+          <text
+             x="60.730293"
+             y="406.3656"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="text12196"
+             xml:space="preserve"><tspan
+               x="60.730293"
+               y="406.3656"
+               style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
+               id="tspan12194">20</tspan></text>
+          <text
+             x="89.374733"
+             y="406.43054"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="text12200"
+             xml:space="preserve"><tspan
+               x="89.374733"
+               y="406.43054"
+               style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
+               id="tspan12198">20</tspan></text>
+          <text
+             x="116.8434"
+             y="406.36218"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="text12204"
+             xml:space="preserve"><tspan
+               x="116.8434"
+               y="406.36218"
+               style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
+               id="tspan12202">3A</tspan></text>
+          <text
+             x="145.10503"
+             y="406.36218"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="text12208"
+             xml:space="preserve"><tspan
+               x="145.10503"
+               y="406.36218"
+               style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
+               id="tspan12206">AE</tspan></text>
+        </g>
+        <text
+           x="343.18677"
+           y="938.85535"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="text12214"
+           xml:space="preserve"><tspan
+             x="343.18677"
+             y="938.85535"
+             style="font-weight:bold;stroke-width:0.61485755px"
+             id="tspan12212">Source MAC Address</tspan></text>
+      </g>
+      <rect
+         width="45.105328"
+         height="79.105324"
+         x="-663.08649"
+         y="783.20715"
+         transform="rotate(-90)"
+         style="fill:url(#linearGradient12306);fill-opacity:1;stroke:#000000;stroke-width:1.22971511;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect12218" />
+      <text
+         x="807.49011"
+         y="634.53729"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="text12222"
+         xml:space="preserve"><tspan
+           sodipodi:role="line"
+           id="tspan12220"
+           x="807.49011"
+           y="634.53729"
+           style="font-size:14px;line-height:1;stroke-width:0.61485755px">08</tspan></text>
+      <text
+         x="836.13458"
+         y="634.60223"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="text12226"
+         xml:space="preserve"><tspan
+           x="836.13458"
+           y="634.60223"
+           style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
+           id="tspan12224">00</tspan></text>
+      <text
+         x="822.84869"
+         y="651.53387"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="text12230"
+         xml:space="preserve"><tspan
+           x="822.84869"
+           y="651.53387"
+           style="font-weight:bold;stroke-width:0.61485755px"
+           id="tspan12228">EtherType</tspan></text>
+      <text
+         x="612.08801"
+         y="684.53381"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="text12236"
+         xml:space="preserve"><tspan
+           x="612.08801"
+           y="684.53381"
+           style="font-weight:bold;font-size:16px;stroke-width:0.61485755px"
+           id="tspan12232">MAC Header</tspan><tspan
+           x="612.08801"
+           y="698.95929"
+           style="font-weight:normal;font-size:14px;stroke-width:0.61485755px"
+           id="tspan12234">(14 bytes)</tspan></text>
+      <rect
+         width="103.6359"
+         height="228.63602"
+         rx="2.8197339"
+         ry="3.3518217"
+         x="-712.80664"
+         y="893.87024"
+         transform="rotate(-90)"
+         style="fill:url(#linearGradient12308);fill-opacity:1;stroke:#000000;stroke-width:0.92228633;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect12238" />
+      <rect
+         width="45.105328"
+         height="199.10527"
+         x="-663.08649"
+         y="908.12762"
+         transform="rotate(-90)"
+         style="fill:url(#linearGradient12310);fill-opacity:1;stroke:#000000;stroke-width:1.22971511;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect12240" />
+      <text
+         x="1007.6324"
+         y="634.60223"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="text12244"
+         xml:space="preserve"><tspan
+           x="1007.6324"
+           y="634.60223"
+           style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
+           id="tspan12242">IP, ARP, etc.</tspan></text>
+      <text
+         x="1007.7692"
+         y="651.53387"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="text12248"
+         xml:space="preserve"><tspan
+           x="1007.7692"
+           y="651.53387"
+           style="font-weight:bold;stroke-width:0.61485755px"
+           id="tspan12246">Payload</tspan></text>
+      <text
+         x="1007.5162"
+         y="684.53381"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="text12254"
+         xml:space="preserve"><tspan
+           x="1007.5162"
+           y="684.53381"
+           style="font-weight:bold;font-size:16px;stroke-width:0.61485755px"
+           id="tspan12250">Data</tspan><tspan
+           x="1007.5162"
+           y="698.95929"
+           style="font-weight:normal;font-size:14px;stroke-width:0.61485755px"
+           id="tspan12252">(46 - 1500 bytes)</tspan></text>
+      <rect
+         width="45.105328"
+         height="129.10524"
+         x="-663.08643"
+         y="1133.1619"
+         transform="rotate(-90)"
+         style="fill:url(#linearGradient12312);fill-opacity:1;stroke:#000000;stroke-width:1.22971511;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect12256" />
+      <g
+         transform="translate(360.71461,136.62641)"
+         id="g12280"
+         style="stroke-width:0.61485755">
+        <g
+           id="g12274"
+           style="stroke-width:0.61485755">
+          <text
+             x="793.86517"
+             y="497.9108"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="text12260"
+             xml:space="preserve"><tspan
+               x="793.86517"
+               y="497.9108"
+               style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
+               id="tspan12258">00</tspan></text>
+          <text
+             x="821.73029"
+             y="497.9108"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="text12264"
+             xml:space="preserve"><tspan
+               x="821.73029"
+               y="497.9108"
+               style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
+               id="tspan12262">20</tspan></text>
+          <text
+             x="850.37476"
+             y="497.97574"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="text12268"
+             xml:space="preserve"><tspan
+               x="850.37476"
+               y="497.97574"
+               style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
+               id="tspan12266">20</tspan></text>
+          <text
+             x="877.84338"
+             y="497.90738"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="text12272"
+             xml:space="preserve"><tspan
+               x="877.84338"
+               y="497.90738"
+               style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
+               id="tspan12270">3A</tspan></text>
+        </g>
+        <text
+           x="837.08887"
+           y="514.90741"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="text12278"
+           xml:space="preserve"><tspan
+             x="837.08887"
+             y="514.90741"
+             style="font-weight:bold;stroke-width:0.61485755px"
+             id="tspan12276">CRC Checksum</tspan></text>
+      </g>
+      <text
+         x="802.43329"
+         y="737.98859"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="text12286"
+         xml:space="preserve"><tspan
+           x="802.43329"
+           y="737.98859"
+           style="font-weight:bold;font-size:16px;stroke-width:0.61485755px"
+           id="tspan12282">Ethernet Type II Frame</tspan><tspan
+           x="802.43329"
+           y="752.414"
+           id="tspan12284"
+           style="stroke-width:0.61485755px">(64 to 1518 bytes)</tspan></text>
+      <text
+         x="1197.0426"
+         y="684.63147"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="text12292"
+         xml:space="preserve"><tspan
+           x="1197.0426"
+           y="684.63147"
+           style="font-weight:bold;font-size:16px;stroke-width:0.61485755px"
+           id="tspan12288" /><tspan
+           x="1197.0426"
+           y="699.05695"
+           style="font-weight:normal;font-size:14px;stroke-width:0.61485755px"
+           id="tspan12290">(4 bytes)</tspan></text>
+      <g
+         id="g12571"
+         transform="translate(0.22620812,-3.3836805)">
+        <text
+           x="894.14203"
+           y="511.28134"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="text12493"
+           xml:space="preserve"><tspan
+             x="894.14203"
+             y="511.28134"
+             style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
+             id="tspan12491">08 00 - IPv4</tspan><tspan
+             id="tspan12495"
+             x="894.14203"
+             y="511.28134"
+             style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px" /><tspan
+             id="tspan12497"
+             x="894.14203"
+             y="511.28134"
+             style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px" /><tspan
+             id="tspan12499"
+             x="894.14203"
+             y="511.28134"
+             style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px" /><tspan
+             id="tspan12501"
+             x="894.14203"
+             y="511.28134"
+             style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px" /></text>
+        <text
+           xml:space="preserve"
+           id="text12529"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           y="533.83917"
+           x="896.47992"><tspan
+             id="tspan12519"
+             style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
+             y="533.83917"
+             x="896.47992">86 DD - IPv6</tspan></text>
+        <text
+           x="894.1557"
+           y="556.39703"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:0%;font-family:Arial;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.61485755px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="text12541"
+           xml:space="preserve"><tspan
+             x="894.1557"
+             y="556.39703"
+             style="fill:#000000;fill-opacity:1;stroke-width:0.61485755px"
+             id="tspan12531">08 06 - ARP</tspan></text>
+      </g>
+    </g>
+    <path
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#203d85;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 1041.6625,383.39908 c 0,55.22846 -44.7715,100 -99.99996,100 -13.18381,0 -25.77173,-2.55128 -37.297,-7.18705 l -75.21941,75.38426 42.08272,-97.21062 c -18.25915,-18.11781 -29.56631,-43.23174 -29.56631,-70.98659 0,-55.22847 44.77153,-100 100,-100 55.22846,2e-5 99.99996,44.77154 99.99996,100 z"
+       id="path12485"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sscccsss" />
+    <a
+       style="display:inline"
+       xlink:href="https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82"
+       id="a12553">
+      <text
+         id="text12551"
+         y="149.26349"
+         x="77.31543"
+         style="font-style:normal;font-weight:normal;line-height:150%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan12543"
+           y="149.26349"
+           x="77.31543"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">В Ethernet данные передаются блоками, называемыми фреймами. Каждый</tspan><tspan
+           id="tspan12545"
+           y="203.26349"
+           x="77.31543"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">фрейм состоит из заголовка, в котором указаны MAC-адрес отправителя, </tspan><tspan
+           id="tspan12547"
+           y="257.26349"
+           x="77.31543"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">MAC-адрес назначения и тип вышестоящего протокола, полезных данных </tspan><tspan
+           id="tspan12549"
+           y="311.26349"
+           x="77.31543"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">и контрольной суммы в конце.</tspan><tspan
+           y="341.02911"
+           x="77.31543"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan12602" /><tspan
+           y="359.02911"
+           x="77.31543"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan12606" /></text>
+    </a>
   </g>
   <g
      style="display:none"
@@ -28124,6 +28124,7 @@
 <v:tabList />
 
 
+
 BSSID: <tspan
    style="font-size:9px;stroke-width:1.31300044"
    id="tspan199-0"
@@ -28179,6 +28180,7 @@ BSSID: <tspan
    id="tspan219-3"
    v:langID="1049"
    class="st13">66 (</tspan>
+
 
 
 MAC<tspan
@@ -29002,6 +29004,7 @@ MAC<tspan
 <v:tabList />
 
 
+
 Notebook1</text>
       </g>
     </g>
@@ -29434,6 +29437,7 @@ Notebook1</text>
            x="-3.54"><v:paragraph
    v:horizAlign="1" />
 <v:tabList />
+
 
 
 Tablet1</text>
@@ -29895,6 +29899,7 @@ Tablet1</text>
 <v:tabList />
 
 
+
 Notebook2</text>
       </g>
     </g>
@@ -30329,6 +30334,7 @@ Notebook2</text>
 <v:tabList />
 
 
+
 Tablet2</text>
       </g>
     </g>
@@ -30412,6 +30418,7 @@ Tablet2</text>
 <v:tabList />
 
 
+
 SSID=”WiFi Wikipedia”</text>
     </g>
     <g
@@ -30470,6 +30477,7 @@ SSID=”WiFi Wikipedia”</text>
 <v:tabList />
 
 
+
 Беспроводная сеть <tspan
    style="font-size:9px;stroke-width:1.31300044"
    id="tspan583-9"
@@ -30524,6 +30532,7 @@ SSID=”WiFi Wikipedia”</text>
 <v:tabList />
 
 
+
 Маршрутизатор</text>
     </g>
     <g
@@ -30563,6 +30572,7 @@ SSID=”WiFi Wikipedia”</text>
 <v:tabList />
 
 
+
 Интернет</text>
     </g>
     <g
@@ -30599,6 +30609,7 @@ SSID=”WiFi Wikipedia”</text>
          y="541.77002"
          x="4"><v:paragraph />
 <v:tabList />
+
 
 
 BSS <v:newlineChar />
@@ -31104,11 +31115,13 @@ BSS <v:newlineChar />
 <v:tabList />
 
 
+
 BSSID: 66<tspan
    style="font-size:9px;stroke-width:1.31300044"
    id="tspan677-4"
    v:langID="1049"
    class="st13">-</tspan>
+
 
 
 55<tspan
@@ -31118,11 +31131,13 @@ BSSID: 66<tspan
    class="st13">-</tspan>
 
 
+
 44<tspan
    style="font-size:9px;stroke-width:1.31300044"
    id="tspan681-2"
    v:langID="1049"
    class="st13">-</tspan>
+
 
 
 33<tspan
@@ -31132,11 +31147,13 @@ BSSID: 66<tspan
    class="st13">-</tspan>
 
 
+
 22<tspan
    style="font-size:9px;stroke-width:1.31300044"
    id="tspan685-5"
    v:langID="1049"
    class="st13">-</tspan>
+
 
 
 11<tspan
@@ -31149,6 +31166,7 @@ BSSID: 66<tspan
    id="tspan689-7"
    v:langID="1049"
    class="st13">(</tspan>
+
 
 
 MAC<tspan
@@ -31615,6 +31633,7 @@ MAC<tspan
 <v:tabList />
 
 
+
 Notebook<tspan
    style="font-size:10.00003242px;stroke-width:1.31300044"
    id="tspan769-8"
@@ -32052,6 +32071,7 @@ Notebook<tspan
            x="-3.54"><v:paragraph
    v:horizAlign="1" />
 <v:tabList />
+
 
 
 Tablet<tspan
@@ -32518,6 +32538,7 @@ Tablet<tspan
 <v:tabList />
 
 
+
 Notebook<tspan
    style="font-size:10.00003242px;stroke-width:1.31300044"
    id="tspan914-2"
@@ -32957,6 +32978,7 @@ Notebook<tspan
 <v:tabList />
 
 
+
 Tablet<tspan
    style="font-size:10.00003242px;stroke-width:1.31300044"
    id="tspan981-8"
@@ -33000,6 +33022,7 @@ Tablet<tspan
          x="53.439999"><v:paragraph
    v:horizAlign="1" />
 <v:tabList />
+
 
 
 SSID=”WiFi Wikipedia”</text>
@@ -33060,6 +33083,7 @@ SSID=”WiFi Wikipedia”</text>
 <v:tabList />
 
 
+
 Беспроводная сеть <tspan
    style="font-size:9px;stroke-width:1.31300044"
    id="tspan1007-6"
@@ -33111,6 +33135,7 @@ SSID=”WiFi Wikipedia”</text>
          y="541.77002"
          x="4"><v:paragraph />
 <v:tabList />
+
 
 
 BSS <v:newlineChar />
@@ -33187,6 +33212,7 @@ BSS <v:newlineChar />
 <v:tabList />
 
 
+
 ESS <tspan
    style="font-size:13.99987793px;stroke-width:1.31300044"
    id="tspan1041-6"
@@ -33228,6 +33254,7 @@ ESS <tspan
          x="-20.973808"><v:paragraph
    v:horizAlign="1" />
 <v:tabList />
+
 
 
 ESSID <tspan
@@ -33690,6 +33717,7 @@ ESSID <tspan
            x="-9.5900002"><v:paragraph
    v:horizAlign="1" />
 <v:tabList />
+
 
 
 Notebook_My</text>
@@ -34180,6 +34208,7 @@ Notebook_My</text>
            x="-9.5900002"><v:paragraph
    v:horizAlign="1" />
 <v:tabList />
+
 
 
 Notebook_My</text>
