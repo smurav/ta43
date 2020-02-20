@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.85062501"
-     inkscape:cx="753.57096"
-     inkscape:cy="471.41662"
+     inkscape:cx="541.96185"
+     inkscape:cy="377.36813"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -6811,7 +6811,7 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="title"
-     style="display:inline">
+     style="display:none">
     <rect
        y="152.36218"
        x="0"
@@ -6924,7 +6924,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="master_slide"
-     style="display:none">
+     style="display:inline">
     <rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#5f7da9;stroke-opacity:1"
        id="rect9037"
@@ -7138,12 +7138,12 @@
     <image
        sodipodi:absref="H:\МИФИ\ta43\img/run_wireshark.png"
        xlink:href="img/run_wireshark.png"
-       y="110"
-       x="860"
-       id="image7359"
-       preserveAspectRatio="none"
+       width="706"
        height="666"
-       width="706" />
+       preserveAspectRatio="none"
+       id="image7359"
+       x="860"
+       y="110" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7189,23 +7189,23 @@
     <image
        sodipodi:absref="H:\МИФИ\ta43\img/start_wireshark.png"
        xlink:href="img/start_wireshark.png"
-       style="stroke-width:1.17166662"
-       width="654.62305"
-       height="600"
-       preserveAspectRatio="none"
-       id="image2667"
+       y="210"
        x="61.436584"
-       y="210" />
+       id="image2667"
+       preserveAspectRatio="none"
+       height="600"
+       width="654.62305"
+       style="stroke-width:1.17166662" />
     <image
        sodipodi:absref="H:\МИФИ\ta43\img/names_wireshark.png"
        xlink:href="img/names_wireshark.png"
-       style="stroke-width:1.1294117"
-       width="680"
-       height="449.79166"
-       preserveAspectRatio="none"
-       id="image2869"
+       y="100.20834"
        x="860"
-       y="100.20834" />
+       id="image2869"
+       preserveAspectRatio="none"
+       height="449.79166"
+       width="680"
+       style="stroke-width:1.1294117" />
     <a
        xlink:href="https://ru.wikipedia.org/wiki/Wireshark"
        id="a2884"
@@ -7316,12 +7316,12 @@
     <image
        sodipodi:absref="H:\МИФИ\ta43\img/wireshark_interface.png"
        xlink:href="img/wireshark_interface.png"
-       y="110"
-       x="854"
-       id="image7429"
-       preserveAspectRatio="none"
+       width="706"
        height="666"
-       width="706" />
+       preserveAspectRatio="none"
+       id="image7429"
+       x="854"
+       y="110" />
   </g>
   <g
      style="display:none"
@@ -7371,7 +7371,7 @@
            sodipodi:role="line"
            x="70.184631"
            y="320.90149"
-           id="tspan6671"></tspan><tspan
+           id="tspan6671" /><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="70.184631"
@@ -7436,13 +7436,13 @@
     <image
        sodipodi:absref="H:\МИФИ\ta43\img/filtration.png"
        xlink:href="img/filtration.png"
-       style="display:inline;stroke-width:1.09571433"
-       width="700"
-       height="723.72882"
-       preserveAspectRatio="none"
-       id="image6719"
+       y="86.271179"
        x="860"
-       y="86.271179" />
+       id="image6719"
+       preserveAspectRatio="none"
+       height="723.72882"
+       width="700"
+       style="display:inline;stroke-width:1.09571433" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7479,7 +7479,7 @@
          x="46.841797"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan11858"></tspan><tspan
+         id="tspan11858" /><tspan
          y="320.634"
          x="46.841797"
          sodipodi:role="line"
@@ -7701,26 +7701,26 @@
     <image
        sodipodi:absref="H:\МИФИ\ta43\img/http_packets.png"
        xlink:href="img/http_packets.png"
-       y="110"
-       x="660"
-       id="image6807"
-       preserveAspectRatio="none"
-       height="600"
+       style="stroke-width:1.3216666"
        width="580.32788"
-       style="stroke-width:1.3216666" />
+       height="600"
+       preserveAspectRatio="none"
+       id="image6807"
+       x="660"
+       y="110" />
     <image
        sodipodi:absref="H:\МИФИ\ta43\img/http_session.png"
        xlink:href="img/http_session.png"
-       width="479.77802"
-       height="553"
-       preserveAspectRatio="none"
-       id="image6834"
-       x="1100"
+       style="display:inline;stroke-width:1.43399632"
        y="257"
-       style="display:inline;stroke-width:1.43399632" />
+       x="1100"
+       id="image6834"
+       preserveAspectRatio="none"
+       height="553"
+       width="479.77802" />
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="Экспорт файлов"
      id="g3608"
      inkscape:groupmode="layer">
@@ -7780,27 +7780,27 @@
     <image
        sodipodi:absref="H:\МИФИ\ta43\img/export_objects.png"
        xlink:href="img/export_objects.png"
-       width="760"
-       height="553"
-       preserveAspectRatio="none"
-       id="image7512"
+       y="157"
        x="780"
-       y="157" />
-    <image
-       sodipodi:absref="H:\МИФИ\ta43\img/330T%D0%95220.jpg"
-       xlink:href="img/330T%D0%95220.jpg"
-       width="330"
-       height="220"
+       id="image7512"
        preserveAspectRatio="none"
-       id="image7523"
-       x="340"
-       y="550" />
+       height="553"
+       width="760" />
     <path
        style="fill:#ff2020;fill-opacity:1;stroke:#000000;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker36145)"
        d="M 769.19337,511.66256 680,610"
        id="path7526"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
+    <image
+       sodipodi:absref="H:\МИФИ\ta43\img/330.jpg"
+       xlink:href="img/330.jpg"
+       width="330"
+       height="220"
+       preserveAspectRatio="none"
+       id="image2474"
+       x="340"
+       y="530" />
   </g>
   <g
      style="display:none"
