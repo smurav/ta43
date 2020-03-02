@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="613.67553"
-     inkscape:cy="395.42885"
+     inkscape:zoom="0.5"
+     inkscape:cx="566.31198"
+     inkscape:cy="576.17856"
      inkscape:document-units="px"
-     inkscape:current-layer="g9409"
+     inkscape:current-layer="g6018"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1135"
@@ -65,6 +65,34 @@
   </sodipodi:namedview>
   <defs
      id="defs4">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker6638"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#1f3c84;stroke-opacity:1;fill:#1f3c84;fill-opacity:1"
+         id="path6636" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6022"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart">
+      <path
+         transform="scale(0.6) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#1f3c84;stroke-opacity:1;fill:#1f3c84;fill-opacity:1"
+         id="path6020" />
+    </marker>
     <marker
        inkscape:isstock="true"
        style="overflow:visible"
@@ -20484,6 +20512,222 @@
          x="427.30957"
          id="tspan12875-9"
          sodipodi:role="line">08:00:27:08:7f:ec</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g6018"
+     inkscape:label="Структура ARP-пакета"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="727.28809"
+       y="180.59741"
+       id="text5897"><tspan
+         sodipodi:role="line"
+         id="tspan5895"
+         x="727.28809"
+         y="180.59741">32 бита</tspan></text>
+    <rect
+       y="250"
+       x="80"
+       height="80.000008"
+       width="720"
+       id="rect5900"
+       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.99999976;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:#1f3c84;fill-opacity:1;fill-rule:evenodd;stroke:#1f3c84;stroke-width:3.77952766;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker10735);marker-end:url(#marker11207);paint-order:markers fill stroke"
+       d="M 85.6967,210 H 1514.3033"
+       id="path5902"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       id="text5912"
+       y="298.33594"
+       x="146.53906"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:32px"
+         y="298.33594"
+         x="146.53906"
+         id="tspan5910"
+         sodipodi:role="line">Код протокола канального уровня</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="235.30762"
+       y="683.10449"
+       id="text5916"><tspan
+         sodipodi:role="line"
+         id="tspan5914"
+         x="235.30762"
+         y="714.05603" /></text>
+    <rect
+       y="250"
+       x="800"
+       height="80.000008"
+       width="720"
+       id="rect5930"
+       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.99999976;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text5934"
+       y="298.33594"
+       x="889.16406"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:32px"
+         y="298.33594"
+         x="889.16406"
+         id="tspan5932"
+         sodipodi:role="line">Код протокола сетевого уровня</tspan></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.99999976;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5936"
+       width="360"
+       height="80.000008"
+       x="80"
+       y="330" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="260.07812"
+       y="360.33594"
+       id="text5940"><tspan
+         sodipodi:role="line"
+         id="tspan5938"
+         x="260.07812"
+         y="360.33594"
+         style="font-size:32px;line-height:100%;text-align:center;text-anchor:middle">Длина физического</tspan><tspan
+         sodipodi:role="line"
+         x="260.07812"
+         y="396.33594"
+         style="font-size:32px;line-height:100%;text-align:center;text-anchor:middle"
+         id="tspan7258">адреса</tspan></text>
+    <rect
+       y="330"
+       x="799.99994"
+       height="80.000008"
+       width="719.99994"
+       id="rect5942"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.99999976;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text5946"
+       y="378.33594"
+       x="927.22644"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:32px"
+         y="378.33594"
+         x="927.22644"
+         id="tspan5944"
+         sodipodi:role="line">Код операции отправителя</tspan></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.99999976;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5948"
+       width="360"
+       height="80.000008"
+       x="440.00003"
+       y="330" />
+    <text
+       id="text5952"
+       y="362.33594"
+       x="620.07812"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan5950"
+         y="362.33594"
+         x="620.07812"
+         sodipodi:role="line">Длина логического</tspan><tspan
+         y="394.33594"
+         x="620.07812"
+         sodipodi:role="line"
+         id="tspan7260">адреса</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path5954"
+       d="m 440,190 v 40"
+       style="fill:#1f3c84;fill-opacity:1;fill-rule:evenodd;stroke:#1f3c84;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:#1f3c84;fill-opacity:1;fill-rule:evenodd;stroke:#1f3c84;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 800,190 v 40"
+       id="path5956"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5958"
+       d="m 1160,190 v 40"
+       style="fill:#1f3c84;fill-opacity:1;fill-rule:evenodd;stroke:#1f3c84;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="410"
+       x="80"
+       height="80.000008"
+       width="1440"
+       id="rect5960"
+       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.99999976;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text5964"
+       y="458.82812"
+       x="530.47656"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:32px"
+         y="458.82812"
+         x="530.47656"
+         id="tspan5962"
+         sodipodi:role="line">Физический адрес отправителя</tspan></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.99999976;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5978"
+       width="1440"
+       height="80.000008"
+       x="80"
+       y="490" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="533.23438"
+       y="538.82812"
+       id="text5982"><tspan
+         sodipodi:role="line"
+         id="tspan5980"
+         x="533.23438"
+         y="538.82812"
+         style="font-size:32px">Логический адрес отправителя</tspan></text>
+    <rect
+       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.99999976;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5984"
+       width="1440"
+       height="80.000008"
+       x="80.000008"
+       y="570" />
+    <text
+       id="text5988"
+       y="618.33594"
+       x="799.78906"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan5986"
+         y="618.33594"
+         x="799.78906"
+         sodipodi:role="line">Физический адрес получателя</tspan></text>
+    <rect
+       y="650"
+       x="80"
+       height="80.000008"
+       width="1440"
+       id="rect5990"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.99999976;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text5994"
+       y="698.82812"
+       x="543.39062"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:32px"
+         y="698.82812"
+         x="543.39062"
+         id="tspan5992"
+         sodipodi:role="line">Логический адрес получателя</tspan></text>
   </g>
   <g
      style="display:none"
