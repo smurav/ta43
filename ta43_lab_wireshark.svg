@@ -25,16 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.85062501"
-     inkscape:cx="541.96185"
-     inkscape:cy="377.36813"
+     inkscape:zoom="0.42531251"
+     inkscape:cx="796.77051"
+     inkscape:cy="410.15479"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1018"
-     inkscape:window-x="-8"
-     inkscape:window-y="63"
+     inkscape:window-height="1135"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -6811,7 +6811,7 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="title"
-     style="display:none">
+     style="display:inline">
     <rect
        y="152.36218"
        x="0"
@@ -6909,8 +6909,8 @@
          sodipodi:role="line">Знакомство с Wireshark</tspan><tspan
          id="tspan8919"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#203d85;fill-opacity:1"
-         y="645.04199"
-         x="801.25934"
+         y="645.18903"
+         x="801.2594"
          sodipodi:role="line">Муравьёв С.К.</tspan></text>
     <path
        style="fill:#224087;fill-opacity:1;stroke-width:0.99999994"
@@ -6924,14 +6924,14 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="master_slide"
-     style="display:inline">
+     style="display:none">
     <rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#5f7da9;stroke-opacity:1"
        id="rect9037"
        width="1600"
        height="900"
        x="0"
-       y="0" />
+       y="80" />
     <rect
        style="fill:url(#linearGradient9048);fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="rect9040"
@@ -7136,14 +7136,14 @@
            id="tspan3558" /></text>
     </a>
     <image
-       sodipodi:absref="H:\МИФИ\ta43\img/run_wireshark.png"
+       sodipodi:absref="/home/sergey/git/ta43/img/run_wireshark.png"
        xlink:href="img/run_wireshark.png"
-       width="706"
-       height="666"
-       preserveAspectRatio="none"
-       id="image7359"
+       y="110"
        x="860"
-       y="110" />
+       id="image7359"
+       preserveAspectRatio="none"
+       height="666"
+       width="706" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7187,25 +7187,25 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></text>
     </a>
     <image
-       sodipodi:absref="H:\МИФИ\ta43\img/start_wireshark.png"
+       sodipodi:absref="/home/sergey/git/ta43/img/start_wireshark.png"
        xlink:href="img/start_wireshark.png"
-       y="210"
-       x="61.436584"
-       id="image2667"
-       preserveAspectRatio="none"
-       height="600"
+       style="stroke-width:1.17166662"
        width="654.62305"
-       style="stroke-width:1.17166662" />
-    <image
-       sodipodi:absref="H:\МИФИ\ta43\img/names_wireshark.png"
-       xlink:href="img/names_wireshark.png"
-       y="100.20834"
-       x="860"
-       id="image2869"
+       height="600"
        preserveAspectRatio="none"
-       height="449.79166"
+       id="image2667"
+       x="61.436584"
+       y="210" />
+    <image
+       sodipodi:absref="/home/sergey/git/ta43/img/names_wireshark.png"
+       xlink:href="img/names_wireshark.png"
+       style="stroke-width:1.1294117"
        width="680"
-       style="stroke-width:1.1294117" />
+       height="449.79166"
+       preserveAspectRatio="none"
+       id="image2869"
+       x="860"
+       y="100.20834" />
     <a
        xlink:href="https://ru.wikipedia.org/wiki/Wireshark"
        id="a2884"
@@ -7314,14 +7314,14 @@
          y="644.23401"
          id="tspan6641">выбранного поля</tspan></text>
     <image
-       sodipodi:absref="H:\МИФИ\ta43\img/wireshark_interface.png"
+       sodipodi:absref="/home/sergey/git/ta43/img/wireshark_interface.png"
        xlink:href="img/wireshark_interface.png"
-       width="706"
-       height="666"
-       preserveAspectRatio="none"
-       id="image7429"
+       y="110"
        x="854"
-       y="110" />
+       id="image7429"
+       preserveAspectRatio="none"
+       height="666"
+       width="706" />
   </g>
   <g
      style="display:none"
@@ -7360,17 +7360,17 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="70.184631"
-           y="292.10147"
+           y="292.76303"
            id="tspan6709" /><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="70.184631"
-           y="306.50146"
+           y="307.16302"
            id="tspan6669" /><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="70.184631"
-           y="320.90149"
+           y="321.56302"
            id="tspan6671" /><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
@@ -7434,15 +7434,265 @@
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">http</tspan></text>
     <image
-       sodipodi:absref="H:\МИФИ\ta43\img/filtration.png"
+       sodipodi:absref="/home/sergey/git/ta43/img/filtration.png"
        xlink:href="img/filtration.png"
-       y="86.271179"
-       x="860"
-       id="image6719"
-       preserveAspectRatio="none"
-       height="723.72882"
+       style="display:inline;stroke-width:1.09571433"
        width="700"
-       style="display:inline;stroke-width:1.09571433" />
+       height="723.72882"
+       preserveAspectRatio="none"
+       id="image6719"
+       x="860"
+       y="86.271179" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g2546"
+     inkscape:label="Задания для самостоятельного выполнения"
+     style="display:none">
+    <a
+       id="a2468"
+       xlink:href="http://www.postgresql.org/docs/current/static/transaction-iso.html"
+       style="fill:#800080">
+      <a
+         id="a2466"
+         xlink:href="http://www.postgresql.org/docs/current/static/sql-prepare-transaction.html" />
+    </a>
+    <a
+       style="fill:#800080"
+       id="a2470"
+       xlink:href="http://momjian.us/main/writings/pgsql/Get_to_know_PostgreSQL.pdf"
+       transform="translate(2.8710938)" />
+    <a
+       transform="translate(2.8710938,-240)"
+       xlink:href="http://www.postgresql.org/docs/9.3/static/dblink.html"
+       id="a2472"
+       style="fill:#800080" />
+    <a
+       transform="translate(2.8710938,-240)"
+       xlink:href="http://www.wikisec.ru/index.php?title=%D0%93%D0%9E%D0%A1%D0%A2_%D0%A0_51275-2006"
+       id="a2474"
+       style="fill:#800080" />
+    <a
+       transform="translate(2.8710938)"
+       xlink:href="http://wiki.postgresql.org/images/7/7e/Conferences-write_a_foreign_data_wrapper_in_15_minutes-presentation.pdf"
+       id="a2476"
+       style="fill:#800080" />
+    <text
+       id="text2480"
+       y="712.11163"
+       x="-541.44177"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:40px;line-height:1.25;font-family:sans-serif"
+         y="712.11163"
+         x="-541.44177"
+         id="tspan2478"
+         sodipodi:role="line"> </tspan></text>
+    <a
+       style="display:inline;fill:#800080"
+       id="a2482"
+       xlink:href="http://www.wikisec.ru/index.php?title=%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD_%D0%BE%D1%82_26_%D0%B8%D1%8E%D0%BB%D1%8F_2017_%D0%B3._N_187-%D0%A4%D0%97"
+       transform="translate(1.3304513,63.30743)" />
+    <a
+       transform="translate(1.3304513,183.30743)"
+       xlink:href="https://media.kaspersky.com/ru/business-security/Kaspersky_Anti_Targeted_Attack_Platform_Datasheet.PDF"
+       id="a2484"
+       style="display:inline;fill:#800080" />
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="137.61469"
+       x="-44.477585"
+       height="20"
+       width="20"
+       id="rect2486"
+       style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text2490"
+       y="386.92139"
+       x="120.11719"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:32px;line-height:1;font-family:sans-serif"
+         sodipodi:role="line"
+         x="120.11719"
+         y="386.92139"
+         id="tspan2488">Исследуйте содержимое захваченных ARP-пакетов.</tspan></text>
+    <rect
+       style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect2492"
+       width="20"
+       height="20"
+       x="-220.65671"
+       y="313.79385"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text2496"
+       y="466.85892"
+       x="117.54475"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:32px;line-height:1;font-family:sans-serif"
+         sodipodi:role="line"
+         x="117.54475"
+         y="466.85892"
+         id="tspan2494">Исследуйте содержимое захваченных DHCP-пакетов. </tspan></text>
+    <text
+       id="text2500"
+       y="137.69617"
+       x="117.54475"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan2498"
+         x="117.54475"
+         y="137.69617">Запустите wireshark и активируйте захват пакетов.</tspan></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="197.38959"
+       x="-104.25249"
+       height="20"
+       width="20"
+       id="rect2502"
+       style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="370.36246"
+       x="-277.22528"
+       height="20"
+       width="20"
+       id="rect2504"
+       style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+       x="117.54475"
+       y="306.85898"
+       id="text2508"><tspan
+         y="306.85898"
+         x="117.54475"
+         sodipodi:role="line"
+         style="font-size:32px;line-height:1;font-family:sans-serif"
+         id="tspan2506">Проверьте соединение между машинами owasp и kali командой ping.</tspan></text>
+    <rect
+       style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect2510"
+       width="20"
+       height="20"
+       x="-164.08818"
+       y="257.22525"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text2514"
+       y="450.74179"
+       x="117.54475"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan2512"
+         style="font-size:32px;line-height:1;font-family:sans-serif"
+         sodipodi:role="line"
+         x="117.54475"
+         y="475.05429" /></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="426.93106"
+       x="-333.79388"
+       height="20"
+       width="20"
+       id="rect2516"
+       style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+       x="117.54475"
+       y="222.30878"
+       id="text2520"><tspan
+         id="tspan2518"
+         y="222.30878"
+         x="117.54475"
+         sodipodi:role="line"
+         style="font-size:32px;line-height:1;font-family:sans-serif">Запустите машину owasp.</tspan></text>
+    <rect
+       style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect2522"
+       width="20"
+       height="20"
+       x="-390.36249"
+       y="483.49966"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text2526"
+       y="546.92938"
+       x="117.54475"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:32px;line-height:1;font-family:sans-serif"
+         sodipodi:role="line"
+         x="117.54475"
+         y="546.92938"
+         id="tspan2524">Исследуйте содержимое захваченных ICMP-пакетов.</tspan></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="540.06812"
+       x="-446.93109"
+       height="20"
+       width="20"
+       id="rect2528"
+       style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+       x="117.54475"
+       y="709.54663"
+       id="text2534"><tspan
+         y="709.54663"
+         x="117.54475"
+         sodipodi:role="line"
+         style="font-size:32px;line-height:1;font-family:sans-serif"
+         id="tspan2530">Исследуйте содержимое захваченных TCP-пакетов.</tspan><tspan
+         y="741.54663"
+         x="117.54475"
+         sodipodi:role="line"
+         style="font-size:32px;line-height:1;font-family:sans-serif"
+         id="tspan2532" /></text>
+    <rect
+       style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect2536"
+       width="20"
+       height="20"
+       x="-503.49966"
+       y="596.63672"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text2540"
+       y="786.77325"
+       x="117.54475"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan2538"
+         style="font-size:32px;line-height:1;font-family:sans-serif"
+         sodipodi:role="line"
+         x="117.54475"
+         y="786.77325">Исследуйте содержимое захваченных пакетов, относящихся к другим протоколам.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+       x="117.54475"
+       y="626.92938"
+       id="text2544"><tspan
+         id="tspan2542"
+         y="626.92938"
+         x="117.54475"
+         sodipodi:role="line"
+         style="font-size:32px;line-height:1;font-family:sans-serif">Подключитель к терминалу машины owasp через ssh.</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7699,28 +7949,28 @@
          x="70.184631"
          y="882.50153" /></text>
     <image
-       sodipodi:absref="H:\МИФИ\ta43\img/http_packets.png"
+       sodipodi:absref="/home/sergey/git/ta43/img/http_packets.png"
        xlink:href="img/http_packets.png"
-       style="stroke-width:1.3216666"
-       width="580.32788"
-       height="600"
-       preserveAspectRatio="none"
-       id="image6807"
+       y="110"
        x="660"
-       y="110" />
-    <image
-       sodipodi:absref="H:\МИФИ\ta43\img/http_session.png"
-       xlink:href="img/http_session.png"
-       style="display:inline;stroke-width:1.43399632"
-       y="257"
-       x="1100"
-       id="image6834"
+       id="image6807"
        preserveAspectRatio="none"
+       height="600"
+       width="580.32788"
+       style="stroke-width:1.3216666" />
+    <image
+       sodipodi:absref="/home/sergey/git/ta43/img/http_session.png"
+       xlink:href="img/http_session.png"
+       width="479.77802"
        height="553"
-       width="479.77802" />
+       preserveAspectRatio="none"
+       id="image6834"
+       x="1100"
+       y="257"
+       style="display:inline;stroke-width:1.43399632" />
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="Экспорт файлов"
      id="g3608"
      inkscape:groupmode="layer">
@@ -7755,12 +8005,12 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="77.186157"
-         y="299.66199"
+         y="300.32352"
          id="tspan7494" /><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="77.186157"
-         y="314.06198"
+         y="314.72354"
          id="tspan7496" /><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
@@ -7778,14 +8028,14 @@
          y="436.1579"
          id="tspan7502">File &gt; Export Objects</tspan></text>
     <image
-       sodipodi:absref="H:\МИФИ\ta43\img/export_objects.png"
+       sodipodi:absref="/home/sergey/git/ta43/img/export_objects.png"
        xlink:href="img/export_objects.png"
-       y="157"
-       x="780"
-       id="image7512"
-       preserveAspectRatio="none"
+       width="760"
        height="553"
-       width="760" />
+       preserveAspectRatio="none"
+       id="image7512"
+       x="780"
+       y="157" />
     <path
        style="fill:#ff2020;fill-opacity:1;stroke:#000000;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker36145)"
        d="M 769.19337,511.66256 680,610"
@@ -7793,14 +8043,14 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <image
-       sodipodi:absref="H:\МИФИ\ta43\img/330.jpg"
+       sodipodi:absref="/home/sergey/git/ta43/img/330.jpg"
        xlink:href="img/330.jpg"
-       width="330"
-       height="220"
-       preserveAspectRatio="none"
-       id="image2474"
+       y="530"
        x="340"
-       y="530" />
+       id="image2474"
+       preserveAspectRatio="none"
+       height="220"
+       width="330" />
   </g>
   <g
      style="display:none"
@@ -7950,7 +8200,7 @@
        x="117.54475"
        y="450.74179"
        id="text7304"><tspan
-         y="475.93637"
+         y="475.05429"
          x="117.54475"
          sodipodi:role="line"
          style="font-size:32px;line-height:1;font-family:sans-serif"
