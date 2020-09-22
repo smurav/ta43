@@ -12,6 +12,7 @@
 1. [Подготовка тестового окружения](./ta43_lab_env.svg)
 1. [Знакомcтво с терминалом](./ta43_lab_terminal.svg)
 1. [Знакомство с Wireshark](./ta43_lab_wireshark.svg)
+1. [Протоколы сетевого уровня](./ta43_lab_network_protocols.svg)
 
 
 ### Дополнительные материалы
