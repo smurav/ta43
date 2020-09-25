@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.51125608"
-     inkscape:cx="452.21593"
-     inkscape:cy="125.50238"
+     inkscape:zoom="0.96859062"
+     inkscape:cx="303.38663"
+     inkscape:cy="520.50595"
      inkscape:document-units="px"
      inkscape:current-layer="g10681"
      showgrid="true"
@@ -6811,7 +6811,7 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="title"
-     style="display:inline;opacity:1">
+     style="display:none;opacity:1">
     <rect
        y="152.36218"
        x="0"
@@ -6929,7 +6929,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="master_slide"
-     style="display:none">
+     style="display:inline">
     <rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#5f7da9;stroke-opacity:1"
        id="rect9037"
@@ -8583,12 +8583,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/DHCP.png"
        xlink:href="img/DHCP.png"
-       y="110"
-       x="660"
-       id="image7164"
-       preserveAspectRatio="none"
+       width="876"
        height="674"
-       width="876" />
+       preserveAspectRatio="none"
+       id="image7164"
+       x="660"
+       y="110" />
     <a
        transform="translate(10.53068)"
        id="a10966-5"
@@ -9254,25 +9254,25 @@
      inkscape:groupmode="layer"
      id="g10681"
      inkscape:label="Исследование протокола IPv6"
-     style="display:none">
+     style="display:inline">
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/config_nat_network.png"
        xlink:href="img/config_nat_network.png"
-       y="110"
-       x="800"
-       id="image6793"
-       preserveAspectRatio="none"
+       width="757.33331"
        height="502.66666"
-       width="757.33331" />
+       preserveAspectRatio="none"
+       id="image6793"
+       x="800"
+       y="110" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/enable_ipv6.png"
        xlink:href="img/enable_ipv6.png"
-       y="486"
-       x="920"
-       id="image6855"
-       preserveAspectRatio="none"
+       width="359"
        height="284"
-       width="359" />
+       preserveAspectRatio="none"
+       id="image6855"
+       x="920"
+       y="486" />
     <rect
        style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect10703-2"
@@ -9374,12 +9374,12 @@
          sodipodi:role="line"
          x="123.4026"
          y="269.96454"
-         id="tspan10735-4">Получите от DHCP сервера новые </tspan><tspan
+         id="tspan7058">Просмотрите новые адреса IPv6</tspan><tspan
          style="font-size:32px;line-height:1;font-family:sans-serif"
          sodipodi:role="line"
          x="123.4026"
          y="301.96454"
-         id="tspan7058">адреса для машин kali и owasp</tspan></text>
+         id="tspan6829">для машин kali и owasp</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
