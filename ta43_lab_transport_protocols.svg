@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.4948299"
-     inkscape:cx="814.26812"
-     inkscape:cy="160.18462"
+     inkscape:zoom="1.3995903"
+     inkscape:cx="427.87323"
+     inkscape:cy="496.42062"
      inkscape:document-units="px"
      inkscape:current-layer="g6952"
      showgrid="true"
@@ -8199,7 +8199,7 @@
            sodipodi:role="line"
            x="70.184631"
            y="399.79739"
-           id="tspan7043">программных кодов, созданных надругих языках </tspan><tspan
+           id="tspan7043">программных кодов, созданных на других языках </tspan><tspan
            sodipodi:role="line"
            x="70.184631"
            y="442.99741"
@@ -10292,7 +10292,7 @@
          id="tspan7685"
          sodipodi:role="line"
          x="77.226929"
-         y="191.46017">взаимодействия, реализованных во многих ОС и языках программирования.</tspan></text>
+         y="191.46017">взаимодействия, реализованный во многих ОС и языках программирования.</tspan></text>
     <g
        id="g32"
        transform="matrix(5.5222222,0,0,5.5222222,377.9783,312.81279)"
@@ -10379,6 +10379,16 @@
          x="1109.4569"
          y="734.66022"
          id="tspan7779">запросы клиентов</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="580"
+       y="1250"
+       id="text7648"><tspan
+         sodipodi:role="line"
+         id="tspan7646"
+         x="580"
+         y="1250">й</tspan></text>
   </g>
   <g
      style="display:none"
@@ -11050,7 +11060,7 @@
          sodipodi:role="line"
          x="97.441406"
          y="542.70978"
-         id="tspan7632">socket.SOCK_DGRAM - UDP</tspan></text>
+         id="tspan7632">socket.SOCK_DGRAM – UDP</tspan></text>
   </g>
   <g
      style="display:none"
