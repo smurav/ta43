@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.341285"
-     inkscape:cx="482.2642"
-     inkscape:cy="119.40817"
+     inkscape:zoom="0.91439527"
+     inkscape:cx="680.13384"
+     inkscape:cy="351.20843"
      inkscape:document-units="px"
-     inkscape:current-layer="layer12"
+     inkscape:current-layer="g6894"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1138"
@@ -7642,23 +7642,23 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/http_packets.png"
        xlink:href="img/http_packets.png"
-       y="110"
-       x="700"
-       id="image7763"
-       preserveAspectRatio="none"
-       height="578.98303"
+       style="display:inline;stroke-width:1.36964285"
        width="560"
-       style="display:inline;stroke-width:1.36964285" />
+       height="578.98303"
+       preserveAspectRatio="none"
+       id="image7763"
+       x="700"
+       y="110" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/http_session.png"
        xlink:href="img/http_session.png"
-       y="210"
-       x="1040"
-       id="image7905"
-       preserveAspectRatio="none"
-       height="594.90454"
+       style="display:inline;stroke-width:1.33298695"
        width="516.13409"
-       style="display:inline;stroke-width:1.33298695" />
+       height="594.90454"
+       preserveAspectRatio="none"
+       id="image7905"
+       x="1040"
+       y="210" />
   </g>
   <g
      style="display:none"
@@ -8132,7 +8132,7 @@
            sodipodi:role="line"
            x="70.184631"
            y="140.5974"
-           id="tspan6671">Определение алгоритма выполнения подписи и позицию подписи в </tspan><tspan
+           id="tspan6671">Определение алгоритма выполнения подписи и позиции подписи в </tspan><tspan
            sodipodi:role="line"
            x="70.184631"
            y="183.79739"
@@ -8810,7 +8810,7 @@
          sodipodi:role="line"
          x="120.11718"
          y="317.77036"
-         id="tspan6846">Загрузите сертификат УЦ, выпустивший сертификат для mephi.ru</tspan></text>
+         id="tspan6846">Загрузите сертификат УЦ, выпустившего сертификат для mephi.ru</tspan></text>
     <rect
        style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect6850"
@@ -8927,7 +8927,7 @@
          x="117.54473"
          sodipodi:role="line"
          style="font-size:32px;line-height:1;font-family:sans-serif"
-         id="tspan6878">Извлеките из сертификата mephi.ru подписываемую часть сертификата</tspan><tspan
+         id="tspan6878">Извлеките из сертификата mephi.ru подписываемую часть сертификата.</tspan><tspan
          y="672.39563"
          x="117.54473"
          sodipodi:role="line"
