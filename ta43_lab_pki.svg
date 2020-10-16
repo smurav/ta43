@@ -29,7 +29,7 @@
      inkscape:cx="933.05804"
      inkscape:cy="-83.876776"
      inkscape:document-units="px"
-     inkscape:current-layer="g8206"
+     inkscape:current-layer="g7182"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1138"
@@ -7490,7 +7490,7 @@
     </a>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="Подготовка к созданию промежуточного УЦ"
      id="g8206"
      inkscape:groupmode="layer">
@@ -7523,7 +7523,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="97.441406"
-         y="345.90976">mkdir certs crl newcerts private</tspan><tspan
+         y="345.90976">mkdir certs crl csr newcerts private</tspan><tspan
          id="tspan8168"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
@@ -7625,7 +7625,7 @@
   <g
      inkscape:groupmode="layer"
      id="g6989"
-     inkscape:label="Создание корневого УЦ copy"
+     inkscape:label="Создание ключа промежуточного УЦ"
      style="display:none">
     <a
        transform="translate(10.53068,420)"
@@ -7634,77 +7634,35 @@
        style="display:inline">
       <text
          id="text6967"
-         y="-59.402603"
+         y="-99.402603"
          x="70.184631"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           id="tspan6926"
-           y="-59.402603"
-           x="70.184631"
-           sodipodi:role="line">Enter PEM pass phrase: <tspan
-   style="fill:#ff0000"
-   id="tspan6924">secret</tspan></tspan><tspan
-           y="-16.202602"
+           y="-99.402603"
            x="70.184631"
            sodipodi:role="line"
-           id="tspan6930">Verifying - Enter PEM pass phrase: <tspan
+           id="tspan6930">Enter pass phrase for private/int_ca.key.pem: <tspan
    style="fill:#ff0000"
-   id="tspan6928">secret</tspan></tspan><tspan
-           y="26.9974"
+   id="tspan8225">secret</tspan></tspan><tspan
+           y="-56.202602"
            x="70.184631"
            sodipodi:role="line"
-           id="tspan6932">-----</tspan><tspan
-           y="70.197403"
+           id="tspan8221">Verifying - Enter pass phrase for private/int_ca.key.pem: <tspan
+   style="fill:#ff0000"
+   id="tspan8227">secret</tspan></tspan><tspan
+           y="-13.0026"
            x="70.184631"
            sodipodi:role="line"
-           id="tspan6936">Country Name (2 letter code) [AU]:<tspan
-   style="fill:#ff0000"
-   id="tspan6934">RU</tspan></tspan><tspan
-           y="113.3974"
-           x="70.184631"
-           sodipodi:role="line"
-           id="tspan6940">State or Province Name (full name) [Some-State]:<tspan
-   style="fill:#ff0000"
-   id="tspan6938">Moscow</tspan></tspan><tspan
-           y="156.59741"
-           x="70.184631"
-           sodipodi:role="line"
-           id="tspan6944">Locality Name (eg, city) []:<tspan
-   style="fill:#ff0000"
-   id="tspan6942">Moscow</tspan></tspan><tspan
-           y="199.79741"
-           x="70.184631"
-           sodipodi:role="line"
-           id="tspan6948">Organization Name (eg, company) [Internet Widgits Pty Ltd]:<tspan
-   style="fill:#ff0000"
-   id="tspan6946">Mephi</tspan></tspan><tspan
-           y="242.99741"
-           x="70.184631"
-           sodipodi:role="line"
-           id="tspan6953">Organizational Unit Name (eg, section) []:<tspan
-   style="fill:#ff0000"
-   id="tspan6950">kaf43</tspan></tspan><tspan
-           y="286.19742"
-           x="70.184631"
-           sodipodi:role="line"
-           id="tspan6958">Common Name (e.g. server FQDN or YOUR name) []:<tspan
-   style="fill:#ff0000"
-   id="tspan6955">ta</tspan></tspan><tspan
-           y="329.3974"
-           x="70.184631"
-           sodipodi:role="line"
-           id="tspan6962">Email Address []:<tspan
-   style="fill:#ff0000"
-   id="tspan6960">ta@kaf43</tspan></tspan><tspan
+           id="tspan8223" /><tspan
            id="tspan6965"
-           y="372.59741"
+           y="30.197403"
            x="70.184631"
            sodipodi:role="line" /></text>
     </a>
     <rect
        rx="19.999998"
        ry="20"
-       y="210"
+       y="170"
        x="80"
        height="80"
        width="1440"
@@ -7712,16 +7670,16 @@
        style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77952695;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
     <text
        id="text6979"
-       y="259.50977"
+       y="219.50977"
        x="97.441406"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120.00000477%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         id="tspan6975"
-         y="259.50977"
+         y="219.50977"
          x="97.441406"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">openssl req -x509 -newkey rsa:4096 -keyout ca.key -out ca.pem -days 365</tspan><tspan
-         y="282.28287"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan8214">openssl genrsa -aes256 -out private/int_ca.key.pem 4096</tspan><tspan
+         y="242.28288"
          x="97.441406"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
@@ -7740,11 +7698,328 @@
            sodipodi:role="line"
            x="70.184631"
            y="20.597397"
-           id="tspan6981">Создание нового ключа RSA и соответствующего самоподписанного </tspan><tspan
+           id="tspan6983">Создание нового ключа для промежуточногого УЦ</tspan></text>
+    </a>
+    <rect
+       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77952695;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect8301"
+       width="1440"
+       height="80"
+       x="80"
+       y="490"
+       ry="20"
+       rx="19.999998" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120.00000477%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="97.441406"
+       y="539.50977"
+       id="text8307"><tspan
+         id="tspan8303"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="97.441406"
+         y="539.50977">chmod 400 private/int_ca.key.pem</tspan><tspan
+         id="tspan8305"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="97.441406"
+         y="562.2829" /></text>
+    <a
+       transform="translate(10.53068,440)"
+       id="a8313"
+       xlink:href="https://www.kali.org/downloads/"
+       style="display:inline">
+      <text
+         id="text8311"
+         y="20.597397"
+         x="70.184631"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan8309"
+           y="20.597397"
+           x="70.184631"
+           sodipodi:role="line">Настройка прав доступа к новому ключу</tspan></text>
+    </a>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="Создание запроса на выпуск сертификата промежуточного УЦ"
+     id="g6985"
+     inkscape:groupmode="layer">
+    <a
+       style="display:inline"
+       xlink:href="https://www.kali.org/downloads/"
+       id="a6964"
+       transform="translate(10.53068,420)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="70.184631"
+         y="-59.402603"
+         id="text6961"><tspan
            sodipodi:role="line"
            x="70.184631"
-           y="63.797398"
-           id="tspan6983">сертификата со сроком действия в 365 дней</tspan></text>
+           y="-59.402603"
+           id="tspan7108">Enter pass phrase for private/int_ca.key.pem: <tspan
+   style="fill:#ff0000"
+   id="tspan8509">secret</tspan></tspan><tspan
+           sodipodi:role="line"
+           x="70.184631"
+           y="-16.202602"
+           id="tspan8491">-----</tspan><tspan
+           sodipodi:role="line"
+           x="70.184631"
+           y="26.9974"
+           id="tspan8493">Страна (двухбуквенный код) [RU]:</tspan><tspan
+           sodipodi:role="line"
+           x="70.184631"
+           y="70.197403"
+           id="tspan8495">Регион [Москва]:</tspan><tspan
+           sodipodi:role="line"
+           x="70.184631"
+           y="113.3974"
+           id="tspan8497">Населённый пункт []:</tspan><tspan
+           sodipodi:role="line"
+           x="70.184631"
+           y="156.59741"
+           id="tspan8499">Организация [МИФИ]:</tspan><tspan
+           sodipodi:role="line"
+           x="70.184631"
+           y="199.79741"
+           id="tspan8501">Подразделение [Кафедра №43]:</tspan><tspan
+           sodipodi:role="line"
+           x="70.184631"
+           y="242.99741"
+           id="tspan8503">Имя []:<tspan
+   style="fill:#ff0000"
+   id="tspan8533">Kaf 43 CA</tspan></tspan><tspan
+           sodipodi:role="line"
+           x="70.184631"
+           y="286.19742"
+           id="tspan8505">Адрес электронной почты []:</tspan><tspan
+           sodipodi:role="line"
+           x="70.184631"
+           y="329.3974"
+           id="tspan8507" /><tspan
+           sodipodi:role="line"
+           x="70.184631"
+           y="372.59741"
+           id="tspan7110" /><tspan
+           sodipodi:role="line"
+           x="70.184631"
+           y="415.79742"
+           id="tspan6959" /></text>
+    </a>
+    <rect
+       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77952695;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect6966"
+       width="1460"
+       height="120"
+       x="80"
+       y="170"
+       ry="20"
+       rx="19.999998" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120.00000477%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="97.441406"
+       y="219.50977"
+       id="text6975"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="97.441406"
+         y="219.50977"
+         id="tspan8377">openssl req -config int_ca.cfg -utf8 -new -sha256 -key private/int_ca.key.pem \</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="97.441406"
+         y="262.70978"
+         id="tspan8379">      -out csr/int_ca.csr.pem</tspan><tspan
+         id="tspan6973"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="97.441406"
+         y="285.48288" /></text>
+    <a
+       transform="translate(10.53068,120)"
+       id="a6983"
+       xlink:href="https://www.kali.org/downloads/"
+       style="display:inline">
+      <text
+         id="text6981"
+         y="20.597397"
+         x="70.184631"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="20.597397"
+           x="70.184631"
+           sodipodi:role="line"
+           id="tspan6989">Создание запроса на выпуск сертификата (Certificate Signing Request)</tspan></text>
+    </a>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="Выпуск сертификата промежуточного УЦ"
+     id="g7182"
+     inkscape:groupmode="layer">
+    <a
+       transform="translate(10.53068)"
+       id="a7130"
+       xlink:href="https://www.kali.org/downloads/"
+       style="display:inline" />
+    <a
+       transform="translate(10.53068)"
+       id="a7138"
+       xlink:href="https://www.kali.org/downloads/"
+       style="display:inline">
+      <text
+         id="text7136"
+         y="140.5974"
+         x="70.184631"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan7132"
+           y="140.5974"
+           x="70.184631"
+           sodipodi:role="line">Проверка запроса на выпуск сертификата</tspan><tspan
+           id="tspan7134"
+           y="183.79739"
+           x="70.184631"
+           sodipodi:role="line" /></text>
+    </a>
+    <rect
+       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77952695;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect7140"
+       width="1440"
+       height="160"
+       x="80"
+       y="170"
+       ry="20"
+       rx="19.999998" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120.00000477%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="97.441406"
+       y="219.50977"
+       id="text7146"><tspan
+         id="tspan7142"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="97.441406"
+         y="219.50977">cd /root/root_ca</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="97.441406"
+         y="262.70978"
+         id="tspan8593">openssl req -text -noout -verify -in /root/int_ca/csr/int_ca.csr.pem \</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="97.441406"
+         y="305.90976"
+         id="tspan8595">    -nameopt oneline,-esc_msb</tspan><tspan
+         id="tspan7144"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="97.441406"
+         y="328.68289" /></text>
+    <a
+       style="display:inline"
+       xlink:href="https://www.kali.org/downloads/"
+       id="a7148"
+       transform="translate(10.53068,220)" />
+    <a
+       style="display:inline"
+       xlink:href="https://www.kali.org/downloads/"
+       id="a7156"
+       transform="translate(10.53068,240)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="70.184631"
+         y="140.5974"
+         id="text7154"><tspan
+           sodipodi:role="line"
+           x="70.184631"
+           y="140.5974"
+           id="tspan7150">Выпуск сертификата по запросу</tspan><tspan
+           sodipodi:role="line"
+           x="70.184631"
+           y="183.79739"
+           id="tspan7152" /></text>
+    </a>
+    <rect
+       rx="19.999998"
+       ry="20"
+       y="410"
+       x="80"
+       height="160"
+       width="1440"
+       id="rect7158"
+       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77952695;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    <text
+       id="text7164"
+       y="459.50977"
+       x="97.441406"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120.00000477%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="459.50977"
+         x="97.441406"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan7186">openssl ca -config root_ca.cfg -utf8 -extensions v3_intermediate_ca \</tspan><tspan
+         y="502.70978"
+         x="97.441406"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan8601">      -days 365 -notext -md sha256 -in /root/int_ca/csr/int_ca.csr.pem \</tspan><tspan
+         y="545.90979"
+         x="97.441406"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan8603">      -out /root/int_ca/certs/int_ca.cert.pem</tspan><tspan
+         y="568.68286"
+         x="97.441406"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan7162" /></text>
+    <a
+       transform="translate(10.53068,920)"
+       id="a7172"
+       xlink:href="https://www.kali.org/downloads/"
+       style="display:inline">
+      <text
+         id="text7170"
+         y="140.5974"
+         x="70.184631"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan7166"
+           y="140.5974"
+           x="70.184631"
+           sodipodi:role="line">Signature ok</tspan><tspan
+           y="183.79739"
+           x="70.184631"
+           sodipodi:role="line"
+           id="tspan7188">subject=C = RU, ST = Moscow, ... , CN = client, emailAddress = client@kaf43</tspan><tspan
+           y="226.99741"
+           x="70.184631"
+           sodipodi:role="line"
+           id="tspan7190">Getting CA Private Key</tspan><tspan
+           y="270.19739"
+           x="70.184631"
+           sodipodi:role="line"
+           id="tspan7192">Enter pass phrase for ca.key: <tspan
+   style="fill:#ff0000"
+   id="tspan7196">secret</tspan></tspan><tspan
+           y="313.3974"
+           x="70.184631"
+           sodipodi:role="line"
+           id="tspan7194" /><tspan
+           id="tspan7168"
+           y="356.59741"
+           x="70.184631"
+           sodipodi:role="line" /></text>
     </a>
   </g>
   <g
@@ -7890,277 +8165,277 @@
          y="565.39062" /></text>
   </g>
   <g
-     style="display:none"
-     inkscape:label="Создание запроса на выпуск сертификата"
-     id="g6985"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     id="g8373"
+     inkscape:label="Создание запроса на выпуск сертификата copy"
+     style="display:none">
     <a
-       style="display:inline"
+       transform="translate(10.53068,420)"
+       id="a8355"
        xlink:href="https://www.kali.org/downloads/"
-       id="a6964"
-       transform="translate(10.53068,420)">
+       style="display:inline">
       <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-         x="70.184631"
+         id="text8353"
          y="-59.402603"
-         id="text6961"><tspan
-           id="tspan6957"
-           sodipodi:role="line"
+         x="70.184631"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="-59.402603"
            x="70.184631"
-           y="-59.402603">Country Name (2 letter code) [AU]:<tspan
-   style="fill:#ff0000"
-   id="tspan7128">RU</tspan></tspan><tspan
            sodipodi:role="line"
-           x="70.184631"
+           id="tspan8317">Country Name (2 letter code) [AU]:<tspan
+   id="tspan8315"
+   style="fill:#ff0000">RU</tspan></tspan><tspan
+           id="tspan8321"
            y="-16.202602"
-           id="tspan7088">State or Province Name (full name) [Some-State]:<tspan
-   style="fill:#ff0000"
-   id="tspan7126">Moscow</tspan></tspan><tspan
-           sodipodi:role="line"
            x="70.184631"
+           sodipodi:role="line">State or Province Name (full name) [Some-State]:<tspan
+   id="tspan8319"
+   style="fill:#ff0000">Moscow</tspan></tspan><tspan
+           id="tspan8325"
            y="26.9974"
-           id="tspan7090">Locality Name (eg, city) []:<tspan
-   style="fill:#ff0000"
-   id="tspan7124">Moscow</tspan></tspan><tspan
-           sodipodi:role="line"
            x="70.184631"
+           sodipodi:role="line">Locality Name (eg, city) []:<tspan
+   id="tspan8323"
+   style="fill:#ff0000">Moscow</tspan></tspan><tspan
+           id="tspan8329"
            y="70.197403"
-           id="tspan7092">Organization Name (eg, company) [Internet Widgits Pty Ltd]:<tspan
-   style="fill:#ff0000"
-   id="tspan7122">Mephi</tspan></tspan><tspan
-           sodipodi:role="line"
            x="70.184631"
+           sodipodi:role="line">Organization Name (eg, company) [Internet Widgits Pty Ltd]:<tspan
+   id="tspan8327"
+   style="fill:#ff0000">Mephi</tspan></tspan><tspan
+           id="tspan8333"
            y="113.3974"
-           id="tspan7094">Organizational Unit Name (eg, section) []:<tspan
-   style="fill:#ff0000"
-   id="tspan7120">kaf43</tspan></tspan><tspan
-           sodipodi:role="line"
            x="70.184631"
+           sodipodi:role="line">Organizational Unit Name (eg, section) []:<tspan
+   id="tspan8331"
+   style="fill:#ff0000">kaf43</tspan></tspan><tspan
+           id="tspan8337"
            y="156.59741"
-           id="tspan7096">Common Name (e.g. server FQDN or YOUR name) []:<tspan
-   style="fill:#ff0000"
-   id="tspan7118">client</tspan></tspan><tspan
-           sodipodi:role="line"
            x="70.184631"
+           sodipodi:role="line">Common Name (e.g. server FQDN or YOUR name) []:<tspan
+   id="tspan8335"
+   style="fill:#ff0000">client</tspan></tspan><tspan
+           id="tspan8341"
            y="199.79741"
-           id="tspan7100">Email Address []:<tspan
-   style="fill:#ff0000"
-   id="tspan7116">client@kaf43</tspan></tspan><tspan
-           sodipodi:role="line"
            x="70.184631"
+           sodipodi:role="line">Email Address []:<tspan
+   id="tspan8339"
+   style="fill:#ff0000">client@kaf43</tspan></tspan><tspan
+           id="tspan8343"
            y="242.99741"
-           id="tspan7104">...</tspan><tspan
-           sodipodi:role="line"
            x="70.184631"
+           sodipodi:role="line">...</tspan><tspan
+           id="tspan8345"
            y="286.19742"
-           id="tspan7106">A challenge password []:</tspan><tspan
-           sodipodi:role="line"
            x="70.184631"
+           sodipodi:role="line">A challenge password []:</tspan><tspan
+           id="tspan8347"
            y="329.3974"
-           id="tspan7108">An optional company name []:</tspan><tspan
-           sodipodi:role="line"
            x="70.184631"
+           sodipodi:role="line">An optional company name []:</tspan><tspan
+           id="tspan8349"
            y="372.59741"
-           id="tspan7110" /><tspan
-           sodipodi:role="line"
            x="70.184631"
+           sodipodi:role="line" /><tspan
+           id="tspan8351"
            y="415.79742"
-           id="tspan6959" /></text>
-    </a>
-    <rect
-       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77952695;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       id="rect6966"
-       width="1460"
-       height="80"
-       x="80"
-       y="210"
-       ry="20"
-       rx="19.999998" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120.00000477%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="97.441406"
-       y="259.50977"
-       id="text6975"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="97.441406"
-         y="259.50977"
-         id="tspan6969">openssl req -new -newkey rsa:2048 -nodes -keyout client.key -out client.csr</tspan><tspan
-         id="tspan6973"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="97.441406"
-         y="282.28287" /></text>
-    <a
-       transform="translate(10.53068,120)"
-       id="a6983"
-       xlink:href="https://www.kali.org/downloads/"
-       style="display:inline">
-      <text
-         id="text6981"
-         y="20.597397"
-         x="70.184631"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           id="tspan6979"
-           y="20.597397"
-           x="70.184631"
-           sodipodi:role="line">Создание нового ключа RSA и запроса на выпуск сертификата </tspan><tspan
-           y="63.797398"
-           x="70.184631"
-           sodipodi:role="line"
-           id="tspan6989">(Certificate Signing Request)</tspan></text>
-    </a>
-  </g>
-  <g
-     style="display:none"
-     inkscape:label="Выпуск сертификата"
-     id="g7182"
-     inkscape:groupmode="layer">
-    <a
-       transform="translate(10.53068)"
-       id="a7130"
-       xlink:href="https://www.kali.org/downloads/"
-       style="display:inline" />
-    <a
-       transform="translate(10.53068)"
-       id="a7138"
-       xlink:href="https://www.kali.org/downloads/"
-       style="display:inline">
-      <text
-         id="text7136"
-         y="140.5974"
-         x="70.184631"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           id="tspan7132"
-           y="140.5974"
-           x="70.184631"
-           sodipodi:role="line">Проверка запроса на выпуск сертификата</tspan><tspan
-           id="tspan7134"
-           y="183.79739"
            x="70.184631"
            sodipodi:role="line" /></text>
-    </a>
-    <rect
-       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77952695;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-       id="rect7140"
-       width="1440"
-       height="80"
-       x="80"
-       y="170"
-       ry="20"
-       rx="19.999998" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120.00000477%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="97.441406"
-       y="219.50977"
-       id="text7146"><tspan
-         id="tspan7142"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="97.441406"
-         y="219.50977">openssl req -text -noout -verify -in client.csr</tspan><tspan
-         id="tspan7144"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="97.441406"
-         y="242.28288" /></text>
-    <a
-       style="display:inline"
-       xlink:href="https://www.kali.org/downloads/"
-       id="a7148"
-       transform="translate(10.53068,220)" />
-    <a
-       style="display:inline"
-       xlink:href="https://www.kali.org/downloads/"
-       id="a7156"
-       transform="translate(10.53068,180)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-         x="70.184631"
-         y="140.5974"
-         id="text7154"><tspan
-           sodipodi:role="line"
-           x="70.184631"
-           y="140.5974"
-           id="tspan7150">Выпуск сертификата по запросу</tspan><tspan
-           sodipodi:role="line"
-           x="70.184631"
-           y="183.79739"
-           id="tspan7152" /></text>
     </a>
     <rect
        rx="19.999998"
        ry="20"
-       y="350"
+       y="210"
        x="80"
-       height="120"
-       width="1440"
-       id="rect7158"
+       height="80"
+       width="1460"
+       id="rect8357"
        style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77952695;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
     <text
-       id="text7164"
-       y="399.50977"
+       id="text8363"
+       y="259.50977"
        x="97.441406"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120.00000477%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="399.50977"
+         id="tspan8359"
+         y="259.50977"
+         x="97.441406"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">openssl req -new -newkey rsa:2048 -nodes -keyout client.key -out client.csr</tspan><tspan
+         y="282.28287"
          x="97.441406"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan7160">openssl x509 -req -in client.csr -CA ca.pem -CAkey ca.key -CAcreateserial  </tspan><tspan
-         y="442.70978"
-         x="97.441406"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan7186">-out client.pem -days 365</tspan><tspan
-         y="465.48288"
-         x="97.441406"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan7162" /></text>
+         id="tspan8361" /></text>
     <a
-       transform="translate(10.53068,400)"
-       id="a7172"
+       style="display:inline"
+       xlink:href="https://www.kali.org/downloads/"
+       id="a8371"
+       transform="translate(10.53068,120)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="70.184631"
+         y="20.597397"
+         id="text8369"><tspan
+           sodipodi:role="line"
+           x="70.184631"
+           y="20.597397"
+           id="tspan8365">Создание нового ключа RSA и запроса на выпуск сертификата </tspan><tspan
+           id="tspan8367"
+           sodipodi:role="line"
+           x="70.184631"
+           y="63.797398">(Certificate Signing Request)</tspan></text>
+    </a>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g8591"
+     inkscape:label="Выпуск сертификата copy"
+     style="display:none">
+    <a
+       style="display:inline"
+       xlink:href="https://www.kali.org/downloads/"
+       id="a8535"
+       transform="translate(10.53068)" />
+    <a
+       style="display:inline"
+       xlink:href="https://www.kali.org/downloads/"
+       id="a8543"
+       transform="translate(10.53068)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="70.184631"
+         y="140.5974"
+         id="text8541"><tspan
+           sodipodi:role="line"
+           x="70.184631"
+           y="140.5974"
+           id="tspan8537">Проверка запроса на выпуск сертификата</tspan><tspan
+           sodipodi:role="line"
+           x="70.184631"
+           y="183.79739"
+           id="tspan8539" /></text>
+    </a>
+    <rect
+       rx="19.999998"
+       ry="20"
+       y="170"
+       x="80"
+       height="80"
+       width="1440"
+       id="rect8545"
+       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77952695;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    <text
+       id="text8551"
+       y="219.50977"
+       x="97.441406"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120.00000477%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="219.50977"
+         x="97.441406"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan8547">openssl req -text -noout -verify -in client.csr</tspan><tspan
+         y="242.28288"
+         x="97.441406"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan8549" /></text>
+    <a
+       transform="translate(10.53068,220)"
+       id="a8553"
+       xlink:href="https://www.kali.org/downloads/"
+       style="display:inline" />
+    <a
+       transform="translate(10.53068,180)"
+       id="a8561"
        xlink:href="https://www.kali.org/downloads/"
        style="display:inline">
       <text
-         id="text7170"
+         id="text8559"
          y="140.5974"
          x="70.184631"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           id="tspan7166"
+           id="tspan8555"
            y="140.5974"
            x="70.184631"
-           sodipodi:role="line">Signature ok</tspan><tspan
+           sodipodi:role="line">Выпуск сертификата по запросу</tspan><tspan
+           id="tspan8557"
            y="183.79739"
            x="70.184631"
-           sodipodi:role="line"
-           id="tspan7188">subject=C = RU, ST = Moscow, ... , CN = client, emailAddress = client@kaf43</tspan><tspan
-           y="226.99741"
-           x="70.184631"
-           sodipodi:role="line"
-           id="tspan7190">Getting CA Private Key</tspan><tspan
-           y="270.19739"
-           x="70.184631"
-           sodipodi:role="line"
-           id="tspan7192">Enter pass phrase for ca.key: <tspan
-   style="fill:#ff0000"
-   id="tspan7196">secret</tspan></tspan><tspan
-           y="313.3974"
-           x="70.184631"
-           sodipodi:role="line"
-           id="tspan7194" /><tspan
-           id="tspan7168"
-           y="356.59741"
-           x="70.184631"
            sodipodi:role="line" /></text>
+    </a>
+    <rect
+       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77952695;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect8563"
+       width="1440"
+       height="120"
+       x="80"
+       y="350"
+       ry="20"
+       rx="19.999998" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120.00000477%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="97.441406"
+       y="399.50977"
+       id="text8571"><tspan
+         id="tspan8565"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="97.441406"
+         y="399.50977">openssl x509 -req -in client.csr -CA ca.pem -CAkey ca.key -CAcreateserial  </tspan><tspan
+         id="tspan8567"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="97.441406"
+         y="442.70978">-out client.pem -days 365</tspan><tspan
+         id="tspan8569"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="97.441406"
+         y="465.48288" /></text>
+    <a
+       style="display:inline"
+       xlink:href="https://www.kali.org/downloads/"
+       id="a8589"
+       transform="translate(10.53068,400)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="70.184631"
+         y="140.5974"
+         id="text8587"><tspan
+           sodipodi:role="line"
+           x="70.184631"
+           y="140.5974"
+           id="tspan8573">Signature ok</tspan><tspan
+           id="tspan8575"
+           sodipodi:role="line"
+           x="70.184631"
+           y="183.79739">subject=C = RU, ST = Moscow, ... , CN = client, emailAddress = client@kaf43</tspan><tspan
+           id="tspan8577"
+           sodipodi:role="line"
+           x="70.184631"
+           y="226.99741">Getting CA Private Key</tspan><tspan
+           id="tspan8581"
+           sodipodi:role="line"
+           x="70.184631"
+           y="270.19739">Enter pass phrase for ca.key: <tspan
+   id="tspan8579"
+   style="fill:#ff0000">secret</tspan></tspan><tspan
+           id="tspan8583"
+           sodipodi:role="line"
+           x="70.184631"
+           y="313.3974" /><tspan
+           sodipodi:role="line"
+           x="70.184631"
+           y="356.59741"
+           id="tspan8585" /></text>
     </a>
   </g>
   <g
