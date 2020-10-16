@@ -25,15 +25,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.91439527"
-     inkscape:cx="680.13384"
-     inkscape:cy="351.20843"
+     inkscape:zoom="0.86438928"
+     inkscape:cx="636.42663"
+     inkscape:cy="308.86566"
      inkscape:document-units="px"
-     inkscape:current-layer="g6894"
+     inkscape:current-layer="g7337"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1138"
-     inkscape:window-x="1920"
+     inkscape:window-height="1136"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="false"
@@ -7184,7 +7184,7 @@
          sodipodi:role="line"
          x="117.54475"
          y="430.74185"
-         id="tspan7282">С помощью перенаправления ввода команды ns передайте файл с запросом на</tspan><tspan
+         id="tspan7282">С помощью перенаправления ввода команды nc передайте файл с запросом на</tspan><tspan
          id="tspan7284"
          style="font-size:32px;line-height:1;font-family:sans-serif"
          sodipodi:role="line"
@@ -7642,23 +7642,23 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/http_packets.png"
        xlink:href="img/http_packets.png"
-       style="display:inline;stroke-width:1.36964285"
-       width="560"
-       height="578.98303"
-       preserveAspectRatio="none"
-       id="image7763"
+       y="110"
        x="700"
-       y="110" />
+       id="image7763"
+       preserveAspectRatio="none"
+       height="578.98303"
+       width="560"
+       style="display:inline;stroke-width:1.36964285" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/http_session.png"
        xlink:href="img/http_session.png"
-       style="display:inline;stroke-width:1.33298695"
-       width="516.13409"
-       height="594.90454"
-       preserveAspectRatio="none"
-       id="image7905"
+       y="210"
        x="1040"
-       y="210" />
+       id="image7905"
+       preserveAspectRatio="none"
+       height="594.90454"
+       width="516.13409"
+       style="display:inline;stroke-width:1.33298695" />
   </g>
   <g
      style="display:none"
