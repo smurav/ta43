@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.60103579"
-     inkscape:cx="929.37468"
-     inkscape:cy="408.44383"
+     inkscape:zoom="0.56934054"
+     inkscape:cx="721.86754"
+     inkscape:cy="239.63497"
      inkscape:document-units="px"
-     inkscape:current-layer="g11422"
+     inkscape:current-layer="g8208"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1138"
@@ -6434,7 +6434,7 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="title"
-     style="display:inline">
+     style="display:none">
     <a
        id="a3034">
       <rect
@@ -6555,7 +6555,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="master_slide"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#5f7da9;stroke-opacity:1"
@@ -6971,7 +6971,7 @@
        style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48720717;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="Сбор сведений о регистрации домена"
      id="g8208"
      inkscape:groupmode="layer">
@@ -7025,12 +7025,12 @@
          sodipodi:role="line"
          x="76.641235"
          y="445.97171"
-         id="tspan10319"></tspan><tspan
+         id="tspan10319" /><tspan
          style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
          sodipodi:role="line"
          x="76.641235"
          y="460.3717"
-         id="tspan10329"></tspan><tspan
+         id="tspan10329" /><tspan
          style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
          sodipodi:role="line"
          x="76.641235"
@@ -7045,7 +7045,7 @@
          sodipodi:role="line"
          x="76.641235"
          y="581.80609"
-         id="tspan10325">(БД) регистраторов IP-адресов и </tspan><tspan
+         id="tspan10325">регистраторов IP-адресов и </tspan><tspan
          style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
          sodipodi:role="line"
          x="76.641235"
@@ -7074,12 +7074,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/whois.png"
        xlink:href="img/whois.png"
-       width="728"
-       height="513"
-       preserveAspectRatio="none"
-       id="image10300"
+       y="130"
        x="812"
-       y="130" />
+       id="image10300"
+       preserveAspectRatio="none"
+       height="513"
+       width="728" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7125,12 +7125,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/dmitry.png"
        xlink:href="img/dmitry.png"
-       width="728"
-       height="513"
-       preserveAspectRatio="none"
-       id="image10432"
+       y="277"
        x="812"
-       y="277" />
+       id="image10432"
+       preserveAspectRatio="none"
+       height="513"
+       width="728" />
     <text
        id="text7361-4"
        y="281.68945"
@@ -7386,12 +7386,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/theHarvester.png"
        xlink:href="img/theHarvester.png"
-       width="651"
-       height="513"
-       preserveAspectRatio="none"
-       id="image11154"
+       y="130"
        x="869"
-       y="130" />
+       id="image11154"
+       preserveAspectRatio="none"
+       height="513"
+       width="651" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7473,12 +7473,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/RedHawk.png"
        xlink:href="img/RedHawk.png"
-       width="866"
-       height="406"
-       preserveAspectRatio="none"
-       id="image11343"
+       y="370"
        x="654"
-       y="370" />
+       id="image11343"
+       preserveAspectRatio="none"
+       height="406"
+       width="866" />
   </g>
   <g
      style="display:none"
@@ -7602,22 +7602,22 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/SimplyEmailReport.png"
        xlink:href="img/SimplyEmailReport.png"
-       style="stroke-width:1.02666664"
-       width="768.50647"
-       height="600"
-       preserveAspectRatio="none"
-       id="image10914"
+       y="130"
        x="780.49353"
-       y="130" />
+       id="image10914"
+       preserveAspectRatio="none"
+       height="600"
+       width="768.50647"
+       style="stroke-width:1.02666664" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/SimpleEmail.png"
        xlink:href="img/SimpleEmail.png"
-       width="650"
-       height="513"
-       preserveAspectRatio="none"
-       id="image10980"
+       y="290"
        x="80"
-       y="290" />
+       id="image10980"
+       preserveAspectRatio="none"
+       height="513"
+       width="650" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7964,7 +7964,7 @@
          sodipodi:role="line"
          id="tspan11440"
          x="0"
-         y="145.39062"></tspan></text>
+         y="145.39062" /></text>
   </g>
   <g
      style="display:none"
