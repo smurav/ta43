@@ -6,6 +6,7 @@
 1. [Протоколы сетевого уровня](./ta43_network_protocols.svg)
 1. [Протоколы транспортного уровня](./ta43_transport_protocols.svg)
 1. [Протоколы прикладного уровня](./ta43_application_protocols.svg)
+1. [Разведка и сбор данных](./ta43_reconnaissance.svg)
 
 ### Лабораторные работы
 
@@ -16,6 +17,7 @@
 1. [Протоколы транспортного уровня](./ta43_lab_transport_protocols.svg)
 1. [Протоколы прикладного уровня](./ta43_lab_application_protocols.svg)
 1. [Инфрастуктуры открытых ключей](./ta43_lab_pki.svg)
+1. [Разведка и сбор данных](./ta43_lab_reconnaissance.svg)
 
 ### Дополнительные материалы
 
