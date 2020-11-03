@@ -29,7 +29,7 @@
      inkscape:cx="693.45614"
      inkscape:cy="427.54662"
      inkscape:document-units="px"
-     inkscape:current-layer="g11739"
+     inkscape:current-layer="layer17"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1138"
@@ -11154,6 +11154,11 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer17"
+     inkscape:label="Подготовка к тестированию"
+     style="display:none" />
+  <g
+     inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Разведка и сбор данных"
      style="display:none">
@@ -12508,7 +12513,7 @@
   <g
      inkscape:groupmode="layer"
      id="g11512"
-     inkscape:label="Места возникновения уязвимостей copy"
+     inkscape:label="Места возникновения уязвимостей"
      style="display:none">
     <text
        id="text11470"
@@ -13991,7 +13996,7 @@
   <g
      inkscape:groupmode="layer"
      id="g11719"
-     inkscape:label="Типы отчётов"
+     inkscape:label="Подготовка отчётов"
      style="display:none">
     <text
        id="text11697"
