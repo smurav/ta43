@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.42499648"
-     inkscape:cx="509.92061"
-     inkscape:cy="697.47805"
+     inkscape:zoom="0.40258456"
+     inkscape:cx="675.09275"
+     inkscape:cy="538.92764"
      inkscape:document-units="px"
-     inkscape:current-layer="g8208"
+     inkscape:current-layer="layer3"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1138"
@@ -7231,17 +7231,143 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Методы социальной инженерии"
+     style="display:none">
+    <text
+       id="text7388"
+       y="161.68945"
+       x="116.58347"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan7386"
+         y="161.68945"
+         x="116.58347"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Подражание</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect7390"
+       width="20"
+       height="20"
+       x="-59.497475"
+       y="152.63455"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text7396"
+       y="481.18893"
+       x="116.58347"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan7394"
+         y="481.18893"
+         x="116.58347"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:100%;font-family:sans-serif">Налиживание социальный взаимоотношений</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect7398"
+       width="20"
+       height="20"
+       x="-285.7717"
+       y="378.90878"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text7412"
+       y="243.72858"
+       x="116.58347"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan7410"
+         y="243.72858"
+         x="116.58347"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:100%;font-family:sans-serif">Взаимный обмен</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect7414"
+       width="20"
+       height="20"
+       x="-116.06601"
+       y="209.20306"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="116.58347"
+       y="400.63504"
+       id="text7420"><tspan
+         id="tspan7418"
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="116.58347"
+         y="400.63504">Использование жадности</tspan></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="322.34018"
+       x="-229.20306"
+       height="20"
+       width="20"
+       id="rect7422"
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text7430"
+       y="319.37811"
+       x="116.58347"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan7428"
+         y="319.37811"
+         x="116.58347"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:100%;font-family:sans-serif">Влияние авторитета</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect7432"
+       width="20"
+       height="20"
+       x="-172.63452"
+       y="265.77161"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="116.58347"
+       y="561.18896"
+       id="text7471"><tspan
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="116.58347"
+         y="561.18896"
+         id="tspan7469">Сила любопытства</tspan></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="435.47742"
+       x="-342.34036"
+       height="20"
+       width="20"
+       id="rect7473"
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="g7371"
      inkscape:label="Собираемые данные"
      style="display:none">
     <text
        id="text7361"
-       y="141.68945"
+       y="181.68945"
        x="116.58347"
        style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan7359"
-         y="141.68945"
+         y="181.68945"
          x="116.58347"
          sodipodi:role="line"
          style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Имена контакных лиц организации</tspan></text>
@@ -7250,18 +7376,18 @@
        id="rect7363"
        width="20"
        height="20"
-       x="-45.355339"
-       y="138.49243"
+       x="-73.63961"
+       y="166.7767"
        ry="0"
        transform="rotate(-45)" />
     <text
        id="text7367"
-       y="221.68945"
+       y="261.68945"
        x="116.58347"
        style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan7365"
-         y="221.68945"
+         y="261.68945"
          x="116.58347"
          sodipodi:role="line"
          style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Адреса электронной почты и телефоны сотрудников организации</tspan></text>
@@ -7270,26 +7396,26 @@
        id="rect7369"
        width="20"
        height="20"
-       x="-101.92388"
-       y="195.06099"
+       x="-130.20816"
+       y="223.34526"
        ry="0"
        transform="rotate(-45)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        x="116.58347"
-       y="301.68945"
+       y="341.68945"
        id="text7375"><tspan
          style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
          sodipodi:role="line"
          x="116.58347"
-         y="301.68945"
+         y="341.68945"
          id="tspan7373">Организационная структура и функционал подразделений</tspan></text>
     <rect
        transform="rotate(-45)"
        ry="0"
-       y="251.62953"
-       x="-158.49243"
+       y="279.91382"
+       x="-186.7767"
        height="20"
        width="20"
        id="rect7377"
@@ -7298,30 +7424,30 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        x="116.58347"
-       y="461.68945"
+       y="501.68945"
        id="text7381"><tspan
          style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
          sodipodi:role="line"
          x="116.58347"
-         y="461.68945"
+         y="501.68945"
          id="tspan7379">Резюме действующих и бывших сотрудников, данные о вакансиях</tspan></text>
     <rect
        transform="rotate(-45)"
        ry="0"
-       y="308.19812"
-       x="-215.06097"
+       y="336.48242"
+       x="-243.34525"
        height="20"
        width="20"
        id="rect7383"
        style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
     <text
        id="text7387"
-       y="781.68945"
+       y="741.68945"
        x="116.58347"
        style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan7385"
-         y="781.68945"
+         y="741.68945"
          x="116.58347"
          sodipodi:role="line"
          style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Сведения об используемых доменах и поддоменах</tspan></text>
@@ -7330,58 +7456,38 @@
        id="rect7389"
        width="20"
        height="20"
-       x="-271.62955"
-       y="364.76672"
+       x="-299.91385"
+       y="393.05103"
        ry="0"
        transform="rotate(-45)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        x="116.58347"
-       y="381.68945"
+       y="421.68945"
        id="text7393"><tspan
          style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
          sodipodi:role="line"
          x="116.58347"
-         y="381.68945"
+         y="421.68945"
          id="tspan7391">Режим работы ключевых сотрудников и подразделений</tspan></text>
     <rect
        transform="rotate(-45)"
        ry="0"
-       y="421.33533"
-       x="-328.19815"
+       y="449.61963"
+       x="-356.48245"
        height="20"
        width="20"
        id="rect7395"
        style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
     <text
-       id="text7399"
-       y="621.68945"
-       x="116.58347"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan7397"
-         y="621.68945"
-         x="116.58347"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Сведения о поставщиках услуг и потребителях</tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect7401"
-       width="20"
-       height="20"
-       x="-384.76675"
-       y="477.90393"
-       ry="0"
-       transform="rotate(-45)" />
-    <text
        id="text7405"
-       y="701.68945"
+       y="661.68945"
        x="116.58347"
        style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan7403"
-         y="701.68945"
+         y="661.68945"
          x="116.58347"
          sodipodi:role="line"
          style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Используемое оборудование и программное обеспечение</tspan></text>
@@ -7390,26 +7496,26 @@
        id="rect7407"
        width="20"
        height="20"
-       x="-441.33536"
-       y="534.47253"
+       x="-413.05106"
+       y="506.18823"
        ry="0"
        transform="rotate(-45)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        x="116.58347"
-       y="541.68945"
+       y="581.68945"
        id="text7411"><tspan
          style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
          sodipodi:role="line"
          x="116.58347"
-         y="541.68945"
+         y="581.68945"
          id="tspan7409">Сведения о поставщиках услуг и потребителях</tspan></text>
     <rect
        transform="rotate(-45)"
        ry="0"
-       y="591.04114"
-       x="-497.90393"
+       y="562.75684"
+       x="-469.61963"
        height="20"
        width="20"
        id="rect7413"

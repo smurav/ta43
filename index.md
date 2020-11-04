@@ -7,6 +7,7 @@
 1. [Протоколы транспортного уровня](./ta43_transport_protocols.svg)
 1. [Протоколы прикладного уровня](./ta43_application_protocols.svg)
 1. [Разведка и сбор данных](./ta43_reconnaissance.svg)
+1. [Сканирование](./ta43_scanning.svg)
 
 ### Лабораторные работы
 
