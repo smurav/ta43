@@ -19,6 +19,7 @@
 1. [Протоколы прикладного уровня](./ta43_lab_application_protocols.svg)
 1. [Инфрастуктуры открытых ключей](./ta43_lab_pki.svg)
 1. [Разведка и сбор данных](./ta43_lab_reconnaissance.svg)
+1. [Сканирование](./ta43_lab_scanning.svg)
 
 ### Дополнительные материалы
 
