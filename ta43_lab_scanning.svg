@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.68500969"
-     inkscape:cx="827.14679"
-     inkscape:cy="292.50869"
+     inkscape:zoom="0.66360314"
+     inkscape:cx="835.51813"
+     inkscape:cy="240.95503"
      inkscape:document-units="px"
-     inkscape:current-layer="g11033"
+     inkscape:current-layer="g6642"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1138"
@@ -6429,7 +6429,7 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="title"
-     style="display:inline">
+     style="display:none">
     <a
        id="a3034">
       <rect
@@ -6718,21 +6718,21 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/conversations_eth.png"
        xlink:href="img/conversations_eth.png"
-       width="741"
-       height="331"
-       preserveAspectRatio="none"
-       id="image6679"
+       y="110"
        x="799"
-       y="110" />
+       id="image6679"
+       preserveAspectRatio="none"
+       height="331"
+       width="741" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/conversations.png"
        xlink:href="img/conversations.png"
-       width="741"
-       height="331"
-       preserveAspectRatio="none"
-       id="image6741"
+       y="470"
        x="799"
-       y="470" />
+       id="image6741"
+       preserveAspectRatio="none"
+       height="331"
+       width="741" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -6783,12 +6783,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/arp.png"
        xlink:href="img/arp.png"
-       width="722"
-       height="489"
-       preserveAspectRatio="none"
-       id="image6969"
+       y="130"
        x="800"
-       y="130" />
+       id="image6969"
+       preserveAspectRatio="none"
+       height="489"
+       width="722" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7172,12 +7172,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/hping3.png"
        xlink:href="img/hping3.png"
-       width="663"
-       height="577"
-       preserveAspectRatio="none"
-       id="image7164"
+       y="110"
        x="877"
-       y="110" />
+       id="image7164"
+       preserveAspectRatio="none"
+       height="577"
+       width="663" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot7185"
@@ -7253,21 +7253,21 @@
          id="flowPara7317" /></flowRoot>    <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/hping_no_flood.png"
        xlink:href="img/hping_no_flood.png"
-       width="658"
-       height="293"
-       preserveAspectRatio="none"
-       id="image7455"
+       y="130"
        x="880"
-       y="130" />
+       id="image7455"
+       preserveAspectRatio="none"
+       height="293"
+       width="658" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/hping_flood.png"
        xlink:href="img/hping_flood.png"
-       width="659"
-       height="293"
-       preserveAspectRatio="none"
-       id="image7517"
+       y="470"
        x="880"
-       y="470" />
+       id="image7517"
+       preserveAspectRatio="none"
+       height="293"
+       width="659" />
   </g>
   <g
      style="display:none"
@@ -8109,7 +8109,7 @@
          style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
          sodipodi:role="line"
          x="76.641235"
-         y="509.80609">Сканирование 100 общихпортов</tspan></text>
+         y="509.80609">Сканирование 100 общих портов</tspan></text>
     <rect
        style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77952766;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect6626"
@@ -8899,21 +8899,21 @@
          id="flowPara10838" /></flowRoot>    <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/nmap_O.png"
        xlink:href="img/nmap_O.png"
-       width="747"
-       height="335"
-       preserveAspectRatio="none"
-       id="image6779"
+       y="110"
        x="793"
-       y="110" />
+       id="image6779"
+       preserveAspectRatio="none"
+       height="335"
+       width="747" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/nmap_version.png"
        xlink:href="img/nmap_version.png"
-       width="747"
-       height="335"
-       preserveAspectRatio="none"
-       id="image6841"
+       y="470"
        x="793"
-       y="470" />
+       id="image6841"
+       preserveAspectRatio="none"
+       height="335"
+       width="747" />
     <text
        id="text6631"
        y="129.80608"
@@ -9102,15 +9102,15 @@
            height="140"
            x="1320"
            y="450" /></flowRegion><flowPara
-         id="flowPara7006"></flowPara></flowRoot>    <image
+         id="flowPara7006" /></flowRoot>    <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/nmap_A.png"
        xlink:href="img/nmap_A.png"
-       width="695"
-       height="694"
-       preserveAspectRatio="none"
-       id="image7129"
+       y="106"
        x="865"
-       y="106" />
+       id="image7129"
+       preserveAspectRatio="none"
+       height="694"
+       width="695" />
   </g>
   <g
      inkscape:groupmode="layer"
