@@ -16,7 +16,7 @@
    height="900"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="ta43_network_protocols.svg"
    enable-background="new">
   <sodipodi:namedview
@@ -26,15 +26,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="566.31198"
-     inkscape:cy="576.17856"
+     inkscape:zoom="0.48339844"
+     inkscape:cx="874.40465"
+     inkscape:cy="591.29978"
      inkscape:document-units="px"
-     inkscape:current-layer="g6018"
+     inkscape:current-layer="layer3"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1135"
-     inkscape:window-x="1920"
+     inkscape:window-height="1136"
+     inkscape:window-x="3840"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="false"
@@ -11398,7 +11398,7 @@
          sodipodi:role="line">Протоколы сетевого уровня</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#203d85;fill-opacity:1"
          y="643.24109"
-         x="801.2594"
+         x="801.25934"
          sodipodi:role="line"
          id="tspan2583">Муравьёв С.К.</tspan></text>
     <path
@@ -17616,7 +17616,7 @@
          sodipodi:role="line"
          id="tspan10401"
          x="118.07422"
-         y="369.91406">Перфикс (48+)</tspan></text>
+         y="369.91406">Префикс (48+)</tspan></text>
     <rect
        style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:3.00000024;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect10405"
@@ -17979,7 +17979,17 @@
        id="path14110"
        d="M 1520,214 V 784"
        style="fill:#1f3c84;fill-opacity:1;fill-rule:evenodd;stroke:#1f3c84;stroke-width:3.77952743;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker14120);marker-end:url(#marker14616);paint-order:markers fill stroke" />
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot12548"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion12550"><rect
+           id="rect12552"
+           width="1940"
+           height="680"
+           x="-160"
+           y="130" /></flowRegion><flowPara
+         id="flowPara12554"></flowPara></flowRoot>  </g>
   <g
      style="display:none"
      inkscape:label="Протокол DHCP"
@@ -20737,28 +20747,28 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:150%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="59.62793"
+       x="79.62793"
        y="183.22652"
        id="text41660"><tspan
          id="tspan41658"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
-         x="59.62793"
+         x="79.62793"
          y="183.22652">ICMP (Internet Control Message Protocol) — протокол межсетевых </tspan><tspan
          id="tspan42517"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
-         x="59.62793"
+         x="79.62793"
          y="237.22652">управляющих сообщений, используемый для передачи сообщений об </tspan><tspan
          id="tspan42519"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
-         x="59.62793"
+         x="79.62793"
          y="291.2265">ошибках и других исключительных ситуациях, возникших при передаче </tspan><tspan
          id="tspan42521"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
-         x="59.62793"
+         x="79.62793"
          y="345.2265">данных, а также выполнения некоторых сервисных функций.</tspan></text>
     <rect
        y="530"
