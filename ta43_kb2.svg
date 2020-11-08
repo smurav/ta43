@@ -25,15 +25,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.40175449"
-     inkscape:cx="159.02203"
-     inkscape:cy="397.03357"
+     inkscape:zoom="0.55041144"
+     inkscape:cx="-53.215787"
+     inkscape:cy="340.76491"
      inkscape:document-units="px"
-     inkscape:current-layer="g11512"
+     inkscape:current-layer="g7683"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1136"
-     inkscape:window-x="3840"
+     inkscape:window-height="1138"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="false"
@@ -59,6 +59,20 @@
   </sodipodi:namedview>
   <defs
      id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker8006"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path8004"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
     <marker
        inkscape:isstock="true"
        style="overflow:visible;"
@@ -108,10 +122,11 @@
        refX="0.0"
        id="Arrow2Mend"
        style="overflow:visible;"
-       inkscape:isstock="true">
+       inkscape:isstock="true"
+       inkscape:collect="always">
       <path
          id="path12287"
-         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#1f3c84;stroke-opacity:1;fill:#1f3c84;fill-opacity:1"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
          transform="scale(0.6) rotate(180) translate(0,0)" />
     </marker>
@@ -10993,7 +11008,7 @@
          sodipodi:role="line"
          x="116.58347"
          y="175.83157"
-         id="tspan7647">Сбор требований клиента</tspan></text>
+         id="tspan7647">Сбор требований</tspan></text>
     <rect
        transform="rotate(-45)"
        ry="0"
@@ -11053,7 +11068,7 @@
          y="415.83157"
          x="116.58347"
          sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Определение бизнес-целей</tspan></text>
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Определение целей организации</tspan></text>
     <rect
        style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect7675"
@@ -11083,6 +11098,364 @@
        width="20"
        id="rect7681"
        style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g7721"
+     inkscape:label="Сбор требований"
+     style="display:none">
+    <text
+       id="text7693"
+       y="175.83157"
+       x="116.58347"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan7691"
+         y="175.83157"
+         x="116.58347"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Основная информация об организации</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect7695"
+       width="20"
+       height="20"
+       x="-69.497475"
+       y="162.63457"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="116.58347"
+       y="495.83157"
+       id="text7699"><tspan
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="116.58347"
+         y="495.83157"
+         id="tspan7697">План аварийного восстановления</tspan></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="388.90887"
+       x="-295.7717"
+       height="20"
+       width="20"
+       id="rect7701"
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text7705"
+       y="255.83157"
+       x="116.58347"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan7703"
+         y="255.83157"
+         x="116.58347"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Ключевые цели тестирования</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect7707"
+       width="20"
+       height="20"
+       x="-126.06599"
+       y="219.20312"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="116.58347"
+       y="415.83157"
+       id="text7711"><tspan
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="116.58347"
+         y="415.83157"
+         id="tspan7709">Среда тестирования</tspan></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="332.34027"
+       x="-239.20308"
+       height="20"
+       width="20"
+       id="rect7713"
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text7717"
+       y="335.83157"
+       x="116.58347"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan7715"
+         y="335.83157"
+         x="116.58347"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Тип тестирования</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect7719"
+       width="20"
+       height="20"
+       x="-182.63454"
+       y="275.7717"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="116.58347"
+       y="575.83154"
+       id="text7731"><tspan
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="116.58347"
+         y="575.83154"
+         id="tspan7729">Ответственные лица</tspan></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="445.47751"
+       x="-352.34027"
+       height="20"
+       width="20"
+       id="rect7733"
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text7737"
+       y="735.83154"
+       x="116.58347"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan7735"
+         y="735.83154"
+         x="116.58347"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Другие требования</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect7739"
+       width="20"
+       height="20"
+       x="-465.47748"
+       y="558.61469"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="116.58347"
+       y="655.83154"
+       id="text7743"><tspan
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="116.58347"
+         y="655.83154"
+         id="tspan7741">Сроки тестирования</tspan></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="502.04611"
+       x="-408.90887"
+       height="20"
+       width="20"
+       id="rect7745"
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="Подготовка плана тестирования"
+     id="g8552"
+     inkscape:groupmode="layer">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="116.58347"
+       y="175.83157"
+       id="text8506"><tspan
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="116.58347"
+         y="175.83157"
+         id="tspan8504">Порядок тестирования</tspan></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="162.63457"
+       x="-69.497475"
+       height="20"
+       width="20"
+       id="rect8508"
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text8512"
+       y="495.83157"
+       x="116.58347"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan8510"
+         y="495.83157"
+         x="116.58347"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Контракт на тестирование</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect8514"
+       width="20"
+       height="20"
+       x="-295.7717"
+       y="388.90887"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="116.58347"
+       y="255.83157"
+       id="text8518"><tspan
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="116.58347"
+         y="255.83157"
+         id="tspan8516">Распределение ресурсов</tspan></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="219.20312"
+       x="-126.06599"
+       height="20"
+       width="20"
+       id="rect8520"
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text8524"
+       y="415.83157"
+       x="116.58347"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan8522"
+         y="415.83157"
+         x="116.58347"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Соглашение о неразглашении</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect8526"
+       width="20"
+       height="20"
+       x="-239.20308"
+       y="332.34027"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="116.58347"
+       y="335.83157"
+       id="text8530"><tspan
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="116.58347"
+         y="335.83157"
+         id="tspan8528">Анализ затрат</tspan></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="275.7717"
+       x="-182.63454"
+       height="20"
+       width="20"
+       id="rect8532"
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text8536"
+       y="575.83154"
+       x="116.58347"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan8534"
+         y="575.83154"
+         x="116.58347"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Правила взаимодействия</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect8538"
+       width="20"
+       height="20"
+       x="-352.34027"
+       y="445.47751"
+       ry="0"
+       transform="rotate(-45)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g8584"
+     inkscape:label="Ограничения тестирования"
+     style="display:none">
+    <text
+       id="text8556"
+       y="175.83157"
+       x="116.58347"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan8554"
+         y="175.83157"
+         x="116.58347"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Технологические ограничения</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect8558"
+       width="20"
+       height="20"
+       x="-69.497475"
+       y="162.63457"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text8568"
+       y="255.83157"
+       x="116.58347"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan8566"
+         y="255.83157"
+         x="116.58347"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Ограничения знаний</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect8570"
+       width="20"
+       height="20"
+       x="-126.06599"
+       y="219.20312"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text8580"
+       y="335.83157"
+       x="116.58347"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan8578"
+         y="335.83157"
+         x="116.58347"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Другие ограничения инфраструктуры</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect8582"
+       width="20"
+       height="20"
+       x="-182.63454"
+       y="275.7717"
+       ry="0"
+       transform="rotate(-45)" />
   </g>
   <g
      style="display:none"
