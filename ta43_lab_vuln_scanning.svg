@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.60331424"
-     inkscape:cx="978.33842"
-     inkscape:cy="540.2531"
+     inkscape:zoom="0.82655221"
+     inkscape:cx="770.75054"
+     inkscape:cy="508.23175"
      inkscape:document-units="px"
-     inkscape:current-layer="layer12"
+     inkscape:current-layer="g8208"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1138"
@@ -6841,12 +6841,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/sparta_start.png"
        xlink:href="img/sparta_start.png"
-       y="130"
-       x="1062"
-       id="image6839"
-       preserveAspectRatio="none"
+       width="498"
        height="633"
-       width="498" />
+       preserveAspectRatio="none"
+       id="image6839"
+       x="1062"
+       y="130" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -6912,21 +6912,21 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/sparta_add_host.png"
        xlink:href="img/sparta_add_host.png"
-       y="350"
-       x="120"
-       id="image6982"
-       preserveAspectRatio="none"
+       width="350"
        height="243"
-       width="350" />
+       preserveAspectRatio="none"
+       id="image6982"
+       x="120"
+       y="350" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/sparta_services.png"
        xlink:href="img/sparta_services.png"
-       y="110"
-       x="526"
-       id="image7012"
-       preserveAspectRatio="none"
+       width="1034"
        height="683"
-       width="1034" />
+       preserveAspectRatio="none"
+       id="image7012"
+       x="526"
+       y="110" />
   </g>
   <g
      style="display:none"
@@ -6958,7 +6958,7 @@
          sodipodi:role="line"
          x="56.641235"
          y="279.40607"
-         id="tspan7173">отобаражаются в</tspan><tspan
+         id="tspan7173">отображаются в</tspan><tspan
          style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
          sodipodi:role="line"
          x="56.641235"
@@ -7017,21 +7017,21 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/sparta_cve.png"
        xlink:href="img/sparta_cve.png"
-       y="110"
-       x="526"
-       id="image7059"
-       preserveAspectRatio="none"
+       width="874"
        height="577.31335"
-       width="874" />
+       preserveAspectRatio="none"
+       id="image7059"
+       x="526"
+       y="110" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/CVE-2002-0082.png"
        xlink:href="img/CVE-2002-0082.png"
-       y="290"
-       x="936.95819"
-       id="image7228"
-       preserveAspectRatio="none"
+       width="623.04181"
        height="492.21747"
-       width="623.04181" />
+       preserveAspectRatio="none"
+       id="image7228"
+       x="936.95819"
+       y="290" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7162,12 +7162,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/legion_start.png"
        xlink:href="img/legion_start.png"
-       y="110"
-       x="1038"
-       id="image7335"
-       preserveAspectRatio="none"
+       width="522"
        height="694"
-       width="522" />
+       preserveAspectRatio="none"
+       id="image7335"
+       x="1038"
+       y="110" />
   </g>
   <g
      style="display:none"
@@ -7223,12 +7223,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/legion_add_host.png"
        xlink:href="img/legion_add_host.png"
-       y="250"
-       x="80"
-       id="image7407"
-       preserveAspectRatio="none"
+       width="620"
        height="553.54138"
-       width="620" />
+       preserveAspectRatio="none"
+       id="image7407"
+       x="80"
+       y="250" />
     <text
        id="text7436"
        y="709.80609"
@@ -7253,12 +7253,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/legion_cve.png"
        xlink:href="img/legion_cve.png"
-       y="130"
-       x="731"
-       id="image7472"
-       preserveAspectRatio="none"
+       width="829"
        height="528"
-       width="829" />
+       preserveAspectRatio="none"
+       id="image7472"
+       x="731"
+       y="130" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7304,12 +7304,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/legion_pass.png"
        xlink:href="img/legion_pass.png"
-       y="170"
-       x="316"
-       id="image7546"
-       preserveAspectRatio="none"
+       width="968"
        height="621"
-       width="968" />
+       preserveAspectRatio="none"
+       id="image7546"
+       x="316"
+       y="170" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7583,12 +7583,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/lynis.png"
        xlink:href="img/lynis.png"
-       width="650"
-       height="687"
-       preserveAspectRatio="none"
-       id="image10680"
+       y="110"
        x="910"
-       y="110" />
+       id="image10680"
+       preserveAspectRatio="none"
+       height="687"
+       width="650" />
     <rect
        rx="20.000002"
        ry="20"
@@ -7972,13 +7972,13 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/gvm.png"
        xlink:href="img/gvm.png"
-       width="761"
-       height="513"
-       preserveAspectRatio="none"
-       id="image10946"
-       x="779"
+       style="display:inline"
        y="150"
-       style="display:inline" />
+       x="779"
+       id="image10946"
+       preserveAspectRatio="none"
+       height="513"
+       width="761" />
     <rect
        rx="20.000002"
        ry="20"
@@ -8075,22 +8075,22 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/gvm_scan_tasks.png"
        xlink:href="img/gvm_scan_tasks.png"
-       width="664"
-       height="384"
-       preserveAspectRatio="none"
-       id="image17338"
+       y="130"
        x="900"
-       y="130" />
+       id="image17338"
+       preserveAspectRatio="none"
+       height="384"
+       width="664" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/gvm_tasks_wiz.png"
        xlink:href="img/gvm_tasks_wiz.png"
-       style="stroke-width:1.13235295"
-       width="453.33331"
-       height="149.54112"
-       preserveAspectRatio="none"
-       id="image17372"
+       y="590"
        x="906.66669"
-       y="590" />
+       id="image17372"
+       preserveAspectRatio="none"
+       height="149.54112"
+       width="453.33331"
+       style="stroke-width:1.13235295" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -8146,13 +8146,13 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/gvm_new_task.png"
        xlink:href="img/gvm_new_task.png"
-       style="stroke-width:1.07134366"
-       width="1121.3333"
-       height="648.40698"
-       preserveAspectRatio="none"
-       id="image17477"
+       y="130"
        x="440"
-       y="130" />
+       id="image17477"
+       preserveAspectRatio="none"
+       height="648.40698"
+       width="1121.3333"
+       style="stroke-width:1.07134366" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
@@ -8262,13 +8262,13 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/gvm_report.png"
        xlink:href="img/gvm_report.png"
-       style="stroke-width:1.16959465"
-       width="1480"
-       height="682.28772"
-       preserveAspectRatio="none"
-       id="image11250"
+       y="110"
        x="60"
-       y="110" />
+       id="image11250"
+       preserveAspectRatio="none"
+       height="682.28772"
+       width="1480"
+       style="stroke-width:1.16959465" />
   </g>
   <g
      style="display:none"
@@ -8309,22 +8309,22 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/gvm_pdf_report.png"
        xlink:href="img/gvm_pdf_report.png"
-       style="stroke-width:1.11904764"
-       width="840"
-       height="686.29785"
-       preserveAspectRatio="none"
-       id="image11318"
+       y="103.70215"
        x="700"
-       y="103.70215" />
+       id="image11318"
+       preserveAspectRatio="none"
+       height="686.29785"
+       width="840"
+       style="stroke-width:1.11904764" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/gvm_report_formats.png"
        xlink:href="img/gvm_report_formats.png"
-       width="450"
-       height="436"
-       preserveAspectRatio="none"
-       id="image11348"
+       y="370"
        x="130"
-       y="370" />
+       id="image11348"
+       preserveAspectRatio="none"
+       height="436"
+       width="450" />
   </g>
   <g
      style="display:none"
