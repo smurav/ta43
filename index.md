@@ -21,6 +21,7 @@
 1. [Разведка и сбор данных](./ta43_lab_reconnaissance.svg)
 1. [Сканирование](./ta43_lab_scanning.svg)
 1. [Сканирование уязвимостей](./ta43_lab_vuln_scanning.svg)
+1. [Эксплуатация уязвимостей](./ta43_lab_exploitation.svg)
 
 ### Дополнительные материалы
 
