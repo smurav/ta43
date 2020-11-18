@@ -8,6 +8,7 @@
 1. [Протоколы прикладного уровня](./ta43_application_protocols.svg)
 1. [Разведка и сбор данных](./ta43_reconnaissance.svg)
 1. [Сканирование](./ta43_scanning.svg)
+1. [Получение доступа](./ta43_gaining_session.svg)
 
 ### Лабораторные работы
 
