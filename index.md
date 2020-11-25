@@ -23,6 +23,7 @@
 1. [Сканирование](./ta43_lab_scanning.svg)
 1. [Сканирование уязвимостей](./ta43_lab_vuln_scanning.svg)
 1. [Эксплуатация уязвимостей](./ta43_lab_exploitation.svg)
+1. [Эксплуатация уязвимостей Windows](./ta43_lab_win_exploitation.svg)
 
 ### Дополнительные материалы
 
