@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.66360314"
-     inkscape:cx="934.27656"
-     inkscape:cy="506.47184"
+     inkscape:zoom="0.22728729"
+     inkscape:cx="781.69943"
+     inkscape:cy="-86.969951"
      inkscape:document-units="px"
-     inkscape:current-layer="a6957"
+     inkscape:current-layer="g6977"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1138"
@@ -8231,21 +8231,21 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/add_nat.png"
        xlink:href="img/add_nat.png"
-       y="110"
-       x="67"
-       id="image7004"
-       preserveAspectRatio="none"
+       width="553"
        height="365"
-       width="553" />
+       preserveAspectRatio="none"
+       id="image7004"
+       x="67"
+       y="110" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/set_nat.png"
        xlink:href="img/set_nat.png"
-       y="350"
-       x="800"
-       id="image7039"
-       preserveAspectRatio="none"
+       width="724"
        height="444"
-       width="724" />
+       preserveAspectRatio="none"
+       id="image7039"
+       x="800"
+       y="350" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
@@ -8361,12 +8361,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/download_kali.png"
        xlink:href="img/download_kali.png"
-       y="110"
-       x="780"
-       id="image7390"
-       preserveAspectRatio="none"
+       width="770"
        height="657"
-       width="770" />
+       preserveAspectRatio="none"
+       id="image7390"
+       x="780"
+       y="110" />
   </g>
   <g
      style="display:none"
@@ -8436,12 +8436,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/import_kali.png"
        xlink:href="img/import_kali.png"
-       width="652"
-       height="542"
-       preserveAspectRatio="none"
-       id="image3540"
+       y="110"
        x="906"
-       y="110" />
+       id="image3540"
+       preserveAspectRatio="none"
+       height="542"
+       width="652" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -8497,21 +8497,21 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/start_kali.png"
        xlink:href="img/start_kali.png"
-       y="110"
-       x="80"
-       id="image3542"
-       preserveAspectRatio="none"
+       width="669"
        height="448"
-       width="669" />
+       preserveAspectRatio="none"
+       id="image3542"
+       x="80"
+       y="110" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/login_kali.png"
        xlink:href="img/login_kali.png"
-       y="310"
-       x="833.56171"
-       id="image6768"
-       preserveAspectRatio="none"
+       width="646.43829"
        height="481.80231"
-       width="646.43829" />
+       preserveAspectRatio="none"
+       id="image6768"
+       x="833.56171"
+       y="310" />
   </g>
   <g
      style="display:none"
@@ -8563,21 +8563,21 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/vb_guest_additions.png"
        xlink:href="img/vb_guest_additions.png"
-       y="110"
-       x="80"
-       id="image3618"
-       preserveAspectRatio="none"
+       width="655"
        height="559"
-       width="655" />
+       preserveAspectRatio="none"
+       id="image3618"
+       x="80"
+       y="110" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/vb_install_ga.png"
        xlink:href="img/vb_install_ga.png"
-       y="290"
-       x="840"
-       id="image3643"
-       preserveAspectRatio="none"
+       width="706"
        height="504"
-       width="706" />
+       preserveAspectRatio="none"
+       id="image3643"
+       x="840"
+       y="290" />
   </g>
   <g
      style="display:none"
@@ -8664,12 +8664,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/metasploitable2.png"
        xlink:href="img/metasploitable2.png"
-       y="130"
-       x="840"
-       id="image7551"
-       preserveAspectRatio="none"
+       width="733"
        height="620"
-       width="733" />
+       preserveAspectRatio="none"
+       id="image7551"
+       x="840"
+       y="130" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -8823,21 +8823,21 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/vb_create_vm.png"
        xlink:href="img/vb_create_vm.png"
-       width="669"
-       height="448"
-       preserveAspectRatio="none"
-       id="image7539"
+       y="130"
        x="800"
-       y="130" />
+       id="image7539"
+       preserveAspectRatio="none"
+       height="448"
+       width="669" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/create_meta2.png"
        xlink:href="img/create_meta2.png"
-       y="330"
-       x="1000"
-       id="image7607"
-       preserveAspectRatio="none"
+       width="536"
        height="465"
-       width="536" />
+       preserveAspectRatio="none"
+       id="image7607"
+       x="1000"
+       y="330" />
     <text
        id="text7484"
        y="645.8736"
@@ -8987,12 +8987,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/owasp_bwa.png"
        xlink:href="img/owasp_bwa.png"
-       width="641"
-       height="672"
-       preserveAspectRatio="none"
-       id="image3425"
+       y="114"
        x="919"
-       y="114" />
+       id="image3425"
+       preserveAspectRatio="none"
+       height="672"
+       width="641" />
   </g>
   <g
      style="display:none"
@@ -9001,7 +9001,7 @@
      inkscape:groupmode="layer">
     <a
        id="a6758"
-       xlink:href="https://sourceforge.net/projects/owaspbwa/files/1.2/">
+       xlink:href="https://yadi.sk/d/2L-DcARKdb-BhQ">
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
@@ -9123,12 +9123,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/winxp.png"
        xlink:href="img/winxp.png"
-       width="419"
-       height="221"
-       preserveAspectRatio="none"
-       id="image6860"
+       y="530"
        x="1030.5049"
-       y="530" />
+       id="image6860"
+       preserveAspectRatio="none"
+       height="221"
+       width="419" />
     <g
        transform="matrix(5.8812513,0,0,5.8812513,945.18548,-5721.3901)"
        id="layer1-3"
@@ -9179,7 +9179,7 @@
      inkscape:label="Установка Windows 10"
      style="display:none">
     <a
-       xlink:href="https://sourceforge.net/projects/owaspbwa/files/1.2/"
+       xlink:href="https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/"
        id="a6957">
       <text
          id="text6955"
@@ -9300,12 +9300,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/win10.png"
        xlink:href="img/win10.png"
-       width="510"
-       height="681"
-       preserveAspectRatio="none"
-       id="image7080"
+       y="110"
        x="1050"
-       y="110" />
+       id="image7080"
+       preserveAspectRatio="none"
+       height="681"
+       width="510" />
   </g>
   <g
      style="display:none"
