@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.68500969"
-     inkscape:cx="730.67291"
-     inkscape:cy="291.01235"
+     inkscape:zoom="0.66360314"
+     inkscape:cx="934.27656"
+     inkscape:cy="506.47184"
      inkscape:document-units="px"
-     inkscape:current-layer="g3340"
+     inkscape:current-layer="a6957"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1138"
@@ -6783,6 +6783,20 @@
     <path
        d="M13.473 20.126c.013.01.02.01.02.014.013.102.001.195-.092.26-.02.013-.045.007-.05-.016-.018-.108.028-.2.12-.256z"
        id="BU" />
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-6"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
   </defs>
   <metadata
      id="metadata7">
@@ -8217,21 +8231,21 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/add_nat.png"
        xlink:href="img/add_nat.png"
-       width="553"
-       height="365"
-       preserveAspectRatio="none"
-       id="image7004"
+       y="110"
        x="67"
-       y="110" />
+       id="image7004"
+       preserveAspectRatio="none"
+       height="365"
+       width="553" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/set_nat.png"
        xlink:href="img/set_nat.png"
-       width="724"
-       height="444"
-       preserveAspectRatio="none"
-       id="image7039"
+       y="350"
        x="800"
-       y="350" />
+       id="image7039"
+       preserveAspectRatio="none"
+       height="444"
+       width="724" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
@@ -8347,12 +8361,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/download_kali.png"
        xlink:href="img/download_kali.png"
-       width="770"
-       height="657"
-       preserveAspectRatio="none"
-       id="image7390"
+       y="110"
        x="780"
-       y="110" />
+       id="image7390"
+       preserveAspectRatio="none"
+       height="657"
+       width="770" />
   </g>
   <g
      style="display:none"
@@ -8422,12 +8436,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/import_kali.png"
        xlink:href="img/import_kali.png"
-       y="110"
-       x="906"
-       id="image3540"
-       preserveAspectRatio="none"
+       width="652"
        height="542"
-       width="652" />
+       preserveAspectRatio="none"
+       id="image3540"
+       x="906"
+       y="110" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -8483,21 +8497,21 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/start_kali.png"
        xlink:href="img/start_kali.png"
-       width="669"
-       height="448"
-       preserveAspectRatio="none"
-       id="image3542"
+       y="110"
        x="80"
-       y="110" />
+       id="image3542"
+       preserveAspectRatio="none"
+       height="448"
+       width="669" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/login_kali.png"
        xlink:href="img/login_kali.png"
-       width="646.43829"
-       height="481.80231"
-       preserveAspectRatio="none"
-       id="image6768"
+       y="310"
        x="833.56171"
-       y="310" />
+       id="image6768"
+       preserveAspectRatio="none"
+       height="481.80231"
+       width="646.43829" />
   </g>
   <g
      style="display:none"
@@ -8549,21 +8563,21 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/vb_guest_additions.png"
        xlink:href="img/vb_guest_additions.png"
-       width="655"
-       height="559"
-       preserveAspectRatio="none"
-       id="image3618"
+       y="110"
        x="80"
-       y="110" />
+       id="image3618"
+       preserveAspectRatio="none"
+       height="559"
+       width="655" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/vb_install_ga.png"
        xlink:href="img/vb_install_ga.png"
-       width="706"
-       height="504"
-       preserveAspectRatio="none"
-       id="image3643"
+       y="290"
        x="840"
-       y="290" />
+       id="image3643"
+       preserveAspectRatio="none"
+       height="504"
+       width="706" />
   </g>
   <g
      style="display:none"
@@ -8650,12 +8664,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/metasploitable2.png"
        xlink:href="img/metasploitable2.png"
-       width="733"
-       height="620"
-       preserveAspectRatio="none"
-       id="image7551"
+       y="130"
        x="840"
-       y="130" />
+       id="image7551"
+       preserveAspectRatio="none"
+       height="620"
+       width="733" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -8809,21 +8823,21 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/vb_create_vm.png"
        xlink:href="img/vb_create_vm.png"
-       y="130"
-       x="800"
-       id="image7539"
-       preserveAspectRatio="none"
+       width="669"
        height="448"
-       width="669" />
+       preserveAspectRatio="none"
+       id="image7539"
+       x="800"
+       y="130" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/create_meta2.png"
        xlink:href="img/create_meta2.png"
-       width="536"
-       height="465"
-       preserveAspectRatio="none"
-       id="image7607"
+       y="330"
        x="1000"
-       y="330" />
+       id="image7607"
+       preserveAspectRatio="none"
+       height="465"
+       width="536" />
     <text
        id="text7484"
        y="645.8736"
@@ -8973,12 +8987,325 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/owasp_bwa.png"
        xlink:href="img/owasp_bwa.png"
-       y="114"
-       x="919"
-       id="image3425"
-       preserveAspectRatio="none"
+       width="641"
        height="672"
-       width="641" />
+       preserveAspectRatio="none"
+       id="image3425"
+       x="919"
+       y="114" />
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="Установка Windows XP"
+     id="g6762"
+     inkscape:groupmode="layer">
+    <a
+       id="a6758"
+       xlink:href="https://sourceforge.net/projects/owaspbwa/files/1.2/">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="80.651443"
+         y="157.56796"
+         id="text6756"><tspan
+           id="tspan6720"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="80.651443"
+           y="157.56796">Загрузить образ виртуальной машины</tspan><tspan
+           id="tspan6722"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="80.651443"
+           y="200.76796">Windows XP можно по адресу</tspan><tspan
+           id="tspan6724"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="80.651443"
+           y="238.23619">https://yadi.sk/d/2L-DcARKdb-BhQ</tspan><tspan
+           id="tspan6726"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="80.651443"
+           y="258.5336" /><tspan
+           id="tspan6728"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="80.651443"
+           y="272.93359" /><tspan
+           id="tspan6730"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="80.651443"
+           y="287.33359" /><tspan
+           id="tspan6732"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="80.651443"
+           y="301.73358" /><tspan
+           id="tspan6734"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="80.651443"
+           y="336.76797">Импорт образа виртуальной машины </tspan><tspan
+           id="tspan6736"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="80.651443"
+           y="379.96799">осуществляется таким же образом, что</tspan><tspan
+           id="tspan6738"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="80.651443"
+           y="423.16797">и в случае с образом Kali Linux.</tspan><tspan
+           id="tspan6740"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="80.651443"
+           y="445.73361" /><tspan
+           id="tspan6742"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="80.651443"
+           y="460.13361" /><tspan
+           id="tspan6744"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="80.651443"
+           y="474.5336" /><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="80.651443"
+           y="509.56796"
+           id="tspan6821">Для передачи в виртуальную машину</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="80.651443"
+           y="552.76801"
+           id="tspan6825">комбинации клавиш <tspan
+   style="font-weight:bold"
+   id="tspan6831">Ctrl-Alt-Delete</tspan> </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="80.651443"
+           y="595.96796"
+           id="tspan6827">используется комбинация клавиш</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="80.651443"
+           y="639.16797"
+           id="tspan6829">Правый Ctrl-Delete</tspan><tspan
+           id="tspan6748"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="80.651443"
+           y="661.73358" /><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="80.651443"
+           y="676.13361"
+           id="tspan6817" /><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="80.651443"
+           y="711.16797"
+           id="tspan6819">Для входа в систему используется</tspan><tspan
+           id="tspan6754"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="80.651443"
+           y="754.36798">логин <tspan
+   style="font-weight:bold"
+   id="tspan6815">Administrator</tspan> и пароль <tspan
+   style="font-weight:bold"
+   id="tspan6813">1234qqqQ</tspan></tspan></text>
+    </a>
+    <image
+       sodipodi:absref="/home/sergey/Documents/git/ta43/img/winxp.png"
+       xlink:href="img/winxp.png"
+       width="419"
+       height="221"
+       preserveAspectRatio="none"
+       id="image6860"
+       x="1030.5049"
+       y="530" />
+    <g
+       transform="matrix(5.8812513,0,0,5.8812513,945.18548,-5721.3901)"
+       id="layer1-3"
+       inkscape:label="Capa 1"
+       style="stroke-width:0.17003185">
+      <g
+         style="fill:#000000;stroke-width:0.17003185"
+         id="g2906"
+         transform="matrix(0.15761537,0,0,0.15761537,-28.890632,1027.977)">
+        <path
+           inkscape:connector-curvature="0"
+           id="polygon5"
+           transform="matrix(2.5392106,0,0,2.5392106,1454.5708,228.49305)"
+           d="m -431.96875,-87.431641 c -1.20943,0 -2.15364,0.566847 -2.47461,1.47461 -0.20794,0.548595 -0.26453,0.925404 -0.30273,2.078125 h -1.64453 v 1.134765 h 1.64453 v 8.185547 h 1.34179 v -8.185547 h 2.26758 v -1.134765 h -2.26758 c 0,-1.020002 -2.1e-4,-1.095214 0.16992,-1.492188 0.20794,-0.586009 0.81288,-0.888672 1.77735,-0.888672 0.28395,0 0.47217,0.01704 0.86914,0.13086 v -1.171875 c -0.64272,-0.09452 -0.98389,-0.13086 -1.38086,-0.13086 z m -65.68359,0.263672 v 12.609375 h 1.34179 v -11.001953 l 4.1211,11.001953 h 1.07812 l 4.08203,-11.001953 v 11.001953 h 1.53125 v -12.609375 h -2.30468 l -3.72461,10.078125 -3.78125,-10.078125 z m 15.11718,0 v 1.607422 h 1.56836 v -1.607422 z m 55.33008,0.832031 -1.36133,0.113282 -0.0566,2.34375 h -1.64453 v 1.134765 h 1.64453 v 5.615235 c 0,1.871448 0.90799,2.835937 2.66602,2.835937 0.43478,0 0.73619,-0.01876 1.37891,-0.113281 v -1.154297 c -0.5104,0.09452 -0.77498,0.113281 -1.11524,0.113281 -1.00189,0 -1.51172,-0.490605 -1.51172,-1.455078 v -5.841797 h 2.09766 v -1.134765 h -2.09766 z m -38.05664,2.19336 c -0.71833,0 -1.41655,0.320221 -1.83203,0.8125 -0.33987,0.415483 -0.51155,0.698728 -0.96484,1.625 v -2.173828 h -1.26563 v 9.320312 h 1.45508 v -4.933594 c 0.0382,-1.985262 1.37869,-3.384043 3.13672,-3.232421 v -1.38086 c -0.20794,-0.0193 -0.41588,-0.03711 -0.5293,-0.03711 z m 5.36719,0.01758 c -2.49487,0 -4.21485,1.985881 -4.21485,4.878906 0,2.967458 1.62435,4.933594 4.0625,4.933594 2.51417,0 4.31055,-2.004621 4.31055,-4.802734 4e-4,-3.04386 -1.62513,-5.009766 -4.1582,-5.009766 z m 8.95312,0 c -2.11719,0 -3.51562,1.097582 -3.51562,2.742188 0,1.322852 0.92617,2.269415 2.51367,2.572265 l 1.9668,0.357422 c 1.05859,0.207545 1.60547,0.681753 1.60547,1.4375 0,0.907762 -0.88707,1.511719 -2.19141,1.511719 -0.86917,0 -1.75742,-0.264832 -2.28711,-0.699219 -0.30246,-0.246139 -0.45385,-0.529689 -0.60547,-1.058594 l -1.3789,0.285157 c 0.22684,0.812851 0.47139,1.208728 0.96289,1.625 0.79434,0.699036 1.85293,1.041015 3.17578,1.041015 2.30583,0 3.83593,-1.154152 3.83593,-2.855469 0,-1.512281 -0.92512,-2.419896 -2.83398,-2.759765 l -1.83398,-0.322266 c -0.98299,-0.189035 -1.45508,-0.605257 -1.45508,-1.304687 0,-0.832149 0.79408,-1.378907 2.0039,-1.378907 1.19053,0 1.94569,0.452799 2.38086,1.455079 l 1.32422,-0.283204 c -0.45368,-1.550875 -1.7213,-2.365234 -3.66797,-2.365234 z m 9.6211,0 c -2.49527,0 -4.21485,1.985881 -4.21485,4.878906 0,2.967458 1.6263,4.933594 4.06446,4.933594 2.51377,0 4.30859,-2.004621 4.30859,-4.802734 3.9e-4,-3.04386 -1.62513,-5.009766 -4.1582,-5.009766 z m -33.54297,0.002 c -2.41965,0 -4.00586,1.964327 -4.00586,4.914063 0,2.967457 1.54824,4.898437 3.92969,4.898437 1.03969,0 1.854,-0.322986 2.51562,-1.003906 0.60491,-0.605306 0.86886,-1.152505 1.09571,-2.287109 l -1.30469,-0.226563 c -0.30285,1.531578 -1.09556,2.324219 -2.26758,2.324219 -1.55009,0 -2.45703,-1.398546 -2.45703,-3.742188 0,-2.269209 0.94538,-3.685547 2.47656,-3.685547 0.71833,0 1.34194,0.318826 1.75781,0.886719 0.24575,0.359167 0.37682,0.699242 0.49024,1.417969 l 1.30469,-0.244141 c -0.37808,-2.117587 -1.62591,-3.251953 -3.53516,-3.251953 z m -7.61524,0.244141 v 9.320312 h 1.45508 v -9.320312 z m 22.52735,0.947265 c 0.75614,0 1.49225,0.376184 1.96484,1 0.45369,0.643114 0.66211,1.475259 0.66211,2.742188 0,2.306622 -0.98367,3.685547 -2.60937,3.685547 -1.64461,0 -2.58789,-1.360973 -2.58789,-3.761719 0,-1.134605 0.2267,-2.041966 0.64257,-2.646484 0.43439,-0.623816 1.1905,-1.019532 1.92774,-1.019532 z m 18.57617,0 c 0.75575,0 1.49226,0.376184 1.96484,1 0.45329,0.643114 0.66211,1.475259 0.66211,2.742188 0,2.306622 -0.98406,3.685547 -2.60937,3.685547 -1.64461,0 -2.58789,-1.360973 -2.58789,-3.761719 0,-1.134605 0.22475,-2.041966 0.64062,-2.646484 0.43478,-0.623816 1.19245,-1.019532 1.92969,-1.019532 z m -56.39062,12.31836 10.32031,37.822265 h 6.97461 l 6.86132,-27.785156 7.54102,27.785156 h 7.14453 l 10.09375,-37.822265 h -6.01172 l -7.14453,27.558593 -7.54101,-27.558593 h -6.91797 l -6.80469,27.558593 -7.25781,-27.558593 z m 50.86132,0 v 6.578125 h 6.29492 v -6.578125 z m 56.70899,0 v 13.666015 c -1.53237,-3.345528 -3.91435,-4.933593 -7.48633,-4.933593 -2.94737,0 -5.32909,1.021708 -7.08594,3.0625 -2.49526,2.835133 -3.91211,7.088874 -3.91211,11.68164 0,4.309607 1.3016,8.845368 3.17383,11.339844 1.81356,2.325132 4.42279,3.572266 7.48438,3.572266 3.96895,0 6.46423,-1.927185 8.22265,-6.179688 v 5.613281 h 5.89649 v -37.822265 z m 84.54492,9.298828 c -3.91224,0 -6.63355,0.963816 -8.5625,3.0625 -1.41698,1.530791 -2.21094,3.63048 -2.21094,5.841797 0,4.536055 2.66514,7.143203 8.44922,8.220703 l 5.10156,1.021484 c 1.87224,0.33987 3.0625,1.416685 3.0625,2.777344 0,2.211317 -2.09832,3.458984 -5.67187,3.458984 -3.40145,0 -4.98916,-0.907867 -6.17969,-3.402343 l -5.89844,1.134765 c 0.68132,2.154607 1.41889,3.233371 2.89258,4.367188 2.32592,1.701316 5.38896,2.607422 8.96094,2.607422 7.42869,0 12.19141,-3.515815 12.19141,-9.072266 0,-4.422634 -2.38294,-7.200447 -7.03321,-8.107422 l -6.00976,-1.248047 c -2.83514,-0.566711 -4.02539,-1.531175 -4.02539,-3.175781 0,-1.814343 1.92793,-3.005859 4.93359,-3.005859 2.89224,0 4.36472,0.907753 5.10156,3.175781 l 5.66992,-1.191406 c -1.30473,-4.252897 -4.9874,-6.464844 -10.77148,-6.464844 z m -115.3418,0.002 c -3.79882,0 -6.23776,1.984406 -8.5625,7.03125 v -6.464844 h -5.72656 v 27.955078 h 6.29297 v -14.345703 c 0,-2.154606 0.34096,-3.856138 1.02148,-5.216797 1.0775,-2.09829 3.06187,-3.458984 5.16016,-3.458984 2.66539,0 4.36523,2.154796 4.36523,5.556641 v 17.464843 h 6.29493 v -18.03125 c 0,-2.892237 -0.34036,-4.706957 -1.19141,-6.351562 -1.24763,-2.438553 -4.4218,-4.138672 -7.6543,-4.138672 z m 53.64844,0 c -7.71185,0 -13.09961,5.953585 -13.09961,14.458984 0,3.571977 0.90668,6.747432 2.77734,9.46875 2.26921,3.402239 5.67126,5.160157 9.98047,5.160157 7.82566,0 13.26953,-5.953122 13.26953,-14.515625 0,-3.628293 -0.68156,-6.180308 -2.32617,-8.845704 -2.49526,-3.912239 -5.89577,-5.726562 -10.60156,-5.726562 z m -79.56055,0.566406 v 27.955078 h 6.29492 v -27.955078 z m 92.25977,0 8.62109,27.955078 h 5.83985 l 4.99023,-19.61914 5.04688,19.61914 h 5.66796 l 8.22266,-27.955078 h -5.33008 l -5.38476,18.826172 -4.9336,-18.826172 h -5.72851 l -4.76172,18.826172 -5.55664,-18.826172 z m -41.33594,4.253906 c 1.64461,0 3.17713,0.736998 4.31055,2.097657 1.07829,1.304736 1.47461,2.665356 1.47461,5.103515 v 4.761719 c 0,4.026054 -2.60916,7.144531 -5.95508,7.144531 -3.79843,0 -5.83984,-3.288159 -5.83984,-9.412109 0,-6.237372 2.15463,-9.695313 6.00976,-9.695313 z m 28.63672,0.339844 c 4.02605,0 6.23633,3.231658 6.23633,9.242188 0,6.124344 -2.2688,9.52539 -6.35156,9.52539 -4.02606,0 -6.29493,-3.401973 -6.29493,-9.412109 0,-6.010136 2.327,-9.355469 6.41016,-9.355469 z"
+           style="fill:#000000;stroke-width:0.06696248" />
+        <path
+           inkscape:connector-curvature="0"
+           id="polygon25"
+           transform="matrix(2.5392106,0,0,2.5392106,1454.5708,228.49305)"
+           d="m -260.375,-71.023438 c -2.74455,0 -4.71062,1.228833 -6.14453,3.931641 v -3.521484 h -4.38281 v 27.033203 h 4.63086 v -9.666016 c 1.31064,2.253063 3.03015,3.236328 5.57031,3.236328 2.33379,0 4.05565,-0.81995 5.2832,-2.5 1.55678,-2.088444 2.37695,-4.914739 2.37695,-8.15039 0,-3.031257 -0.73991,-5.653685 -2.17382,-7.701172 -1.2693,-1.802135 -2.94924,-2.662109 -5.16016,-2.66211 z m -28.82617,0.410157 5.8164,9.789062 -6.71875,10.404297 h 3.9336 l 4.66797,-7.373047 4.25976,7.373047 H -272 l -6.75781,-11.427734 5.69336,-8.765625 h -3.8086 l -3.76953,5.939453 -3.3164,-5.939453 z m 27.26953,3.316406 c 2.57994,0 4.05664,2.54024 4.05664,6.964844 0,4.21824 -1.51565,6.716797 -4.01367,6.716797 -2.53977,0 -4.38281,-2.129177 -4.38281,-5.078125 V -61.5625 c 0,-3.317566 1.80007,-5.734375 4.33984,-5.734375 z"
+           style="fill:#ed671c;fill-opacity:1;stroke-width:0.06696248" />
+      </g>
+      <path
+         id="path2"
+         style="fill:#91c300;stroke-width:0.04560365"
+         d="m 84.39329,999.06515 c -8.849786,3.65895 -13.104844,1.60195 -16.939961,-0.97894 l -4.365832,15.14349 c 3.831335,2.5957 8.456845,4.7299 16.947474,0.9287 z"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path4"
+         d="m 55.623316,1029.5081 c -3.843649,-2.5869 -8.022061,-4.7146 -16.89277,-1.0466 l 4.343573,-15.172 c 8.872604,-3.6686 13.134982,-1.5925 16.97485,1.0102 l -4.425653,15.208 z"
+         style="fill:#00b4f1;stroke-width:0.04560365"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path6"
+         style="fill:#f8682c;stroke-width:0.04560365"
+         d="m 60.786525,1011.5609 c -2.314025,-1.5582 -4.802742,-3.0127 -8.337203,-3.0395 -2.331983,-0.018 -5.107948,0.6445 -8.632,2.1016 l 4.367294,-15.13273 c 8.86661,-3.6662 13.125449,-1.59132 16.962662,1.00951 z"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path8"
+         style="fill:#ffc300;stroke-width:0.04560365"
+         d="m 62.351258,1015.7594 c 3.838878,2.5847 8.103036,4.6435 16.962231,0.9816 l -4.366727,15.0826 c -8.860753,3.6646 -13.116042,1.5893 -16.950937,-1.0112 z"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g6977"
+     inkscape:label="Установка Windows 10"
+     style="display:none">
+    <a
+       xlink:href="https://sourceforge.net/projects/owaspbwa/files/1.2/"
+       id="a6957">
+      <text
+         id="text6955"
+         y="157.56796"
+         x="80.651443"
+         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="157.56796"
+           x="80.651443"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan6909">Загрузить официальные образы виртуальных </tspan><tspan
+           y="200.76796"
+           x="80.651443"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan7015">машин Windows можно по адресу</tspan><tspan
+           y="238.23619"
+           x="80.651443"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan6911">https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/</tspan><tspan
+           y="258.5336"
+           x="80.651443"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan6913" /><tspan
+           y="272.93359"
+           x="80.651443"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan6915" /><tspan
+           y="287.33359"
+           x="80.651443"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan6917" /><tspan
+           y="301.73358"
+           x="80.651443"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan6919" /><tspan
+           y="336.76797"
+           x="80.651443"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan6921">Импорт образа виртуальной машины </tspan><tspan
+           y="379.96799"
+           x="80.651443"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan6923">осуществляется таким же образом, что</tspan><tspan
+           y="423.16797"
+           x="80.651443"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan6925">и в случае с образом Kali Linux.</tspan><tspan
+           y="445.73361"
+           x="80.651443"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan6927" /><tspan
+           y="460.13361"
+           x="80.651443"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan6929" /><tspan
+           y="474.5336"
+           x="80.651443"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan6943" /><tspan
+           y="509.56796"
+           x="80.651443"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan7098">Перед первым запуском виртуальной машины</tspan><tspan
+           y="552.76801"
+           x="80.651443"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan7110">необходимо сделать снимок для восстановления</tspan><tspan
+           y="595.96796"
+           x="80.651443"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan7114">работоспособности машины после истечения</tspan><tspan
+           y="639.16797"
+           x="80.651443"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan7116">пробного периода в 90 дней.</tspan><tspan
+           y="661.73358"
+           x="80.651443"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan7118" /><tspan
+           y="676.13361"
+           x="80.651443"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan7106" /><tspan
+           y="711.16797"
+           x="80.651443"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan7100">Для входа в систему используется</tspan><tspan
+           y="754.36798"
+           x="80.651443"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan6953">логин <tspan
+   style="font-weight:bold"
+   id="tspan7122">IEUser</tspan> и пароль <tspan
+   style="font-weight:bold"
+   id="tspan7120">Passw0rd!</tspan></tspan></text>
+    </a>
+    <image
+       sodipodi:absref="/home/sergey/Documents/git/ta43/img/win10.png"
+       xlink:href="img/win10.png"
+       width="510"
+       height="681"
+       preserveAspectRatio="none"
+       id="image7080"
+       x="1050"
+       y="110" />
   </g>
   <g
      style="display:none"
