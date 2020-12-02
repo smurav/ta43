@@ -9,6 +9,7 @@
 1. [Разведка и сбор данных](./ta43_reconnaissance.svg)
 1. [Сканирование](./ta43_scanning.svg)
 1. [Получение доступа](./ta43_gaining_session.svg)
+1. [Парольные атаки](./ta43_password_attacks.svg)
 
 ### Лабораторные работы
 
