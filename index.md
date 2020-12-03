@@ -25,6 +25,7 @@
 1. [Сканирование уязвимостей](./ta43_lab_vuln_scanning.svg)
 1. [Эксплуатация уязвимостей](./ta43_lab_exploitation.svg)
 1. [Эксплуатация уязвимостей Windows](./ta43_lab_win_exploitation.svg)
+1. [Парольные атаки](./ta43_lab_password_attacks.svg)
 
 ### Дополнительные материалы
 
