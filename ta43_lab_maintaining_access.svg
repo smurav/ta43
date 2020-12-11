@@ -25,15 +25,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.71171442"
-     inkscape:cx="835.15841"
-     inkscape:cy="306.05809"
+     inkscape:zoom="0.9730967"
+     inkscape:cx="611.72967"
+     inkscape:cy="490.75217"
      inkscape:document-units="px"
-     inkscape:current-layer="g7034"
+     inkscape:current-layer="g6693"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1138"
-     inkscape:window-x="1920"
+     inkscape:window-height="1136"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="false"
@@ -7181,12 +7181,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/persistence.png"
        xlink:href="img/persistence.png"
-       width="604"
-       height="658"
-       preserveAspectRatio="none"
-       id="image6825"
+       y="110"
        x="956"
-       y="110" />
+       id="image6825"
+       preserveAspectRatio="none"
+       height="658"
+       width="604" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120.00000477%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
@@ -7325,12 +7325,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/winxp_bd.png"
        xlink:href="img/winxp_bd.png"
-       width="860"
-       height="712"
-       preserveAspectRatio="none"
-       id="image6941"
+       y="90"
        x="720"
-       y="90" />
+       id="image6941"
+       preserveAspectRatio="none"
+       height="712"
+       width="860" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120.00000477%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
@@ -7480,12 +7480,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/meta_handler.png"
        xlink:href="img/meta_handler.png"
-       width="604"
-       height="658"
-       preserveAspectRatio="none"
-       id="image7092"
+       y="112"
        x="956"
-       y="112" />
+       id="image7092"
+       preserveAspectRatio="none"
+       height="658"
+       width="604" />
   </g>
   <g
      style="display:none"
@@ -7813,56 +7813,15 @@
          sodipodi:role="line"
          x="76.900856"
          y="166.28288" /></text>
-    <rect
-       rx="19.999998"
-       ry="20"
-       y="710"
-       x="80"
-       height="80"
-       width="800"
-       id="rect6679"
-       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77952695;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
-    <text
-       id="text6685"
-       y="759.50977"
-       x="97.441406"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120.00000477%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan6681"
-         y="759.50977"
-         x="97.441406"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">ssh msfadmih@10.0.2.6</tspan><tspan
-         y="782.2829"
-         x="97.441406"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan6683" /></text>
-    <text
-       id="text6691"
-       y="683.50977"
-       x="76.900856"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120.00000477%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan6687"
-         y="683.50977"
-         x="76.900856"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Подключение через ssh без пароля</tspan><tspan
-         y="706.2829"
-         x="76.900856"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan6689" /></text>
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/apt_persistence.png"
        xlink:href="img/apt_persistence.png"
-       y="110"
-       x="962"
-       id="image6726-3"
-       preserveAspectRatio="none"
+       width="598"
        height="687"
-       width="598" />
+       preserveAspectRatio="none"
+       id="image6726-3"
+       x="962"
+       y="110" />
   </g>
   <g
      style="display:none"
@@ -7980,12 +7939,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/apt_handler.png"
        xlink:href="img/apt_handler.png"
-       y="90"
-       x="977"
-       id="image6756-8"
-       preserveAspectRatio="none"
+       width="583"
        height="717"
-       width="583" />
+       preserveAspectRatio="none"
+       id="image6756-8"
+       x="977"
+       y="90" />
     <text
        id="text6763"
        y="663.50977"
@@ -8160,12 +8119,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/sshkey_persistence.png"
        xlink:href="img/sshkey_persistence.png"
-       y="110"
-       x="910"
-       id="image6564"
-       preserveAspectRatio="none"
+       width="650"
        height="650"
-       width="650" />
+       preserveAspectRatio="none"
+       id="image6564"
+       x="910"
+       y="110" />
     <rect
        style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77952695;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
        id="rect6567"
@@ -8342,12 +8301,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/crontab.png"
        xlink:href="img/crontab.png"
-       y="92"
-       x="980"
-       id="image6803"
-       preserveAspectRatio="none"
+       width="583"
        height="717"
-       width="583" />
+       preserveAspectRatio="none"
+       id="image6803"
+       x="980"
+       y="92" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -8410,12 +8369,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/nc.png"
        xlink:href="img/nc.png"
-       y="110"
-       x="984"
-       id="image6917"
-       preserveAspectRatio="none"
+       width="576"
        height="637"
-       width="576" />
+       preserveAspectRatio="none"
+       id="image6917"
+       x="984"
+       y="110" />
     <a
        transform="translate(-9.46932,182)"
        id="a7215"
