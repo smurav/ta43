@@ -27,6 +27,7 @@
 1. [Эксплуатация уязвимостей Windows](./ta43_lab_win_exploitation.svg)
 1. [Парольные атаки](./ta43_lab_password_attacks.svg)
 1. [Поддержание доступа](./ta43_lab_maintaining_access.svg)
+1. [WEB-прокси](./ta43_lab_proxy.svg)
 
 ### Дополнительные материалы
 
