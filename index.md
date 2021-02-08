@@ -10,6 +10,7 @@
 1. [Сканирование](./ta43_scanning.svg)
 1. [Получение доступа](./ta43_gaining_session.svg)
 1. [Парольные атаки](./ta43_password_attacks.svg)
+1. [Атаки на Web-приложения](./ta43_web_attacks.svg)
 
 ### Лабораторные работы
 
