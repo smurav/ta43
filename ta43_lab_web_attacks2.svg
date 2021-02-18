@@ -29,7 +29,7 @@
      inkscape:cx="640.73095"
      inkscape:cy="129.24685"
      inkscape:document-units="px"
-     inkscape:current-layer="g10825"
+     inkscape:current-layer="g10637"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1137"
@@ -11129,54 +11129,8 @@
        y="230" />
   </g>
   <g
-     inkscape:groupmode="layer"
-     id="g10848"
-     inkscape:label="Атака Path traversal"
-     style="display:none">
-    <text
-       id="text10834"
-       y="149.80606"
-       x="56.641243"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="149.80606"
-         x="56.641243"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         id="tspan10856">Изменяя путь и имя целевого файла в web-приложении, уязвимом к атаке</tspan><tspan
-         y="193.00606"
-         x="56.641243"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         id="tspan11013">Path Traversal, злоумышленник может получить доступ к важным данным.</tspan><tspan
-         id="tspan10832"
-         y="215.57169"
-         x="56.641243"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif" /></text>
-    <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       id="flowRoot10842"
-       xml:space="preserve"><flowRegion
-         id="flowRegion10838"><rect
-           y="510"
-           x="480"
-           height="160"
-           width="980"
-           id="rect10836" /></flowRegion><flowPara
-         id="flowPara10840"></flowPara></flowRoot>    <image
-       sodipodi:absref="/home/sergey/Documents/git/ta43/img/path_traversal_passwd.png"
-       xlink:href="img/path_traversal_passwd.png"
-       width="1321"
-       height="590"
-       preserveAspectRatio="none"
-       id="image11072"
-       x="139.5"
-       y="220" />
-  </g>
-  <g
      style="display:none"
-     inkscape:label="Демонстрация атаки Path traversal"
+     inkscape:label="Атака Path traversal"
      id="g11002"
      inkscape:groupmode="layer">
     <text
@@ -11238,6 +11192,52 @@
        preserveAspectRatio="none"
        height="305"
        width="1090" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g10848"
+     inkscape:label="Демонстрация атаки Path traversal"
+     style="display:none">
+    <text
+       id="text10834"
+       y="149.80606"
+       x="56.641243"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="149.80606"
+         x="56.641243"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+         id="tspan10856">Изменяя путь и имя целевого файла в web-приложении, уязвимом к атаке</tspan><tspan
+         y="193.00606"
+         x="56.641243"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+         id="tspan11013">Path Traversal, злоумышленник может получить доступ к важным данным.</tspan><tspan
+         id="tspan10832"
+         y="215.57169"
+         x="56.641243"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif" /></text>
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot10842"
+       xml:space="preserve"><flowRegion
+         id="flowRegion10838"><rect
+           y="510"
+           x="480"
+           height="160"
+           width="980"
+           id="rect10836" /></flowRegion><flowPara
+         id="flowPara10840"></flowPara></flowRoot>    <image
+       sodipodi:absref="/home/sergey/Documents/git/ta43/img/path_traversal_passwd.png"
+       xlink:href="img/path_traversal_passwd.png"
+       width="1321"
+       height="590"
+       preserveAspectRatio="none"
+       id="image11072"
+       x="139.5"
+       y="220" />
   </g>
   <g
      style="display:none"
