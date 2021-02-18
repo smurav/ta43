@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.450649"
-     inkscape:cx="643.0512"
-     inkscape:cy="640.66672"
+     inkscape:zoom="0.42644422"
+     inkscape:cx="717.42605"
+     inkscape:cy="154.58654"
      inkscape:document-units="px"
-     inkscape:current-layer="g11224"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1137"
@@ -6880,7 +6880,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -6983,8 +6983,8 @@
          id="tspan4346"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
          y="589.90778"
-         x="801.2594"
-         sodipodi:role="line">Атаки на Web-приложения</tspan><tspan
+         x="801.25934"
+         sodipodi:role="line">Атаки на Web-приложения (ч. 1/2)</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif"
          y="649.90778"
          x="801.2594"
@@ -7360,21 +7360,21 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/stored_XSS.png"
        xlink:href="img/stored_XSS.png"
-       y="270"
-       x="80"
-       id="image6749"
-       preserveAspectRatio="none"
+       width="898"
        height="519"
-       width="898" />
+       preserveAspectRatio="none"
+       id="image6749"
+       x="80"
+       y="270" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/stored_XSS_cookie.png"
        xlink:href="img/stored_XSS_cookie.png"
-       y="350"
-       x="1013"
-       id="image6779"
-       preserveAspectRatio="none"
+       width="447"
        height="175"
-       width="447" />
+       preserveAspectRatio="none"
+       id="image6779"
+       x="1013"
+       y="350" />
     <a
        xlink:href="https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/?utm_source=addons.mozilla.org&amp;utm_medium=referral&amp;utm_content=search"
        id="a6788"
@@ -7465,21 +7465,21 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/reflected_XSS.png"
        xlink:href="img/reflected_XSS.png"
-       y="290"
-       x="80"
-       id="image6878"
-       preserveAspectRatio="none"
+       width="886"
        height="509"
-       width="886" />
+       preserveAspectRatio="none"
+       id="image6878"
+       x="80"
+       y="290" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/reflected_XSS_alert.png"
        xlink:href="img/reflected_XSS_alert.png"
-       y="450"
-       x="1220"
-       id="image6908"
-       preserveAspectRatio="none"
+       width="288"
        height="173"
-       width="288" />
+       preserveAspectRatio="none"
+       id="image6908"
+       x="1220"
+       y="450" />
     <path
        style="display:inline;fill:none;stroke:#ff0000;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0999999;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-8);paint-order:stroke fill markers"
        d="m 660,550 h 530"
@@ -7746,12 +7746,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/SQL_select.png"
        xlink:href="img/SQL_select.png"
-       width="891"
-       height="277"
-       preserveAspectRatio="none"
-       id="image10564"
+       y="498"
        x="80"
-       y="498" />
+       id="image10564"
+       preserveAspectRatio="none"
+       height="277"
+       width="891" />
     <rect
        style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77952671;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
        id="rect10567"
@@ -7853,12 +7853,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/SQL_injection.png"
        xlink:href="img/SQL_injection.png"
-       width="876"
-       height="508"
-       preserveAspectRatio="none"
-       id="image10608"
+       y="290"
        x="80"
-       y="290" />
+       id="image10608"
+       preserveAspectRatio="none"
+       height="508"
+       width="876" />
   </g>
   <g
      inkscape:groupmode="layer"

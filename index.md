@@ -29,7 +29,8 @@
 1. [Парольные атаки](./ta43_lab_password_attacks.svg)
 1. [Поддержание доступа](./ta43_lab_maintaining_access.svg)
 1. [WEB-прокси](./ta43_lab_proxy.svg)
-1. [Атаки на Web-приложения](./ta43_lab_web_attacks.svg)
+1. [Атаки на Web-приложения (Часть 1)](./ta43_lab_web_attacks.svg)
+1. [Атаки на Web-приложения (Часть 2)](./ta43_lab_web_attacks2.svg)
 
 ### Дополнительные материалы
 
