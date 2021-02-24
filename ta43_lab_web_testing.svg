@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.55306874"
-     inkscape:cx="936.28913"
-     inkscape:cy="288.62676"
+     inkscape:zoom="0.37007346"
+     inkscape:cx="1208.8409"
+     inkscape:cy="8.1135074"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="true"
@@ -6513,7 +6513,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -6870,12 +6870,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/nikto.png"
        xlink:href="img/nikto.png"
-       y="110"
-       x="1060"
-       id="image10373"
-       preserveAspectRatio="none"
+       width="467"
        height="696"
-       width="467" />
+       preserveAspectRatio="none"
+       id="image10373"
+       x="1060"
+       y="110" />
     <text
        id="text10473"
        y="601.68945"
@@ -7021,12 +7021,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/nikto_owasp.png"
        xlink:href="img/nikto_owasp.png"
-       y="110"
-       x="888"
-       id="image10443"
-       preserveAspectRatio="none"
+       width="652"
        height="704"
-       width="652" />
+       preserveAspectRatio="none"
+       id="image10443"
+       x="888"
+       y="110" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot10446"
@@ -7249,12 +7249,12 @@
          id="flowPara10581" /></flowRoot>    <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/zap_run.png"
        xlink:href="img/zap_run.png"
-       y="95"
-       x="1054"
-       id="image10624"
-       preserveAspectRatio="none"
+       width="526"
        height="695"
-       width="526" />
+       preserveAspectRatio="none"
+       id="image10624"
+       x="1054"
+       y="95" />
   </g>
   <g
      style="display:none"
@@ -7310,23 +7310,23 @@
          id="flowPara10698" /></flowRoot>    <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/zap_attack.png"
        xlink:href="img/zap_attack.png"
-       y="110"
-       x="780"
-       id="image10825"
-       preserveAspectRatio="none"
-       height="680"
+       style="stroke-width:1.04705882"
        width="765.95508"
-       style="stroke-width:1.04705882" />
+       height="680"
+       preserveAspectRatio="none"
+       id="image10825"
+       x="780"
+       y="110" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/zap_auto.png"
        xlink:href="img/zap_auto.png"
-       y="150"
-       x="60"
-       id="image10855"
-       preserveAspectRatio="none"
-       height="639.17419"
+       style="stroke-width:1.2109375"
        width="640"
-       style="stroke-width:1.2109375" />
+       height="639.17419"
+       preserveAspectRatio="none"
+       id="image10855"
+       x="60"
+       y="150" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -7388,23 +7388,23 @@
          id="flowPara12397" /></flowRoot>    <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/zap_alerts.png"
        xlink:href="img/zap_alerts.png"
-       y="100"
-       x="771.51685"
-       id="image12662"
-       preserveAspectRatio="none"
-       height="700"
+       style="stroke-width:1.01714289"
        width="788.48315"
-       style="stroke-width:1.01714289" />
+       height="700"
+       preserveAspectRatio="none"
+       id="image12662"
+       x="771.51685"
+       y="100" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/zap_spider.png"
        xlink:href="img/zap_spider.png"
-       y="100"
-       x="44"
-       id="image12692"
-       preserveAspectRatio="none"
-       height="700"
+       style="stroke-width:1.10428572"
        width="702.71667"
-       style="stroke-width:1.10428572" />
+       height="700"
+       preserveAspectRatio="none"
+       id="image12692"
+       x="44"
+       y="100" />
   </g>
   <g
      style="display:none"
@@ -7460,23 +7460,23 @@
          id="flowPara12717" /></flowRoot>    <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/zap_result.png"
        xlink:href="img/zap_result.png"
-       y="100"
-       x="80"
-       id="image12754"
-       preserveAspectRatio="none"
-       height="700"
+       style="stroke-width:1.10285711"
        width="701.81348"
-       style="stroke-width:1.10285711" />
+       height="700"
+       preserveAspectRatio="none"
+       id="image12754"
+       x="80"
+       y="100" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/zap_browse_result.png"
        xlink:href="img/zap_browse_result.png"
-       y="100"
-       x="820"
-       id="image12784"
-       preserveAspectRatio="none"
-       height="700"
+       style="stroke-width:1.10142863"
        width="700"
-       style="stroke-width:1.10142863" />
+       height="700"
+       preserveAspectRatio="none"
+       id="image12784"
+       x="820"
+       y="100" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -7771,12 +7771,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/beef_run.png"
        xlink:href="img/beef_run.png"
-       y="105"
-       x="920"
-       id="image14621"
-       preserveAspectRatio="none"
+       width="652"
        height="705"
-       width="652" />
+       preserveAspectRatio="none"
+       id="image14621"
+       x="920"
+       y="105" />
   </g>
   <g
      style="display:none"
@@ -7847,13 +7847,13 @@
          id="flowPara14252" /></flowRoot>    <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/beef_inspect.png"
        xlink:href="img/beef_inspect.png"
-       y="110"
-       x="740"
-       id="image14655"
-       preserveAspectRatio="none"
-       height="700.26019"
+       style="display:inline;stroke-width:1.09673524"
        width="827"
-       style="display:inline;stroke-width:1.09673524" />
+       height="700.26019"
+       preserveAspectRatio="none"
+       id="image14655"
+       x="740"
+       y="110" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7929,13 +7929,13 @@
          id="flowPara14731" /></flowRoot>    <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/beef_maxlen.png"
        xlink:href="img/beef_maxlen.png"
-       y="100"
-       x="740"
-       id="image14766"
-       preserveAspectRatio="none"
-       height="713.90729"
+       style="stroke-width:1.07857144"
        width="840"
-       style="stroke-width:1.07857144" />
+       height="713.90729"
+       preserveAspectRatio="none"
+       id="image14766"
+       x="740"
+       y="100" />
   </g>
   <g
      style="display:none"
@@ -7975,23 +7975,23 @@
          id="flowPara14816" /></flowRoot>    <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/beef_hook.png"
        xlink:href="img/beef_hook.png"
-       y="130"
-       x="40"
-       id="image14851"
-       preserveAspectRatio="none"
-       height="640"
+       style="stroke-width:1.20156252"
        width="753.18597"
-       style="stroke-width:1.20156252" />
+       height="640"
+       preserveAspectRatio="none"
+       id="image14851"
+       x="40"
+       y="130" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/beef_hook_added.png"
        xlink:href="img/beef_hook_added.png"
-       y="130"
-       x="820"
-       id="image14881"
-       preserveAspectRatio="none"
-       height="640"
+       style="stroke-width:1.20156252"
        width="754.85046"
-       style="stroke-width:1.20156252" />
+       height="640"
+       preserveAspectRatio="none"
+       id="image14881"
+       x="820"
+       y="130" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -8031,23 +8031,23 @@
          id="flowPara14178" /></flowRoot>    <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/beef_winxp.png"
        xlink:href="img/beef_winxp.png"
-       y="110"
-       x="40"
-       id="image15179"
-       preserveAspectRatio="none"
-       height="700"
+       style="stroke-width:1.04857147"
        width="761.0354"
-       style="stroke-width:1.04857147" />
+       height="700"
+       preserveAspectRatio="none"
+       id="image15179"
+       x="40"
+       y="110" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/beef_winxp_hooked.png"
        xlink:href="img/beef_winxp_hooked.png"
-       y="141"
-       x="818.94147"
-       id="image15449"
-       preserveAspectRatio="none"
-       height="629"
+       style="stroke-width:1.22257555"
        width="741.05853"
-       style="stroke-width:1.22257555" />
+       height="629"
+       preserveAspectRatio="none"
+       id="image15449"
+       x="818.94147"
+       y="141" />
   </g>
   <g
      style="display:none"
@@ -8087,22 +8087,22 @@
          id="flowPara15468" /></flowRoot>    <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/beef_si.png"
        xlink:href="img/beef_si.png"
-       y="90"
-       x="33"
-       id="image15507"
-       preserveAspectRatio="none"
-       height="722.2403"
+       style="stroke-width:1.06335795"
        width="947"
-       style="stroke-width:1.06335795" />
+       height="722.2403"
+       preserveAspectRatio="none"
+       id="image15507"
+       x="33"
+       y="90" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/beef_facebook.png"
        xlink:href="img/beef_facebook.png"
-       y="330"
-       x="1120"
-       id="image15537"
-       preserveAspectRatio="none"
+       width="348"
        height="240"
-       width="348" />
+       preserveAspectRatio="none"
+       id="image15537"
+       x="1120"
+       y="330" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -8142,22 +8142,22 @@
          id="flowPara15556" /></flowRoot>    <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/beef_facebook.png"
        xlink:href="img/beef_facebook.png"
-       y="330"
-       x="80"
-       id="image17429"
-       preserveAspectRatio="none"
+       width="348"
        height="240"
-       width="348" />
+       preserveAspectRatio="none"
+       id="image17429"
+       x="80"
+       y="330" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/beef_facebook_pass.png"
        xlink:href="img/beef_facebook_pass.png"
-       y="100"
-       x="640"
-       id="image17459"
-       preserveAspectRatio="none"
-       height="700"
+       style="stroke-width:1.09714282"
        width="916.92706"
-       style="stroke-width:1.09714282" />
+       height="700"
+       preserveAspectRatio="none"
+       id="image17459"
+       x="640"
+       y="100" />
     <path
        style="display:inline;fill:none;stroke:#ff0000;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0999999;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker14886);paint-order:stroke fill markers"
        d="m 360,490 c 220,40 820,20 960,-100"
@@ -8205,7 +8205,7 @@
          x="116.58347"
          sodipodi:role="line"
          style="font-size:36px;line-height:100%;font-family:sans-serif"
-         id="tspan7096">С машины winxp зайдите на эту же страницу</tspan></text>
+         id="tspan7096">С машины win10 зайдите на эту же страницу</tspan></text>
     <rect
        style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect7258"
