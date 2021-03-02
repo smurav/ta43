@@ -32,6 +32,7 @@
 1. [Атаки на Web-приложения (Часть 1)](./ta43_lab_web_attacks.svg)
 1. [Атаки на Web-приложения (Часть 2)](./ta43_lab_web_attacks2.svg)
 1. [Тестирование Web-приложений](./ta43_lab_web_testing.svg)
+1. [Социальная инженерия](./ta43_lab_social_engineering.svg)
 
 ### Дополнительные материалы
 
