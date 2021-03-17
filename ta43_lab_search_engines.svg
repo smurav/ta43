@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.66912741"
-     inkscape:cx="752.96219"
-     inkscape:cy="427.25325"
+     inkscape:zoom="0.31659398"
+     inkscape:cx="1466.0392"
+     inkscape:cy="-346.36183"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="g11001"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1137"
@@ -7265,13 +7265,13 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/google_services.png"
        xlink:href="img/google_services.png"
-       style="stroke-width:1.25869417"
-       width="459.20605"
-       height="679.27539"
-       preserveAspectRatio="none"
-       id="image10258"
+       y="110.5"
        x="1049.7939"
-       y="110.5" />
+       id="image10258"
+       preserveAspectRatio="none"
+       height="679.27539"
+       width="459.20605"
+       style="stroke-width:1.25869417" />
   </g>
   <g
      style="display:none"
@@ -7445,12 +7445,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/google_policy.png"
        xlink:href="img/google_policy.png"
-       width="801"
-       height="462"
-       preserveAspectRatio="none"
-       id="image10398"
+       y="109.58875"
        x="780.97131"
-       y="109.58875" />
+       id="image10398"
+       preserveAspectRatio="none"
+       height="462"
+       width="801" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7458,48 +7458,44 @@
      inkscape:label="Google Мои действия"
      style="display:none">
     <a
-       id="a10942"
+       id="a10550"
        xlink:href="https://policies.google.com/privacy">
-      <a
-         id="a11099"
-         xlink:href="https://myactivity.google.com/myactivity">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-           x="76.641235"
+      <text
+         id="text10940"
+         y="161.80609"
+         x="76.641235"
+         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan10934"
            y="161.80609"
-           id="text10940"><tspan
-             style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-             sodipodi:role="line"
-             x="76.641235"
-             y="161.80609"
-             id="tspan10934">На странице </tspan><tspan
-             id="tspan11093"
-             style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-             sodipodi:role="line"
-             x="76.641235"
-             y="205.00609">https://myactivity.google.com/myactivity</tspan><tspan
-             style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-             sodipodi:role="line"
-             x="76.641235"
-             y="248.2061"
-             id="tspan10936">можно контролировать и управлять</tspan><tspan
-             id="tspan11095"
-             style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-             sodipodi:role="line"
-             x="76.641235"
-             y="291.4061">информацией собираемой о вас</tspan><tspan
-             id="tspan11097"
-             style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-             sodipodi:role="line"
-             x="76.641235"
-             y="334.60611">компанией Google:</tspan><tspan
-             id="tspan10938"
-             style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-             sodipodi:role="line"
-             x="76.641235"
-             y="357.17172" /></text>
-      </a>
+           x="76.641235"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">На странице </tspan><tspan
+           y="205.00609"
+           x="76.641235"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           id="tspan11093">https://myactivity.google.com/myactivity</tspan><tspan
+           id="tspan10936"
+           y="248.2061"
+           x="76.641235"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">можно контролировать и управлять</tspan><tspan
+           y="291.4061"
+           x="76.641235"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           id="tspan11095">информацией собираемой о вас</tspan><tspan
+           y="334.60611"
+           x="76.641235"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           id="tspan11097">компанией Google:</tspan><tspan
+           y="357.17172"
+           x="76.641235"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           id="tspan10938" /></text>
     </a>
     <flowRoot
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -7664,21 +7660,21 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/google_history.png"
        xlink:href="img/google_history.png"
-       width="660"
-       height="648"
-       preserveAspectRatio="none"
-       id="image11030"
+       y="92.004143"
        x="837.64093"
-       y="92.004143" />
+       id="image11030"
+       preserveAspectRatio="none"
+       height="648"
+       width="660" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/google_timeline.png"
        xlink:href="img/google_timeline.png"
-       width="493"
-       height="538"
-       preserveAspectRatio="none"
-       id="image11090"
+       y="271.80795"
        x="1009.0989"
-       y="271.80795" />
+       id="image11090"
+       preserveAspectRatio="none"
+       height="538"
+       width="493" />
     <rect
        transform="rotate(-45)"
        ry="0"
@@ -8083,13 +8079,13 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/yandex_services.png"
        xlink:href="img/yandex_services.png"
-       y="93.5"
-       x="982.24615"
-       id="image11045"
-       preserveAspectRatio="none"
-       height="699"
+       style="stroke-width:1.38626611"
        width="579.25385"
-       style="stroke-width:1.38626611" />
+       height="699"
+       preserveAspectRatio="none"
+       id="image11045"
+       x="982.24615"
+       y="93.5" />
     <a
        xlink:href=""
        id="a11069"
