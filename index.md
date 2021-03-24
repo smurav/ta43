@@ -35,6 +35,7 @@
 1. [Социальная инженерия](./ta43_lab_social_engineering.svg)
 1. [Отслеживание в сети Интернет](./ta43_lab_tracking.svg)
 1. [Поисковые системы и конфиденциальность](./ta43_lab_search_engines.svg)
+1. [Борьба с отслеживанием](ta43_lab_tracking_prevention.svg)
 
 ### Дополнительные материалы
 
