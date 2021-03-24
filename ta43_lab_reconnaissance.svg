@@ -25,14 +25,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.76270902"
-     inkscape:cx="867.44368"
-     inkscape:cy="531.74279"
+     inkscape:zoom="0.51034951"
+     inkscape:cx="720.65908"
+     inkscape:cy="206.84108"
      inkscape:document-units="px"
-     inkscape:current-layer="g8208"
+     inkscape:current-layer="g11422"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1138"
+     inkscape:window-height="1137"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -7074,12 +7074,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/whois.png"
        xlink:href="img/whois.png"
-       width="728"
-       height="513"
-       preserveAspectRatio="none"
-       id="image10300"
+       y="130"
        x="812"
-       y="130" />
+       id="image10300"
+       preserveAspectRatio="none"
+       height="513"
+       width="728" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7125,12 +7125,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/dmitry.png"
        xlink:href="img/dmitry.png"
-       width="728"
-       height="513"
-       preserveAspectRatio="none"
-       id="image10432"
+       y="277"
        x="812"
-       y="277" />
+       id="image10432"
+       preserveAspectRatio="none"
+       height="513"
+       width="728" />
     <text
        id="text7361-4"
        y="281.68945"
@@ -7386,12 +7386,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/theHarvester.png"
        xlink:href="img/theHarvester.png"
-       width="651"
-       height="513"
-       preserveAspectRatio="none"
-       id="image11154"
+       y="130"
        x="869"
-       y="130" />
+       id="image11154"
+       preserveAspectRatio="none"
+       height="513"
+       width="651" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7473,151 +7473,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/RedHawk.png"
        xlink:href="img/RedHawk.png"
-       width="866"
-       height="406"
-       preserveAspectRatio="none"
-       id="image11343"
+       y="370"
        x="654"
-       y="370" />
-  </g>
-  <g
-     style="display:none"
-     inkscape:label="Сбор данных с SimpleEmail"
-     id="g11209"
-     inkscape:groupmode="layer">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="76.641235"
-       y="149.80608"
-       id="text11181"><tspan
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="76.641235"
-         y="149.80608"
-         id="tspan11175">Установка сценария для сбора сведений об адресах электронной почты </tspan><tspan
-         id="tspan11177"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="76.641235"
-         y="193.00607">через поисковые системы и с помощью анализа найденных документов</tspan><tspan
-         id="tspan11179"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="76.641235"
-         y="236.20609">Word, Excel, Powerpoint и Pdf.</tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.7795279;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect11183"
-       width="1443.9896"
-       height="120.33247"
-       x="78.005234"
-       y="269.83377"
-       ry="20.000002"
-       rx="20.000002" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="98.152954"
-       y="325.26349"
-       id="text11187"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="98.152954"
-         y="325.26349"
-         id="tspan11452">curl -s https://raw.githubusercontent.com/\</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="98.152954"
-         y="368.4635"
-         id="tspan11456">killswitch-GUI/SimplyEmail/master/setup/oneline-setup.sh | bash</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="98.152954"
-         y="391.02911"
-         id="tspan11450" /></text>
-    <text
-       id="text11191"
-       y="469.80609"
-       x="76.641235"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan11189"
-         y="469.80609"
-         x="76.641235"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Запуск сценария</tspan></text>
-    <rect
-       rx="20"
-       ry="20"
-       y="490"
-       x="80"
-       height="120"
-       width="1440"
-       id="rect11193"
-       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.7795279;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
-    <text
-       id="text11197"
-       y="545.26349"
-       x="98.152954"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan11195"
-         y="545.26349"
-         x="98.152954"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">cd SimplyEmail</tspan><tspan
-         y="588.4635"
-         x="98.152954"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan11213">./SimplyEmail.py -all -e example.com </tspan></text>
-  </g>
-  <g
-     style="display:none"
-     inkscape:label="Результаты сбора данных с SimpleEmail"
-     id="g10844"
-     inkscape:groupmode="layer">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="56.641235"
-       y="149.80608"
-       id="text10816"><tspan
-         id="tspan10814"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="56.641235"
-         y="149.80608">По результатам сбора формируется </tspan><tspan
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="56.641235"
-         y="193.00607"
-         id="tspan10851">текстовый перечень почтовых </tspan><tspan
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="56.641235"
-         y="236.20609"
-         id="tspan10853">адресов и отчёт в формате HTML.</tspan></text>
-    <image
-       sodipodi:absref="/home/sergey/Documents/git/ta43/img/SimplyEmailReport.png"
-       xlink:href="img/SimplyEmailReport.png"
-       style="stroke-width:1.02666664"
-       width="768.50647"
-       height="600"
+       id="image11343"
        preserveAspectRatio="none"
-       id="image10914"
-       x="780.49353"
-       y="130" />
-    <image
-       sodipodi:absref="/home/sergey/Documents/git/ta43/img/SimpleEmail.png"
-       xlink:href="img/SimpleEmail.png"
-       width="650"
-       height="513"
-       preserveAspectRatio="none"
-       id="image10980"
-       x="80"
-       y="290" />
+       height="406"
+       width="866" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7825,27 +7686,6 @@
        width="20"
        id="rect11374"
        style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <text
-       id="text11378"
-       y="621.93201"
-       x="116.58347"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan11376"
-         y="621.93201"
-         x="116.58347"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:100%;font-family:sans-serif">С помощью утилиты SimplyEmail осуществите поиск адресов электронной</tspan><tspan
-         y="657.93201"
-         x="116.58347"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         id="tspan11464">почты в домене mephi.ru</tspan><tspan
-         y="675.69763"
-         x="116.58347"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         id="tspan11462" /></text>
     <rect
        style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect11380"
@@ -7859,17 +7699,17 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        x="116.58347"
-       y="741.37836"
+       y="621.3783"
        id="text11386"><tspan
          id="tspan11384"
          style="font-size:36px;line-height:100%;font-family:sans-serif"
          sodipodi:role="line"
          x="116.58347"
-         y="741.37836">Повторите исследования для других доменов с использованием поисковых </tspan><tspan
+         y="621.3783">Повторите исследования для других доменов с использованием поисковых </tspan><tspan
          style="font-size:36px;line-height:100%;font-family:sans-serif"
          sodipodi:role="line"
          x="116.58347"
-         y="777.37836"
+         y="657.3783"
          id="tspan11468">систем и уже знакомых утилит</tspan></text>
     <text
        xml:space="preserve"
@@ -7946,15 +7786,6 @@
        width="20"
        id="rect11410"
        style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect11420"
-       width="20"
-       height="20"
-       x="-483.76181"
-       y="576.89899"
-       ry="0"
-       transform="rotate(-45)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
