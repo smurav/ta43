@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.66912741"
-     inkscape:cx="842.78292"
-     inkscape:cy="473.95886"
+     inkscape:zoom="0.44773149"
+     inkscape:cx="882.72739"
+     inkscape:cy="119.66253"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -7242,13 +7242,13 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/dnt.png"
        xlink:href="img/dnt.png"
-       y="131.21213"
-       x="955.5"
-       id="image10627"
-       preserveAspectRatio="none"
-       height="582.7879"
+       style="stroke-width:0.71381032"
        width="601"
-       style="stroke-width:0.71381032" />
+       height="582.7879"
+       preserveAspectRatio="none"
+       id="image10627"
+       x="955.5"
+       y="131.21213" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7268,21 +7268,21 @@
          id="flowPara6432" /></flowRoot>    <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/firefox_preferences.png"
        xlink:href="img/firefox_preferences.png"
-       y="108.5"
-       x="93.5"
-       id="image10657"
-       preserveAspectRatio="none"
+       width="333"
        height="695"
-       width="333" />
+       preserveAspectRatio="none"
+       id="image10657"
+       x="93.5"
+       y="108.5" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/firefox_dnt.png"
        xlink:href="img/firefox_dnt.png"
-       y="207.5"
-       x="576.5"
-       id="image10687"
-       preserveAspectRatio="none"
+       width="907"
        height="501"
-       width="907" />
+       preserveAspectRatio="none"
+       id="image10687"
+       x="576.5"
+       y="207.5" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7481,53 +7481,44 @@
      inkscape:label="Enhanced Tracking Protection"
      style="display:none">
     <a
-       id="a10821"
-       xlink:href="https://gs.statcounter.com/search-engine-market-share">
-      <a
-         id="a10925"
-         xlink:href="https://disconnect.me/trackerprotection">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-           x="76.641235"
+       xlink:href="https://disconnect.me/trackerprotection"
+       id="a10925">
+      <text
+         id="text10819"
+         y="161.80609"
+         x="76.641235"
+         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan10813"
            y="161.80609"
-           id="text10819"><tspan
-             style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-             sodipodi:role="line"
-             x="76.641235"
-             y="161.80609"
-             id="tspan10813">Enhanced Tracking Protection - набор </tspan><tspan
-             id="tspan10890"
-             style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-             sodipodi:role="line"
-             x="76.641235"
-             y="205.00609">функций Firefox, блокирующий известные</tspan><tspan
-             id="tspan10921"
-             style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-             sodipodi:role="line"
-             x="76.641235"
-             y="248.2061">треккеры по списку, предоставляемому </tspan><tspan
-             id="tspan10923"
-             style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-             sodipodi:role="line"
-             x="76.641235"
-             y="291.4061">ресурсом Disconnect.me.</tspan><tspan
-             style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-             sodipodi:role="line"
-             x="76.641235"
-             y="334.60611"
-             id="tspan11010">  </tspan><tspan
-             style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-             sodipodi:role="line"
-             x="76.641235"
-             y="357.17172"
-             id="tspan10815" /><tspan
-             id="tspan10817"
-             style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-             sodipodi:role="line"
-             x="76.641235"
-             y="371.57172" /></text>
-      </a>
+           x="76.641235"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Enhanced Tracking Protection - набор </tspan><tspan
+           y="205.00609"
+           x="76.641235"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           id="tspan10890">функций Firefox, блокирующий известные</tspan><tspan
+           y="248.2061"
+           x="76.641235"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           id="tspan10921">треккеры по списку, предоставляемому </tspan><tspan
+           id="tspan11010"
+           y="291.4061"
+           x="76.641235"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">ресурсом Disconnect.me  </tspan><tspan
+           id="tspan10815"
+           y="313.97171"
+           x="76.641235"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif" /><tspan
+           y="328.37173"
+           x="76.641235"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           id="tspan10817" /></text>
     </a>
     <flowRoot
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -7743,12 +7734,12 @@
       <image
          sodipodi:absref="/home/sergey/Documents/git/ta43/img/etp_standard.png"
          xlink:href="img/etp_standard.png"
-         y="112.5"
-         x="811"
-         id="image11201"
-         preserveAspectRatio="none"
+         width="750"
          height="675"
-         width="750" />
+         preserveAspectRatio="none"
+         id="image11201"
+         x="811"
+         y="112.5" />
     </a>
     <flowRoot
        xml:space="preserve"
@@ -8080,12 +8071,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/etp_strict.png"
        xlink:href="img/etp_strict.png"
-       width="747"
-       height="592"
-       preserveAspectRatio="none"
-       id="image7069"
+       y="121.28177"
        x="811.62555"
-       y="121.28177" />
+       id="image7069"
+       preserveAspectRatio="none"
+       height="592"
+       width="747" />
   </g>
   <g
      style="display:none"
@@ -8215,12 +8206,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/etp_custom.png"
        xlink:href="img/etp_custom.png"
-       width="744"
-       height="553"
-       preserveAspectRatio="none"
-       id="image7175"
+       y="110.8921"
        x="828.07031"
-       y="110.8921" />
+       id="image7175"
+       preserveAspectRatio="none"
+       height="553"
+       width="744" />
     <text
        id="text7106"
        y="451.15527"
@@ -8326,21 +8317,21 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/etp_test.png"
        xlink:href="img/etp_test.png"
-       width="660"
-       height="671"
-       preserveAspectRatio="none"
-       id="image7271"
+       y="96.726608"
        x="893.98206"
-       y="96.726608" />
+       id="image7271"
+       preserveAspectRatio="none"
+       height="671"
+       width="660" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/etp_analyze.png"
        xlink:href="img/etp_analyze.png"
-       width="454"
-       height="460"
-       preserveAspectRatio="none"
-       id="image11019"
+       y="327.76324"
        x="204.90578"
-       y="327.76324" />
+       id="image11019"
+       preserveAspectRatio="none"
+       height="460"
+       width="454" />
   </g>
   <g
      style="display:none"
@@ -8582,12 +8573,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/firefox_history.png"
        xlink:href="img/firefox_history.png"
-       width="908"
-       height="463"
-       preserveAspectRatio="none"
-       id="image11139"
+       y="327.75772"
        x="402.33911"
-       y="327.75772" />
+       id="image11139"
+       preserveAspectRatio="none"
+       height="463"
+       width="908" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -8737,12 +8728,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/noscript.png"
        xlink:href="img/noscript.png"
-       width="618"
-       height="355"
-       preserveAspectRatio="none"
-       id="image11294"
+       y="127.72569"
        x="954.91638"
-       y="127.72569" />
+       id="image11294"
+       preserveAspectRatio="none"
+       height="355"
+       width="618" />
     <a
        transform="translate(-41.452431,-245.10925)"
        id="a11309"
@@ -8805,46 +8796,42 @@
      inkscape:label="Расширенные настройки Firefox"
      id="g11466"
      inkscape:groupmode="layer">
-    <a
-       xlink:href="https://addons.mozilla.org/en-US/firefox/addon/noscript"
-       id="a11404">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-         x="76.641235"
+    <text
+       id="text11402"
+       y="161.80609"
+       x="76.641235"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan11396"
          y="161.80609"
-         id="text11402"><tspan
-           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-           sodipodi:role="line"
-           x="76.641235"
-           y="161.80609"
-           id="tspan11396">Firefox позволяет тонко настраивать</tspan><tspan
-           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-           sodipodi:role="line"
-           x="76.641235"
-           y="205.00609"
-           id="tspan11503">все аспекты своей деятельности</tspan><tspan
-           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-           sodipodi:role="line"
-           x="76.641235"
-           y="248.2061"
-           id="tspan11505">с помощью системной страницы</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
-           sodipodi:role="line"
-           x="76.641235"
-           y="291.4061"
-           id="tspan11507">about:config  </tspan><tspan
-           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-           sodipodi:role="line"
-           x="76.641235"
-           y="313.97171"
-           id="tspan11398" /><tspan
-           id="tspan11400"
-           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-           sodipodi:role="line"
-           x="76.641235"
-           y="328.37173" /></text>
-    </a>
+         x="76.641235"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Firefox позволяет тонко настраивать</tspan><tspan
+         id="tspan11503"
+         y="205.00609"
+         x="76.641235"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">все аспекты своей деятельности</tspan><tspan
+         id="tspan11505"
+         y="248.2061"
+         x="76.641235"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">с помощью системной страницы</tspan><tspan
+         id="tspan11507"
+         y="291.4061"
+         x="76.641235"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">about:config  </tspan><tspan
+         id="tspan11398"
+         y="313.97171"
+         x="76.641235"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif" /><tspan
+         y="328.37173"
+         x="76.641235"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+         id="tspan11400" /></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot11412"
@@ -8878,12 +8865,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/firefox_config.png"
        xlink:href="img/firefox_config.png"
-       width="652.67651"
-       height="716.90271"
-       preserveAspectRatio="none"
-       id="image11495"
+       y="95.445274"
        x="915.22662"
-       y="95.445274" />
+       id="image11495"
+       preserveAspectRatio="none"
+       height="716.90271"
+       width="652.67651" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -8891,53 +8878,49 @@
      inkscape:label="Расширенные настройки Firefox для безопасности"
      style="display:none">
     <a
-       id="a11523"
-       xlink:href="https://addons.mozilla.org/en-US/firefox/addon/noscript">
-      <a
-         id="a11564"
-         xlink:href="https://github.com/pyllyukko/user.js">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-           x="76.641235"
+       xlink:href="https://github.com/pyllyukko/user.js"
+       id="a11564">
+      <text
+         id="text11521"
+         y="161.80609"
+         x="76.641235"
+         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan11515"
            y="161.80609"
-           id="text11521"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif"
-             sodipodi:role="line"
-             x="76.641235"
-             y="161.80609"
-             id="tspan11515">Проект https://github.com/pyllyukko/user.js</tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif"
-             sodipodi:role="line"
-             x="76.641235"
-             y="205.00609"
-             id="tspan11571">предоставляет набор готовых </tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif"
-             sodipodi:role="line"
-             x="76.641235"
-             y="248.2061"
-             id="tspan11573">расширенных настроек Firefox, </tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif"
-             sodipodi:role="line"
-             x="76.641235"
-             y="291.4061"
-             id="tspan11575">повышающие защищённость </tspan><tspan
-             id="tspan11562"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif"
-             sodipodi:role="line"
-             x="76.641235"
-             y="334.60611">пользователя.  </tspan><tspan
-             style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-             sodipodi:role="line"
-             x="76.641235"
-             y="357.17172"
-             id="tspan11517" /><tspan
-             id="tspan11519"
-             style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-             sodipodi:role="line"
-             x="76.641235"
-             y="371.57172" /></text>
-      </a>
+           x="76.641235"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif">Проект https://github.com/pyllyukko/user.js</tspan><tspan
+           id="tspan11571"
+           y="205.00609"
+           x="76.641235"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif">предоставляет набор готовых </tspan><tspan
+           id="tspan11573"
+           y="248.2061"
+           x="76.641235"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif">расширенных настроек Firefox, </tspan><tspan
+           id="tspan11575"
+           y="291.4061"
+           x="76.641235"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif">повышающие защищённость </tspan><tspan
+           y="334.60611"
+           x="76.641235"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           id="tspan11562">пользователя.  </tspan><tspan
+           id="tspan11517"
+           y="357.17172"
+           x="76.641235"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif" /><tspan
+           y="371.57172"
+           x="76.641235"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           id="tspan11519" /></text>
     </a>
     <flowRoot
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -8972,57 +8955,48 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/user_js.png"
        xlink:href="img/user_js.png"
-       width="655.51453"
-       height="720.89166"
-       preserveAspectRatio="none"
-       id="image11608"
+       y="88.967331"
        x="926.53375"
-       y="88.967331" />
-    <a
-       xlink:href="https://addons.mozilla.org/en-US/firefox/addon/noscript"
-       id="a11629"
-       transform="translate(0,240)">
-      <a
-         xlink:href="https://github.com/pyllyukko/user.js"
-         id="a11627">
-        <text
-           id="text11625"
-           y="161.80609"
-           x="76.641235"
-           style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-           xml:space="preserve"><tspan
-             y="161.80609"
-             x="76.641235"
-             sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif"
-             id="tspan11619">Готовый профиль пользовательских</tspan><tspan
-             y="205.00609"
-             x="76.641235"
-             sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif"
-             id="tspan11645">настроек Firefox содержит подробное</tspan><tspan
-             y="248.2061"
-             x="76.641235"
-             sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif"
-             id="tspan11647">описание назначения и рекомендуемые</tspan><tspan
-             y="291.4061"
-             x="76.641235"
-             sodipodi:role="line"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif"
-             id="tspan11649">значения для всех параметров.  </tspan><tspan
-             id="tspan11621"
-             y="313.97171"
-             x="76.641235"
-             sodipodi:role="line"
-             style="font-size:36px;line-height:120.00000477%;font-family:sans-serif" /><tspan
-             y="328.37173"
-             x="76.641235"
-             sodipodi:role="line"
-             style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-             id="tspan11623" /></text>
-      </a>
-    </a>
+       id="image11608"
+       preserveAspectRatio="none"
+       height="720.89166"
+       width="655.51453" />
+    <text
+       id="text11625"
+       y="401.80609"
+       x="76.641235"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="401.80609"
+         x="76.641235"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         id="tspan11619">Готовый профиль пользовательских</tspan><tspan
+         y="445.0061"
+         x="76.641235"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         id="tspan11645">настроек Firefox содержит подробное</tspan><tspan
+         y="488.20609"
+         x="76.641235"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         id="tspan11647">описание назначения и рекомендуемые</tspan><tspan
+         y="531.40607"
+         x="76.641235"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         id="tspan11649">значения для всех параметров.  </tspan><tspan
+         id="tspan11621"
+         y="553.97174"
+         x="76.641235"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif" /><tspan
+         y="568.3717"
+         x="76.641235"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+         id="tspan11623" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
