@@ -16,7 +16,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="ta43_lab_vuln_scanning.svg"
+   sodipodi:docname="ta43_lab_email_security.svg"
    enable-background="new">
   <sodipodi:namedview
      id="base"
@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.55306874"
-     inkscape:cx="838.61277"
-     inkscape:cy="231.86751"
+     inkscape:zoom="0.80185396"
+     inkscape:cx="578.05153"
+     inkscape:cy="425.23726"
      inkscape:document-units="px"
-     inkscape:current-layer="g10807"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1137"
@@ -39,12 +39,15 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-global="true"
-     inkscape:snap-midpoints="true"
+     inkscape:snap-midpoints="false"
      inkscape:snap-object-midpoints="false"
      inkscape:snap-center="false"
-     inkscape:snap-others="true"
-     inkscape:snap-grids="true"
-     inkscape:snap-to-guides="false">
+     inkscape:snap-others="false"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="false"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-nodes="true">
     <inkscape:grid
        type="xygrid"
        id="grid3057"
@@ -59,6 +62,51 @@
   </sodipodi:namedview>
   <defs
      id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker16685"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path16683"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker15570"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path15568"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker12411"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path12409"
+         inkscape:connector-curvature="0" />
+    </marker>
     <marker
        inkscape:isstock="true"
        style="overflow:visible;"
@@ -6411,6 +6459,766 @@
        gradientTransform="matrix(-2.7744,0,0,1.9697,112.76,-872.89)"
        r="117.14"
        inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="matrix(6.4583206,0,0,6.4583206,987.17561,167.50474)"
+       gradientUnits="userSpaceOnUse"
+       y2="74.468002"
+       x2="6.447"
+       y1="12.393"
+       x1="70.786003"
+       id="a">
+      <stop
+         id="stop834"
+         stop-color="#fff44f"
+         offset=".048" />
+      <stop
+         id="stop836"
+         stop-color="#ffe847"
+         offset=".111" />
+      <stop
+         id="stop838"
+         stop-color="#ffc830"
+         offset=".225" />
+      <stop
+         id="stop840"
+         stop-color="#ff980e"
+         offset=".368" />
+      <stop
+         id="stop842"
+         stop-color="#ff8b16"
+         offset=".401" />
+      <stop
+         id="stop844"
+         stop-color="#ff672a"
+         offset=".462" />
+      <stop
+         id="stop846"
+         stop-color="#ff3647"
+         offset=".534" />
+      <stop
+         id="stop848"
+         stop-color="#e31587"
+         offset=".705" />
+    </linearGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(6.4583206,0,0,6.4583206,52492.283,55218.23)"
+       r="80.796997"
+       cy="-8515.1211"
+       cx="-7907.187"
+       id="b">
+      <stop
+         id="stop851"
+         stop-color="#ffbd4f"
+         offset=".129" />
+      <stop
+         id="stop853"
+         stop-color="#ffac31"
+         offset=".186" />
+      <stop
+         id="stop855"
+         stop-color="#ff9d17"
+         offset=".247" />
+      <stop
+         id="stop857"
+         stop-color="#ff980e"
+         offset=".283" />
+      <stop
+         id="stop859"
+         stop-color="#ff563b"
+         offset=".403" />
+      <stop
+         id="stop861"
+         stop-color="#ff3750"
+         offset=".467" />
+      <stop
+         id="stop863"
+         stop-color="#f5156c"
+         offset=".71" />
+      <stop
+         id="stop865"
+         stop-color="#eb0878"
+         offset=".782" />
+      <stop
+         id="stop867"
+         stop-color="#e50080"
+         offset=".86" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(6.4583206,0,0,6.4583206,52492.283,55218.23)"
+       r="80.796997"
+       cy="-8482.0889"
+       cx="-7936.7109"
+       id="c">
+      <stop
+         id="stop870"
+         stop-color="#960e18"
+         offset=".3" />
+      <stop
+         id="stop872"
+         stop-opacity=".74"
+         stop-color="#b11927"
+         offset=".351" />
+      <stop
+         id="stop874"
+         stop-opacity=".343"
+         stop-color="#db293d"
+         offset=".435" />
+      <stop
+         id="stop876"
+         stop-opacity=".094"
+         stop-color="#f5334b"
+         offset=".497" />
+      <stop
+         id="stop878"
+         stop-opacity="0"
+         stop-color="#ff3750"
+         offset=".53" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(6.4583206,0,0,6.4583206,52492.283,55218.23)"
+       r="58.534"
+       cy="-8533.457"
+       cx="-7926.9702"
+       id="d">
+      <stop
+         id="stop881"
+         stop-color="#fff44f"
+         offset=".132" />
+      <stop
+         id="stop883"
+         stop-color="#ffdc3e"
+         offset=".252" />
+      <stop
+         id="stop885"
+         stop-color="#ff9d12"
+         offset=".506" />
+      <stop
+         id="stop887"
+         stop-color="#ff980e"
+         offset=".526" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(6.4583206,0,0,6.4583206,52492.283,55218.23)"
+       r="38.471001"
+       cy="-8460.9844"
+       cx="-7945.6479"
+       id="e">
+      <stop
+         id="stop890"
+         stop-color="#3a8ee6"
+         offset=".353" />
+      <stop
+         id="stop892"
+         stop-color="#5c79f0"
+         offset=".472" />
+      <stop
+         id="stop894"
+         stop-color="#9059ff"
+         offset=".669" />
+      <stop
+         id="stop896"
+         stop-color="#c139e6"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(6.2774877,-1.5177053,1.7760381,7.3495689,66160.041,50760.684)"
+       r="20.396999"
+       cy="-8491.5459"
+       cx="-7935.6201"
+       id="f">
+      <stop
+         id="stop899"
+         stop-opacity="0"
+         stop-color="#9059ff"
+         offset=".206" />
+      <stop
+         id="stop901"
+         stop-opacity=".064"
+         stop-color="#8c4ff3"
+         offset=".278" />
+      <stop
+         id="stop903"
+         stop-opacity=".45"
+         stop-color="#7716a8"
+         offset=".747" />
+      <stop
+         id="stop905"
+         stop-opacity=".6"
+         stop-color="#6e008b"
+         offset=".975" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(6.4583206,0,0,6.4583206,52492.283,55218.23)"
+       r="27.676001"
+       cy="-8518.4268"
+       cx="-7937.731"
+       id="g">
+      <stop
+         id="stop908"
+         stop-color="#ffe226"
+         offset="0" />
+      <stop
+         id="stop910"
+         stop-color="#ffdb27"
+         offset=".121" />
+      <stop
+         id="stop912"
+         stop-color="#ffc82a"
+         offset=".295" />
+      <stop
+         id="stop914"
+         stop-color="#ffa930"
+         offset=".502" />
+      <stop
+         id="stop916"
+         stop-color="#ff7e37"
+         offset=".732" />
+      <stop
+         id="stop918"
+         stop-color="#ff7139"
+         offset=".792" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(6.4583206,0,0,6.4583206,52492.283,55218.23)"
+       r="118.081"
+       cy="-8535.9814"
+       cx="-7915.9771"
+       id="h">
+      <stop
+         id="stop921"
+         stop-color="#fff44f"
+         offset=".113" />
+      <stop
+         id="stop923"
+         stop-color="#ff980e"
+         offset=".456" />
+      <stop
+         id="stop925"
+         stop-color="#ff5634"
+         offset=".622" />
+      <stop
+         id="stop927"
+         stop-color="#ff3647"
+         offset=".716" />
+      <stop
+         id="stop929"
+         stop-color="#e31587"
+         offset=".904" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.67812367,6.4260291,-4.2172834,0.44562413,-29263.624,54870.714)"
+       r="86.499001"
+       cy="-8522.8594"
+       cx="-7927.165"
+       id="i">
+      <stop
+         id="stop932"
+         stop-color="#fff44f"
+         offset="0" />
+      <stop
+         id="stop934"
+         stop-color="#ffe847"
+         offset=".06" />
+      <stop
+         id="stop936"
+         stop-color="#ffc830"
+         offset=".168" />
+      <stop
+         id="stop938"
+         stop-color="#ff980e"
+         offset=".304" />
+      <stop
+         id="stop940"
+         stop-color="#ff8b16"
+         offset=".356" />
+      <stop
+         id="stop942"
+         stop-color="#ff672a"
+         offset=".455" />
+      <stop
+         id="stop944"
+         stop-color="#ff3647"
+         offset=".57" />
+      <stop
+         id="stop946"
+         stop-color="#e31587"
+         offset=".737" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(6.4583206,0,0,6.4583206,52492.283,55218.23)"
+       r="73.720001"
+       cy="-8508.1758"
+       cx="-7938.3828"
+       id="j">
+      <stop
+         id="stop949"
+         stop-color="#fff44f"
+         offset=".137" />
+      <stop
+         id="stop951"
+         stop-color="#ff980e"
+         offset=".48" />
+      <stop
+         id="stop953"
+         stop-color="#ff5634"
+         offset=".592" />
+      <stop
+         id="stop955"
+         stop-color="#ff3647"
+         offset=".655" />
+      <stop
+         id="stop957"
+         stop-color="#e31587"
+         offset=".904" />
+    </radialGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(6.4583206,0,0,6.4583206,52492.283,55218.23)"
+       r="80.685997"
+       cy="-8503.8613"
+       cx="-7918.9229"
+       id="k">
+      <stop
+         id="stop960"
+         stop-color="#fff44f"
+         offset=".094" />
+      <stop
+         id="stop962"
+         stop-color="#ffe141"
+         offset=".231" />
+      <stop
+         id="stop964"
+         stop-color="#ffaf1e"
+         offset=".509" />
+      <stop
+         id="stop966"
+         stop-color="#ff980e"
+         offset=".626" />
+    </radialGradient>
+    <linearGradient
+       gradientTransform="matrix(6.4583206,0,0,6.4583206,987.17561,167.50474)"
+       gradientUnits="userSpaceOnUse"
+       y2="66.806"
+       x2="15.267"
+       y1="12.061"
+       x1="70.013"
+       id="l">
+      <stop
+         id="stop969"
+         stop-opacity=".8"
+         stop-color="#fff44f"
+         offset=".167" />
+      <stop
+         id="stop971"
+         stop-opacity=".634"
+         stop-color="#fff44f"
+         offset=".266" />
+      <stop
+         id="stop973"
+         stop-opacity=".217"
+         stop-color="#fff44f"
+         offset=".489" />
+      <stop
+         id="stop975"
+         stop-opacity="0"
+         stop-color="#fff44f"
+         offset=".6" />
+    </linearGradient>
+    <linearGradient
+       id="a-3"
+       x1="70.786003"
+       y1="12.393"
+       x2="6.447"
+       y2="74.468002"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(3.7,-0.0040855)">
+      <stop
+         offset=".048"
+         stop-color="#fff44f"
+         id="stop834-1" />
+      <stop
+         offset=".111"
+         stop-color="#ffe847"
+         id="stop836-7" />
+      <stop
+         offset=".225"
+         stop-color="#ffc830"
+         id="stop838-5" />
+      <stop
+         offset=".368"
+         stop-color="#ff980e"
+         id="stop840-9" />
+      <stop
+         offset=".401"
+         stop-color="#ff8b16"
+         id="stop842-6" />
+      <stop
+         offset=".462"
+         stop-color="#ff672a"
+         id="stop844-2" />
+      <stop
+         offset=".534"
+         stop-color="#ff3647"
+         id="stop846-1" />
+      <stop
+         offset=".705"
+         stop-color="#e31587"
+         id="stop848-7" />
+    </linearGradient>
+    <radialGradient
+       id="b-8"
+       cx="-7907.187"
+       cy="-8515.1211"
+       r="80.796997"
+       gradientTransform="translate(7978.7,8523.9959)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset=".129"
+         stop-color="#ffbd4f"
+         id="stop851-5" />
+      <stop
+         offset=".186"
+         stop-color="#ffac31"
+         id="stop853-7" />
+      <stop
+         offset=".247"
+         stop-color="#ff9d17"
+         id="stop855-4" />
+      <stop
+         offset=".283"
+         stop-color="#ff980e"
+         id="stop857-1" />
+      <stop
+         offset=".403"
+         stop-color="#ff563b"
+         id="stop859-8" />
+      <stop
+         offset=".467"
+         stop-color="#ff3750"
+         id="stop861-5" />
+      <stop
+         offset=".71"
+         stop-color="#f5156c"
+         id="stop863-9" />
+      <stop
+         offset=".782"
+         stop-color="#eb0878"
+         id="stop865-7" />
+      <stop
+         offset=".86"
+         stop-color="#e50080"
+         id="stop867-5" />
+    </radialGradient>
+    <radialGradient
+       id="c-3"
+       cx="-7936.7109"
+       cy="-8482.0889"
+       r="80.796997"
+       gradientTransform="translate(7978.7,8523.9959)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset=".3"
+         stop-color="#960e18"
+         id="stop870-8" />
+      <stop
+         offset=".351"
+         stop-color="#b11927"
+         stop-opacity=".74"
+         id="stop872-8" />
+      <stop
+         offset=".435"
+         stop-color="#db293d"
+         stop-opacity=".343"
+         id="stop874-3" />
+      <stop
+         offset=".497"
+         stop-color="#f5334b"
+         stop-opacity=".094"
+         id="stop876-1" />
+      <stop
+         offset=".53"
+         stop-color="#ff3750"
+         stop-opacity="0"
+         id="stop878-8" />
+    </radialGradient>
+    <radialGradient
+       id="d-9"
+       cx="-7926.9702"
+       cy="-8533.457"
+       r="58.534"
+       gradientTransform="translate(7978.7,8523.9959)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset=".132"
+         stop-color="#fff44f"
+         id="stop881-6" />
+      <stop
+         offset=".252"
+         stop-color="#ffdc3e"
+         id="stop883-4" />
+      <stop
+         offset=".506"
+         stop-color="#ff9d12"
+         id="stop885-3" />
+      <stop
+         offset=".526"
+         stop-color="#ff980e"
+         id="stop887-3" />
+    </radialGradient>
+    <radialGradient
+       id="e-3"
+       cx="-7945.6479"
+       cy="-8460.9844"
+       r="38.471001"
+       gradientTransform="translate(7978.7,8523.9959)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset=".353"
+         stop-color="#3a8ee6"
+         id="stop890-8" />
+      <stop
+         offset=".472"
+         stop-color="#5c79f0"
+         id="stop892-6" />
+      <stop
+         offset=".669"
+         stop-color="#9059ff"
+         id="stop894-0" />
+      <stop
+         offset="1"
+         stop-color="#c139e6"
+         id="stop896-4" />
+    </radialGradient>
+    <radialGradient
+       id="f-8"
+       cx="-7935.6201"
+       cy="-8491.5459"
+       r="20.396999"
+       gradientTransform="matrix(0.972,-0.235,0.275,1.138,10095.002,7833.7939)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset=".206"
+         stop-color="#9059ff"
+         stop-opacity="0"
+         id="stop899-8" />
+      <stop
+         offset=".278"
+         stop-color="#8c4ff3"
+         stop-opacity=".064"
+         id="stop901-8" />
+      <stop
+         offset=".747"
+         stop-color="#7716a8"
+         stop-opacity=".45"
+         id="stop903-9" />
+      <stop
+         offset=".975"
+         stop-color="#6e008b"
+         stop-opacity=".6"
+         id="stop905-7" />
+    </radialGradient>
+    <radialGradient
+       id="g-7"
+       cx="-7937.731"
+       cy="-8518.4268"
+       r="27.676001"
+       gradientTransform="translate(7978.7,8523.9959)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#ffe226"
+         id="stop908-6" />
+      <stop
+         offset=".121"
+         stop-color="#ffdb27"
+         id="stop910-4" />
+      <stop
+         offset=".295"
+         stop-color="#ffc82a"
+         id="stop912-3" />
+      <stop
+         offset=".502"
+         stop-color="#ffa930"
+         id="stop914-0" />
+      <stop
+         offset=".732"
+         stop-color="#ff7e37"
+         id="stop916-3" />
+      <stop
+         offset=".792"
+         stop-color="#ff7139"
+         id="stop918-0" />
+    </radialGradient>
+    <radialGradient
+       id="h-9"
+       cx="-7915.9771"
+       cy="-8535.9814"
+       r="118.081"
+       gradientTransform="translate(7978.7,8523.9959)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset=".113"
+         stop-color="#fff44f"
+         id="stop921-2" />
+      <stop
+         offset=".456"
+         stop-color="#ff980e"
+         id="stop923-5" />
+      <stop
+         offset=".622"
+         stop-color="#ff5634"
+         id="stop925-4" />
+      <stop
+         offset=".716"
+         stop-color="#ff3647"
+         id="stop927-0" />
+      <stop
+         offset=".904"
+         stop-color="#e31587"
+         id="stop929-5" />
+    </radialGradient>
+    <radialGradient
+       id="i-9"
+       cx="-7927.165"
+       cy="-8522.8594"
+       r="86.499001"
+       gradientTransform="matrix(0.105,0.995,-0.653,0.069,-4680.304,8470.1869)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#fff44f"
+         id="stop932-4" />
+      <stop
+         offset=".06"
+         stop-color="#ffe847"
+         id="stop934-6" />
+      <stop
+         offset=".168"
+         stop-color="#ffc830"
+         id="stop936-9" />
+      <stop
+         offset=".304"
+         stop-color="#ff980e"
+         id="stop938-2" />
+      <stop
+         offset=".356"
+         stop-color="#ff8b16"
+         id="stop940-2" />
+      <stop
+         offset=".455"
+         stop-color="#ff672a"
+         id="stop942-4" />
+      <stop
+         offset=".57"
+         stop-color="#ff3647"
+         id="stop944-7" />
+      <stop
+         offset=".737"
+         stop-color="#e31587"
+         id="stop946-7" />
+    </radialGradient>
+    <radialGradient
+       id="j-5"
+       cx="-7938.3828"
+       cy="-8508.1758"
+       r="73.720001"
+       gradientTransform="translate(7978.7,8523.9959)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset=".137"
+         stop-color="#fff44f"
+         id="stop949-4" />
+      <stop
+         offset=".48"
+         stop-color="#ff980e"
+         id="stop951-8" />
+      <stop
+         offset=".592"
+         stop-color="#ff5634"
+         id="stop953-1" />
+      <stop
+         offset=".655"
+         stop-color="#ff3647"
+         id="stop955-2" />
+      <stop
+         offset=".904"
+         stop-color="#e31587"
+         id="stop957-8" />
+    </radialGradient>
+    <radialGradient
+       id="k-9"
+       cx="-7918.9229"
+       cy="-8503.8613"
+       r="80.685997"
+       gradientTransform="translate(7978.7,8523.9959)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset=".094"
+         stop-color="#fff44f"
+         id="stop960-3" />
+      <stop
+         offset=".231"
+         stop-color="#ffe141"
+         id="stop962-6" />
+      <stop
+         offset=".509"
+         stop-color="#ffaf1e"
+         id="stop964-8" />
+      <stop
+         offset=".626"
+         stop-color="#ff980e"
+         id="stop966-0" />
+    </radialGradient>
+    <linearGradient
+       id="l-2"
+       x1="70.013"
+       y1="12.061"
+       x2="15.267"
+       y2="66.806"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(3.7,-0.0040855)">
+      <stop
+         offset=".167"
+         stop-color="#fff44f"
+         stop-opacity=".8"
+         id="stop969-1" />
+      <stop
+         offset=".266"
+         stop-color="#fff44f"
+         stop-opacity=".634"
+         id="stop971-0" />
+      <stop
+         offset=".489"
+         stop-color="#fff44f"
+         stop-opacity=".217"
+         id="stop973-5" />
+      <stop
+         offset=".6"
+         stop-color="#fff44f"
+         stop-opacity="0"
+         id="stop975-1" />
+    </linearGradient>
+    <filter
+       height="6.629"
+       width="14.927"
+       y="18.355"
+       x="162.68"
+       filterUnits="userSpaceOnUse"
+       id="Adobe_OpacityMaskFilter">
+      <feColorMatrix
+         id="feColorMatrix7124"
+         values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"
+         type="matrix" />
+    </filter>
   </defs>
   <metadata
      id="metadata7">
@@ -6527,7 +7335,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
          y="562.6369"
          x="798.31018"
-         sodipodi:role="line">Сканирование уязвимостей</tspan><tspan
+         sodipodi:role="line">Безопасность электронной почты</tspan><tspan
          id="tspan8919"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#203d85;fill-opacity:1"
          y="617.91815"
@@ -6596,7 +7404,7 @@
          x="31.882812"
          y="881.53516"
          id="tspan9304"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.33333206px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">Сканирование уязвимостей</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.33333206px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">Безопасность электронной почты</tspan></text>
     <text
        id="text9306"
        y="881.53516"
@@ -6638,357 +7446,1781 @@
        id="a5529-8" />
   </g>
   <g
-     inkscape:groupmode="layer"
-     id="g7306"
-     inkscape:label="Знакомство с утилитой Legion"
-     style="display:none">
+     style="display:none"
+     inkscape:label="Доступ к электронной почте"
+     id="g10820"
+     inkscape:groupmode="layer">
     <flowRoot
        xml:space="preserve"
-       id="flowRoot7277"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
-         id="flowRegion7273"><rect
-           id="rect7271"
-           width="940"
-           height="60"
-           x="-40"
-           y="630" /></flowRegion><flowPara
-         id="flowPara7275" /></flowRoot>    <text
-       id="text7288"
-       y="310"
-       x="80"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="345.39062"
-         x="80"
-         id="tspan7286"
-         sodipodi:role="line" /></text>
-    <image
-       sodipodi:absref="/home/sergey/Documents/git/ta43/img/legion_start.png"
-       xlink:href="img/legion_start.png"
-       y="110"
-       x="1038"
-       id="image7335"
-       preserveAspectRatio="none"
-       height="694"
-       width="522" />
-    <text
+       id="flowRoot10758"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion10754"><rect
+           id="rect10752"
+           width="400"
+           height="120"
+           x="1240"
+           y="470" /></flowRegion><flowPara
+         id="flowPara10756" /></flowRoot>    <g
+       id="g10890">
+      <g
+         inkscape:transform-center-y="-220"
+         style="fill:#28170b"
+         transform="translate(-369.99988,350)"
+         id="g10874" />
+      <g
+         inkscape:transform-center-x="89.482069"
+         id="g10878"
+         transform="rotate(-24,2148.3103,1135.3563)"
+         style="fill:#28170b"
+         inkscape:transform-center-y="-200.98001" />
+      <g
+         inkscape:transform-center-y="-213.46508"
+         style="fill:#28170b"
+         transform="rotate(-14,2750.2606,1771.7036)"
+         id="g10882"
+         inkscape:transform-center-x="53.22282" />
+    </g>
+    <g
+       id="g7400"
+       transform="translate(0,-20)">
+      <a
+         xlink:href=""
+         id="a10764"
+         transform="translate(0,-254)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+           x="116.44132"
+           y="501.68945"
+           id="text10762"><tspan
+             style="font-size:36px;line-height:100%;font-family:sans-serif"
+             sodipodi:role="line"
+             x="116.44132"
+             y="501.68945"
+             id="tspan10760">HTTPS (443)</tspan></text>
+      </a>
+      <rect
+         transform="rotate(-45)"
+         ry="0"
+         y="213.44563"
+         x="-120.30843"
+         height="20"
+         width="20"
+         id="rect10766"
+         style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+      <a
+         xlink:href=""
+         id="a10772"
+         transform="translate(0,-255.46378)">
+        <text
+           id="text10770"
+           y="561.37781"
+           x="116.44132"
+           style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             id="tspan10587"
+             y="561.37781"
+             x="116.44132"
+             sodipodi:role="line"
+             style="font-size:36px;line-height:100%;font-family:sans-serif">Аутентификация сервера - сертификат</tspan></text>
+      </a>
+      <rect
+         style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect10774"
+         width="20"
+         height="20"
+         x="-162.73483"
+         y="255.87204"
+         ry="0"
+         transform="rotate(-45)" />
+      <a
+         transform="translate(0,-294)"
+         xlink:href=""
+         id="a10780">
+        <text
+           id="text10778"
+           y="661.68945"
+           x="116.44132"
+           style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             id="tspan10776"
+             y="661.68945"
+             x="116.44132"
+             sodipodi:role="line"
+             style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Аутентификация клиента - пароль/двухфакторная</tspan></text>
+      </a>
+      <rect
+         style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect10782"
+         width="20"
+         height="20"
+         x="-205.16121"
+         y="298.29849"
+         ry="0"
+         transform="rotate(-45)" />
+      <a
+         transform="translate(0,26)"
+         xlink:href="https://gs.statcounter.com/search-engine-market-share"
+         id="a10576">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+           x="76.641235"
+           y="161.80609"
+           id="text10574"><tspan
+             style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+             sodipodi:role="line"
+             x="76.641235"
+             y="161.80609"
+             id="tspan10568">Тонкий клиент:</tspan><tspan
+             style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+             sodipodi:role="line"
+             x="76.641235"
+             y="184.37172"
+             id="tspan10570" /><tspan
+             id="tspan10572"
+             style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+             sodipodi:role="line"
+             x="76.641235"
+             y="198.77171" /></text>
+      </a>
+    </g>
+    <g
+       id="g6999"
+       transform="matrix(3.8750396,0,0,3.8750396,1128.1412,112.87853)">
+      <path
+         d="m 79.616,26.826915 c -1.684,-4.052 -5.1,-8.427 -7.775,-9.81 a 40.266,40.266 0 0 1 3.925,11.764 l 0.007,0.065 c -4.382,-10.925 -11.813,-15.33 -17.882,-24.9220005 -0.307,-0.485 -0.614,-0.971 -0.913,-1.484 -0.171,-0.293 -0.308,-0.557 -0.427,-0.8 a 7.053,7.053 0 0 1 -0.578,-1.535 0.1,0.1 0 0 0 -0.088,-0.1 0.138,0.138 0 0 0 -0.073,0 c -0.005,0 -0.013,0.009 -0.019,0.011 -0.006,0.002 -0.019,0.011 -0.028,0.015 l 0.015,-0.026 c -9.735,5.7 -13.038,16.2520005 -13.342,21.5300005 a 19.387,19.387 0 0 0 -10.666,4.111 11.587,11.587 0 0 0 -1,-0.758 17.968,17.968 0 0 1 -0.109,-9.473 28.705,28.705 0 0 0 -9.329,7.21 h -0.018 c -1.536,-1.947 -1.428,-8.367 -1.34,-9.708 a 6.928,6.928 0 0 0 -1.294,0.687 28.225,28.225 0 0 0 -3.788,3.245 33.845,33.845 0 0 0 -3.623,4.347 v 0.006 -0.007 a 32.733,32.733 0 0 0 -5.2,11.743 l -0.052,0.256 c -0.073,0.341 -0.336,2.049 -0.381,2.42 0,0.029 -0.006,0.056 -0.009,0.085 A 36.937,36.937 0 0 0 5,41.041915 v 0.2 a 38.759,38.759 0 0 0 76.954,6.554 c 0.065,-0.5 0.118,-0.995 0.176,-1.5 a 39.857,39.857 0 0 0 -2.514,-19.469 z m -44.67,30.338 c 0.181,0.087 0.351,0.181 0.537,0.264 l 0.027,0.017 q -0.282,-0.135 -0.564,-0.281 z m 8.878,-23.376 z m 31.952,-4.934 v -0.037 l 0.007,0.041 z"
+         id="path980-1"
+         style="fill:url(#a-3)"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 79.616,26.826915 c -1.684,-4.052 -5.1,-8.427 -7.775,-9.81 a 40.266,40.266 0 0 1 3.925,11.764 v 0.037 l 0.007,0.041 a 35.1,35.1 0 0 1 -1.206,26.158 c -4.442,9.531 -15.194,19.3 -32.024,18.825 -18.185,-0.515 -34.2,-14.009 -37.194,-31.683 -0.545,-2.787 0,-4.2 0.274,-6.465 A 28.876,28.876 0 0 0 5,41.041915 v 0.2 a 38.759,38.759 0 0 0 76.954,6.554 c 0.065,-0.5 0.118,-0.995 0.176,-1.5 a 39.857,39.857 0 0 0 -2.514,-19.469 z"
+         id="path982-0"
+         style="fill:url(#b-8)"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 79.616,26.826915 c -1.684,-4.052 -5.1,-8.427 -7.775,-9.81 a 40.266,40.266 0 0 1 3.925,11.764 v 0.037 l 0.007,0.041 a 35.1,35.1 0 0 1 -1.206,26.158 c -4.442,9.531 -15.194,19.3 -32.024,18.825 -18.185,-0.515 -34.2,-14.009 -37.194,-31.683 -0.545,-2.787 0,-4.2 0.274,-6.465 A 28.876,28.876 0 0 0 5,41.041915 v 0.2 a 38.759,38.759 0 0 0 76.954,6.554 c 0.065,-0.5 0.118,-0.995 0.176,-1.5 a 39.857,39.857 0 0 0 -2.514,-19.469 z"
+         id="path984-8"
+         style="fill:url(#c-3)"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 60.782,31.382915 c 0.084,0.059 0.162,0.118 0.241,0.177 a 21.1,21.1 0 0 0 -3.6,-4.695 C 45.377,14.816915 54.266,0.7419145 55.765,0.0269145 l 0.015,-0.022 c -9.735,5.7 -13.038,16.2520005 -13.342,21.5300005 0.452,-0.031 0.9,-0.069 1.362,-0.069 a 19.56,19.56 0 0 1 16.982,9.917 z"
+         id="path986-5"
+         style="fill:url(#d-9)"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 43.825,33.788915 c -0.064,0.964 -3.47,4.289 -4.661,4.289 -11.021,0 -12.81,6.667 -12.81,6.667 0.488,5.614 4.4,10.238 9.129,12.684 0.216,0.112 0.435,0.213 0.654,0.312 q 0.569,0.252 1.138,0.466 a 17.235,17.235 0 0 0 5.043,0.973 c 19.317,0.906 23.059,-23.1 9.119,-30.066 a 13.38,13.38 0 0 1 9.345,2.269 19.56,19.56 0 0 0 -16.982,-9.917 c -0.46,0 -0.91,0.038 -1.362,0.069 a 19.387,19.387 0 0 0 -10.666,4.111 c 0.591,0.5 1.258,1.168 2.663,2.553 2.63,2.591 9.375,5.275 9.39,5.59 z"
+         id="path988-0"
+         style="fill:url(#e-3)"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 43.825,33.788915 c -0.064,0.964 -3.47,4.289 -4.661,4.289 -11.021,0 -12.81,6.667 -12.81,6.667 0.488,5.614 4.4,10.238 9.129,12.684 0.216,0.112 0.435,0.213 0.654,0.312 q 0.569,0.252 1.138,0.466 a 17.235,17.235 0 0 0 5.043,0.973 c 19.317,0.906 23.059,-23.1 9.119,-30.066 a 13.38,13.38 0 0 1 9.345,2.269 19.56,19.56 0 0 0 -16.982,-9.917 c -0.46,0 -0.91,0.038 -1.362,0.069 a 19.387,19.387 0 0 0 -10.666,4.111 c 0.591,0.5 1.258,1.168 2.663,2.553 2.63,2.591 9.375,5.275 9.39,5.59 z"
+         id="path990-6"
+         style="fill:url(#f-8)"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 29.965,24.356915 c 0.314,0.2 0.573,0.374 0.8,0.531 a 17.968,17.968 0 0 1 -0.109,-9.473 28.705,28.705 0 0 0 -9.329,7.21 c 0.189,-0.005 5.811,-0.106 8.638,1.732 z"
+         id="path992-4"
+         style="fill:url(#g-7)"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 5.354,42.158915 c 2.991,17.674 19.009,31.168 37.194,31.683 16.83,0.476 27.582,-9.294 32.024,-18.825 a 35.1,35.1 0 0 0 1.206,-26.158 v -0.037 c 0,-0.029 -0.006,-0.046 0,-0.037 l 0.007,0.065 c 1.375,8.977 -3.191,17.674 -10.329,23.555 l -0.022,0.05 c -13.908,11.327 -27.218,6.834 -29.912,5 q -0.282,-0.135 -0.564,-0.281 c -8.109,-3.876 -11.459,-11.264 -10.741,-17.6 a 9.953,9.953 0 0 1 -9.181,-5.775 14.618,14.618 0 0 1 14.249,-0.572 19.3,19.3 0 0 0 14.552,0.572 c -0.015,-0.315 -6.76,-3 -9.39,-5.59 -1.405,-1.385 -2.072,-2.052 -2.663,-2.553 a 11.587,11.587 0 0 0 -1,-0.758 c -0.23,-0.157 -0.489,-0.327 -0.8,-0.531 -2.827,-1.838 -8.449,-1.737 -8.635,-1.732 h -0.018 c -1.536,-1.947 -1.428,-8.367 -1.34,-9.708 a 6.928,6.928 0 0 0 -1.294,0.687 28.225,28.225 0 0 0 -3.788,3.245 33.845,33.845 0 0 0 -3.638,4.337 v 0.006 -0.007 a 32.733,32.733 0 0 0 -5.2,11.743 c -0.019,0.079 -1.396,6.099 -0.717,9.221 z"
+         id="path994-6"
+         style="fill:url(#h-9)"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 57.425,26.864915 a 21.1,21.1 0 0 1 3.6,4.7 c 0.213,0.161 0.412,0.321 0.581,0.476 8.787,8.1 4.183,19.55 3.84,20.365 7.138,-5.881 11.7,-14.578 10.329,-23.555 -4.384,-10.93 -11.815,-15.335 -17.884,-24.9270005 -0.307,-0.485 -0.614,-0.971 -0.913,-1.484 -0.171,-0.293 -0.308,-0.557 -0.427,-0.8 a 7.053,7.053 0 0 1 -0.578,-1.535 0.1,0.1 0 0 0 -0.088,-0.1 0.138,0.138 0 0 0 -0.073,0 c -0.005,0 -0.013,0.009 -0.019,0.011 -0.006,0.002 -0.019,0.011 -0.028,0.015 -1.499,0.711 -10.388,14.7860005 1.66,26.8340005 z"
+         id="path996-2"
+         style="fill:url(#i-9)"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 61.6,32.035915 c -0.169,-0.155 -0.368,-0.315 -0.581,-0.476 -0.079,-0.059 -0.157,-0.118 -0.241,-0.177 a 13.38,13.38 0 0 0 -9.345,-2.269 c 13.94,6.97 10.2,30.972 -9.119,30.066 a 17.235,17.235 0 0 1 -5.043,-0.973 q -0.569,-0.213 -1.138,-0.466 c -0.219,-0.1 -0.438,-0.2 -0.654,-0.312 l 0.027,0.017 c 2.694,1.839 16,6.332 29.912,-5 l 0.022,-0.05 c 0.347,-0.81 4.951,-12.263 -3.84,-20.36 z"
+         id="path998-5"
+         style="fill:url(#j-5)"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 26.354,44.744915 c 0,0 1.789,-6.667 12.81,-6.667 1.191,0 4.6,-3.325 4.661,-4.289 a 19.3,19.3 0 0 1 -14.552,-0.572 14.618,14.618 0 0 0 -14.249,0.572 9.953,9.953 0 0 0 9.181,5.775 c -0.718,6.337 2.632,13.725 10.741,17.6 0.181,0.087 0.351,0.181 0.537,0.264 -4.733,-2.445 -8.641,-7.069 -9.129,-12.683 z"
+         id="path1000-8"
+         style="fill:url(#k-9)"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 79.616,26.826915 c -1.684,-4.052 -5.1,-8.427 -7.775,-9.81 a 40.266,40.266 0 0 1 3.925,11.764 l 0.007,0.065 c -4.382,-10.925 -11.813,-15.33 -17.882,-24.9220005 -0.307,-0.485 -0.614,-0.971 -0.913,-1.484 -0.171,-0.293 -0.308,-0.557 -0.427,-0.8 a 7.053,7.053 0 0 1 -0.578,-1.535 0.1,0.1 0 0 0 -0.088,-0.1 0.138,0.138 0 0 0 -0.073,0 c -0.005,0 -0.013,0.009 -0.019,0.011 -0.006,0.002 -0.019,0.011 -0.028,0.015 l 0.015,-0.026 c -9.735,5.7 -13.038,16.2520005 -13.342,21.5300005 0.452,-0.031 0.9,-0.069 1.362,-0.069 a 19.56,19.56 0 0 1 16.982,9.917 13.38,13.38 0 0 0 -9.345,-2.269 c 13.94,6.97 10.2,30.972 -9.119,30.066 a 17.235,17.235 0 0 1 -5.043,-0.973 q -0.569,-0.213 -1.138,-0.466 c -0.219,-0.1 -0.438,-0.2 -0.654,-0.312 l 0.027,0.017 q -0.282,-0.135 -0.564,-0.281 c 0.181,0.087 0.351,0.181 0.537,0.264 -4.733,-2.446 -8.641,-7.07 -9.129,-12.684 0,0 1.789,-6.667 12.81,-6.667 1.191,0 4.6,-3.325 4.661,-4.289 -0.015,-0.315 -6.76,-3 -9.39,-5.59 -1.405,-1.385 -2.072,-2.052 -2.663,-2.553 a 11.587,11.587 0 0 0 -1,-0.758 17.968,17.968 0 0 1 -0.109,-9.473 28.705,28.705 0 0 0 -9.329,7.21 h -0.018 c -1.536,-1.947 -1.428,-8.367 -1.34,-9.708 a 6.928,6.928 0 0 0 -1.294,0.687 28.225,28.225 0 0 0 -3.788,3.245 33.845,33.845 0 0 0 -3.623,4.347 v 0.006 -0.007 a 32.733,32.733 0 0 0 -5.2,11.743 l -0.052,0.256 c -0.073,0.341 -0.4,2.073 -0.447,2.445 0,0.028 0,-0.029 0,0 A 45.094,45.094 0 0 0 5,41.041915 v 0.2 a 38.759,38.759 0 0 0 76.954,6.554 c 0.065,-0.5 0.118,-0.995 0.176,-1.5 a 39.857,39.857 0 0 0 -2.514,-19.469 z m -3.845,1.991 0.007,0.041 z"
+         id="path1002-6"
+         style="fill:url(#l-2)"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g7214"
+       transform="matrix(1.2147736,0,0,1.2147736,1147.5164,499.86309)">
+      <g
+         id="g7188">
+        <linearGradient
+           y2="42.0527"
+           x2="39.678699"
+           y1="201.907"
+           x1="199.533"
+           gradientUnits="userSpaceOnUse"
+           id="SVGID_1_">
+          <stop
+             id="stop7022"
+             style="stop-color:#130036"
+             offset="0" />
+          <stop
+             id="stop7024"
+             style="stop-color:#18023B"
+             offset="0.2297" />
+          <stop
+             id="stop7026"
+             style="stop-color:#26094A"
+             offset="0.5122" />
+          <stop
+             id="stop7028"
+             style="stop-color:#3D1563"
+             offset="0.8211" />
+          <stop
+             id="stop7030"
+             style="stop-color:#4E1D75"
+             offset="1" />
+        </linearGradient>
+        <path
+           id="path7033"
+           d="M 188.887,35.492 C 174.386,26.02 155.841,22.954 145.606,21.883 134.652,20.738 125.138,20.94 116.77,22.168 c -0.709,-0.009 -1.414,-0.037 -2.127,-0.037 -0.544,0 -1.08,0.023 -1.627,0.029 0.225,-0.275 0.381,-0.445 0.381,-0.445 0,0 -0.44,0.069 -1.304,0.46 -2.717,0.044 -5.421,0.138 -8.085,0.32 3.711,-4.068 6.751,-6.2 6.751,-6.2 0,0 -3.608,0.528 -10.192,6.496 -3.132,0.288 -6.221,0.67 -9.258,1.145 6.918,-9.362 14.155,-13.304 14.155,-13.304 0,0 -8.772,-1.786 -22.507,12.016 -1.149,1.155 -2.215,2.356 -3.246,3.572 C 39.68,35.907 11.03,61.758 11.03,92.139 c 0,5.958 -1.829,12.511 0.143,19.054 -0.788,10.453 0.89,38.975 0.89,38.975 0,0 10.837,58.649 52.51,68.846 0.662,0.158 -8.707,-14.62 -12.851,-32.442 8.069,8.208 17.685,14.699 28.478,15.824 1.325,0.137 -6.165,-8.64 -12.725,-19.234 l 94.698,31.906 c 49.529,-21.274 43.763,-19.357 54.397,-30.875 23.428,-25.36 26.708,-39.75 20.806,-82.235 -3.993,-28.679 -25.16,-57.083 -48.489,-66.466 z"
+           class="st1"
+           inkscape:connector-curvature="0"
+           style="fill:url(#SVGID_1_)" />
+        <polygon
+           id="polygon7035"
+           points="8.546,142.68 16.387,166.974 172.911,219.015 201.939,95.591 22.687,62.276 "
+           class="st2"
+           style="fill:#fbfbfb" />
+        <g
+           id="g7039">
+          <path
+             id="path7037"
+             d="m 23.128,65.01 c 0.785,1.689 0.554,2.089 0.065,2.089 -0.22,0 -0.492,-0.081 -0.747,-0.161 -0.255,-0.081 -0.494,-0.161 -0.648,-0.161 -0.433,0 -0.189,0.639 2.263,3.72 3.468,4.406 54.399,81.293 57.182,81.293 0.015,0 0.028,-0.002 0.04,-0.006 23.71,-8.448 124.543,-43.058 124.543,-43.058 L 195.51,93.697 23.128,65.01"
+             class="st3"
+             inkscape:connector-curvature="0"
+             style="fill:#999999" />
+        </g>
+        <path
+           id="path7041"
+           d="m 24.607,63.121 c 0,0 0.76,3.932 4.281,8.284 3.5,4.392 50.51,75.571 52.869,74.944 30.795,-8.176 142.525,-51.674 142.525,-51.674 z"
+           class="st4"
+           inkscape:connector-curvature="0"
+           style="fill:#f8f8f8" />
+        <polygon
+           id="polygon7043"
+           points="19.094,171.178 168.976,221.012 167.321,217.161 18.568,167.703 "
+           class="st3"
+           style="fill:#999999" />
+        <linearGradient
+           y2="95.311302"
+           x2="57.703899"
+           y1="95.311302"
+           x1="10.2428"
+           gradientUnits="userSpaceOnUse"
+           id="SVGID_2_">
+          <stop
+             id="stop7045"
+             style="stop-color:#3156A8"
+             offset="0" />
+          <stop
+             id="stop7047"
+             style="stop-color:#3351A4"
+             offset="0.2474" />
+          <stop
+             id="stop7049"
+             style="stop-color:#3B4397"
+             offset="0.5365" />
+          <stop
+             id="stop7051"
+             style="stop-color:#472C82"
+             offset="0.8453" />
+          <stop
+             id="stop7053"
+             style="stop-color:#4E1D75"
+             offset="1" />
+        </linearGradient>
+        <path
+           id="path7056"
+           d="m 57.704,59.795 c 0,0 -54.122,15.85 -29.288,71.033 0,0 -11.387,-10.426 -18.167,-23.757 C 9.944,106.474 21.55,65.242 21.55,65.242 Z"
+           class="st5"
+           inkscape:connector-curvature="0"
+           style="fill:url(#SVGID_2_)" />
+        <radialGradient
+           gradientUnits="userSpaceOnUse"
+           gradientTransform="matrix(1,0,0,1.45,0,-51.2654)"
+           r="85.246597"
+           cy="113.9232"
+           cx="59.0732"
+           id="SVGID_3_">
+          <stop
+             id="stop7058"
+             style="stop-color:#14CDDA"
+             offset="0.1654" />
+          <stop
+             id="stop7060"
+             style="stop-color:#2061BD"
+             offset="0.5478" />
+          <stop
+             id="stop7062"
+             style="stop-color:#2658AC"
+             offset="0.6546" />
+          <stop
+             id="stop7064"
+             style="stop-color:#373F81"
+             offset="0.864" />
+          <stop
+             id="stop7066"
+             style="stop-color:#432D62"
+             offset="1" />
+        </radialGradient>
+        <path
+           id="path7069"
+           d="m 28.416,130.828 c -4.707,-0.081 -12.269,-3.964 -14.722,-8.665 -3.066,51.098 17.782,80.939 50.88,96.853 C 53.759,217.776 0,189.407 0,121.14 0,63.093 46.06,11.208 118.142,8.831 118.584,12.085 82.406,20.245 81.249,24.082 79.453,30.054 75.325,36.555 71.843,41.766 67.125,48.827 78.4,54.865 70.114,56.767 57.646,59.628 41.016,58.044 28.753,73.986 10.319,97.951 22.62,125.365 28.416,130.828 Z"
+           class="st6"
+           inkscape:connector-curvature="0"
+           style="fill:url(#SVGID_3_)" />
+        <g
+           id="g7082">
+          <linearGradient
+             y2="57.897499"
+             x2="191.515"
+             y1="57.897499"
+             x1="44.5387"
+             gradientUnits="userSpaceOnUse"
+             id="SVGID_4_">
+            <stop
+               id="stop7071"
+               style="stop-color:#2061BD"
+               offset="0" />
+            <stop
+               id="stop7073"
+               style="stop-color:#2B51AC"
+               offset="0.1846" />
+            <stop
+               id="stop7075"
+               style="stop-color:#442C84"
+               offset="0.6826" />
+            <stop
+               id="stop7077"
+               style="stop-color:#4E1D75"
+               offset="0.9409" />
+          </linearGradient>
+          <path
+             id="path7080"
+             d="M 137.048,10.699 C 90.366,7.117 66.341,25.796 50.918,47.516 c -5.617,7.906 -5.002,15.166 -3.068,23.937 0.831,3.744 1.671,5.538 0.659,9.355 -0.558,2.106 -0.465,4.072 -1.158,5.314 -0.959,1.717 -2.18,3.594 -2.589,6.677 -1.022,7.699 1.703,10.151 3.406,12.741 2.426,-2.409 7.165,-8.079 15.71,-11.466 8.545,-3.387 14.167,-8.477 24.876,-13.941 14.632,-7.463 31.782,3.859 64.3,-6.796 C 163.06,70.058 186.056,35.993 191.515,34.685 176.312,17.873 150.448,11.726 137.048,10.699 Z"
+             class="st7"
+             inkscape:connector-curvature="0"
+             style="fill:url(#SVGID_4_)" />
+        </g>
+        <path
+           id="path7084"
+           d="m 106.207,0.032 c 0,0 -8.335,4.026 -11.965,11.301 8.381,-4.225 13.246,-6.533 15.546,-6.808 0,0 -2.203,1.067 -4.935,6.87 4.83,-1.547 6.493,-2.522 7.819,-2.537 0,0 -0.385,0.61 -0.737,6.402 -7.417,-2.404 -21.693,0.397 -29.287,5.153 C 80.072,6.678 106.207,0.032 106.207,0.032 Z"
+           class="st8"
+           inkscape:connector-curvature="0"
+           style="fill:#3f6499" />
+        <linearGradient
+           y2="111.0823"
+           x2="167.26421"
+           y1="23.205601"
+           x1="66.173599"
+           gradientUnits="userSpaceOnUse"
+           id="SVGID_5_">
+          <stop
+             id="stop7086"
+             style="stop-color:#48A8E0"
+             offset="0.0202" />
+          <stop
+             id="stop7088"
+             style="stop-color:#2061BD"
+             offset="0.3883" />
+          <stop
+             id="stop7090"
+             style="stop-color:#2B51AC"
+             offset="0.4968" />
+          <stop
+             id="stop7092"
+             style="stop-color:#442C84"
+             offset="0.7892" />
+          <stop
+             id="stop7094"
+             style="stop-color:#4E1D75"
+             offset="0.9409" />
+        </linearGradient>
+        <path
+           id="path7097"
+           d="M 139.379,8.63 C 125.07,6.776 113.109,7.141 102.94,9.1 c 3.198,-3.065 6.898,-4.575 6.898,-4.575 -4.795,0.424 -10.781,3.554 -15.917,6.868 -2.588,0.826 -5.054,1.758 -7.39,2.799 1.43,-1.885 3.094,-3.899 4.72,-5.445 6.039,-5.743 15.006,-8.715 15.006,-8.715 -7.654,-0.562 -33.268,5.995 -48.681,37.213 -2.526,3.077 -4.883,6.235 -7.129,9.398 -5.798,8.164 -5.162,15.658 -3.162,24.715 0.852,3.867 1.009,10.04 0.168,14.029 -0.168,0.799 -2.363,2.863 -2.926,8.428 -0.602,5.905 1.505,8.804 3.582,11.203 C 55.489,94.226 62.77,92.087 62.77,92.087 73.1,87.855 77.4,83.335 88.458,77.694 c 15.108,-7.709 67.939,17.45 101.512,6.448 10.332,-3.384 -3.977,-47.359 1.663,-48.709 C 175.934,18.073 153.139,10.413 139.379,8.63 Z"
+           class="st9"
+           inkscape:connector-curvature="0"
+           style="fill:url(#SVGID_5_)" />
+        <linearGradient
+           y2="43.630901"
+           x2="217.8353"
+           y1="337.41391"
+           x1="19.676201"
+           gradientUnits="userSpaceOnUse"
+           id="SVGID_6_">
+          <stop
+             id="stop7099"
+             style="stop-color:#3156A8"
+             offset="0.3787" />
+          <stop
+             id="stop7101"
+             style="stop-color:#4E1D75"
+             offset="1" />
+        </linearGradient>
+        <path
+           id="path7104"
+           d="M 244.176,103.288 C 235.9,60.051 196.08,20.716 164.059,18.536 149.848,17.568 154.212,24.855 145.32,27.63 107,39.589 106.414,46.571 106.414,46.571 c 81.252,3.819 82.484,84.064 60.724,104.366 6.123,-1.428 12.762,-8.914 18.859,-20.666 -0.732,4.931 -1.36,10.98 -2.274,17.729 -2.788,20.595 0.823,63.614 -58.356,92.405 0,0 32.372,-2.646 48.425,-20.717 -6.528,15.012 -24.441,23.121 -24.441,23.121 13.182,-1.928 47.81,-12.146 69.868,-39.732 24.966,-31.225 32.474,-60.519 24.957,-99.789 z"
+           class="st10"
+           inkscape:connector-curvature="0"
+           style="fill:url(#SVGID_6_)" />
+        <linearGradient
+           y2="32.542301"
+           x2="206.3175"
+           y1="278.64581"
+           x1="96.745201"
+           gradientUnits="userSpaceOnUse"
+           id="SVGID_7_">
+          <stop
+             id="stop7106"
+             style="stop-color:#29ABE2"
+             offset="0" />
+          <stop
+             id="stop7108"
+             style="stop-color:#385AA6"
+             offset="0.7733" />
+          <stop
+             id="stop7110"
+             style="stop-color:#414293"
+             offset="0.8575" />
+          <stop
+             id="stop7112"
+             style="stop-color:#4E1D75"
+             offset="1" />
+        </linearGradient>
+        <path
+           id="path7115"
+           d="m 164.993,182.221 c 0,0 26.396,-7.38 34.903,-21.633 -1.032,16.619 -16.107,33.662 -16.107,33.662 0,0 22.038,-4.46 31.436,-19.968 -1.224,13.994 -18.191,32.907 -18.191,32.907 17.346,-3.113 60.93,-30.645 47.143,-103.901 -8.142,-43.262 -48.096,-82.572 -80.117,-84.752 -14.211,-0.968 -9.847,6.319 -18.739,9.094 -38.32,11.959 -38.906,18.941 -38.906,18.941 81.252,3.819 102.844,46.344 60.724,103.231 6.123,-1.429 8.578,-4.794 13.178,-10.301 -0.002,0 2.084,21.78 -15.324,42.72 z"
+           class="st11"
+           inkscape:connector-curvature="0"
+           style="fill:url(#SVGID_7_)" />
+        <linearGradient
+           y2="95.4683"
+           x2="54.241402"
+           y1="92.033699"
+           x1="48.2686"
+           gradientUnits="userSpaceOnUse"
+           id="SVGID_8_">
+          <stop
+             id="stop7117"
+             style="stop-color:#B0DCD6"
+             offset="0" />
+          <stop
+             id="stop7119"
+             style="stop-color:#53ACE0"
+             offset="1" />
+        </linearGradient>
+        <path
+           id="path7122"
+           d="m 60.609,85.567 c 0,0 -4.719,3.301 -8.136,2.46 -4.045,-0.993 -4.73,-4.913 -4.73,-4.913 -0.089,0.803 -0.192,1.578 -0.341,2.273 -0.168,0.799 -2.363,2.863 -2.926,8.428 -0.602,5.905 1.615,9.325 3.692,11.724 7.381,-10.792 14.552,-13.452 14.552,-13.452 -2.809,-0.982 -2.111,-6.52 -2.111,-6.52 z"
+           class="st12"
+           inkscape:connector-curvature="0"
+           style="fill:url(#SVGID_8_)" />
+        <defs
+           id="defs7127">
+          <filter
+             height="6.6290002"
+             width="14.927"
+             y="18.355"
+             x="162.67999"
+             filterUnits="userSpaceOnUse"
+             id="filter7283">
+            <feColorMatrix
+               id="feColorMatrix7281"
+               values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"
+               type="matrix" />
+          </filter>
+        </defs>
+        <mask
+           id="SVGID_9_"
+           height="6.629"
+           width="14.927"
+           y="18.355"
+           x="162.68"
+           maskUnits="userSpaceOnUse">
+          <g
+             id="g7136-2"
+             class="st13"
+             style="filter:url(#Adobe_OpacityMaskFilter)">
+            <radialGradient
+               gradientUnits="userSpaceOnUse"
+               r="51.967499"
+               cy="67.998497"
+               cx="154.384"
+               id="SVGID_10_">
+              <stop
+                 id="stop7129"
+                 style="stop-color:#FFFFFF"
+                 offset="0.868" />
+              <stop
+                 id="stop7131"
+                 style="stop-color:#000000"
+                 offset="1" />
+            </radialGradient>
+            <rect
+               id="rect7134"
+               height="93.338997"
+               width="100.015"
+               class="st14"
+               y="-7.2179999"
+               x="91.294998"
+               style="fill:url(#SVGID_10_)" />
+          </g>
+        </mask>
+        <g
+           id="g7154"
+           mask="url(#SVGID_9_)"
+           class="st15">
+          <g
+             id="g7152"
+             class="st16"
+             style="opacity:0.6">
+            <g
+               id="g7150"
+               class="st17"
+               style="opacity:0.2">
+              <linearGradient
+                 y2="20.555401"
+                 x2="164.2403"
+                 y1="23.0851"
+                 x1="176.2139"
+                 gradientUnits="userSpaceOnUse"
+                 id="SVGID_11_">
+                <stop
+                   id="stop7139"
+                   style="stop-color:#3092B9"
+                   offset="0" />
+                <stop
+                   id="stop7141"
+                   style="stop-color:#258DB6"
+                   offset="0.2199" />
+                <stop
+                   id="stop7143"
+                   style="stop-color:#1685B1"
+                   offset="0.6564" />
+                <stop
+                   id="stop7145"
+                   style="stop-color:#1082AF"
+                   offset="1" />
+              </linearGradient>
+              <path
+                 id="path7148"
+                 d="m 163.513,18.434 c 1.106,-0.287 5.621,0.204 8.584,1.533 2.964,1.329 8.073,3.679 3.986,4.701 -4.088,1.022 -6.438,-0.613 -8.482,-2.351 -2.044,-1.738 -6.847,-3.168 -4.088,-3.883 z"
+                 class="st18"
+                 inkscape:connector-curvature="0"
+                 style="fill:url(#SVGID_11_)" />
+            </g>
+          </g>
+        </g>
+        <linearGradient
+           y2="77.544296"
+           x2="90.637001"
+           y1="38.0252"
+           x1="80.783798"
+           gradientUnits="userSpaceOnUse"
+           id="SVGID_12_">
+          <stop
+             id="stop7156"
+             style="stop-color:#1398D1;stop-opacity:0"
+             offset="0.0074" />
+          <stop
+             id="stop7158"
+             style="stop-color:#1187C2;stop-opacity:0.6197"
+             offset="0.2482" />
+          <stop
+             id="stop7160"
+             style="stop-color:#3F6499;stop-opacity:0.71"
+             offset="0.6422" />
+          <stop
+             id="stop7162"
+             style="stop-color:#2F4282;stop-opacity:0.5"
+             offset="1" />
+        </linearGradient>
+        <path
+           id="path7165"
+           d="m 61.051,84.921 c 0,0 25.888,-42.662 49.292,-54.175 2.173,-1.093 -32.405,9.191 -46.32,24.55 -8.271,9.129 -3.891,27.002 -2.972,29.625 z"
+           class="st19"
+           inkscape:connector-curvature="0"
+           style="fill:url(#SVGID_12_)" />
+        <path
+           id="path7167"
+           d="m 61.051,84.921 c 0.024,-0.015 0.05,-0.03 0.075,-0.045 C 67.82,80.74 79.292,78.358 82.99,70.861 97.227,41.992 110.344,30.746 110.344,30.746 86.939,42.259 61.051,84.921 61.051,84.921 Z"
+           class="st20"
+           inkscape:connector-curvature="0"
+           style="opacity:0.1;fill:#f2f2f2" />
+        <path
+           id="path7169"
+           d="m 63.512,77.118 c 0,0 -4.666,-7.159 2.053,-13.687 3.546,-3.44 8.919,-1.529 9.54,-0.91 2.644,2.622 0.982,8.156 -1.398,11.288 -1.345,1.764 -5.259,4.51 -10.195,3.309 z"
+           class="st21"
+           inkscape:connector-curvature="0"
+           style="fill:#2f4282" />
+        <linearGradient
+           gradientTransform="matrix(0.9994,0.0349,-0.0349,0.9994,24.5906,57.1202)"
+           y2="11.3027"
+           x2="43.199299"
+           y1="14.373"
+           x1="48.7383"
+           gradientUnits="userSpaceOnUse"
+           id="SVGID_13_">
+          <stop
+             id="stop7171"
+             style="stop-color:#F9C21B"
+             offset="0" />
+          <stop
+             id="stop7173"
+             style="stop-color:#F3BA1B"
+             offset="0.1479" />
+          <stop
+             id="stop7175"
+             style="stop-color:#E3A41B"
+             offset="0.3787" />
+          <stop
+             id="stop7177"
+             style="stop-color:#C9801C"
+             offset="0.6634" />
+          <stop
+             id="stop7179"
+             style="stop-color:#A44E1C"
+             offset="0.9884" />
+          <stop
+             id="stop7181"
+             style="stop-color:#A34C1C"
+             offset="1" />
+        </linearGradient>
+        <path
+           id="path7184"
+           d="m 66.187,76.674 c 0,0 -3.224,-4.949 1.422,-9.459 2.446,-2.376 6.161,-1.056 6.592,-0.63 1.826,1.812 0.676,5.637 -0.968,7.8 -0.929,1.223 -3.635,3.119 -7.046,2.289 z"
+           class="st22"
+           inkscape:connector-curvature="0"
+           style="fill:url(#SVGID_13_)" />
+        <path
+           id="path7186"
+           d="m 72.623,71.393 c -0.072,1.978 -1.746,3.522 -3.738,3.454 -1.996,-0.069 -3.558,-1.726 -3.487,-3.704 0.071,-1.977 1.744,-3.521 3.741,-3.453 1.992,0.069 3.553,1.727 3.484,3.703 z"
+           inkscape:connector-curvature="0" />
+      </g>
+      <circle
+         id="circle7190"
+         r="1.136"
+         cy="70.287003"
+         cx="66.724998"
+         class="st24"
+         style="fill:#ffffff" />
+      <linearGradient
+         y2="47.526402"
+         x2="169.42979"
+         y1="130.1391"
+         x1="206.2113"
+         gradientUnits="userSpaceOnUse"
+         id="SVGID_14_">
+        <stop
+           id="stop7192"
+           style="stop-color:#409EC3"
+           offset="0" />
+        <stop
+           id="stop7194"
+           style="stop-color:#2061BD"
+           offset="0.62" />
+      </linearGradient>
+      <path
+         id="path7197"
+         d="M 228.505,65.01 C 210.784,38.034 196.744,31.179 196.744,31.179 c 0,0 0.645,19.65 10.484,29.128 1.124,1.083 -11.774,-8.432 -11.774,-8.432 0,0 -2.758,9.076 3.562,19.51 -1.836,-2.439 -3.051,-3.363 -3.051,-3.363 0,0 -11.908,5.491 -15.423,13.109 -1.815,-3.426 -3.176,-5.444 -3.176,-5.444 0,0 -8.236,16.437 -7.201,35.495 1.684,30.988 -5.803,42.404 -5.803,42.404 0,0 20.057,-7.695 29.676,-32.468 3.974,10.533 -0.121,21.619 -0.121,21.619 0,0 16.206,-12.109 19.691,-34.18 3.863,6.23 2.727,18.664 2.727,18.664 0,0 10.344,-14.402 10.596,-30.086 4.794,3.343 5.235,16.399 5.235,16.399 0,0 15.336,-19.606 -3.661,-48.524 z"
+         class="st23"
+         inkscape:connector-curvature="0"
+         style="fill:url(#SVGID_14_)" />
+      <linearGradient
+         y2="21.9536"
+         x2="150.40691"
+         y1="103.061"
+         x1="176.7603"
+         gradientUnits="userSpaceOnUse"
+         id="SVGID_15_">
+        <stop
+           id="stop7199"
+           style="stop-color:#14B2DA"
+           offset="0" />
+        <stop
+           id="stop7201"
+           style="stop-color:#297CCC"
+           offset="0.4028" />
+        <stop
+           id="stop7203"
+           style="stop-color:#256FC5"
+           offset="0.5077" />
+        <stop
+           id="stop7205"
+           style="stop-color:#2164BF"
+           offset="0.6492" />
+        <stop
+           id="stop7207"
+           style="stop-color:#2061BD"
+           offset="0.8162" />
+        <stop
+           id="stop7209"
+           style="stop-color:#2061BD"
+           offset="0.9835" />
+      </linearGradient>
+      <path
+         id="path7212"
+         d="m 211.282,46.158 c -4.631,-8.63 -12.803,-14.13 -19.986,-18.582 -17.909,-11.105 -29.427,-12.665 -29.427,-12.665 0,0 -16.528,3.074 -13.689,7.672 0.146,0.236 0.487,0.535 0.968,0.877 -14.498,-6.678 -22.722,8.677 -22.722,8.677 -8.284,-0.503 -18.371,3.575 -21.312,14.499 -0.305,1.134 3.711,0.496 5.777,0.945 12.079,2.626 23.45,8.32 28.675,11.134 12.154,6.548 19.365,17.451 23.528,25.629 5.037,9.894 7.094,27.304 7.094,27.304 0,0 13.253,-18.205 10.086,-27.552 5.249,3.26 6.285,14.891 6.285,14.891 0,0 8.835,-13.838 6.223,-25.891 6.815,4.153 7.042,12.601 7.042,12.601 0,0 6.939,-9.631 3.803,-25.427 6.858,5.453 8.293,12.517 8.293,12.517 0,0 5.606,-14.993 -0.638,-26.629 z"
+         class="st25"
+         inkscape:connector-curvature="0"
+         style="fill:url(#SVGID_15_)" />
+    </g>
+    <flowRoot
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="76.641235"
-       y="129.80608"
-       id="text7205"><tspan
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="76.641235"
-         y="129.80608"
-         id="tspan7271">Legion – это приложение с графическим </tspan><tspan
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="76.641235"
-         y="173.00607"
-         id="tspan6842">интерфейсом для сканирования</tspan><tspan
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="76.641235"
-         y="195.5717"
-         id="tspan6760" /><tspan
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="76.641235"
-         y="230.60608"
-         id="tspan6762">Утилита позволяет:</tspan><tspan
-         id="tspan7203"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="76.641235"
-         y="253.17171" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="116.44132"
-       y="381.68945"
-       id="text7215"><tspan
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         sodipodi:role="line"
+       id="flowRoot7337"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion7339"><rect
+           id="rect7341"
+           width="983.04535"
+           height="322.17453"
+           x="-35.403793"
+           y="98.694145" /></flowRegion><flowPara
+         id="flowPara7343" /></flowRoot>    <a
+       xlink:href=""
+       id="a7349"
+       transform="translate(0,6)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3d85;fill-opacity:1;stroke:none"
          x="116.44132"
-         y="381.68945"
-         id="tspan7213">сканировать порты </tspan></text>
+         y="501.68945"
+         id="text7347"><tspan
+           style="font-size:36px;line-height:100%;font-family:sans-serif;fill:#1f3d85;fill-opacity:1"
+           sodipodi:role="line"
+           x="116.44132"
+           y="501.68945"
+           id="tspan7345"><tspan
+   id="tspan11579"
+   style="fill:#1f3d85;fill-opacity:1">Получение почты - <tspan
+   id="tspan11585"
+   style="fill:#ff0000">POP (110)</tspan>,</tspan> POP3 (995), <tspan
+   id="tspan11574"
+   style="fill:#1f3d85;fill-opacity:1" /></tspan><tspan
+           id="tspan11581"
+           style="font-size:36px;line-height:100%;font-family:sans-serif;fill:#1f3d85;fill-opacity:1"
+           sodipodi:role="line"
+           x="116.44132"
+           y="537.68945"><tspan
+   id="tspan11583"
+   style="fill:#1f3d85;fill-opacity:1">                                <tspan
+   id="tspan11587"
+   style="fill:#ff0000">IMAP (143)</tspan>,</tspan> IMAP (993)  </tspan></text>
+    </a>
     <rect
        transform="rotate(-45)"
        ry="0"
-       y="308.19809"
-       x="-215.06097"
+       y="397.29355"
+       x="-304.15625"
        height="20"
        width="20"
-       id="rect7217"
+       id="rect7351"
        style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <text
-       id="text7221"
-       y="621.68945"
-       x="116.44132"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan7219"
-         y="621.68945"
+    <a
+       xlink:href=""
+       id="a7357"
+       transform="translate(0,124.53622)">
+      <text
+         id="text7355"
+         y="561.37781"
          x="116.44132"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">сканировать уязвимости</tspan></text>
+         style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan7353"
+           y="561.37781"
+           x="116.44132"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:100%;font-family:sans-serif">Аутентификация сервера - сертификат</tspan></text>
+    </a>
     <rect
        style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect7223"
+       id="rect7359"
        width="20"
        height="20"
-       x="-384.76678"
-       y="477.90387"
+       x="-431.43561"
+       y="524.57288"
        ry="0"
        transform="rotate(-45)" />
+    <a
+       transform="translate(0,86)"
+       xlink:href=""
+       id="a7365">
+      <text
+         id="text7363"
+         y="661.68945"
+         x="116.44132"
+         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan7361"
+           y="661.68945"
+           x="116.44132"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Аутентификация клиента - пароль/двухфакторная/</tspan><tspan
+           y="704.88947"
+           x="116.44132"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           id="tspan7379">                                              NTLM/OAuth2</tspan></text>
+    </a>
     <rect
        style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect7229"
+       id="rect7367"
        width="20"
        height="20"
-       x="-441.33536"
-       y="534.47241"
+       x="-473.86203"
+       y="566.99933"
        ry="0"
        transform="rotate(-45)" />
-    <text
-       id="text7237"
-       y="700.23938"
-       x="116.44132"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan7235"
-         y="700.23938"
+    <a
+       transform="translate(0,286)"
+       xlink:href="https://gs.statcounter.com/search-engine-market-share"
+       id="a7377">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="76.641235"
+         y="161.80609"
+         id="text7375"><tspan
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="76.641235"
+           y="161.80609"
+           id="tspan7369">Толстый клиент:</tspan><tspan
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="76.641235"
+           y="184.37172"
+           id="tspan7371" /><tspan
+           id="tspan7373"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="76.641235"
+           y="198.77171" /></text>
+    </a>
+    <a
+       transform="translate(0,86)"
+       id="a11607"
+       xlink:href="">
+      <text
+         id="text11605"
+         y="501.68945"
          x="116.44132"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:100%;font-family:sans-serif">выполнять парольные атаки</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="116.44132"
-       y="461.68945"
-       id="text7243"><tspan
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.44132"
-         y="461.68945"
-         id="tspan7241">идентифицировать операционные системы</tspan></text>
+         style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3d85;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan11597"
+           y="501.68945"
+           x="116.44132"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:100%;font-family:sans-serif;fill:#1f3d85;fill-opacity:1">Отправка почты - <tspan
+   id="tspan11611"
+   style="fill:#ff0000">SMTP (25)</tspan>, SMTP (465), </tspan><tspan
+           y="537.68945"
+           x="116.44132"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:100%;font-family:sans-serif;fill:#1f3d85;fill-opacity:1"
+           id="tspan11603">                               STARTTLS (587)</tspan></text>
+    </a>
     <rect
        style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect7245"
+       id="rect11609"
        width="20"
        height="20"
-       x="-271.62946"
-       y="364.76654"
+       x="-360.72485"
+       y="453.86215"
        ry="0"
        transform="rotate(-45)" />
-    <text
-       id="text7259"
-       y="541.68945"
-       x="116.44132"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan7257"
-         y="541.68945"
-         x="116.44132"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">определять активные службы</tspan></text>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="421.33514"
-       x="-328.19806"
-       height="20"
-       width="20"
-       id="rect7261"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <text
-       id="text6770"
-       y="282.23926"
-       x="116.44132"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan6768"
-         y="282.23926"
-         x="116.44132"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:100%;font-family:sans-serif">упростить работу с утилитами nmap, nikto, </tspan><tspan
-         y="318.23926"
-         x="116.44132"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         id="tspan6844">hydra</tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect6772"
-       width="20"
-       height="20"
-       x="-158.49243"
-       y="251.6295"
-       ry="0"
-       transform="rotate(-45)" />
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="591.04102"
-       x="-497.90396"
-       height="20"
-       width="20"
-       id="rect6774"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="116.44132"
-       y="780.23938"
-       id="text6778"><tspan
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.44132"
-         y="780.23938"
-         id="tspan6776">формировать скриншоты сайтов</tspan></text>
   </g>
   <g
      style="display:none"
-     inkscape:label="Сканирование с помощью Legion"
-     id="g7378"
+     inkscape:label="Протокол POP3"
+     id="g7724"
      inkscape:groupmode="layer">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="76.641235"
-       y="129.80608"
-       id="text7360"><tspan
-         id="tspan7356"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         sodipodi:role="line"
+    <a
+       id="a7606"
+       xlink:href="https://disconnect.me/trackerprotection">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
          x="76.641235"
-         y="129.80608">Возможности настройки </tspan><tspan
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="76.641235"
-         y="173.00607"
-         id="tspan7424">параметров сканирования </tspan><tspan
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="76.641235"
-         y="216.20609"
-         id="tspan7426">были существенно расширены.</tspan><tspan
-         id="tspan7358"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="76.641235"
-         y="238.7717" /></text>
+         y="161.80609"
+         id="text7604"><tspan
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="76.641235"
+           y="161.80609"
+           id="tspan7592">POP3 (Post Office Protocol Version 3) -</tspan><tspan
+           id="tspan7596"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="76.641235"
+           y="205.00609">протокол прикладного уровня для получения</tspan><tspan
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="76.641235"
+           y="248.2061"
+           id="tspan11565">электронной почты с удалённого сервера</tspan><tspan
+           id="tspan7598"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="76.641235"
+           y="270.77173" /><tspan
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="76.641235"
+           y="285.17172"
+           id="tspan7600" /><tspan
+           id="tspan7602"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="76.641235"
+           y="299.57172" /></text>
+    </a>
     <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       id="flowRoot7368"
-       xml:space="preserve"><flowRegion
-         id="flowRegion7364"><rect
-           y="630"
-           x="-40"
-           height="60"
-           width="940"
-           id="rect7362" /></flowRegion><flowPara
-         id="flowPara7366" /></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="80"
-       y="310"
-       id="text7372"><tspan
-         sodipodi:role="line"
-         id="tspan7370"
-         x="80"
-         y="345.39062" /></text>
-    <image
-       sodipodi:absref="/home/sergey/Documents/git/ta43/img/legion_add_host.png"
-       xlink:href="img/legion_add_host.png"
-       y="250"
-       x="80"
-       id="image7407"
-       preserveAspectRatio="none"
-       height="553.54138"
-       width="620" />
+       id="flowRoot7614"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion7610"><rect
+           id="rect7608"
+           width="400"
+           height="120"
+           x="1240"
+           y="470" /></flowRegion><flowPara
+         id="flowPara7612" /></flowRoot>    <a
+       transform="translate(0,-180)"
+       id="a7620"
+       xlink:href="">
+      <text
+         id="text7618"
+         y="501.68945"
+         x="76.746704"
+         style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan7616"
+           y="501.68945"
+           x="76.746704"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:100%;font-family:sans-serif">Особенности:</tspan></text>
+    </a>
+    <a
+       transform="translate(0,-165.10925)"
+       id="a7626"
+       xlink:href="">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="116.44132"
+         y="543.06128"
+         id="text7624"><tspan
+           style="font-size:36px;line-height:100%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="116.44132"
+           y="543.06128"
+           id="tspan7622">Соединение устанавливается только на</tspan><tspan
+           style="font-size:36px;line-height:100%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="116.44132"
+           y="579.06128"
+           id="tspan11567">время получения почты</tspan></text>
+    </a>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="319.75"
+       x="-226.61275"
+       height="20"
+       width="20"
+       id="rect7628"
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
     <text
-       id="text7436"
-       y="709.80609"
-       x="736.64124"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none"
+       id="text7634"
+       y="473.15521"
+       x="116.44132"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         id="tspan7432"
-         y="709.80609"
-         x="736.64124"
+         id="tspan7632"
+         y="473.15521"
+         x="116.44132"
          sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Сведения о выявленных уязвимостях</tspan><tspan
-         y="753.0061"
-         x="736.64124"
+         style="font-size:36px;line-height:100%;font-family:sans-serif">Сообщения удаляются с сервера после</tspan><tspan
+         y="509.15521"
+         x="116.44132"
          sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         id="tspan7443">отображаются в отдельной вкладке.</tspan><tspan
-         y="775.57172"
-         x="736.64124"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         id="tspan7434" /></text>
-    <image
-       sodipodi:absref="/home/sergey/Documents/git/ta43/img/legion_cve.png"
-       xlink:href="img/legion_cve.png"
-       y="130"
-       x="731"
-       id="image7472"
-       preserveAspectRatio="none"
-       height="528"
-       width="829" />
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         id="tspan11572">загрузки клиентом</tspan></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="386.62756"
+       x="-293.49023"
+       height="20"
+       width="20"
+       id="rect7644"
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <g
+       id="g7652">
+      <g
+         inkscape:transform-center-y="-220"
+         style="fill:#28170b"
+         transform="translate(-369.99988,350)"
+         id="g7646" />
+      <g
+         inkscape:transform-center-x="89.482069"
+         id="g7648"
+         transform="rotate(-24,2148.3103,1135.3563)"
+         style="fill:#28170b"
+         inkscape:transform-center-y="-200.98001" />
+      <g
+         inkscape:transform-center-y="-213.46508"
+         style="fill:#28170b"
+         transform="rotate(-14,2750.2606,1771.7036)"
+         id="g7650"
+         inkscape:transform-center-x="53.22282" />
+    </g>
+    <g
+       transform="translate(0,49.457711)"
+       id="g7722">
+      <g
+         id="g7714"
+         transform="translate(1009.0949,64.557283)">
+        <path
+           id="path7674"
+           d="m 499.628,407.468 c -10.128,12.16 -25.134,19.194 -40.96,19.2 H 53.334 c -15.826,-0.006 -30.832,-7.04 -40.96,-19.2 l 195.627,-162.987 20.267,13.867 c 16.695,11.52 38.772,11.52 55.467,0 l 20.267,-13.867 z"
+           style="fill:#1e88e5"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7676"
+           d="m 502.614,108.588 -198.613,135.893 -20.267,13.867 c -16.695,11.52 -38.772,11.52 -55.467,0 L 208,244.481 9.388,108.374 C 19.382,93.963 35.797,85.357 53.335,85.334 h 405.333 c 17.617,-0.093 34.113,8.635 43.946,23.254 z"
+           style="fill:#64b5f6"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g7682">
+          <path
+             id="path7678"
+             d="M 208.001,244.481 12.374,407.468 C 4.367,397.898 -0.014,385.813 0.001,373.335 V 138.668 c -0.065,-10.823 3.214,-21.403 9.387,-30.293 z"
+             style="fill:#2196f3"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path7680"
+             d="m 512.001,138.668 v 234.667 c 0.014,12.478 -4.366,24.563 -12.373,34.133 L 304.001,244.481 502.614,108.588 c 6.142,8.826 9.419,19.327 9.387,30.08 z"
+             style="fill:#2196f3"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g7684" />
+        <g
+           id="g7686" />
+        <g
+           id="g7688" />
+        <g
+           id="g7690" />
+        <g
+           id="g7692" />
+        <g
+           id="g7694" />
+        <g
+           id="g7696" />
+        <g
+           id="g7698" />
+        <g
+           id="g7700" />
+        <g
+           id="g7702" />
+        <g
+           id="g7704" />
+        <g
+           id="g7706" />
+        <g
+           id="g7708" />
+        <g
+           id="g7710" />
+        <g
+           id="g7712" />
+      </g>
+      <a
+         transform="translate(1060,100)"
+         id="a7720"
+         xlink:href="">
+        <text
+           id="text7718"
+           y="551.19403"
+           x="-49.060707"
+           style="font-style:normal;font-weight:normal;font-size:192px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             id="tspan7716"
+             y="551.19403"
+             x="-49.060707"
+             sodipodi:role="line"
+             style="font-size:192px;line-height:100%;font-family:sans-serif">POP3</tspan></text>
+      </a>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
-     id="g7517"
-     inkscape:label="Поиск паролей с помощью Legion"
+     id="g10877"
+     inkscape:label="Протокол IMAP"
      style="display:none">
+    <a
+       xlink:href="https://disconnect.me/trackerprotection"
+       id="a10925">
+      <text
+         id="text10819"
+         y="161.80609"
+         x="76.641235"
+         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan11010"
+           y="161.80609"
+           x="76.641235"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">IMAP (Internet Message Access Protocol) -</tspan><tspan
+           y="205.00609"
+           x="76.641235"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           id="tspan7436">протокол прикладного уровня для доступа</tspan><tspan
+           y="248.2061"
+           x="76.641235"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           id="tspan7440">к электронной почте</tspan><tspan
+           y="270.77173"
+           x="76.641235"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           id="tspan7432" /><tspan
+           id="tspan10815"
+           y="285.17172"
+           x="76.641235"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif" /><tspan
+           y="299.57172"
+           x="76.641235"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           id="tspan10817" /></text>
+    </a>
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot10829"
+       xml:space="preserve"><flowRegion
+         id="flowRegion10825"><rect
+           y="470"
+           x="1240"
+           height="120"
+           width="400"
+           id="rect10823" /></flowRegion><flowPara
+         id="flowPara10827" /></flowRoot>    <a
+       xlink:href=""
+       id="a10835"
+       transform="translate(0,-180)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="76.746704"
+         y="501.68945"
+         id="text10833"><tspan
+           style="font-size:36px;line-height:100%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="76.746704"
+           y="501.68945"
+           id="tspan10831">Особенности:</tspan></text>
+    </a>
+    <a
+       xlink:href=""
+       id="a10845"
+       transform="translate(0,-165.10925)">
+      <text
+         id="text10843"
+         y="561.37781"
+         x="116.44132"
+         style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan10841"
+           y="561.37781"
+           x="116.44132"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:100%;font-family:sans-serif">Соединение с сервером не разрывается</tspan></text>
+    </a>
+    <rect
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect10847"
+       width="20"
+       height="20"
+       x="-226.61275"
+       y="319.75"
+       ry="0"
+       transform="rotate(-45)" />
     <text
-       id="text7491"
-       y="129.80608"
-       x="76.641235"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="116.44132"
+       y="473.15521"
+       id="text10851"><tspan
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="116.44132"
+         y="473.15521"
+         id="tspan10849">Сообщения загружаются только по</tspan><tspan
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="116.44132"
+         y="509.15521"
+         id="tspan7442">запросу</tspan></text>
+    <text
+       id="text10896"
+       y="567.4267"
+       x="116.44132"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         id="tspan7487"
-         y="129.80608"
-         x="76.641235"
+         id="tspan10894"
+         y="567.4267"
+         x="116.44132"
          sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Legion позволяет определять пароли для доступа к обнаруженным сервисам</tspan><tspan
-         y="152.3717"
-         x="76.641235"
+         style="font-size:36px;line-height:100%;font-family:sans-serif">Возможен одновременный доступ </tspan><tspan
+         y="603.4267"
+         x="116.44132"
          sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         id="tspan7489" /></text>
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         id="tspan7444">нескольких клиентов к ящику</tspan><tspan
+         id="tspan10906"
+         y="621.19232"
+         x="116.44132"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:100%;font-family:sans-serif" /></text>
+    <rect
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect10855"
+       width="20"
+       height="20"
+       x="-293.49023"
+       y="386.62756"
+       ry="0"
+       transform="rotate(-45)" />
+    <g
+       id="g10863">
+      <g
+         id="g10857"
+         transform="translate(-369.99988,350)"
+         style="fill:#28170b"
+         inkscape:transform-center-y="-220" />
+      <g
+         inkscape:transform-center-y="-200.98001"
+         style="fill:#28170b"
+         transform="rotate(-24,2148.3103,1135.3563)"
+         id="g10859"
+         inkscape:transform-center-x="89.482069" />
+      <g
+         inkscape:transform-center-x="53.22282"
+         id="g10861"
+         transform="rotate(-14,2750.2606,1771.7036)"
+         style="fill:#28170b"
+         inkscape:transform-center-y="-213.46508" />
+    </g>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="453.50507"
+       x="-360.36777"
+       height="20"
+       width="20"
+       id="rect10898"
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="116.44132"
+       y="667.4267"
+       id="text7452"><tspan
+         id="tspan7448"
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="116.44132"
+         y="667.4267">Клиент может отслеживать состояние </tspan><tspan
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="116.44132"
+         y="703.4267"
+         id="tspan7458">сообщения</tspan><tspan
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="116.44132"
+         y="721.19232"
+         id="tspan7450" /></text>
+    <rect
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect7454"
+       width="20"
+       height="20"
+       x="-431.07852"
+       y="524.21582"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text7466"
+       y="765.73444"
+       x="116.44132"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan7462"
+         y="765.73444"
+         x="116.44132"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:100%;font-family:sans-serif">Поиск сообщений происходит на стороне сервера</tspan><tspan
+         id="tspan7464"
+         y="783.50006"
+         x="116.44132"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:100%;font-family:sans-serif" /></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="580.78442"
+       x="-487.64713"
+       height="20"
+       width="20"
+       id="rect7468"
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <g
+       id="g7590"
+       transform="translate(0,49.457711)">
+      <g
+         transform="translate(1009.0949,64.557283)"
+         id="g7558">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#1e88e5"
+           d="m 499.628,407.468 c -10.128,12.16 -25.134,19.194 -40.96,19.2 H 53.334 c -15.826,-0.006 -30.832,-7.04 -40.96,-19.2 l 195.627,-162.987 20.267,13.867 c 16.695,11.52 38.772,11.52 55.467,0 l 20.267,-13.867 z"
+           id="path7491" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#64b5f6"
+           d="m 502.614,108.588 -198.613,135.893 -20.267,13.867 c -16.695,11.52 -38.772,11.52 -55.467,0 L 208,244.481 9.388,108.374 C 19.382,93.963 35.797,85.357 53.335,85.334 h 405.333 c 17.617,-0.093 34.113,8.635 43.946,23.254 z"
+           id="path7493" />
+        <g
+           id="g7499">
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#2196f3"
+             d="M 208.001,244.481 12.374,407.468 C 4.367,397.898 -0.014,385.813 0.001,373.335 V 138.668 c -0.065,-10.823 3.214,-21.403 9.387,-30.293 z"
+             id="path7495" />
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:#2196f3"
+             d="m 512.001,138.668 v 234.667 c 0.014,12.478 -4.366,24.563 -12.373,34.133 L 304.001,244.481 502.614,108.588 c 6.142,8.826 9.419,19.327 9.387,30.08 z"
+             id="path7497" />
+        </g>
+        <g
+           id="g7501" />
+        <g
+           id="g7503" />
+        <g
+           id="g7505" />
+        <g
+           id="g7507" />
+        <g
+           id="g7509" />
+        <g
+           id="g7511" />
+        <g
+           id="g7513" />
+        <g
+           id="g7515" />
+        <g
+           id="g7517" />
+        <g
+           id="g7519" />
+        <g
+           id="g7521" />
+        <g
+           id="g7523" />
+        <g
+           id="g7525" />
+        <g
+           id="g7527" />
+        <g
+           id="g7529" />
+      </g>
+      <a
+         xlink:href=""
+         id="a7564"
+         transform="translate(1060,100)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:192px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+           x="-35.748207"
+           y="551.19403"
+           id="text7562"><tspan
+             style="font-size:192px;line-height:100%;font-family:sans-serif"
+             sodipodi:role="line"
+             x="-35.748207"
+             y="551.19403"
+             id="tspan7560">IMAP</tspan></text>
+      </a>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g7858"
+     inkscape:label="Протокол SMTP"
+     style="display:none">
+    <a
+       xlink:href="https://disconnect.me/trackerprotection"
+       id="a7740">
+      <text
+         id="text7738"
+         y="161.80609"
+         x="76.641235"
+         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="161.80609"
+           x="76.641235"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           id="tspan7730">SMTP (Simple Mail Transfer Protocol) — протокол, </tspan><tspan
+           y="205.00609"
+           x="76.641235"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           id="tspan11659">предназначенный для передачи электронной </tspan><tspan
+           y="248.2061"
+           x="76.641235"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           id="tspan11661">почты в сетях TCP/IP.</tspan><tspan
+           y="270.77173"
+           x="76.641235"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           id="tspan7732" /><tspan
+           id="tspan7734"
+           y="285.17172"
+           x="76.641235"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif" /><tspan
+           y="299.57172"
+           x="76.641235"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           id="tspan7736" /></text>
+    </a>
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot7748"
+       xml:space="preserve"><flowRegion
+         id="flowRegion7744"><rect
+           y="470"
+           x="1240"
+           height="120"
+           width="400"
+           id="rect7742" /></flowRegion><flowPara
+         id="flowPara7746" /></flowRoot>    <a
+       xlink:href=""
+       id="a7754"
+       transform="translate(0,-180)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="76.746704"
+         y="501.68945"
+         id="text7752"><tspan
+           style="font-size:36px;line-height:100%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="76.746704"
+           y="501.68945"
+           id="tspan7750">Особенности:</tspan></text>
+    </a>
+    <a
+       xlink:href=""
+       id="a7760"
+       transform="translate(0,-165.10925)">
+      <text
+         id="text7758"
+         y="543.37769"
+         x="116.44132"
+         style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan7756"
+           y="543.37769"
+           x="116.44132"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:100%;font-family:sans-serif">Используется как межсерверный</tspan><tspan
+           y="579.37769"
+           x="116.44132"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:100%;font-family:sans-serif"
+           id="tspan11687">транспортный протокол</tspan></text>
+    </a>
+    <rect
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect7762"
+       width="20"
+       height="20"
+       x="-226.61275"
+       y="319.75"
+       ry="0"
+       transform="rotate(-45)" />
+    <g
+       id="g7786">
+      <g
+         id="g7780"
+         transform="translate(-369.99988,350)"
+         style="fill:#28170b"
+         inkscape:transform-center-y="-220" />
+      <g
+         inkscape:transform-center-y="-200.98001"
+         style="fill:#28170b"
+         transform="rotate(-24,2148.3103,1135.3563)"
+         id="g7782"
+         inkscape:transform-center-x="89.482069" />
+      <g
+         inkscape:transform-center-x="53.22282"
+         id="g7784"
+         transform="rotate(-14,2750.2606,1771.7036)"
+         style="fill:#28170b"
+         inkscape:transform-center-y="-213.46508" />
+    </g>
+    <g
+       id="g7848"
+       transform="translate(1009.0949,114.01499)">
+      <path
+         id="path7808"
+         d="m 499.628,407.468 c -10.128,12.16 -25.134,19.194 -40.96,19.2 H 53.334 c -15.826,-0.006 -30.832,-7.04 -40.96,-19.2 l 195.627,-162.987 20.267,13.867 c 16.695,11.52 38.772,11.52 55.467,0 l 20.267,-13.867 z"
+         style="fill:#1e88e5"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path7810"
+         d="m 502.614,108.588 -198.613,135.893 -20.267,13.867 c -16.695,11.52 -38.772,11.52 -55.467,0 L 208,244.481 9.388,108.374 C 19.382,93.963 35.797,85.357 53.335,85.334 h 405.333 c 17.617,-0.093 34.113,8.635 43.946,23.254 z"
+         style="fill:#64b5f6"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g7816">
+        <path
+           id="path7812"
+           d="M 208.001,244.481 12.374,407.468 C 4.367,397.898 -0.014,385.813 0.001,373.335 V 138.668 c -0.065,-10.823 3.214,-21.403 9.387,-30.293 z"
+           style="fill:#2196f3"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7814"
+           d="m 512.001,138.668 v 234.667 c 0.014,12.478 -4.366,24.563 -12.373,34.133 L 304.001,244.481 502.614,108.588 c 6.142,8.826 9.419,19.327 9.387,30.08 z"
+           style="fill:#2196f3"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g7818" />
+      <g
+         id="g7820" />
+      <g
+         id="g7822" />
+      <g
+         id="g7824" />
+      <g
+         id="g7826" />
+      <g
+         id="g7828" />
+      <g
+         id="g7830" />
+      <g
+         id="g7832" />
+      <g
+         id="g7834" />
+      <g
+         id="g7836" />
+      <g
+         id="g7838" />
+      <g
+         id="g7840" />
+      <g
+         id="g7842" />
+      <g
+         id="g7844" />
+      <g
+         id="g7846" />
+    </g>
+    <a
+       transform="translate(1037.5,149.45771)"
+       id="a7854"
+       xlink:href="">
+      <text
+         id="text7852"
+         y="551.19403"
+         x="-35.748207"
+         style="font-style:normal;font-weight:normal;font-size:192px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan7850"
+           y="551.19403"
+           x="-35.748207"
+           sodipodi:role="line"
+           style="font-size:192px;line-height:100%;font-family:sans-serif">SMTP</tspan></text>
+    </a>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="Проверка надёжности шифрования"
+     id="g11259"
+     inkscape:groupmode="layer">
     <flowRoot
        xml:space="preserve"
-       id="flowRoot7499"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
-         id="flowRegion7495"><rect
-           id="rect7493"
-           width="940"
-           height="60"
-           x="-40"
-           y="630" /></flowRegion><flowPara
-         id="flowPara7497" /></flowRoot>    <text
-       id="text7503"
-       y="310"
-       x="80"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="345.39062"
-         x="80"
-         id="tspan7501"
-         sodipodi:role="line" /></text>
+       id="flowRoot11211"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion11207"><rect
+           id="rect11205"
+           width="400"
+           height="120"
+           x="1240"
+           y="470" /></flowRegion><flowPara
+         id="flowPara11209" /></flowRoot>    <g
+       id="g11253">
+      <g
+         inkscape:transform-center-y="-220"
+         style="fill:#28170b"
+         transform="translate(-369.99988,350)"
+         id="g11247" />
+      <g
+         inkscape:transform-center-x="89.482069"
+         id="g11249"
+         transform="rotate(-24,2148.3103,1135.3563)"
+         style="fill:#28170b"
+         inkscape:transform-center-y="-200.98001" />
+      <g
+         inkscape:transform-center-y="-213.46508"
+         style="fill:#28170b"
+         transform="rotate(-14,2750.2606,1771.7036)"
+         id="g11251"
+         inkscape:transform-center-x="53.22282" />
+    </g>
     <image
-       sodipodi:absref="/home/sergey/Documents/git/ta43/img/legion_pass.png"
-       xlink:href="img/legion_pass.png"
-       y="170"
-       x="316"
-       id="image7546"
+       sodipodi:absref="/home/sergey/Documents/git/ta43/img/sslscan.png"
+       xlink:href="img/sslscan.png"
+       width="663"
+       height="729"
        preserveAspectRatio="none"
-       height="621"
-       width="968" />
+       id="image7169"
+       x="878.94885"
+       y="83.997993" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="77.70195"
+       y="137.85068"
+       id="text10382"><tspan
+         id="tspan10380"
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="77.70195"
+         y="137.85068">Утилита SSLSCAN позволяет оценить</tspan><tspan
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="77.70195"
+         y="181.05067"
+         id="tspan13428">безопасность сетевого ресурса по</tspan><tspan
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="77.70195"
+         y="224.25069"
+         id="tspan13430">используемым наборам шифров</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.7795279;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect10396"
+       width="740"
+       height="80"
+       x="81.060707"
+       y="266.04459"
+       ry="20"
+       rx="20.000002" />
+    <a
+       transform="translate(1.06072,-103.95542)"
+       style="display:inline"
+       xlink:href="https://127.0.0.1:9392"
+       id="a10402">
+      <text
+         id="text10400"
+         y="419.93164"
+         x="98.152954"
+         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="419.93164"
+           x="98.152954"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan10398">sslscan домен</tspan></text>
+    </a>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g13480"
+     inkscape:label="Онлайн проверка защищённости почтовых серверов"
+     style="display:none">
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot13452"
+       xml:space="preserve"><flowRegion
+         id="flowRegion13448"><rect
+           y="470"
+           x="1240"
+           height="120"
+           width="400"
+           id="rect13446" /></flowRegion><flowPara
+         id="flowPara13450" /></flowRoot>    <g
+       id="g13460">
+      <g
+         id="g13454"
+         transform="translate(-369.99988,350)"
+         style="fill:#28170b"
+         inkscape:transform-center-y="-220" />
+      <g
+         inkscape:transform-center-y="-200.98001"
+         style="fill:#28170b"
+         transform="rotate(-24,2148.3103,1135.3563)"
+         id="g13456"
+         inkscape:transform-center-x="89.482069" />
+      <g
+         inkscape:transform-center-x="53.22282"
+         id="g13458"
+         transform="rotate(-14,2750.2606,1771.7036)"
+         style="fill:#28170b"
+         inkscape:transform-center-y="-213.46508" />
+    </g>
+    <a
+       id="a13489"
+       xlink:href="https://www.checktls.com/TestReceiver">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="77.70195"
+         y="137.85068"
+         id="text13470"><tspan
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="77.70195"
+           y="137.85068"
+           id="tspan13468">Ресурс https://www.checktls.com/TestReceiver позволяет осуществлять</tspan><tspan
+           id="tspan13487"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="77.70195"
+           y="181.05067">проверку защищённости почтовых серверов в режиме онлайн</tspan></text>
+    </a>
+    <image
+       sodipodi:absref="/home/sergey/Documents/git/ta43/img/checktls.png"
+       xlink:href="img/checktls.png"
+       width="1205.843"
+       height="383.91156"
+       preserveAspectRatio="none"
+       id="image17224"
+       x="198.67093"
+       y="230.71451" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -6996,1118 +9228,119 @@
      inkscape:label="Задания для самостоятельного выполнения"
      style="display:none">
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="116.58347"
-       y="522.87238"
-       id="text7250"><tspan
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.58347"
-         y="522.87238"
-         id="tspan7092">С помощью браузера просмотрите содержимое папок, к которым открыт</tspan><tspan
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.58347"
-         y="558.87238"
-         id="tspan7559">доступ на машине meta2</tspan></text>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="421.33539"
-       x="-328.19821"
-       height="20"
-       width="20"
-       id="rect7252"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <text
-       id="text7256"
-       y="640.23962"
-       x="116.58347"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="640.23962"
-         x="116.58347"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         id="tspan7096">Определите версию библиотеки PHP, используемой на web-сервере owasp</tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect7258"
-       width="20"
-       height="20"
-       x="-398.90894"
-       y="492.04608"
-       ry="0"
-       transform="rotate(-45)" />
-    <text
        id="text7287"
-       y="239.93179"
-       x="116.58347"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       y="149.94019"
+       x="96.583473"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         id="tspan7285"
-         y="239.93179"
-         x="116.58347"
+         y="149.94019"
+         x="96.583473"
          sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">С помощью legion просканируйте машины owasp и meta2</tspan></text>
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         id="tspan10357">Выполните проверку надёжности шифрования для доменов gmail.com,</tspan><tspan
+         y="185.94019"
+         x="96.583473"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         id="tspan13438">mail.yandex.ru</tspan><tspan
+         y="203.70581"
+         x="96.583473"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         id="tspan13436" /></text>
     <rect
        style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect7289"
        width="20"
        height="20"
-       x="-116.06611"
-       y="209.20322"
+       x="-79.302505"
+       y="144.15532"
        ry="0"
        transform="rotate(-45)" />
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="116.58347"
-       y="439.93164"
-       id="text7293"><tspan
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.58347"
-         y="439.93164"
-         id="tspan7090">Определите логин и пароль для доступа к машине meta2 через ftp</tspan></text>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="350.62448"
-       x="-257.48734"
-       height="20"
-       width="20"
-       id="rect7295"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <text
        id="text7299"
-       y="339.93185"
-       x="116.58347"
+       y="246.67656"
+       x="96.583473"
        style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="339.93185"
-         x="116.58347"
+         y="246.67656"
+         x="96.583473"
          sodipodi:role="line"
          style="font-size:36px;line-height:100%;font-family:sans-serif"
-         id="tspan11348">Исследуйте обнаруженные уязвимости web-сервера на машине owasp</tspan></text>
+         id="tspan11082">Выполните проверку надёжности шифрования при подключении</tspan><tspan
+         y="282.67657"
+         x="96.583473"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         id="tspan13440">через Web-клиент к вашему почтовому серверу</tspan></text>
     <rect
        style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect7301"
        width="20"
        height="20"
-       x="-186.77684"
-       y="279.91391"
-       ry="0"
-       transform="rotate(-45)" />
-    <text
-       id="text3231-91"
-       y="159.93164"
-       x="116.58347"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="159.93164"
-         x="116.58347"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         id="tspan11346">Запустите машины kali, owasp и meta2</tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect8068-5"
-       width="20"
-       height="20"
-       x="-59.497471"
-       y="152.63457"
-       ry="0"
-       transform="rotate(-45)" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="g10371"
-     inkscape:label="Комплексная оценка безопасности с Lynis"
-     style="display:none">
-    <text
-       id="text10361"
-       y="129.80608"
-       x="76.641235"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="129.80608"
-         x="76.641235"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         id="tspan7171">Утилита Lynis позволяет производить комплексную проверку систем</tspan><tspan
-         y="173.00607"
-         x="76.641235"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         id="tspan6822">безопасности на соответствие следующим требованиям:</tspan></text>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot7185"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
-         id="flowRegion7187"><rect
-           id="rect7189"
-           width="940"
-           height="60"
-           x="-40"
-           y="630" /></flowRegion><flowPara
-         id="flowPara7191" /></flowRoot>    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect7532"
-       width="20"
-       height="20"
-       x="-186.77678"
-       y="279.91388"
+       x="-147.73035"
+       y="212.58308"
        ry="0"
        transform="rotate(-45)" />
     <a
-       id="a10540"
-       xlink:href="https://ru.wikipedia.org/wiki/PCI_DSS">
+       id="a17253"
+       xlink:href="https://www.checktls.com/TestReceiver"
+       transform="translate(0,-6.4919942)">
       <text
-         id="text7538"
-         y="339.93176"
-         x="116.58347"
+         id="text17233"
+         y="349.94019"
+         x="96.583473"
          style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           id="tspan7578"
-           y="339.93176"
-           x="116.58347"
+           y="349.94019"
+           x="96.583473"
            sodipodi:role="line"
-           style="font-size:36px;line-height:100%;font-family:sans-serif">Payment Card Industry Data Security Standard (PCI DSS) </tspan></text>
-    </a>
-    <a
-       id="a6831"
-       xlink:href="https://ru.wikipedia.org/wiki/HIPAA"
-       transform="translate(0,20)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-         x="116.58347"
-         y="239.93185"
-         id="text7552"><tspan
            style="font-size:36px;line-height:100%;font-family:sans-serif"
+           id="tspan17229">Повторите проверку защищённости рассмотренных почтовых серверов с </tspan><tspan
+           id="tspan17247"
+           y="385.94019"
+           x="96.583473"
            sodipodi:role="line"
-           x="116.58347"
-           y="239.93185"
-           id="tspan7550">Health Insurance Portability and Accountability Act (HIPAA)</tspan></text>
+           style="font-size:36px;line-height:100%;font-family:sans-serif">помощью ресурса https://www.checktls.com/TestReceiver</tspan><tspan
+           y="403.70581"
+           x="96.583473"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:100%;font-family:sans-serif"
+           id="tspan17231" /></text>
     </a>
     <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect7554"
-       width="20"
-       height="20"
-       x="-130.20827"
-       y="223.34532"
-       ry="0"
-       transform="rotate(-45)" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="76.641235"
-       y="429.80609"
-       id="text10548"><tspan
-         id="tspan10546"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="76.641235"
-         y="429.80609">По результатам проверки формируется подробный отчёт с рекомендациями</tspan><tspan
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="76.641235"
-         y="473.0061"
-         id="tspan10552">по устранению выявленных недостатков.</tspan></text>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="Установка и запуск Lynis"
-     style="display:none">
-    <rect
-       rx="20.000002"
-       ry="20"
-       y="190"
-       x="80"
-       height="80"
-       width="800"
-       id="rect10363"
-       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77952766;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
-    <text
-       id="text10367"
-       y="245.26349"
-       x="98.152954"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan10365"
-         y="245.26349"
-         x="98.152954"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">git clone https://github.com/CISOfy/lynis</tspan><tspan
-         y="267.8291"
-         x="98.152954"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan10554" /></text>
-    <text
-       id="text10560"
-       y="161.80609"
-       x="76.641235"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan10558"
-         y="161.80609"
-         x="76.641235"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Установка Lynis</tspan></text>
-    <image
-       sodipodi:absref="/home/sergey/Documents/git/ta43/img/lynis.png"
-       xlink:href="img/lynis.png"
-       width="650"
-       height="687"
-       preserveAspectRatio="none"
-       id="image10680"
-       x="910"
-       y="110" />
-    <rect
-       rx="20.000002"
-       ry="20"
-       y="630"
-       x="80"
-       height="80"
-       width="800"
-       id="rect10683"
-       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.7795279;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
-    <text
-       id="text10691"
-       y="685.26349"
-       x="98.152954"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan10687"
-         y="685.26349"
-         x="98.152954"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">sudo ./lynis audit system remote 10.0.2.6 </tspan><tspan
-         y="707.8291"
-         x="98.152954"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan10689" /></text>
-    <text
-       id="text10695"
-       y="561.80609"
-       x="76.641235"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan10693"
-         y="561.80609"
-         x="76.641235"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Получение инструкции по проверке</tspan><tspan
-         y="605.0061"
-         x="76.641235"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         id="tspan10763">удалённой системы</tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77952766;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect10697"
-       width="800"
-       height="120"
-       x="80"
-       y="370"
-       ry="20"
-       rx="20.000002" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="98.152954"
-       y="425.26349"
-       id="text10705"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="98.152954"
-         y="425.26349"
-         id="tspan10699">cd lynis</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="98.152954"
-         y="468.4635"
-         id="tspan10701">sudo ./lynis audit system</tspan><tspan
-         id="tspan10703"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="98.152954"
-         y="491.02911" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="76.641235"
-       y="341.80609"
-       id="text10709"><tspan
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="76.641235"
-         y="341.80609"
-         id="tspan10707">Запуск проверки системы</tspan></text>
-  </g>
-  <g
-     style="display:none"
-     inkscape:label="Задания для самостоятельного выполнения"
-     id="g10751"
-     inkscape:groupmode="layer">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="116.58347"
-       y="159.93164"
-       id="text10715"><tspan
-         id="tspan10713"
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.58347"
-         y="159.93164">Запустите локальную проверку безопасности системы kali</tspan></text>
-    <rect
        transform="rotate(-45)"
        ry="0"
-       y="152.63457"
-       x="-59.497471"
+       y="281.01102"
+       x="-216.15819"
        height="20"
        width="20"
-       id="rect10717"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <text
-       id="text10723"
-       y="442.87238"
-       x="116.58347"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan10721"
-         y="442.87238"
-         x="116.58347"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:100%;font-family:sans-serif">Выполните удалённую проверку машин meta2 и owasp, добавив в </tspan><tspan
-         y="478.87238"
-         x="116.58347"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         id="tspan10755">предложенные команды имена соответствующих пользователей </tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect10725"
-       width="20"
-       height="20"
-       x="-271.62961"
-       y="364.76678"
-       ry="0"
-       transform="rotate(-45)" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="116.58347"
-       y="560.23962"
-       id="text10729"><tspan
-         id="tspan10727"
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.58347"
-         y="560.23962">Проанализируйте полученные результаты и рекомендации</tspan></text>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="435.47748"
-       x="-342.34033"
-       height="20"
-       width="20"
-       id="rect10731"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="116.58347"
-       y="259.93179"
-       id="text10735"><tspan
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.58347"
-         y="259.93179"
-         id="tspan10733">Изучите полученные сведения о системе и рекомендации по безопасности</tspan></text>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="223.34535"
-       x="-130.20824"
-       height="20"
-       width="20"
-       id="rect10737"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <text
-       id="text10741"
-       y="359.93164"
-       x="116.58347"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan10739"
-         y="359.93164"
-         x="116.58347"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:100%;font-family:sans-serif">Получите инструкцию по проверке безопасности удалённых систем</tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect10743"
-       width="20"
-       height="20"
-       x="-200.91879"
-       y="294.05588"
-       ry="0"
-       transform="rotate(-45)" />
-    <text
-       id="text10759"
-       y="640.23962"
-       x="116.58347"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="640.23962"
-         x="116.58347"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         id="tspan10757">Сравните защищённость всех проверенных машин</tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect10761"
-       width="20"
-       height="20"
-       x="-398.90894"
-       y="492.04608"
-       ry="0"
-       transform="rotate(-45)" />
-  </g>
-  <g
-     style="display:none"
-     inkscape:label="Знакомство с утилитой GVM/OpenVAS"
-     id="g10807"
-     inkscape:groupmode="layer">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="76.641235"
-       y="161.80609"
-       id="text10775"><tspan
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="76.641235"
-         y="161.80609"
-         id="tspan10773">GVM (Greenbone Vulnerability Management )/OpenVAS (Open Vulnerability </tspan><tspan
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="76.641235"
-         y="205.00609"
-         id="tspan10811">Assessment System) - Открытая Система Оценки Уязвимости, позволяющая </tspan><tspan
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="76.641235"
-         y="248.2061"
-         id="tspan10813">производить сканирование узлов сети на наличие уязвимостей.</tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.7795279;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect10779"
-       width="1440"
-       height="120"
-       x="80"
-       y="370"
-       ry="20"
-       rx="20.000002" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="98.152954"
-       y="425.26349"
-       id="text10785"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="98.152954"
-         y="425.26349"
-         id="tspan10781">sudo apt-get install gvm</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="98.152954"
-         y="468.4635"
-         id="tspan10815">sudo gvm-setup</tspan><tspan
-         id="tspan10783"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="98.152954"
-         y="491.02911" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="76.641235"
-       y="341.80609"
-       id="text10791"><tspan
-         id="tspan10789"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="76.641235"
-         y="341.80609">Установка GVM/OpenVAS</tspan></text>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="g10908"
-     inkscape:label="Запуск GVM/OpenVAS"
-     style="display:none">
-    <text
-       id="text10892"
-       y="341.80609"
-       x="76.641235"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="341.80609"
-         x="76.641235"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         id="tspan10890">Для открытия пользовательского </tspan><tspan
-         y="385.0061"
-         x="76.641235"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         id="tspan10917">интерфейса необходимо открыть </tspan><tspan
-         y="428.20609"
-         x="76.641235"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         id="tspan10915">в браузере ссылку </tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.7795279;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect10894"
-       width="540"
-       height="80"
-       x="80"
-       y="190"
-       ry="20"
-       rx="20.000002" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="98.152954"
-       y="239.93164"
-       id="text10902"><tspan
-         id="tspan10900"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="98.152954"
-         y="239.93164">sudo gvm-start</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="76.641235"
-       y="161.80609"
-       id="text10906"><tspan
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="76.641235"
-         y="161.80609"
-         id="tspan10904">Запуск GVM/OpenVAS</tspan></text>
-    <image
-       sodipodi:absref="/home/sergey/Documents/git/ta43/img/gvm.png"
-       xlink:href="img/gvm.png"
-       width="761"
-       height="513"
-       preserveAspectRatio="none"
-       id="image10946"
-       x="779"
-       y="150"
-       style="display:inline" />
-    <rect
-       rx="20.000002"
-       ry="20"
-       y="470"
-       x="80"
-       height="80"
-       width="540"
-       id="rect10984"
-       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.7795279;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
-    <a
-       id="a10990"
-       xlink:href="https://127.0.0.1:9392">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-         x="98.152954"
-         y="519.93164"
-         id="text10988"><tspan
-           id="tspan10986"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-           sodipodi:role="line"
-           x="98.152954"
-           y="519.93164">https://127.0.0.1:9392</tspan></text>
-    </a>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="76.641235"
-       y="621.80609"
-       id="text11000"><tspan
-         id="tspan10998"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="76.641235"
-         y="621.80609">Вход осуществляется с логином</tspan><tspan
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="76.641235"
-         y="665.0061"
-         id="tspan11007">admin и паролем, сгенерированным</tspan><tspan
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="76.641235"
-         y="708.20612"
-         id="tspan11011">при установке GVM/OpenVAS.</tspan><tspan
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="76.641235"
-         y="751.40607"
-         id="tspan11009"> </tspan></text>
-  </g>
-  <g
-     style="display:none"
-     inkscape:label="Подготовка к сканированию"
-     id="g11051"
-     inkscape:groupmode="layer">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="76.641235"
-       y="621.80609"
-       id="text11019"><tspan
-         id="tspan11017"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="76.641235"
-         y="621.80609">Помощь в создании новых задач </tspan><tspan
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="76.641235"
-         y="665.0061"
-         id="tspan17380">оказывают различные мастера </tspan></text>
-    <text
-       id="text11029"
-       y="161.80609"
-       x="76.641235"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan11027"
-         y="161.80609"
-         x="76.641235"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Управление задачами по сканированию</tspan><tspan
-         y="205.00609"
-         x="76.641235"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         id="tspan17341">начинается с перехода в раздел</tspan><tspan
-         y="248.2061"
-         x="76.641235"
-         sodipodi:role="line"
-         style="font-weight:bold;font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         id="tspan17343">Scans&gt;Tasks</tspan></text>
-    <image
-       sodipodi:absref="/home/sergey/Documents/git/ta43/img/gvm_scan_tasks.png"
-       xlink:href="img/gvm_scan_tasks.png"
-       width="664"
-       height="384"
-       preserveAspectRatio="none"
-       id="image17338"
-       x="900"
-       y="130" />
-    <image
-       sodipodi:absref="/home/sergey/Documents/git/ta43/img/gvm_tasks_wiz.png"
-       xlink:href="img/gvm_tasks_wiz.png"
-       style="stroke-width:1.13235295"
-       width="453.33331"
-       height="149.54112"
-       preserveAspectRatio="none"
-       id="image17372"
-       x="906.66669"
-       y="590" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="g17400"
-     inkscape:label="Мастер задач сканирования"
-     style="display:none">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="76.641235"
-       y="161.80609"
-       id="text17394"><tspan
-         id="tspan17392"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif"
-         sodipodi:role="line"
-         x="76.641235"
-         y="161.80609">Мастер задач </tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif"
-         sodipodi:role="line"
-         x="76.641235"
-         y="205.00609"
-         id="tspan17446">сканирования </tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:sans-serif"
-         sodipodi:role="line"
-         x="76.641235"
-         y="248.2061"
-         id="tspan17448">позволяет задать: </tspan></text>
-    <text
-       id="text17434"
-       y="322.6348"
-       x="116.58347"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="322.6348"
-         x="116.58347"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         id="tspan17432">Наименование</tspan><tspan
-         y="358.6348"
-         x="116.58347"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         id="tspan17480">задачи</tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect17436"
-       width="20"
-       height="20"
-       x="-186.77672"
-       y="279.91382"
-       ry="0"
-       transform="rotate(-45)" />
-    <image
-       sodipodi:absref="/home/sergey/Documents/git/ta43/img/gvm_new_task.png"
-       xlink:href="img/gvm_new_task.png"
-       style="stroke-width:1.07134366"
-       width="1121.3333"
-       height="648.40698"
-       preserveAspectRatio="none"
-       id="image17477"
-       x="440"
-       y="130" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="116.58347"
-       y="422.23935"
-       id="text17486"><tspan
-         id="tspan17484"
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.58347"
-         y="422.23935">Способ</tspan><tspan
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.58347"
-         y="458.23935"
-         id="tspan17492">сканирования</tspan></text>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="350.62457"
-       x="-257.4874"
-       height="20"
-       width="20"
-       id="rect17488"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <text
-       id="text17498"
-       y="522.23938"
-       x="116.58347"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan17496"
-         y="522.23938"
-         x="116.58347"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:100%;font-family:sans-serif">Целевые</tspan><tspan
-         y="558.23938"
-         x="116.58347"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         id="tspan17504">узлы</tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect17500"
-       width="20"
-       height="20"
-       x="-328.19815"
-       y="421.33533"
-       ry="0"
-       transform="rotate(-45)" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="116.58347"
-       y="622.23938"
-       id="text17510"><tspan
-         id="tspan17508"
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.58347"
-         y="622.23938">Расписание</tspan><tspan
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.58347"
-         y="658.23938"
-         id="tspan17516">сканирования</tspan></text>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="492.04608"
-       x="-398.90891"
-       height="20"
-       width="20"
-       id="rect17512"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <text
-       id="text17522"
-       y="722.23938"
-       x="116.58347"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan17520"
-         y="722.23938"
-         x="116.58347"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:100%;font-family:sans-serif">Другие</tspan><tspan
-         y="758.23938"
-         x="116.58347"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         id="tspan17528">параметры</tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect17524"
-       width="20"
-       height="20"
-       x="-469.61966"
-       y="562.75684"
-       ry="0"
-       transform="rotate(-45)" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="g11091"
-     inkscape:label="Результаты сканирования"
-     style="display:none">
-    <image
-       sodipodi:absref="/home/sergey/Documents/git/ta43/img/gvm_report.png"
-       xlink:href="img/gvm_report.png"
-       style="stroke-width:1.16959465"
-       width="1480"
-       height="682.28772"
-       preserveAspectRatio="none"
-       id="image11250"
-       x="60"
-       y="110" />
-  </g>
-  <g
-     style="display:none"
-     inkscape:label="Отчёт о сканировании"
-     id="g11131"
-     inkscape:groupmode="layer">
-    <text
-       id="text11109"
-       y="161.80609"
-       x="76.641235"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan11107"
-         y="161.80609"
-         x="76.641235"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">GVM/OpenVAS позволяет</tspan><tspan
-         y="205.00609"
-         x="76.641235"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         id="tspan11253">экспортировать подробные</tspan><tspan
-         y="248.2061"
-         x="76.641235"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         id="tspan11255">отчёты о результатах </tspan><tspan
-         y="291.4061"
-         x="76.641235"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         id="tspan11257">сканирования в различных</tspan><tspan
-         y="334.60611"
-         x="76.641235"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         id="tspan11259">форматах.</tspan></text>
-    <image
-       sodipodi:absref="/home/sergey/Documents/git/ta43/img/gvm_pdf_report.png"
-       xlink:href="img/gvm_pdf_report.png"
-       style="stroke-width:1.11904764"
-       width="840"
-       height="686.29785"
-       preserveAspectRatio="none"
-       id="image11318"
-       x="700"
-       y="103.70215" />
-    <image
-       sodipodi:absref="/home/sergey/Documents/git/ta43/img/gvm_report_formats.png"
-       xlink:href="img/gvm_report_formats.png"
-       width="450"
-       height="436"
-       preserveAspectRatio="none"
-       id="image11348"
-       x="130"
-       y="370" />
-  </g>
-  <g
-     style="display:none"
-     inkscape:label="Задания для самостоятельного выполнения"
-     id="g10867"
-     inkscape:groupmode="layer">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="116.58347"
-       y="159.93164"
-       id="text10831"><tspan
-         id="tspan10829"
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.58347"
-         y="159.93164">Установите и настройте на машине kali утилиту GVM/OpenVAS</tspan></text>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="152.63457"
-       x="-59.497475"
-       height="20"
-       width="20"
-       id="rect10833"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <text
-       id="text17532"
-       y="239.93164"
-       x="116.58347"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="239.93164"
-         x="116.58347"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         id="tspan17530">Создайте и запустите задачу по быстрому полному сканированию owasp </tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect17534"
-       width="20"
-       height="20"
-       x="-116.06602"
-       y="209.20312"
-       ry="0"
-       transform="rotate(-45)" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="116.58347"
-       y="479.93164"
-       id="text17538"><tspan
-         id="tspan17536"
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.58347"
-         y="479.93164">Проанализируйте отчёты о результатах сканирования и сравните их</tspan></text>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="378.90887"
-       x="-285.7717"
-       height="20"
-       width="20"
-       id="rect17540"
+       id="rect17235"
        style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="116.58347"
-       y="399.93164"
-       id="text17550"><tspan
-         id="tspan17548"
+       x="96.583473"
+       y="440.21973"
+       id="text17241"><tspan
+         id="tspan17239"
          style="font-size:36px;line-height:100%;font-family:sans-serif"
          sodipodi:role="line"
-         x="116.58347"
-         y="399.93164">Проконтролируйте запуск задачи сканирования meta2 в заданное время</tspan></text>
+         x="96.583473"
+         y="440.21973">Определите поддомен, версию TLS и набор шифров, которые используют </tspan><tspan
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="96.583473"
+         y="476.21973"
+         id="tspan17261">почтовые сервера</tspan></text>
     <rect
        transform="rotate(-45)"
        ry="0"
-       y="322.34027"
-       x="-229.20312"
+       y="349.43881"
+       x="-284.586"
        height="20"
        width="20"
-       id="rect17552"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="116.58347"
-       y="559.93164"
-       id="text17556"><tspan
-         id="tspan17554"
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.58347"
-         y="559.93164">Выполните экспорт отчётов в формат pdf</tspan></text>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="435.47748"
-       x="-342.3403"
-       height="20"
-       width="20"
-       id="rect17558"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <text
-       id="text17562"
-       y="639.93164"
-       x="116.58347"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="639.93164"
-         x="116.58347"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         id="tspan17560">Проверьте доступ к машинам по указанным в отчётах учётным данным</tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect17564"
-       width="20"
-       height="20"
-       x="-398.90891"
-       y="492.04608"
-       ry="0"
-       transform="rotate(-45)" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="116.58347"
-       y="319.93164"
-       id="text17581"><tspan
-         id="tspan17579"
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.58347"
-         y="319.93164">Создайте отложенную задачу по полному глубокому сканированию meta2</tspan></text>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="265.77167"
-       x="-172.63457"
-       height="20"
-       width="20"
-       id="rect17583"
+       id="rect17243"
        style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
   </g>
   <g
@@ -8154,34 +9387,10 @@
          x="-541.44177"
          y="712.11163"
          style="font-size:40px;line-height:1.25;font-family:sans-serif"> </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-       x="120.11719"
-       y="156.12128"
-       id="text8074"><tspan
-         id="tspan8623"
-         y="156.12128"
-         x="120.11719"
-         sodipodi:role="line"
-         style="font-size:32px;line-height:1;font-family:sans-serif">Парасрам Ш., Замм А., Хериянто Т. Kali Linux. Тестирование на проникновение и</tspan><tspan
-         y="188.12128"
-         x="120.11719"
-         sodipodi:role="line"
-         style="font-size:32px;line-height:1;font-family:sans-serif"
-         id="tspan7220">безопасность. - СПб.: Питер, 2020. - 448 с.</tspan></text>
-    <rect
-       style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect8698"
-       width="20"
-       height="20"
-       x="-68.897141"
-       y="162.03424"
-       ry="0"
-       transform="rotate(-45)" />
     <a
        id="a6892"
-       xlink:href="https://ru.wikipedia.org/wiki/OpenVAS">
+       xlink:href="https://ru.wikipedia.org/wiki/IMAP"
+       transform="translate(0,-100)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
@@ -8192,13 +9401,18 @@
            x="120.11719"
            sodipodi:role="line"
            style="font-size:32px;line-height:1;font-family:sans-serif"
-           id="tspan6878">Open Vulnerability Assessment System</tspan></text>
+           id="tspan6878">IMAP</tspan><tspan
+           y="283.84003"
+           x="120.11719"
+           sodipodi:role="line"
+           style="font-size:32px;line-height:1;font-family:sans-serif"
+           id="tspan10318" /></text>
     </a>
     <rect
        transform="rotate(-45)"
        ry="0"
-       y="218.60278"
-       x="-125.46568"
+       y="147.89211"
+       x="-54.755005"
        height="20"
        width="20"
        id="rect6882"
@@ -8214,30 +9428,65 @@
            x="160"
            y="210" /></flowRegion><flowPara
          id="flowPara6890" /></flowRoot>    <a
-       xlink:href="https://openvas.ru/"
-       id="a17592"
-       transform="translate(0,80)">
+       transform="translate(0,-20)"
+       xlink:href="https://ru.wikipedia.org/wiki/POP3"
+       id="a10955">
       <text
-         id="text17590"
+         id="text10953"
          y="251.84003"
          x="120.11719"
          style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           id="tspan17588"
+           id="tspan10949"
            style="font-size:32px;line-height:1;font-family:sans-serif"
            sodipodi:role="line"
            x="120.11719"
-           y="251.84003">OpenVAS Russia</tspan></text>
+           y="251.84003">POP3</tspan><tspan
+           id="tspan10951"
+           style="font-size:32px;line-height:1;font-family:sans-serif"
+           sodipodi:role="line"
+           x="120.11719"
+           y="283.84003" /></text>
     </a>
     <rect
        style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect17594"
+       id="rect10957"
        width="20"
        height="20"
-       x="-182.03423"
-       y="275.17136"
+       x="-111.32355"
+       y="204.46065"
        ry="0"
        transform="rotate(-45)" />
+    <a
+       id="a10596"
+       xlink:href="https://ru.wikipedia.org/wiki/SMTP"
+       transform="translate(0,60)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+         x="120.11719"
+         y="251.84003"
+         id="text10594"><tspan
+           y="251.84003"
+           x="120.11719"
+           sodipodi:role="line"
+           style="font-size:32px;line-height:1;font-family:sans-serif"
+           id="tspan10590">SMTP</tspan><tspan
+           y="283.84003"
+           x="120.11719"
+           sodipodi:role="line"
+           style="font-size:32px;line-height:1;font-family:sans-serif"
+           id="tspan10592" /></text>
+    </a>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="261.02921"
+       x="-167.89209"
+       height="20"
+       width="20"
+       id="rect10598"
+       style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
   </g>
   <g
      style="display:none"
@@ -11157,4 +12406,69 @@ String.prototype.trim = function()
 }
 
 </script>
+  <style
+     id="style7020"
+     type="text/css">
+	.st0{fill:#363959;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:#FBFBFB;}
+	.st3{fill:#999999;}
+	.st4{fill:#F8F8F8;}
+	.st5{fill:url(#SVGID_2_);}
+	.st6{fill:url(#SVGID_3_);}
+	.st7{fill:url(#SVGID_4_);}
+	.st8{fill:#3F6499;}
+	.st9{fill:url(#SVGID_5_);}
+	.st10{fill:url(#SVGID_6_);}
+	.st11{fill:url(#SVGID_7_);}
+	.st12{fill:url(#SVGID_8_);}
+	.st13{filter:url(#Adobe_OpacityMaskFilter);}
+	.st14{fill:url(#SVGID_10_);}
+	.st15{mask:url(#SVGID_9_);}
+	.st16{opacity:0.6;}
+	.st17{opacity:0.2;}
+	.st18{fill:url(#SVGID_11_);}
+	.st19{fill:url(#SVGID_12_);}
+	.st20{opacity:0.1;fill:#F2F2F2;}
+	.st21{fill:#2F4282;}
+	.st22{fill:url(#SVGID_13_);}
+	.st23{fill:url(#SVGID_14_);}
+	.st24{fill:#FFFFFF;}
+	.st25{fill:url(#SVGID_15_);}
+	.st26{fill:url(#SVGID_16_);}
+	.st27{fill:url(#SVGID_17_);}
+	.st28{fill:url(#SVGID_18_);}
+	.st29{fill:url(#SVGID_19_);}
+	.st30{fill:url(#SVGID_20_);}
+	.st31{fill:url(#SVGID_21_);}
+	.st32{fill:url(#SVGID_22_);}
+	.st33{fill:url(#SVGID_23_);}
+	.st34{fill:url(#SVGID_24_);}
+	.st35{filter:url(#Adobe_OpacityMaskFilter_1_);}
+	.st36{fill:url(#SVGID_26_);}
+	.st37{mask:url(#SVGID_25_);}
+	.st38{fill:url(#SVGID_27_);}
+	.st39{fill:url(#SVGID_28_);}
+	.st40{fill:url(#SVGID_29_);}
+	.st41{fill:url(#SVGID_30_);}
+	.st42{fill:url(#SVGID_31_);}
+	.st43{fill:url(#SVGID_32_);}
+	.st44{fill:url(#SVGID_33_);}
+	.st45{fill:url(#SVGID_34_);}
+	.st46{fill:url(#SVGID_35_);}
+	.st47{fill:url(#SVGID_36_);}
+	.st48{fill:url(#SVGID_37_);}
+	.st49{fill:url(#SVGID_38_);}
+	.st50{fill:url(#SVGID_39_);}
+	.st51{fill:url(#SVGID_40_);}
+	.st52{filter:url(#Adobe_OpacityMaskFilter_2_);}
+	.st53{fill:url(#SVGID_42_);}
+	.st54{mask:url(#SVGID_41_);}
+	.st55{fill:url(#SVGID_43_);}
+	.st56{fill:url(#SVGID_44_);}
+	.st57{fill:url(#SVGID_45_);}
+	.st58{fill:url(#SVGID_46_);}
+	.st59{fill:url(#SVGID_47_);}
+	.st60{fill:url(#SVGID_48_);}
+</style>
 </svg>
