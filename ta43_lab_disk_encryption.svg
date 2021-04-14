@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.66912741"
-     inkscape:cx="673.80825"
-     inkscape:cy="336.51605"
+     inkscape:zoom="0.59917883"
+     inkscape:cx="611.4655"
+     inkscape:cy="394.41908"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g17974"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1137"
@@ -11198,6 +11198,141 @@
        cx="19.701"
        cy="2.8968999"
        r="17.171" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3488"
+       id="radialGradient9255"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.39512197,0,0,0.21206987,-184.64752,-98.115254)"
+       cx="24.837"
+       cy="36.421001"
+       r="15.645" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2591"
+       id="radialGradient9257"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33309572,0,0,0.40310343,-204.92991,-174.89288)"
+       cx="22.292"
+       cy="32.798"
+       r="16.955999" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6035-4"
+       id="radialGradient9259"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.80869611,0,0,0.61544198,-214.41995,-174.07498)"
+       cx="19.701"
+       cy="2.8968999"
+       r="17.171" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3488"
+       id="radialGradient9373"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.39512197,0,0,0.21206987,-194.69709,-135.35986)"
+       cx="24.837"
+       cy="36.421001"
+       r="15.645" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2591"
+       id="radialGradient9375"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33309572,0,0,0.40310343,-217.70491,-222.23821)"
+       cx="22.292"
+       cy="32.798"
+       r="16.955999" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6035-4"
+       id="radialGradient9377"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.80869611,0,0,0.61544198,-227.19495,-221.42031)"
+       cx="19.701"
+       cy="2.8968999"
+       r="17.171" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3488"
+       id="radialGradient9455"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.39512197,0,0,0.21206987,-194.69709,-143.44131)"
+       cx="24.837"
+       cy="36.421001"
+       r="15.645" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2591"
+       id="radialGradient9457"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33309572,0,0,0.40310343,-217.70491,-232.51133)"
+       cx="22.292"
+       cy="32.798"
+       r="16.955999" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6035-4"
+       id="radialGradient9459"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.80869611,0,0,0.61544198,-227.19495,-231.69343)"
+       cx="19.701"
+       cy="2.8968999"
+       r="17.171" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3488"
+       id="radialGradient9689"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.39512197,0,0,0.21206987,-218.23441,-104.53167)"
+       cx="24.837"
+       cy="36.421001"
+       r="15.645" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2591"
+       id="radialGradient9691"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33309572,0,0,0.40310343,-247.62555,-183.0494)"
+       cx="22.292"
+       cy="32.798"
+       r="16.955999" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6035-4"
+       id="radialGradient9693"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.80869611,0,0,0.61544198,-257.11559,-182.2315)"
+       cx="19.701"
+       cy="2.8968999"
+       r="17.171" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3488"
+       id="radialGradient9771"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.39512197,0,0,0.21206987,-222.73022,-98.115225)"
+       cx="24.837"
+       cy="36.421001"
+       r="15.645" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2591"
+       id="radialGradient9773"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.33309572,0,0,0.40310343,-253.34062,-174.89281)"
+       cx="22.292"
+       cy="32.798"
+       r="16.955999" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6035-4"
+       id="radialGradient9775"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.80869611,0,0,0.61544198,-262.83066,-174.07491)"
+       cx="19.701"
+       cy="2.8968999"
+       r="17.171" />
   </defs>
   <metadata
      id="metadata7">
@@ -11207,7 +11342,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -19672,21 +19807,21 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/vbox_add_storage.png"
        xlink:href="img/vbox_add_storage.png"
-       width="760"
-       height="556"
-       preserveAspectRatio="none"
-       id="image17139"
+       y="244.11627"
        x="78.697998"
-       y="244.11627" />
+       id="image17139"
+       preserveAspectRatio="none"
+       height="556"
+       width="760" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/vbox_create_disk.png"
        xlink:href="img/vbox_create_disk.png"
-       width="644"
-       height="428"
-       preserveAspectRatio="none"
-       id="image17173"
+       y="306.40112"
        x="896.00421"
-       y="306.40112" />
+       id="image17173"
+       preserveAspectRatio="none"
+       height="428"
+       width="644" />
     <g
        transform="matrix(2.530864,0,0,2.530864,719.65855,563.61695)"
        id="g4593"
@@ -19727,21 +19862,21 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/vbox_new_disk.png"
        xlink:href="img/vbox_new_disk.png"
-       width="596"
-       height="468"
-       preserveAspectRatio="none"
-       id="image17279"
+       y="152.72858"
        x="16.092827"
-       y="152.72858" />
+       id="image17279"
+       preserveAspectRatio="none"
+       height="468"
+       width="596" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/vbox_new_disk2.png"
        xlink:href="img/vbox_new_disk2.png"
-       width="595"
-       height="470"
-       preserveAspectRatio="none"
-       id="image17315"
+       y="224.93364"
        x="481.26666"
-       y="224.93364" />
+       id="image17315"
+       preserveAspectRatio="none"
+       height="470"
+       width="595" />
     <g
        style="stroke-width:0.39512196"
        id="g17248"
@@ -19776,12 +19911,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/vbox_new_disk3.png"
        xlink:href="img/vbox_new_disk3.png"
-       width="596"
-       height="471"
-       preserveAspectRatio="none"
-       id="image17345"
+       y="297.63867"
        x="985.04053"
-       y="297.63867" />
+       id="image17345"
+       preserveAspectRatio="none"
+       height="471"
+       width="596" />
     <g
        transform="matrix(2.530864,0,0,2.530864,877.66359,689.94587)"
        id="g17364"
@@ -19924,12 +20059,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/luks_format.png"
        xlink:href="img/luks_format.png"
-       width="540"
-       height="730"
-       preserveAspectRatio="none"
-       id="image17418"
+       y="86.654892"
        x="1019.7395"
-       y="86.654892" />
+       id="image17418"
+       preserveAspectRatio="none"
+       height="730"
+       width="540" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -20103,12 +20238,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/luks_open.png"
        xlink:href="img/luks_open.png"
-       width="538"
-       height="697"
-       preserveAspectRatio="none"
-       id="image17552"
+       y="106.14387"
        x="1043.1567"
-       y="106.14387" />
+       id="image17552"
+       preserveAspectRatio="none"
+       height="697"
+       width="538" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot17555"
@@ -20119,7 +20254,7 @@
            height="220"
            x="1300"
            y="190" /></flowRegion><flowPara
-         id="flowPara17561"></flowPara></flowRoot>  </g>
+         id="flowPara17561" /></flowRoot>  </g>
   <g
      style="display:none"
      inkscape:label="Настройка шифрованного диска (продолжение)"
@@ -20142,9 +20277,9 @@
        y="168.92555"
        x="38.787231"
        height="80"
-       width="961.21277"
+       width="921.21277"
        id="rect17567"
-       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77952766;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77952743;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
     <text
        id="text17575"
        y="218.85718"
@@ -20178,9 +20313,9 @@
          y="320.73163"
          id="tspan17577">Создание тестового файла на диске</tspan></text>
     <rect
-       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77952766;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77952743;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect17581"
-       width="961.21277"
+       width="921.21277"
        height="80"
        x="38.787231"
        y="348.92554"
@@ -20217,11 +20352,11 @@
          sodipodi:role="line"
          x="35.428467"
          y="500.73163"
-         id="tspan17591">Размонтирование зашифрованного диска</tspan></text>
+         id="tspan17591">Просмотр сведений о диске</tspan></text>
     <rect
        style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77952766;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect17595"
-       width="961.21277"
+       width="921.21277"
        height="80"
        x="38.787231"
        y="528.92554"
@@ -20237,7 +20372,7 @@
          sodipodi:role="line"
          x="56.940186"
          y="578.85718"
-         id="tspan17597">sudo umount /home/kali/crypt</tspan><tspan
+         id="tspan17597">sudo cryptsetup luksDump /dev/sdb</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="56.940186"
@@ -20258,14 +20393,14 @@
          y="680.73163"
          x="35.428467"
          sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Завершение работы с зашифрованным диском</tspan></text>
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Тестирование алгоритмов шифрования</tspan></text>
     <rect
        rx="20.000006"
        ry="20"
        y="708.92554"
        x="38.787231"
        height="80"
-       width="961.21277"
+       width="921.21277"
        id="rect17609"
        style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77952766;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
     <text
@@ -20278,7 +20413,7 @@
          y="758.85718"
          x="56.940186"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">sudo cryptsetup luksClose /dev/mapper/sdb-luks</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">sudo cryptsetup benchmark</tspan><tspan
          id="tspan17613"
          y="781.42279"
          x="56.940186"
@@ -20299,13 +20434,120 @@
            height="220"
            width="40"
            id="rect17621" /></flowRegion><flowPara
-         id="flowPara17625"></flowPara></flowRoot>    <image
+         id="flowPara17625" /></flowRoot>    <image
+       sodipodi:absref="/home/sergey/Documents/git/ta43/img/luks_benchmark.png"
+       xlink:href="img/luks_benchmark.png"
+       width="560"
+       height="697"
+       preserveAspectRatio="none"
+       id="image8951"
+       x="1000.8204"
+       y="110.87255" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g8910"
+     inkscape:label="Завершение работы с шифрованным диском"
+     style="display:none">
+    <text
+       id="text8873"
+       y="160.73163"
+       x="35.428467"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan8871"
+         y="160.73163"
+         x="35.428467"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Размонтирование зашифрованного диска</tspan></text>
+    <rect
+       rx="20.000006"
+       ry="20"
+       y="188.92554"
+       x="38.787231"
+       height="80"
+       width="961.21277"
+       id="rect8875"
+       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77952766;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text8884"
+       y="238.85718"
+       x="56.940186"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan8877"
+         y="238.85718"
+         x="56.940186"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">sudo umount /home/kali/crypt</tspan><tspan
+         id="tspan8880"
+         y="261.42279"
+         x="56.940186"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /><tspan
+         y="275.82281"
+         x="56.940186"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan8882" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="35.428467"
+       y="340.73163"
+       id="text8888"><tspan
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="35.428467"
+         y="340.73163"
+         id="tspan8886">Завершение работы с зашифрованным диском</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77952766;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect8890"
+       width="961.21277"
+       height="80"
+       x="38.787231"
+       y="368.92554"
+       ry="20"
+       rx="20.000006" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="56.940186"
+       y="418.85718"
+       id="text8898"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="56.940186"
+         y="418.85718"
+         id="tspan8892">sudo cryptsetup luksClose /dev/mapper/sdb-luks</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="56.940186"
+         y="441.42279"
+         id="tspan8894" /><tspan
+         id="tspan8896"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="56.940186"
+         y="455.82281" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8906"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion8902"><rect
+           id="rect8900"
+           width="40"
+           height="220"
+           x="1300"
+           y="190" /></flowRegion><flowPara
+         id="flowPara8904" /></flowRoot>    <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/luks_close.png"
        xlink:href="img/luks_close.png"
        width="540"
        height="697"
        preserveAspectRatio="none"
-       id="image17658"
+       id="image8908"
        x="1039.1676"
        y="103.1549" />
   </g>
@@ -20317,21 +20559,21 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/luks_open_gui.png"
        xlink:href="img/luks_open_gui.png"
-       width="771"
-       height="344"
-       preserveAspectRatio="none"
-       id="image17712"
+       y="107.78926"
        x="61.350597"
-       y="107.78926" />
+       id="image17712"
+       preserveAspectRatio="none"
+       height="344"
+       width="771" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/luks_sudo_gui.png"
        xlink:href="img/luks_sudo_gui.png"
-       width="715"
-       height="310"
-       preserveAspectRatio="none"
-       id="image17742"
+       y="121.80032"
        x="844.06488"
-       y="121.80032" />
+       id="image17742"
+       preserveAspectRatio="none"
+       height="310"
+       width="715" />
     <g
        style="stroke-width:0.39512196"
        id="g17681"
@@ -20366,12 +20608,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/luks_close_gui.png"
        xlink:href="img/luks_close_gui.png"
-       width="980"
-       height="350"
-       preserveAspectRatio="none"
-       id="image17778"
+       y="463.46536"
        x="360.36118"
-       y="463.46536" />
+       id="image17778"
+       preserveAspectRatio="none"
+       height="350"
+       width="980" />
     <g
        transform="matrix(0,2.530864,-2.530864,0,1020.361,307.1321)"
        id="g17789"
@@ -20539,7 +20781,7 @@
          y="609.90112"
          x="96.583473"
          sodipodi:role="line"
-         style="font-size:36px;line-height:100%;font-family:sans-serif">Завершите работу с зашифрованным диском</tspan></text>
+         style="font-size:36px;line-height:100%;font-family:sans-serif">Просмотрите сведения о зашифрованном диске</tspan></text>
     <rect
        style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect70114"
@@ -20549,6 +20791,1832 @@
        y="456.45139"
        ry="0"
        transform="rotate(-45)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="96.583473"
+       y="689.90112"
+       id="text8914"><tspan
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="96.583473"
+         y="689.90112"
+         id="tspan8912">Проведите тестирование производительности алгоритмов шифрования</tspan></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="513.01996"
+       x="-448.16718"
+       height="20"
+       width="20"
+       id="rect8916"
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text8920"
+       y="769.90112"
+       x="96.583473"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan8918"
+         y="769.90112"
+         x="96.583473"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:100%;font-family:sans-serif">Завершите работу с зашифрованным диском</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect8922"
+       width="20"
+       height="20"
+       x="-504.73578"
+       y="569.58856"
+       ry="0"
+       transform="rotate(-45)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g10744"
+     inkscape:label="Знакомство с VeraCrypt"
+     style="display:none">
+    <a
+       xlink:href="https://disconnect.me/trackerprotection"
+       id="a8976">
+      <text
+         id="text8964"
+         y="161.80609"
+         x="76.641235"
+         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan8956"
+           y="161.80609"
+           x="76.641235"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">VeraCrypt — бесплатный и открытый проект, </tspan><tspan
+           y="205.00609"
+           x="76.641235"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           id="tspan10866">используемое для шифрования «на лету».</tspan><tspan
+           y="227.57172"
+           x="76.641235"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           id="tspan8958" /><tspan
+           id="tspan8960"
+           y="241.97173"
+           x="76.641235"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif" /><tspan
+           y="256.37173"
+           x="76.641235"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           id="tspan8962" /></text>
+    </a>
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot8984"
+       xml:space="preserve"><flowRegion
+         id="flowRegion8980"><rect
+           y="470"
+           x="1240"
+           height="120"
+           width="400"
+           id="rect8978" /></flowRegion><flowPara
+         id="flowPara8982" /></flowRoot>    <a
+       transform="translate(0,-220)"
+       xlink:href=""
+       id="a8990">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="76.746704"
+         y="501.68945"
+         id="text8988"><tspan
+           style="font-size:36px;line-height:100%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="76.746704"
+           y="501.68945"
+           id="tspan8986">Особенности:</tspan></text>
+    </a>
+    <a
+       xlink:href=""
+       id="a8996"
+       transform="translate(0,-106.79276)">
+      <text
+         id="text8994"
+         y="543.06128"
+         x="116.44132"
+         style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan8992"
+           y="543.06128"
+           x="116.44132"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:100%;font-family:sans-serif">Поддержка &quot;отрицаемого шифрования&quot;</tspan></text>
+    </a>
+    <rect
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect8998"
+       width="20"
+       height="20"
+       x="-254.89702"
+       y="348.0343"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="116.44132"
+       y="513.15521"
+       id="text9004"><tspan
+         id="tspan9002"
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="116.44132"
+         y="513.15521">Параллельная работа в многоядерных и</tspan><tspan
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="116.44132"
+         y="549.15521"
+         id="tspan10870">многопроцессорных системах</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect9006"
+       width="20"
+       height="20"
+       x="-321.77454"
+       y="414.91187"
+       ry="0"
+       transform="rotate(-45)" />
+    <g
+       id="g9014">
+      <g
+         id="g9008"
+         transform="translate(-369.99988,350)"
+         style="fill:#28170b"
+         inkscape:transform-center-y="-220" />
+      <g
+         inkscape:transform-center-y="-200.98001"
+         style="fill:#28170b"
+         transform="rotate(-24,2148.3103,1135.3563)"
+         id="g9010"
+         inkscape:transform-center-x="89.482069" />
+      <g
+         inkscape:transform-center-x="53.22282"
+         id="g9012"
+         transform="rotate(-14,2750.2606,1771.7036)"
+         style="fill:#28170b"
+         inkscape:transform-center-y="-213.46508" />
+    </g>
+    <text
+       id="text9022"
+       y="613.15521"
+       x="116.44132"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan9020"
+         y="613.15521"
+         x="116.44132"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:100%;font-family:sans-serif">Поддержка аппаратного ускорения</tspan><tspan
+         y="649.15521"
+         x="116.44132"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         id="tspan10877">шифрования</tspan></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="485.62262"
+       x="-392.48529"
+       height="20"
+       width="20"
+       id="rect9024"
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <g
+       transform="matrix(1.710163,0,0,-1.710163,998.42594,1587.7126)"
+       id="g4917"
+       style="stroke-width:0.77965277">
+      <g
+         transform="translate(41.9126,789.9482)"
+         id="g12"
+         style="stroke-width:0.77965277">
+        <path
+           inkscape:connector-curvature="0"
+           id="path14"
+           style="fill:#08aad8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.77965277"
+           d="m 0,0 -24.56,42.513 49.098,0.013 z" />
+      </g>
+      <g
+         transform="translate(41.9014,789.9512)"
+         id="g16"
+         style="stroke-width:0.77965277">
+        <path
+           inkscape:connector-curvature="0"
+           id="path18"
+           style="fill:#17a6d4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.77965277"
+           d="M 0,0 24.549,42.52 49.098,0 Z" />
+      </g>
+      <g
+         transform="translate(66.4619,747.4253)"
+         id="g20"
+         style="stroke-width:0.77965277">
+        <path
+           inkscape:connector-curvature="0"
+           id="path22-2"
+           style="fill:#139cd1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.77965277"
+           d="m 0,0 -24.56,42.513 49.098,0.013 z" />
+      </g>
+      <g
+         transform="translate(66.4507,747.4282)"
+         id="g24"
+         style="stroke-width:0.77965277">
+        <path
+           inkscape:connector-curvature="0"
+           id="path26-1"
+           style="fill:#1c8ccd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.77965277"
+           d="M 0,0 24.549,42.52 49.098,0 Z" />
+      </g>
+      <g
+         transform="translate(91.0107,704.8994)"
+         id="g28"
+         style="stroke-width:0.77965277">
+        <path
+           inkscape:connector-curvature="0"
+           id="path30"
+           style="fill:#2386c8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.77965277"
+           d="m 0,0 -24.56,42.513 49.098,0.013 z" />
+      </g>
+      <g
+         transform="translate(90.9995,704.9023)"
+         id="g32"
+         style="stroke-width:0.77965277">
+        <path
+           inkscape:connector-curvature="0"
+           id="path34"
+           style="fill:#2b77bd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.77965277"
+           d="M 0,0 24.549,42.52 49.098,0 Z" />
+      </g>
+      <g
+         transform="translate(115.5596,662.3735)"
+         id="g36"
+         style="stroke-width:0.77965277">
+        <path
+           inkscape:connector-curvature="0"
+           id="path38-7"
+           style="fill:#3169b2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.77965277"
+           d="m 0,0 -24.56,42.513 49.098,0.013 z" />
+      </g>
+      <g
+         transform="translate(115.5483,662.3765)"
+         id="g40"
+         style="stroke-width:0.77965277">
+        <path
+           inkscape:connector-curvature="0"
+           id="path42-8"
+           style="fill:#0c657a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.77965277"
+           d="M 0,0 24.549,42.52 49.098,0 Z" />
+      </g>
+      <g
+         transform="translate(164.6577,662.3735)"
+         id="g44"
+         style="stroke-width:0.77965277">
+        <path
+           inkscape:connector-curvature="0"
+           id="path46-5"
+           style="fill:#3198af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.77965277"
+           d="m 0,0 -24.56,42.513 49.098,0.013 z" />
+      </g>
+      <g
+         transform="translate(140.0967,704.9023)"
+         id="g48"
+         style="stroke-width:0.77965277">
+        <path
+           inkscape:connector-curvature="0"
+           id="path50"
+           style="fill:#32a4ad;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.77965277"
+           d="M 0,0 24.549,42.52 49.098,0 Z" />
+      </g>
+      <g
+         transform="translate(189.2075,704.9038)"
+         id="g52"
+         style="stroke-width:0.77965277">
+        <path
+           inkscape:connector-curvature="0"
+           id="path54"
+           style="fill:#32aaab;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.77965277"
+           d="m 0,0 -24.56,42.513 49.098,0.013 z" />
+      </g>
+      <g
+         transform="translate(164.6465,747.4326)"
+         id="g56"
+         style="stroke-width:0.77965277">
+        <path
+           inkscape:connector-curvature="0"
+           id="path58"
+           style="fill:#35a89e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.77965277"
+           d="M 0,0 24.549,42.52 49.099,0 Z" />
+      </g>
+      <g
+         transform="translate(213.7568,747.4238)"
+         id="g60"
+         style="stroke-width:0.77965277">
+        <path
+           inkscape:connector-curvature="0"
+           id="path62"
+           style="fill:#38a88a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.77965277"
+           d="m 0,0 -24.56,42.513 49.099,0.013 z" />
+      </g>
+      <g
+         transform="translate(189.1963,789.9526)"
+         id="g64"
+         style="stroke-width:0.77965277">
+        <path
+           inkscape:connector-curvature="0"
+           id="path66-7"
+           style="fill:#38a983;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.77965277"
+           d="M 0,0 24.549,42.52 49.098,0 Z" />
+      </g>
+      <g
+         transform="translate(189.3052,704.9482)"
+         id="g68"
+         style="stroke-width:0.77965277">
+        <path
+           inkscape:connector-curvature="0"
+           id="path70-4"
+           style="fill:#23674f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.77965277"
+           d="m 0,0 -24.561,42.513 49.099,0.013 z" />
+      </g>
+      <g
+         transform="translate(164.7446,747.4771)"
+         id="g72"
+         style="stroke-width:0.77965277">
+        <path
+           inkscape:connector-curvature="0"
+           id="path74-1"
+           style="fill:#3db394;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.77965277"
+           d="M 0,0 24.549,42.52 49.098,0 Z" />
+      </g>
+      <g
+         transform="translate(213.8545,747.4727)"
+         id="g76"
+         style="stroke-width:0.77965277">
+        <path
+           inkscape:connector-curvature="0"
+           id="path78"
+           style="fill:#4cb799;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.77965277"
+           d="m 0,0 -24.559,42.513 49.098,0.013 z" />
+      </g>
+      <g
+         transform="translate(189.2935,790.0015)"
+         id="g80"
+         style="stroke-width:0.77965277">
+        <path
+           inkscape:connector-curvature="0"
+           id="path82"
+           style="fill:#57b99b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.77965277"
+           d="M 0,0 24.549,42.52 49.098,0 Z" />
+      </g>
+      <g
+         transform="translate(238.4053,789.9971)"
+         id="g84"
+         style="stroke-width:0.77965277">
+        <path
+           inkscape:connector-curvature="0"
+           id="path86-8"
+           style="fill:#6cbfa4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.77965277"
+           d="m 0,0 -24.561,42.513 49.098,0.013 z" />
+      </g>
+      <g
+         transform="translate(238.2139,789.9512)"
+         id="g88"
+         style="stroke-width:0.77965277">
+        <path
+           inkscape:connector-curvature="0"
+           id="path90-5"
+           style="fill:#86c8b1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.77965277"
+           d="M 0,0 24.549,42.52 49.1,0 Z" />
+      </g>
+      <g
+         transform="translate(287.3076,789.999)"
+         id="g92"
+         style="stroke-width:0.77965277">
+        <path
+           inkscape:connector-curvature="0"
+           id="path94-9"
+           style="fill:#97cfba;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.77965277"
+           d="M 0,0 -24.543,42.522 24.555,42.516 Z" />
+      </g>
+      <g
+         transform="translate(189.1782,705.0894)"
+         id="g96"
+         style="stroke-width:0.77965277">
+        <path
+           inkscape:connector-curvature="0"
+           id="path98"
+           style="fill:#2e9e81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.77965277"
+           d="M 0,0 24.786,42.383 49.098,-0.273 Z" />
+      </g>
+      <g
+         transform="translate(213.667,662.4312)"
+         id="g100"
+         style="stroke-width:0.77965277">
+        <path
+           inkscape:connector-curvature="0"
+           id="path102"
+           style="fill:#2b8768;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.77965277"
+           d="M 0,0 24.549,42.52 49.1,0 Z" />
+      </g>
+      <g
+         transform="translate(262.7764,662.4268)"
+         id="g104"
+         style="stroke-width:0.77965277">
+        <path
+           inkscape:connector-curvature="0"
+           id="path106-7"
+           style="fill:#2d997d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.77965277"
+           d="m 0,0 -24.559,42.513 49.098,0.013 z" />
+      </g>
+      <g
+         transform="translate(262.7646,662.4355)"
+         id="g108"
+         style="stroke-width:0.77965277">
+        <path
+           inkscape:connector-curvature="0"
+           id="path110"
+           style="fill:#32ac8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.77965277"
+           d="M 0,0 24.549,42.52 49.098,0 Z" />
+      </g>
+      <g
+         transform="translate(213.6787,662.4268)"
+         id="g112"
+         style="stroke-width:0.77965277">
+        <path
+           inkscape:connector-curvature="0"
+           id="path114"
+           style="fill:#2b8c70;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.77965277"
+           d="m 0,0 -24.56,42.513 49.097,0.013 z" />
+      </g>
+      <text
+         id="text118"
+         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Bold;writing-mode:lr-tb;fill:#1d1d1b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.77965277"
+         transform="matrix(1,0,0,-1,35.0391,604.0469)">
+        <tspan
+           id="tspan116"
+           sodipodi:role="line"
+           y="0"
+           x="0 35.639999 67.32 89.459999"
+           style="stroke-width:0.77965277">Vera</tspan>
+      </text>
+      <text
+         id="text122"
+         style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#1d1d1b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.77965277"
+         transform="matrix(1,0,0,-1,156.1791,604.0469)">
+        <tspan
+           id="tspan120"
+           sodipodi:role="line"
+           y="0"
+           x="0 34.619999 55.740002 84 118.14"
+           style="stroke-width:0.77965277">Crypt</tspan>
+      </text>
+    </g>
+    <a
+       transform="translate(0,-186.79276)"
+       id="a14666"
+       xlink:href="">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="116.44132"
+         y="524.74475"
+         id="text14664"><tspan
+           style="font-size:36px;line-height:100%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="116.44132"
+           y="524.74475"
+           id="tspan14662">Создание шифрованного диска внутри </tspan><tspan
+           style="font-size:36px;line-height:100%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="116.44132"
+           y="560.74475"
+           id="tspan14670">файла</tspan></text>
+    </a>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="291.4657"
+       x="-198.32848"
+       height="20"
+       width="20"
+       id="rect14668"
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="Получение дистрибутива VeraCrypt"
+     id="g10945"
+     inkscape:groupmode="layer">
+    <a
+       id="a14680"
+       xlink:href="https://www.veracrypt.fr/en/Downloads.html">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="35.428467"
+         y="140.73164"
+         id="text10881"><tspan
+           id="tspan14676"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="35.428467"
+           y="140.73164">Дистрибутивы VeraCrypt под различные операционные системы доступны по </tspan><tspan
+           id="tspan14678"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="35.428467"
+           y="183.93164">адресу https://www.veracrypt.fr/en/Downloads.html</tspan></text>
+    </a>
+    <a
+       id="a14692"
+       xlink:href="https://launchpad.net/veracrypt/trunk/1.24-update7/+download/veracrypt-1.24-Update7-setup.tar.bz2"
+       transform="translate(0,-60)">
+      <text
+         id="text10895"
+         y="320.73163"
+         x="35.428467"
+         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan10893"
+           y="320.73163"
+           x="35.428467"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Дистрибутив VeraCrypt для kali: veracrypt-1.24-Update7-setup.tar.bz2</tspan></text>
+    </a>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="35.428467"
+       y="500.73163"
+       id="text10909"><tspan
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="35.428467"
+         y="500.73163"
+         id="tspan10907">Проверка подписи VeraCrypt</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77952766;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect10911"
+       width="1521.2128"
+       height="119.48274"
+       x="38.787231"
+       y="528.92554"
+       ry="19.999998"
+       rx="20.000006" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="56.940186"
+       y="578.85718"
+       id="text10919"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="56.940186"
+         y="578.85718"
+         id="tspan10913">gpg --verify veracrypt-1.24-Update7-setup.tar.bz2.sig </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="56.940186"
+         y="622.05719"
+         id="tspan14712">                   veracrypt-1.24-Update7-setup.tar.bz2 </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="56.940186"
+         y="644.6228"
+         id="tspan10915" /><tspan
+         id="tspan10917"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="56.940186"
+         y="659.02283" /></text>
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot10943"
+       xml:space="preserve"><flowRegion
+         id="flowRegion10939"><rect
+           y="190"
+           x="1300"
+           height="220"
+           width="40"
+           id="rect10937" /></flowRegion><flowPara
+         id="flowPara10941" /></flowRoot>    <a
+       xlink:href="https://www.idrix.fr/VeraCrypt/VeraCrypt_PGP_public_key.asc"
+       id="a14700"
+       transform="translate(0,120)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="35.428467"
+         y="260.73163"
+         id="text14698"><tspan
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="35.428467"
+           y="260.73163"
+           id="tspan14696">Ключ PGP VeraCrypt: veracrypt-1.24-Update7-setup.tar.bz2</tspan><tspan
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="35.428467"
+           y="303.93164"
+           id="tspan14704">Отпечаток ключа: 5069A233D55A0EEB174A5FC3821ACD02680D16DE</tspan><tspan
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="35.428467"
+           y="326.49725"
+           id="tspan14702" /></text>
+    </a>
+    <a
+       xlink:href="https://launchpad.net/veracrypt/trunk/1.24-update7/+download/veracrypt-1.24-Update7-setup.tar.bz2.sig"
+       id="a14710">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="35.428467"
+         y="320.73163"
+         id="text14708"><tspan
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="35.428467"
+           y="320.73163"
+           id="tspan14706">Подпись PGP дистрибутива VeraCrypt: veracrypt-1.24-Update7-setup.tar.bz2.sig</tspan></text>
+    </a>
+    <image
+       sodipodi:absref="/home/sergey/Documents/git/ta43/img/vera_verify.png"
+       xlink:href="img/vera_verify.png"
+       width="910"
+       height="90"
+       preserveAspectRatio="none"
+       id="image14833"
+       x="352.02734"
+       y="700.22766" />
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="Установка VeraCrypt"
+     id="g14902"
+     inkscape:groupmode="layer">
+    <text
+       id="text14838"
+       y="160.73164"
+       x="75.428467"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan14836"
+         y="160.73164"
+         x="75.428467"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Распаковка дистрибутива</tspan></text>
+    <rect
+       rx="20.000006"
+       ry="20"
+       y="188.92555"
+       x="78.787231"
+       height="80"
+       width="881.21277"
+       id="rect14840"
+       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77952766;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text14848"
+       y="238.85718"
+       x="96.940186"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan14842"
+         y="238.85718"
+         x="96.940186"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">tar xjvf veracrypt-1.24-Update7-setup.tar.bz2 </tspan><tspan
+         id="tspan14844"
+         y="261.42279"
+         x="96.940186"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /><tspan
+         y="275.82281"
+         x="96.940186"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan14846" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="75.428467"
+       y="340.73163"
+       id="text14852"><tspan
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="75.428467"
+         y="340.73163"
+         id="tspan14850">Установка VeraCrypt</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77952766;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect14854"
+       width="881.21277"
+       height="80"
+       x="78.787231"
+       y="368.92554"
+       ry="20"
+       rx="20.000006" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="96.940186"
+       y="418.85718"
+       id="text14862"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="96.940186"
+         y="418.85718"
+         id="tspan14856">sudo ./veracrypt-1.24-Update7-setup-gui-x64</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="96.940186"
+         y="441.42279"
+         id="tspan14904" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="96.940186"
+         y="455.82281"
+         id="tspan14858" /><tspan
+         id="tspan14860"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="96.940186"
+         y="470.22281" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="75.428467"
+       y="520.73163"
+       id="text14866"><tspan
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="75.428467"
+         y="520.73163"
+         id="tspan14864">Запуск VeraCrypt</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77952766;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect14868"
+       width="881.21277"
+       height="80"
+       x="78.787231"
+       y="548.92554"
+       ry="20"
+       rx="20.000006" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="96.940186"
+       y="598.85718"
+       id="text14876"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="96.940186"
+         y="598.85718"
+         id="tspan14870">veracrypt</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="96.940186"
+         y="621.42279"
+         id="tspan14872" /><tspan
+         id="tspan14874"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="96.940186"
+         y="635.82281" /></text>
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot14900"
+       xml:space="preserve"><flowRegion
+         id="flowRegion14896"><rect
+           y="190"
+           x="1300"
+           height="220"
+           width="40"
+           id="rect14894" /></flowRegion><flowPara
+         id="flowPara14898" /></flowRoot>    <image
+       sodipodi:absref="/home/sergey/Documents/git/ta43/img/vera_run.png"
+       xlink:href="img/vera_run.png"
+       width="486"
+       height="584"
+       preserveAspectRatio="none"
+       id="image14933"
+       x="1052.0342"
+       y="150.00014" />
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="Создание диска в VeraCrypt"
+     id="g9163"
+     inkscape:groupmode="layer">
+    <image
+       sodipodi:absref="/home/sergey/Documents/git/ta43/img/vera_create_file_container.png"
+       xlink:href="img/vera_create_file_container.png"
+       y="193.5"
+       x="759.42084"
+       id="image9192"
+       preserveAspectRatio="none"
+       height="513"
+       width="801" />
+    <image
+       sodipodi:absref="/home/sergey/Documents/git/ta43/img/vera_create_volume.png"
+       xlink:href="img/vera_create_volume.png"
+       y="133.5"
+       x="79.203468"
+       id="image9252"
+       preserveAspectRatio="none"
+       height="633"
+       width="626" />
+    <g
+       style="stroke-width:0.39512196"
+       id="g9161"
+       transform="matrix(2.530864,0,0,2.530864,587.36962,472.03308)">
+      <ellipse
+         transform="matrix(1.2712,0,0,1.2712,24.808,-48.207)"
+         style="opacity:0.29947001;fill:url(#radialGradient9255);fill-rule:evenodd;stroke-width:0.39512196"
+         id="ellipse9153"
+         cx="24.837126"
+         cy="36.421127"
+         rx="15.644737"
+         ry="8.3968935" />
+      <path
+         d="m 41.482,-17.588 v 16.994 l 12.983,3.6e-4 v 8.545 l 19.96,-16.906 -20.078,-17.025 v 8.397 l -12.865,-0.005 z"
+         style="fill:url(#radialGradient9257);fill-rule:evenodd;stroke:#183868;stroke-width:0.39512196;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+         sodipodi:nodetypes="cccccccc"
+         id="path9155"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 54.89,-24.857 v 7.807 H 42.073 v 9.0403 c 17.75,2 16.633,-7.4553 31.383,-0.9553 z"
+         style="opacity:0.50801996;fill:url(#radialGradient9259);fill-rule:evenodd;stroke-width:0.39512196"
+         sodipodi:nodetypes="cccccc"
+         id="path9157"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 42.465,-16.544 v 14.985 l 12.985,-10e-5 v 7.3952 l 17.479,-14.796 -17.494,-14.78 v 7.201 l -12.97,-0.005 z"
+         style="opacity:0.48128004;fill:none;stroke:#ffffff;stroke-width:0.39512196;stroke-miterlimit:10"
+         sodipodi:nodetypes="cccccccc"
+         id="path9159"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g9139"
+     inkscape:label="Выбор местоположения и параметров шифрования"
+     style="display:none">
+    <image
+       sodipodi:absref="/home/sergey/Documents/git/ta43/img/vera_specify_volume.png"
+       xlink:href="img/vera_specify_volume.png"
+       y="101.09099"
+       x="39.603035"
+       id="image9334"
+       preserveAspectRatio="none"
+       height="513"
+       width="802" />
+    <image
+       sodipodi:absref="/home/sergey/Documents/git/ta43/img/vera_encryption_options.png"
+       xlink:href="img/vera_encryption_options.png"
+       y="276.33081"
+       x="760.58978"
+       id="image9370"
+       preserveAspectRatio="none"
+       height="513"
+       width="802" />
+    <g
+       style="stroke-width:0.39512196"
+       id="g9137"
+       transform="matrix(2.530864,0,0,2.530864,619.70155,591.85771)">
+      <ellipse
+         transform="matrix(1.2712,0,0,1.2712,24.808,-48.207)"
+         style="opacity:0.29947001;fill:url(#radialGradient9373);fill-rule:evenodd;stroke-width:0.39512196"
+         id="ellipse9129"
+         cx="24.837126"
+         cy="36.421127"
+         rx="15.644737"
+         ry="8.3968935" />
+      <path
+         d="m 41.482,-17.588 v 16.994 l 12.983,3.6e-4 v 8.545 l 19.96,-16.906 -20.078,-17.025 v 8.397 l -12.865,-0.005 z"
+         style="fill:url(#radialGradient9375);fill-rule:evenodd;stroke:#183868;stroke-width:0.39512196;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+         sodipodi:nodetypes="cccccccc"
+         id="path9131"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 54.89,-24.857 v 7.807 H 42.073 v 9.0403 c 17.75,2 16.633,-7.4553 31.383,-0.9553 z"
+         style="opacity:0.50801996;fill:url(#radialGradient9377);fill-rule:evenodd;stroke-width:0.39512196"
+         sodipodi:nodetypes="cccccc"
+         id="path9133"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 42.465,-16.544 v 14.985 l 12.985,-10e-5 v 7.3952 l 17.479,-14.796 -17.494,-14.78 v 7.201 l -12.97,-0.005 z"
+         style="opacity:0.48128004;fill:none;stroke:#ffffff;stroke-width:0.39512196;stroke-miterlimit:10"
+         sodipodi:nodetypes="cccccccc"
+         id="path9135"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="Задание размера и пароля"
+     id="g9393"
+     inkscape:groupmode="layer">
+    <image
+       sodipodi:absref="/home/sergey/Documents/git/ta43/img/vera_volume_size.png"
+       xlink:href="img/vera_volume_size.png"
+       y="111.00876"
+       x="42.940926"
+       id="image9422"
+       preserveAspectRatio="none"
+       height="513"
+       width="802" />
+    <image
+       sodipodi:absref="/home/sergey/Documents/git/ta43/img/vera_volume_password.png"
+       xlink:href="img/vera_volume_password.png"
+       y="276.99292"
+       x="762.25879"
+       id="image9452"
+       preserveAspectRatio="none"
+       height="513"
+       width="802" />
+    <g
+       transform="matrix(2.530864,0,0,2.530864,619.70155,617.85771)"
+       id="g9391"
+       style="stroke-width:0.39512196">
+      <ellipse
+         ry="8.3968935"
+         rx="15.644737"
+         cy="36.421127"
+         cx="24.837126"
+         id="ellipse9383"
+         style="opacity:0.29947001;fill:url(#radialGradient9455);fill-rule:evenodd;stroke-width:0.39512196"
+         transform="matrix(1.2712,0,0,1.2712,24.808,-48.207)" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path9385"
+         sodipodi:nodetypes="cccccccc"
+         style="fill:url(#radialGradient9457);fill-rule:evenodd;stroke:#183868;stroke-width:0.39512196;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+         d="m 41.482,-17.588 v 16.994 l 12.983,3.6e-4 v 8.545 l 19.96,-16.906 -20.078,-17.025 v 8.397 l -12.865,-0.005 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path9387"
+         sodipodi:nodetypes="cccccc"
+         style="opacity:0.50801996;fill:url(#radialGradient9459);fill-rule:evenodd;stroke-width:0.39512196"
+         d="m 54.89,-24.857 v 7.807 H 42.073 v 9.0403 c 17.75,2 16.633,-7.4553 31.383,-0.9553 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path9389"
+         sodipodi:nodetypes="cccccccc"
+         style="opacity:0.48128004;fill:none;stroke:#ffffff;stroke-width:0.39512196;stroke-miterlimit:10"
+         d="m 42.465,-16.544 v 14.985 l 12.985,-10e-5 v 7.3952 l 17.479,-14.796 -17.494,-14.78 v 7.201 l -12.97,-0.005 z" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g9475"
+     inkscape:label="Выбор файловой системы и поддерживаемых платформ"
+     style="display:none">
+    <image
+       sodipodi:absref="/home/sergey/Documents/git/ta43/img/vera_format.png"
+       xlink:href="img/vera_format.png"
+       y="108.93574"
+       x="41.272007"
+       id="image9504"
+       preserveAspectRatio="none"
+       height="514"
+       width="802" />
+    <image
+       sodipodi:absref="/home/sergey/Documents/git/ta43/img/vera_platform.png"
+       xlink:href="img/vera_platform.png"
+       y="278.49976"
+       x="762.75867"
+       id="image9534"
+       preserveAspectRatio="none"
+       height="512"
+       width="801" />
+    <g
+       style="stroke-width:0.39512196"
+       id="g9473"
+       transform="matrix(2.530864,0,0,2.530864,619.70155,617.85771)">
+      <ellipse
+         transform="matrix(1.2712,0,0,1.2712,24.808,-48.207)"
+         style="opacity:0.29947001;fill:url(#radialGradient9455);fill-rule:evenodd;stroke-width:0.39512196"
+         id="ellipse9465"
+         cx="24.837126"
+         cy="36.421127"
+         rx="15.644737"
+         ry="8.3968935" />
+      <path
+         d="m 41.482,-17.588 v 16.994 l 12.983,3.6e-4 v 8.545 l 19.96,-16.906 -20.078,-17.025 v 8.397 l -12.865,-0.005 z"
+         style="fill:url(#radialGradient9457);fill-rule:evenodd;stroke:#183868;stroke-width:0.39512196;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+         sodipodi:nodetypes="cccccccc"
+         id="path9467"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 54.89,-24.857 v 7.807 H 42.073 v 9.0403 c 17.75,2 16.633,-7.4553 31.383,-0.9553 z"
+         style="opacity:0.50801996;fill:url(#radialGradient9459);fill-rule:evenodd;stroke-width:0.39512196"
+         sodipodi:nodetypes="cccccc"
+         id="path9469"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 42.465,-16.544 v 14.985 l 12.985,-10e-5 v 7.3952 l 17.479,-14.796 -17.494,-14.78 v 7.201 l -12.97,-0.005 z"
+         style="opacity:0.48128004;fill:none;stroke:#ffffff;stroke-width:0.39512196;stroke-miterlimit:10"
+         sodipodi:nodetypes="cccccccc"
+         id="path9471"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="Форматирование диска и завершение мастера"
+     id="g9551"
+     inkscape:groupmode="layer">
+    <image
+       sodipodi:absref="/home/sergey/Documents/git/ta43/img/vera_format_volume.png"
+       xlink:href="img/vera_format_volume.png"
+       y="102.26786"
+       x="39.603039"
+       id="image9580"
+       preserveAspectRatio="none"
+       height="490.79572"
+       width="770.28992"
+       style="stroke-width:1.04116642" />
+    <image
+       sodipodi:absref="/home/sergey/Documents/git/ta43/img/vera_exit_wizard.png"
+       xlink:href="img/vera_exit_wizard.png"
+       y="311.37881"
+       x="782.28613"
+       id="image9610"
+       preserveAspectRatio="none"
+       height="499.64841"
+       width="781.12671"
+       style="stroke-width:1.02672195" />
+    <g
+       transform="matrix(2.530864,0,0,2.530864,619.70155,617.85771)"
+       id="g9549"
+       style="stroke-width:0.39512196">
+      <ellipse
+         ry="8.3968935"
+         rx="15.644737"
+         cy="36.421127"
+         cx="24.837126"
+         id="ellipse9541"
+         style="opacity:0.29947001;fill:url(#radialGradient9455);fill-rule:evenodd;stroke-width:0.39512196"
+         transform="matrix(1.2712,0,0,1.2712,24.808,-48.207)" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path9543"
+         sodipodi:nodetypes="cccccccc"
+         style="fill:url(#radialGradient9457);fill-rule:evenodd;stroke:#183868;stroke-width:0.39512196;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+         d="m 41.482,-17.588 v 16.994 l 12.983,3.6e-4 v 8.545 l 19.96,-16.906 -20.078,-17.025 v 8.397 l -12.865,-0.005 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path9545"
+         sodipodi:nodetypes="cccccc"
+         style="opacity:0.50801996;fill:url(#radialGradient9459);fill-rule:evenodd;stroke-width:0.39512196"
+         d="m 54.89,-24.857 v 7.807 H 42.073 v 9.0403 c 17.75,2 16.633,-7.4553 31.383,-0.9553 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path9547"
+         sodipodi:nodetypes="cccccccc"
+         style="opacity:0.48128004;fill:none;stroke:#ffffff;stroke-width:0.39512196;stroke-miterlimit:10"
+         d="m 42.465,-16.544 v 14.985 l 12.985,-10e-5 v 7.3952 l 17.479,-14.796 -17.494,-14.78 v 7.201 l -12.97,-0.005 z" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g9627"
+     inkscape:label="Монтирование диска"
+     style="display:none">
+    <g
+       style="stroke-width:0.39512196"
+       id="g9625"
+       transform="matrix(2.530864,0,0,2.530864,695.42662,492.67629)">
+      <ellipse
+         transform="matrix(1.2712,0,0,1.2712,24.808,-48.207)"
+         style="opacity:0.29947001;fill:url(#radialGradient9689);fill-rule:evenodd;stroke-width:0.39512196"
+         id="ellipse9617"
+         cx="24.837126"
+         cy="36.421127"
+         rx="15.644737"
+         ry="8.3968935" />
+      <path
+         d="m 41.482,-17.588 v 16.994 l 12.983,3.6e-4 v 8.545 l 19.96,-16.906 -20.078,-17.025 v 8.397 l -12.865,-0.005 z"
+         style="fill:url(#radialGradient9691);fill-rule:evenodd;stroke:#183868;stroke-width:0.39512196;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+         sodipodi:nodetypes="cccccccc"
+         id="path9619"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 54.89,-24.857 v 7.807 H 42.073 v 9.0403 c 17.75,2 16.633,-7.4553 31.383,-0.9553 z"
+         style="opacity:0.50801996;fill:url(#radialGradient9693);fill-rule:evenodd;stroke-width:0.39512196"
+         sodipodi:nodetypes="cccccc"
+         id="path9621"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 42.465,-16.544 v 14.985 l 12.985,-10e-5 v 7.3952 l 17.479,-14.796 -17.494,-14.78 v 7.201 l -12.97,-0.005 z"
+         style="opacity:0.48128004;fill:none;stroke:#ffffff;stroke-width:0.39512196;stroke-miterlimit:10"
+         sodipodi:nodetypes="cccccccc"
+         id="path9623"
+         inkscape:connector-curvature="0" />
+    </g>
+    <image
+       sodipodi:absref="/home/sergey/Documents/git/ta43/img/vera_mount.png"
+       xlink:href="img/vera_mount.png"
+       y="129.04538"
+       x="124.93403"
+       id="image9656"
+       preserveAspectRatio="none"
+       height="634"
+       width="628" />
+    <image
+       sodipodi:absref="/home/sergey/Documents/git/ta43/img/vera_enter_password.png"
+       xlink:href="img/vera_enter_password.png"
+       y="334.89014"
+       x="916.61719"
+       id="image9686"
+       preserveAspectRatio="none"
+       height="239"
+       width="530" />
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="Открытие и отключение диска"
+     id="g9709"
+     inkscape:groupmode="layer">
+    <g
+       id="g9784"
+       transform="translate(8.464098)">
+      <g
+         style="stroke-width:0.39512196"
+         id="g9703"
+         transform="matrix(2.530864,0,0,2.530864,701.42662,472.03308)">
+        <ellipse
+           transform="matrix(1.2712,0,0,1.2712,24.808,-48.207)"
+           style="opacity:0.29947001;fill:url(#radialGradient9771);fill-rule:evenodd;stroke-width:0.39512196"
+           id="ellipse9695"
+           cx="24.837126"
+           cy="36.421127"
+           rx="15.644737"
+           ry="8.3968935" />
+        <path
+           d="m 41.482,-17.588 v 16.994 l 12.983,3.6e-4 v 8.545 l 19.96,-16.906 -20.078,-17.025 v 8.397 l -12.865,-0.005 z"
+           style="fill:url(#radialGradient9773);fill-rule:evenodd;stroke:#183868;stroke-width:0.39512196;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+           sodipodi:nodetypes="cccccccc"
+           id="path9697"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 54.89,-24.857 v 7.807 H 42.073 v 9.0403 c 17.75,2 16.633,-7.4553 31.383,-0.9553 z"
+           style="opacity:0.50801996;fill:url(#radialGradient9775);fill-rule:evenodd;stroke-width:0.39512196"
+           sodipodi:nodetypes="cccccc"
+           id="path9699"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 42.465,-16.544 v 14.985 l 12.985,-10e-5 v 7.3952 l 17.479,-14.796 -17.494,-14.78 v 7.201 l -12.97,-0.005 z"
+           style="opacity:0.48128004;fill:none;stroke:#ffffff;stroke-width:0.39512196;stroke-miterlimit:10"
+           sodipodi:nodetypes="cccccccc"
+           id="path9701"
+           inkscape:connector-curvature="0" />
+      </g>
+      <image
+         sodipodi:absref="/home/sergey/Documents/git/ta43/img/vera_open_volume.png"
+         xlink:href="img/vera_open_volume.png"
+         width="733"
+         height="522"
+         preserveAspectRatio="none"
+         id="image9738"
+         x="44.061916"
+         y="189" />
+      <image
+         sodipodi:absref="/home/sergey/Documents/git/ta43/img/vera_dismount_volume.png"
+         xlink:href="img/vera_dismount_volume.png"
+         width="628"
+         height="634"
+         preserveAspectRatio="none"
+         id="image9768"
+         x="911.00989"
+         y="133" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g14800"
+     inkscape:label="Задания для самостоятельного выполнения"
+     style="display:none">
+    <text
+       id="text14748"
+       y="150.2478"
+       x="96.583473"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan14744"
+         y="150.2478"
+         x="96.583473"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:100%;font-family:sans-serif">Загрузите дистрибутив VeraCrypt, соответствующую PGP-подпить и </tspan><tspan
+         y="186.2478"
+         x="96.583473"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         id="tspan14802">PGP-ключ VeraCrypt</tspan><tspan
+         y="204.01343"
+         x="96.583473"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         id="tspan14746" /></text>
+    <rect
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect14750"
+       width="20"
+       height="20"
+       x="-79.302505"
+       y="144.15532"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text14754"
+       y="237.95445"
+       x="96.583473"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan14752"
+         y="237.95445"
+         x="96.583473"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:100%;font-family:sans-serif">Установите PGP-ключ VeraCrypt, проверьте его отпечаток и подпишите как</tspan><tspan
+         y="273.95447"
+         x="96.583473"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         id="tspan14804">доверенный</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect14756"
+       width="20"
+       height="20"
+       x="-141.76176"
+       y="206.6145"
+       ry="0"
+       transform="rotate(-45)" />
+    <a
+       id="a14764"
+       xlink:href="https://www.checktls.com/TestReceiver"
+       transform="translate(0,-23.37383)">
+      <text
+         id="text14762"
+         y="368.28296"
+         x="96.583473"
+         style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan14758"
+           y="368.28296"
+           x="96.583473"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:100%;font-family:sans-serif">Проверьте PGP-подпись скачанного дистрибутива VeraCrypt</tspan><tspan
+           y="386.04858"
+           x="96.583473"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:100%;font-family:sans-serif"
+           id="tspan14760" /></text>
+    </a>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="269.07376"
+       x="-204.22092"
+       height="20"
+       width="20"
+       id="rect14766"
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="96.583473"
+       y="433.23981"
+       id="text14770"><tspan
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="96.583473"
+         y="433.23981"
+         id="tspan14768">Установите VeraCrypt</tspan></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="331.53296"
+       x="-266.68015"
+       height="20"
+       width="20"
+       id="rect14772"
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text14778"
+       y="521.26288"
+       x="96.583473"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan14776"
+         y="521.26288"
+         x="96.583473"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:100%;font-family:sans-serif">Создайте новый шифрованный диск</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect14780"
+       width="20"
+       height="20"
+       x="-329.13937"
+       y="393.99219"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="96.583473"
+       y="609.90112"
+       id="text14784"><tspan
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="96.583473"
+         y="609.90112"
+         id="tspan14782">Подключите шифрованный дисл и проверьте работу с ним</tspan></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="456.45139"
+       x="-391.59857"
+       height="20"
+       width="20"
+       id="rect14786"
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text14790"
+       y="689.90112"
+       x="96.583473"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan14788"
+         y="689.90112"
+         x="96.583473"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:100%;font-family:sans-serif">Проверьте механизм создания скрытых шифрованных дисков</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect14792"
+       width="20"
+       height="20"
+       x="-448.16718"
+       y="513.01996"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="96.583473"
+       y="769.90112"
+       id="text14796"><tspan
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="96.583473"
+         y="769.90112"
+         id="tspan14794">Отключите все созданные шифрованные диски</tspan></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="569.58856"
+       x="-504.73578"
+       height="20"
+       width="20"
+       id="rect14798"
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="Знакомство с PeaZip"
+     id="g13868"
+     inkscape:groupmode="layer">
+    <a
+       id="a13696"
+       xlink:href="https://disconnect.me/trackerprotection">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="76.641235"
+         y="161.80609"
+         id="text13694"><tspan
+           id="tspan13686"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="76.641235"
+           y="161.80609">PeaZip — свободный и бесплатный </tspan><tspan
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="76.641235"
+           y="205.00609"
+           id="tspan17643">кроссплатформенный архиватор с </tspan><tspan
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="76.641235"
+           y="248.2061"
+           id="tspan17645">поддержкой различных алгоритмов</tspan><tspan
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="76.641235"
+           y="291.4061"
+           id="tspan17647">шифрования.</tspan><tspan
+           id="tspan13688"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="76.641235"
+           y="313.97171" /><tspan
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="76.641235"
+           y="328.37173"
+           id="tspan13690" /><tspan
+           id="tspan13692"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="76.641235"
+           y="342.77173" /></text>
+    </a>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot13704"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion13700"><rect
+           id="rect13698"
+           width="400"
+           height="120"
+           x="1240"
+           y="470" /></flowRegion><flowPara
+         id="flowPara13702" /></flowRoot>    <a
+       id="a13710"
+       xlink:href=""
+       transform="translate(0,-140)">
+      <text
+         id="text13708"
+         y="501.68945"
+         x="76.746704"
+         style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan13706"
+           y="501.68945"
+           x="76.746704"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:100%;font-family:sans-serif">Особенности:</tspan></text>
+    </a>
+    <a
+       transform="translate(0,-26.79276)"
+       id="a13716"
+       xlink:href="">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="116.44132"
+         y="543.06128"
+         id="text13714"><tspan
+           style="font-size:36px;line-height:100%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="116.44132"
+           y="543.06128"
+           id="tspan17653">Распаковка различных форматов сжатия</tspan><tspan
+           style="font-size:36px;line-height:100%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="116.44132"
+           y="579.06128"
+           id="tspan17671">ace, arj, rar, deb, rpm, cab, chm и др.</tspan></text>
+    </a>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="404.60291"
+       x="-311.46561"
+       height="20"
+       width="20"
+       id="rect13718"
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <g
+       id="g13734">
+      <g
+         inkscape:transform-center-y="-220"
+         style="fill:#28170b"
+         transform="translate(-369.99988,350)"
+         id="g13728" />
+      <g
+         inkscape:transform-center-x="89.482069"
+         id="g13730"
+         transform="rotate(-24,2148.3103,1135.3563)"
+         style="fill:#28170b"
+         inkscape:transform-center-y="-200.98001" />
+      <g
+         inkscape:transform-center-y="-213.46508"
+         style="fill:#28170b"
+         transform="rotate(-14,2750.2606,1771.7036)"
+         id="g13732"
+         inkscape:transform-center-x="53.22282" />
+    </g>
+    <a
+       xlink:href=""
+       id="a13864"
+       transform="translate(0,-106.79276)">
+      <text
+         id="text13862"
+         y="524.74475"
+         x="116.44132"
+         style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="524.74475"
+           x="116.44132"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:100%;font-family:sans-serif"
+           id="tspan17651">Полная поддержка форматов сжатия</tspan><tspan
+           y="560.74475"
+           x="116.44132"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:100%;font-family:sans-serif"
+           id="tspan17657">7z, 7z-sfx, bzip2, gzip, tar, zip и др.</tspan></text>
+    </a>
+    <rect
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect13866"
+       width="20"
+       height="20"
+       x="-254.89702"
+       y="348.0343"
+       ry="0"
+       transform="rotate(-45)" />
+    <g
+       id="g13905"
+       transform="matrix(4.2329798,0,0,4.2329798,981.99748,180.02478)"
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-width:4.04829311">
+      <path
+         id="path13889"
+         d="m 110.481,63.783 c 10.859,18.761 17.079,40.542 17.079,63.774 H 0 c 47.204,0 88.423,-25.654 110.481,-63.774 z"
+         inkscape:connector-curvature="0"
+         style="fill:#78e600;stroke-width:4.04829311" />
+      <path
+         id="path13891"
+         d="M 0.001,0 H 127.56 C 104.328,0 82.542,6.216 63.779,17.075 45.014,6.216 23.235,0 0.001,0 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#ffab00;stroke-width:4.04829311" />
+      <path
+         id="path13893"
+         d="m 127.56,0 v 127.558 c 0,-23.232 -6.216,-45.019 -17.074,-63.781 C 121.344,45.013 127.56,23.233 127.56,0 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#91bf00;stroke-width:4.04829311" />
+      <path
+         id="path13895"
+         d="m 127.56,0 c -0.001,23.232 -6.216,45.014 -17.074,63.777 A 128.057,128.057 0 0 0 98.749,46.814 c 0.405,0.025 0.813,0.041 1.226,0.041 10.64,0 19.268,-8.626 19.268,-19.267 0,-10.642 -8.628,-19.27 -19.268,-19.27 -10.642,0 -19.269,8.628 -19.269,19.27 0,0.41 0.015,0.82 0.041,1.226 A 127.755,127.755 0 0 0 63.783,17.076 C 82.547,6.216 104.326,0 127.56,0 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#6c8300;stroke-width:4.04829311" />
+      <path
+         id="path13897"
+         d="M 0.001,127.558 C 0.002,80.358 25.659,39.14 63.779,17.082 a 127.983,127.983 0 0 1 16.966,11.745 c 0.612,9.654 8.335,17.375 17.988,17.988 a 127.796,127.796 0 0 1 11.749,16.967 C 88.422,101.903 47.204,127.558 0.001,127.558 Z M 63.78,36.192 c 15.234,0 27.586,12.354 27.586,27.588 0,15.23 -12.352,27.584 -27.586,27.584 -15.234,0 -27.586,-12.353 -27.586,-27.583 0,-15.235 12.352,-27.589 27.586,-27.589 z M 27.587,80.704 c 10.641,0 19.269,8.629 19.269,19.267 0,10.642 -8.628,19.27 -19.269,19.27 -10.638,0 -19.268,-8.628 -19.268,-19.27 0,-10.638 8.63,-19.267 19.268,-19.267 z"
+         inkscape:connector-curvature="0"
+         style="fill:#6e9600;stroke-width:4.04829311" />
+      <path
+         id="path13899"
+         d="m 27.588,89.818 c 5.606,0 10.152,4.548 10.152,10.154 0,5.606 -4.546,10.151 -10.152,10.151 -5.606,0 -10.153,-4.545 -10.153,-10.151 0,-5.606 4.546,-10.154 10.153,-10.154 z M 63.78,49.242 c 8.027,0 14.537,6.511 14.537,14.537 0,8.026 -6.51,14.537 -14.537,14.537 -8.027,0 -14.537,-6.511 -14.537,-14.537 0,-8.026 6.51,-14.537 14.537,-14.537 z M 99.973,17.435 c 5.607,0 10.153,4.545 10.153,10.151 0,5.608 -4.546,10.153 -10.153,10.153 -5.606,0 -10.153,-4.545 -10.153,-10.153 -10e-4,-5.607 4.546,-10.151 10.153,-10.151 z M 0.001,127.557 V 0 C 23.233,0 45.015,6.22 63.778,17.078 25.655,39.137 0.001,80.354 0.001,127.557 Z"
+         inkscape:connector-curvature="0"
+         style="fill:#ffe600;stroke-width:4.04829311" />
+      <path
+         id="path13901"
+         d="m 99.973,8.318 c 10.64,0 19.269,8.629 19.269,19.269 0,10.64 -8.629,19.268 -19.269,19.268 -0.413,0 -0.823,-0.015 -1.23,-0.04 A 128.36,128.36 0 0 0 80.746,28.817 20.02,20.02 0 0 1 80.706,27.588 C 80.705,16.947 89.333,8.318 99.973,8.318 Z m 0,9.116 c 5.606,0 10.153,4.546 10.153,10.153 0,5.606 -4.547,10.152 -10.153,10.152 -5.606,0 -10.153,-4.546 -10.153,-10.152 -10e-4,-5.608 4.546,-10.153 10.153,-10.153 z"
+         inkscape:connector-curvature="0"
+         style="fill:#32a000;stroke-width:4.04829311" />
+      <path
+         id="path13903"
+         d="M 98.742,46.814 C 89.084,46.205 81.354,38.475 80.745,28.816 A 128.36,128.36 0 0 1 98.742,46.814 Z M 27.588,89.818 c 5.606,0 10.153,4.547 10.153,10.153 0,5.606 -4.547,10.153 -10.153,10.153 -5.606,0 -10.153,-4.547 -10.153,-10.153 0,-5.606 4.546,-10.153 10.153,-10.153 z M 63.78,49.242 c 8.027,0 14.537,6.51 14.537,14.537 0,8.027 -6.51,14.536 -14.537,14.536 -8.027,0 -14.537,-6.509 -14.537,-14.536 0,-8.027 6.51,-14.537 14.537,-14.537 z m 0,-13.05 c 15.233,0 27.586,12.354 27.586,27.586 0,15.232 -12.353,27.586 -27.586,27.586 -15.233,0 -27.586,-12.353 -27.586,-27.585 0,-15.233 12.353,-27.587 27.586,-27.587 z M 27.588,80.703 c 10.64,0 19.269,8.629 19.269,19.269 0,10.64 -8.629,19.268 -19.269,19.268 -10.64,0 -19.269,-8.629 -19.269,-19.269 0,-10.64 8.629,-19.268 19.269,-19.268 z"
+         inkscape:connector-curvature="0"
+         style="fill:#32be00;stroke-width:4.04829311" />
+    </g>
+    <a
+       xlink:href=""
+       id="a17665"
+       transform="translate(0,73.20724)">
+      <text
+         id="text17663"
+         y="543.06128"
+         x="116.44132"
+         style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan17659"
+           y="543.06128"
+           x="116.44132"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:100%;font-family:sans-serif">Поддержка большого числа форматов</tspan><tspan
+           id="tspan17661"
+           y="579.06128"
+           x="116.44132"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:100%;font-family:sans-serif">сжатия c шифрованием</tspan><tspan
+           y="615.06128"
+           x="116.44132"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:100%;font-family:sans-serif"
+           id="tspan17673">7z, zip, zipx, arc, pea, rar, zpaq</tspan></text>
+    </a>
+    <rect
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect17667"
+       width="20"
+       height="20"
+       x="-382.17636"
+       y="475.31366"
+       ry="0"
+       transform="rotate(-45)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g17787"
+     inkscape:label="Установка PeaZip"
+     style="display:none">
+    <a
+       xlink:href="https://peazip.github.io/index.html"
+       id="a17737">
+      <text
+         id="text17735"
+         y="140.73164"
+         x="35.428467"
+         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="140.73164"
+           x="35.428467"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           id="tspan17731">Дистрибутивы PeaZip под различные операционные системы доступны по </tspan><tspan
+           y="183.93164"
+           x="35.428467"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           id="tspan17733">адресу https://peazip.github.io/index.html</tspan></text>
+    </a>
+    <a
+       transform="translate(0,-60)"
+       xlink:href="https://github.com/peazip/PeaZip/releases/download/7.8.0/peazip_7.8.0.LINUX.x86_64.GTK2.deb"
+       id="a17743">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="35.428467"
+         y="320.73163"
+         id="text17741"><tspan
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="35.428467"
+           y="320.73163"
+           id="tspan17739">Установочный пакет PeaZip для kali: peazip_7.8.0.LINUX.x86_64.GTK2.deb</tspan></text>
+    </a>
+    <text
+       id="text17747"
+       y="320.73163"
+       x="35.428467"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan17745"
+         y="320.73163"
+         x="35.428467"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Установка пакета</tspan></text>
+    <rect
+       rx="20.000006"
+       ry="19.999998"
+       y="348.92554"
+       x="38.787231"
+       height="84.434776"
+       width="1521.2128"
+       id="rect17749"
+       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.7795279;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text17759"
+       y="400.57361"
+       x="56.940186"
+       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan17753"
+         y="400.57361"
+         x="56.940186"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">sudo dpkg -i peazip_7.8.0.LINUX.x86_64.GTK2.deb</tspan><tspan
+         id="tspan17755"
+         y="423.13922"
+         x="56.940186"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /><tspan
+         y="437.53925"
+         x="56.940186"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan17757" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot17767"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion17763"><rect
+           id="rect17761"
+           width="40"
+           height="220"
+           x="1300"
+           y="190" /></flowRegion><flowPara
+         id="flowPara17765" /></flowRoot>    <image
+       sodipodi:absref="/home/sergey/Documents/git/ta43/img/peazip.png"
+       xlink:href="img/peazip.png"
+       style="stroke-width:1.28621793"
+       width="734.71222"
+       height="338.20084"
+       preserveAspectRatio="none"
+       id="image17818"
+       x="432.64389"
+       y="468.8743" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g17837"
+     inkscape:label="Сжатие файлов с шифрованием в PeaZip"
+     style="display:none">
+    <g
+       id="g17914"
+       transform="translate(-11.1101)">
+      <image
+         sodipodi:absref="/home/sergey/Documents/git/ta43/img/peazip_compress.png"
+         xlink:href="img/peazip_compress.png"
+         y="164.5"
+         x="60.000229"
+         id="image17879"
+         preserveAspectRatio="none"
+         height="571"
+         width="891" />
+      <image
+         sodipodi:absref="/home/sergey/Documents/git/ta43/img/peazip_password.png"
+         xlink:href="img/peazip_password.png"
+         y="294"
+         x="991.21997"
+         id="image17909"
+         preserveAspectRatio="none"
+         height="312"
+         width="571" />
+    </g>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="Задания для самостоятельного выполнения"
+     id="g17974"
+     inkscape:groupmode="layer">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="96.583473"
+       y="167.94019"
+       id="text17922"><tspan
+         id="tspan17918"
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="96.583473"
+         y="167.94019">Загрузите и установите архиватор PeaZip</tspan><tspan
+         id="tspan17920"
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="96.583473"
+         y="185.70581" /></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="144.15532"
+       x="-79.302505"
+       height="20"
+       width="20"
+       id="rect17924"
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="96.583473"
+       y="237.95445"
+       id="text17930"><tspan
+         id="tspan17928"
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="96.583473"
+         y="237.95445">Проверьте механизмы сжатия и распаковки файлов с шифрованием в</tspan><tspan
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="96.583473"
+         y="273.95447"
+         id="tspan17980">различных форматах с помощью PeaZip</tspan></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="206.6145"
+       x="-141.76176"
+       height="20"
+       width="20"
+       id="rect17932"
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
   </g>
   <g
      style="display:none"
@@ -20634,7 +22702,82 @@
            height="60"
            x="160"
            y="210" /></flowRegion><flowPara
-         id="flowPara6890" /></flowRoot>  </g>
+         id="flowPara6890" /></flowRoot>    <a
+       transform="translate(0,-20)"
+       xlink:href="https://ru.wikipedia.org/wiki/VeraCrypt"
+       id="a10953">
+      <text
+         id="text10951"
+         y="251.84003"
+         x="120.11719"
+         style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan10947"
+           style="font-size:32px;line-height:1;font-family:sans-serif"
+           sodipodi:role="line"
+           x="120.11719"
+           y="251.84003">VeraCrypt</tspan><tspan
+           style="font-size:32px;line-height:1;font-family:sans-serif"
+           sodipodi:role="line"
+           x="120.11719"
+           y="283.84003"
+           id="tspan10957" /><tspan
+           id="tspan10949"
+           style="font-size:32px;line-height:1;font-family:sans-serif"
+           sodipodi:role="line"
+           x="120.11719"
+           y="315.84003" /></text>
+    </a>
+    <rect
+       style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect10955"
+       width="20"
+       height="20"
+       x="-111.32355"
+       y="204.46065"
+       ry="0"
+       transform="rotate(-45)" />
+    <a
+       id="a13932"
+       xlink:href="https://ru.wikipedia.org/wiki/PeaZip"
+       transform="translate(0,60)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+         x="120.11719"
+         y="251.84003"
+         id="text13930"><tspan
+           y="251.84003"
+           x="120.11719"
+           sodipodi:role="line"
+           style="font-size:32px;line-height:1;font-family:sans-serif"
+           id="tspan13924">PeaZip</tspan><tspan
+           y="283.84003"
+           x="120.11719"
+           sodipodi:role="line"
+           style="font-size:32px;line-height:1;font-family:sans-serif"
+           id="tspan13936" /><tspan
+           id="tspan13926"
+           y="315.84003"
+           x="120.11719"
+           sodipodi:role="line"
+           style="font-size:32px;line-height:1;font-family:sans-serif" /><tspan
+           y="347.84003"
+           x="120.11719"
+           sodipodi:role="line"
+           style="font-size:32px;line-height:1;font-family:sans-serif"
+           id="tspan13928" /></text>
+    </a>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="261.02921"
+       x="-167.89209"
+       height="20"
+       width="20"
+       id="rect13934"
+       style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+  </g>
   <g
      style="display:none"
      inkscape:label=" "
