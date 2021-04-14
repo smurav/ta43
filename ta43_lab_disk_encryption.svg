@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.59917883"
-     inkscape:cx="611.4655"
-     inkscape:cy="394.41908"
+     inkscape:zoom="0.80185396"
+     inkscape:cx="673.68665"
+     inkscape:cy="275.77976"
      inkscape:document-units="px"
-     inkscape:current-layer="g17974"
+     inkscape:current-layer="a8976"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1137"
@@ -19807,21 +19807,21 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/vbox_add_storage.png"
        xlink:href="img/vbox_add_storage.png"
-       y="244.11627"
-       x="78.697998"
-       id="image17139"
-       preserveAspectRatio="none"
+       width="760"
        height="556"
-       width="760" />
+       preserveAspectRatio="none"
+       id="image17139"
+       x="78.697998"
+       y="244.11627" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/vbox_create_disk.png"
        xlink:href="img/vbox_create_disk.png"
-       y="306.40112"
-       x="896.00421"
-       id="image17173"
-       preserveAspectRatio="none"
+       width="644"
        height="428"
-       width="644" />
+       preserveAspectRatio="none"
+       id="image17173"
+       x="896.00421"
+       y="306.40112" />
     <g
        transform="matrix(2.530864,0,0,2.530864,719.65855,563.61695)"
        id="g4593"
@@ -19862,21 +19862,21 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/vbox_new_disk.png"
        xlink:href="img/vbox_new_disk.png"
-       y="152.72858"
-       x="16.092827"
-       id="image17279"
-       preserveAspectRatio="none"
+       width="596"
        height="468"
-       width="596" />
+       preserveAspectRatio="none"
+       id="image17279"
+       x="16.092827"
+       y="152.72858" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/vbox_new_disk2.png"
        xlink:href="img/vbox_new_disk2.png"
-       y="224.93364"
-       x="481.26666"
-       id="image17315"
-       preserveAspectRatio="none"
+       width="595"
        height="470"
-       width="595" />
+       preserveAspectRatio="none"
+       id="image17315"
+       x="481.26666"
+       y="224.93364" />
     <g
        style="stroke-width:0.39512196"
        id="g17248"
@@ -19911,12 +19911,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/vbox_new_disk3.png"
        xlink:href="img/vbox_new_disk3.png"
-       y="297.63867"
-       x="985.04053"
-       id="image17345"
-       preserveAspectRatio="none"
+       width="596"
        height="471"
-       width="596" />
+       preserveAspectRatio="none"
+       id="image17345"
+       x="985.04053"
+       y="297.63867" />
     <g
        transform="matrix(2.530864,0,0,2.530864,877.66359,689.94587)"
        id="g17364"
@@ -20059,12 +20059,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/luks_format.png"
        xlink:href="img/luks_format.png"
-       y="86.654892"
-       x="1019.7395"
-       id="image17418"
-       preserveAspectRatio="none"
+       width="540"
        height="730"
-       width="540" />
+       preserveAspectRatio="none"
+       id="image17418"
+       x="1019.7395"
+       y="86.654892" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -20238,12 +20238,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/luks_open.png"
        xlink:href="img/luks_open.png"
-       y="106.14387"
-       x="1043.1567"
-       id="image17552"
-       preserveAspectRatio="none"
+       width="538"
        height="697"
-       width="538" />
+       preserveAspectRatio="none"
+       id="image17552"
+       x="1043.1567"
+       y="106.14387" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot17555"
@@ -20437,12 +20437,12 @@
          id="flowPara17625" /></flowRoot>    <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/luks_benchmark.png"
        xlink:href="img/luks_benchmark.png"
-       width="560"
-       height="697"
-       preserveAspectRatio="none"
-       id="image8951"
+       y="110.87255"
        x="1000.8204"
-       y="110.87255" />
+       id="image8951"
+       preserveAspectRatio="none"
+       height="697"
+       width="560" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -20544,12 +20544,12 @@
          id="flowPara8904" /></flowRoot>    <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/luks_close.png"
        xlink:href="img/luks_close.png"
-       width="540"
-       height="697"
-       preserveAspectRatio="none"
-       id="image8908"
+       y="103.1549"
        x="1039.1676"
-       y="103.1549" />
+       id="image8908"
+       preserveAspectRatio="none"
+       height="697"
+       width="540" />
   </g>
   <g
      style="display:none"
@@ -20559,21 +20559,21 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/luks_open_gui.png"
        xlink:href="img/luks_open_gui.png"
-       y="107.78926"
-       x="61.350597"
-       id="image17712"
-       preserveAspectRatio="none"
+       width="771"
        height="344"
-       width="771" />
+       preserveAspectRatio="none"
+       id="image17712"
+       x="61.350597"
+       y="107.78926" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/luks_sudo_gui.png"
        xlink:href="img/luks_sudo_gui.png"
-       y="121.80032"
-       x="844.06488"
-       id="image17742"
-       preserveAspectRatio="none"
+       width="715"
        height="310"
-       width="715" />
+       preserveAspectRatio="none"
+       id="image17742"
+       x="844.06488"
+       y="121.80032" />
     <g
        style="stroke-width:0.39512196"
        id="g17681"
@@ -20608,12 +20608,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/luks_close_gui.png"
        xlink:href="img/luks_close_gui.png"
-       y="463.46536"
-       x="360.36118"
-       id="image17778"
-       preserveAspectRatio="none"
+       width="980"
        height="350"
-       width="980" />
+       preserveAspectRatio="none"
+       id="image17778"
+       x="360.36118"
+       y="463.46536" />
     <g
        transform="matrix(0,2.530864,-2.530864,0,1020.361,307.1321)"
        id="g17789"
@@ -20855,7 +20855,7 @@
            x="76.641235"
            sodipodi:role="line"
            style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-           id="tspan10866">используемое для шифрования «на лету».</tspan><tspan
+           id="tspan10866">используемый для шифрования «на лету».</tspan><tspan
            y="227.57172"
            x="76.641235"
            sodipodi:role="line"
@@ -21452,12 +21452,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/vera_verify.png"
        xlink:href="img/vera_verify.png"
-       width="910"
-       height="90"
-       preserveAspectRatio="none"
-       id="image14833"
+       y="700.22766"
        x="352.02734"
-       y="700.22766" />
+       id="image14833"
+       preserveAspectRatio="none"
+       height="90"
+       width="910" />
   </g>
   <g
      style="display:none"
@@ -21605,12 +21605,12 @@
          id="flowPara14898" /></flowRoot>    <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/vera_run.png"
        xlink:href="img/vera_run.png"
-       width="486"
-       height="584"
-       preserveAspectRatio="none"
-       id="image14933"
+       y="150.00014"
        x="1052.0342"
-       y="150.00014" />
+       id="image14933"
+       preserveAspectRatio="none"
+       height="584"
+       width="486" />
   </g>
   <g
      style="display:none"
@@ -21620,21 +21620,21 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/vera_create_file_container.png"
        xlink:href="img/vera_create_file_container.png"
-       y="193.5"
-       x="759.42084"
-       id="image9192"
-       preserveAspectRatio="none"
+       width="801"
        height="513"
-       width="801" />
+       preserveAspectRatio="none"
+       id="image9192"
+       x="759.42084"
+       y="193.5" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/vera_create_volume.png"
        xlink:href="img/vera_create_volume.png"
-       y="133.5"
-       x="79.203468"
-       id="image9252"
-       preserveAspectRatio="none"
+       width="626"
        height="633"
-       width="626" />
+       preserveAspectRatio="none"
+       id="image9252"
+       x="79.203468"
+       y="133.5" />
     <g
        style="stroke-width:0.39512196"
        id="g9161"
@@ -21675,21 +21675,21 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/vera_specify_volume.png"
        xlink:href="img/vera_specify_volume.png"
-       y="101.09099"
-       x="39.603035"
-       id="image9334"
-       preserveAspectRatio="none"
+       width="802"
        height="513"
-       width="802" />
+       preserveAspectRatio="none"
+       id="image9334"
+       x="39.603035"
+       y="101.09099" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/vera_encryption_options.png"
        xlink:href="img/vera_encryption_options.png"
-       y="276.33081"
-       x="760.58978"
-       id="image9370"
-       preserveAspectRatio="none"
+       width="802"
        height="513"
-       width="802" />
+       preserveAspectRatio="none"
+       id="image9370"
+       x="760.58978"
+       y="276.33081" />
     <g
        style="stroke-width:0.39512196"
        id="g9137"
@@ -21730,21 +21730,21 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/vera_volume_size.png"
        xlink:href="img/vera_volume_size.png"
-       y="111.00876"
-       x="42.940926"
-       id="image9422"
-       preserveAspectRatio="none"
+       width="802"
        height="513"
-       width="802" />
+       preserveAspectRatio="none"
+       id="image9422"
+       x="42.940926"
+       y="111.00876" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/vera_volume_password.png"
        xlink:href="img/vera_volume_password.png"
-       y="276.99292"
-       x="762.25879"
-       id="image9452"
-       preserveAspectRatio="none"
+       width="802"
        height="513"
-       width="802" />
+       preserveAspectRatio="none"
+       id="image9452"
+       x="762.25879"
+       y="276.99292" />
     <g
        transform="matrix(2.530864,0,0,2.530864,619.70155,617.85771)"
        id="g9391"
@@ -21785,21 +21785,21 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/vera_format.png"
        xlink:href="img/vera_format.png"
-       y="108.93574"
-       x="41.272007"
-       id="image9504"
-       preserveAspectRatio="none"
+       width="802"
        height="514"
-       width="802" />
+       preserveAspectRatio="none"
+       id="image9504"
+       x="41.272007"
+       y="108.93574" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/vera_platform.png"
        xlink:href="img/vera_platform.png"
-       y="278.49976"
-       x="762.75867"
-       id="image9534"
-       preserveAspectRatio="none"
+       width="801"
        height="512"
-       width="801" />
+       preserveAspectRatio="none"
+       id="image9534"
+       x="762.75867"
+       y="278.49976" />
     <g
        style="stroke-width:0.39512196"
        id="g9473"
@@ -21840,23 +21840,23 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/vera_format_volume.png"
        xlink:href="img/vera_format_volume.png"
-       y="102.26786"
-       x="39.603039"
-       id="image9580"
-       preserveAspectRatio="none"
-       height="490.79572"
+       style="stroke-width:1.04116642"
        width="770.28992"
-       style="stroke-width:1.04116642" />
+       height="490.79572"
+       preserveAspectRatio="none"
+       id="image9580"
+       x="39.603039"
+       y="102.26786" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/vera_exit_wizard.png"
        xlink:href="img/vera_exit_wizard.png"
-       y="311.37881"
-       x="782.28613"
-       id="image9610"
-       preserveAspectRatio="none"
-       height="499.64841"
+       style="stroke-width:1.02672195"
        width="781.12671"
-       style="stroke-width:1.02672195" />
+       height="499.64841"
+       preserveAspectRatio="none"
+       id="image9610"
+       x="782.28613"
+       y="311.37881" />
     <g
        transform="matrix(2.530864,0,0,2.530864,619.70155,617.85771)"
        id="g9549"
@@ -21928,21 +21928,21 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/vera_mount.png"
        xlink:href="img/vera_mount.png"
-       y="129.04538"
-       x="124.93403"
-       id="image9656"
-       preserveAspectRatio="none"
+       width="628"
        height="634"
-       width="628" />
+       preserveAspectRatio="none"
+       id="image9656"
+       x="124.93403"
+       y="129.04538" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/vera_enter_password.png"
        xlink:href="img/vera_enter_password.png"
-       y="334.89014"
-       x="916.61719"
-       id="image9686"
-       preserveAspectRatio="none"
+       width="530"
        height="239"
-       width="530" />
+       preserveAspectRatio="none"
+       id="image9686"
+       x="916.61719"
+       y="334.89014" />
   </g>
   <g
      style="display:none"
@@ -21986,21 +21986,21 @@
       <image
          sodipodi:absref="/home/sergey/Documents/git/ta43/img/vera_open_volume.png"
          xlink:href="img/vera_open_volume.png"
-         width="733"
-         height="522"
-         preserveAspectRatio="none"
-         id="image9738"
+         y="189"
          x="44.061916"
-         y="189" />
+         id="image9738"
+         preserveAspectRatio="none"
+         height="522"
+         width="733" />
       <image
          sodipodi:absref="/home/sergey/Documents/git/ta43/img/vera_dismount_volume.png"
          xlink:href="img/vera_dismount_volume.png"
-         width="628"
-         height="634"
-         preserveAspectRatio="none"
-         id="image9768"
+         y="133"
          x="911.00989"
-         y="133" />
+         id="image9768"
+         preserveAspectRatio="none"
+         height="634"
+         width="628" />
     </g>
   </g>
   <g
@@ -22526,13 +22526,13 @@
          id="flowPara17765" /></flowRoot>    <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/peazip.png"
        xlink:href="img/peazip.png"
-       style="stroke-width:1.28621793"
-       width="734.71222"
-       height="338.20084"
-       preserveAspectRatio="none"
-       id="image17818"
+       y="468.8743"
        x="432.64389"
-       y="468.8743" />
+       id="image17818"
+       preserveAspectRatio="none"
+       height="338.20084"
+       width="734.71222"
+       style="stroke-width:1.28621793" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -22545,21 +22545,21 @@
       <image
          sodipodi:absref="/home/sergey/Documents/git/ta43/img/peazip_compress.png"
          xlink:href="img/peazip_compress.png"
-         y="164.5"
-         x="60.000229"
-         id="image17879"
-         preserveAspectRatio="none"
+         width="891"
          height="571"
-         width="891" />
+         preserveAspectRatio="none"
+         id="image17879"
+         x="60.000229"
+         y="164.5" />
       <image
          sodipodi:absref="/home/sergey/Documents/git/ta43/img/peazip_password.png"
          xlink:href="img/peazip_password.png"
-         y="294"
-         x="991.21997"
-         id="image17909"
-         preserveAspectRatio="none"
+         width="571"
          height="312"
-         width="571" />
+         preserveAspectRatio="none"
+         id="image17909"
+         x="991.21997"
+         y="294" />
     </g>
   </g>
   <g
