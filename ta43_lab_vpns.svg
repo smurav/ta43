@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.56699637"
-     inkscape:cx="786.19567"
-     inkscape:cy="264.89158"
+     inkscape:zoom="0.53654246"
+     inkscape:cx="1120.3703"
+     inkscape:cy="44.285569"
      inkscape:document-units="px"
-     inkscape:current-layer="g17974"
+     inkscape:current-layer="g12921"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1137"
@@ -14116,7 +14116,7 @@
            width="960"
            id="rect18858" /></flowRegion><flowPara
          id="flowPara18862" /></flowRoot>    <a
-       transform="translate(0,-196.44971)"
+       transform="translate(0,-156.44971)"
        id="a18874"
        xlink:href="https://1password.com/"
        style="display:inline">
@@ -14138,7 +14138,7 @@
            style="font-size:36px;line-height:120.00000477%;font-family:sans-serif" /></text>
     </a>
     <a
-       transform="translate(0,-177.98977)"
+       transform="translate(0,-137.98977)"
        id="a18880"
        xlink:href="https://lastpass.com/"
        style="display:inline">
@@ -14164,21 +14164,21 @@
        id="rect18882"
        width="20"
        height="20"
-       x="-185.11958"
-       y="278.25668"
+       x="-213.40385"
+       y="306.54099"
        ry="0"
        transform="rotate(-45)" />
     <rect
        transform="rotate(-45)"
        ry="0"
-       y="335.63538"
-       x="-242.49832"
+       y="363.91968"
+       x="-270.78262"
        height="20"
        width="20"
        id="rect18884"
        style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
     <a
-       transform="translate(-50,-266)"
+       transform="translate(-50,-226)"
        xlink:href="https://www.dashlane.com"
        id="a18890">
       <text
@@ -14196,57 +14196,62 @@
     <a
        id="a18904"
        xlink:href="https://www.dashlane.com"
-       transform="translate(-46.748047,-386)">
+       transform="translate(-46.748047,-366)">
       <text
          id="text18902"
-         y="537.37799"
+         y="517.37799"
          x="116.44132"
          style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            id="tspan18900"
-           y="537.37799"
+           y="517.37799"
            x="116.44132"
            sodipodi:role="line"
            style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">OpenVPN — свободная реализация технологии </tspan><tspan
-           y="580.578"
+           y="560.578"
            x="116.44132"
            sodipodi:role="line"
            style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-           id="tspan19211">виртуальной частной сети с открытым исходным</tspan></text>
+           id="tspan19211">виртуальной частной сети с открытым исходным</tspan><tspan
+           y="603.77802"
+           x="116.44132"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           id="tspan9243">кодом</tspan></text>
     </a>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        x="116.44132"
-       y="498.93924"
+       y="538.93921"
        id="text18942"><tspan
          style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
          sodipodi:role="line"
          x="116.44132"
-         y="498.93924"
+         y="538.93921"
          id="tspan18940">Может функционировать через TCP и</tspan><tspan
          style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
          sodipodi:role="line"
          x="116.44132"
-         y="542.13922"
+         y="582.13922"
          id="tspan19236">UDP</tspan></text>
     <text
        id="text18946"
-       y="592.98383"
+       y="632.98383"
        x="116.44132"
        style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="592.98383"
+         y="632.98383"
          x="116.44132"
          sodipodi:role="line"
          style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         id="tspan18944">Поддержка аутенитфикации по</tspan><tspan
-         y="636.18384"
+         id="tspan18944">Поддержка аутентификации по</tspan><tspan
+         y="676.18384"
          x="116.44132"
          sodipodi:role="line"
          style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
          id="tspan19238">по сертификату, по логину / паролю </tspan><tspan
-         y="679.38385"
+         y="719.38385"
          x="116.44132"
          sodipodi:role="line"
          style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
@@ -14256,15 +14261,15 @@
        id="rect18948"
        width="20"
        height="20"
-       x="-312.24203"
-       y="405.37909"
+       x="-340.52634"
+       y="433.66339"
        ry="0"
        transform="rotate(-45)" />
     <rect
        transform="rotate(-45)"
        ry="0"
-       y="489.78723"
-       x="-396.65015"
+       y="518.07153"
+       x="-424.93445"
        height="20"
        width="20"
        id="rect18950"
@@ -14333,42 +14338,22 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        x="116.44132"
-       y="737.20697"
+       y="777.20697"
        id="text19253"><tspan
          style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
          sodipodi:role="line"
          x="116.44132"
-         y="737.20697"
+         y="777.20697"
          id="tspan19251">Поддерживает сжатие данных</tspan></text>
-    <text
-       id="text19263"
-       y="795.03009"
-       x="116.44132"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan19261"
-         y="795.03009"
-         x="116.44132"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Контроль состояния VPN соединения</tspan></text>
     <rect
        transform="rotate(-45)"
        ry="0"
-       y="561.22137"
-       x="-468.08432"
+       y="589.50568"
+       x="-496.36862"
        height="20"
        width="20"
        id="rect19257"
        style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect19269"
-       width="20"
-       height="20"
-       x="-508.97144"
-       y="602.10852"
-       ry="0"
-       transform="rotate(-45)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -17111,12 +17096,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/vpn_clone.png"
        xlink:href="img/vpn_clone.png"
-       width="689"
-       height="416"
-       preserveAspectRatio="none"
-       id="image10488"
+       y="262"
        x="455.5"
-       y="262" />
+       id="image10488"
+       preserveAspectRatio="none"
+       height="416"
+       width="689" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -17225,31 +17210,31 @@
           <image
              sodipodi:absref="/home/sergey/Documents/git/ta43/img/vbox_add_network.png"
              xlink:href="img/vbox_add_network.png"
-             y="606.44965"
-             x="114"
-             id="image9504"
-             preserveAspectRatio="none"
+             width="572"
              height="380"
-             width="572" />
+             preserveAspectRatio="none"
+             id="image9504"
+             x="114"
+             y="606.44965" />
         </g>
         <image
            sodipodi:absref="/home/sergey/Documents/git/ta43/img/vbox_config_network.png"
            xlink:href="img/vbox_config_network.png"
-           y="606.44965"
-           x="814"
-           id="image9464"
-           preserveAspectRatio="none"
+           width="572"
            height="381"
-           width="572" />
+           preserveAspectRatio="none"
+           id="image9464"
+           x="814"
+           y="606.44965" />
         <image
            sodipodi:absref="/home/sergey/Documents/git/ta43/img/vbox_set_network.png"
            xlink:href="img/vbox_set_network.png"
-           y="886.44965"
-           x="579"
-           id="image9494"
-           preserveAspectRatio="none"
+           width="362"
            height="286"
-           width="362" />
+           preserveAspectRatio="none"
+           id="image9494"
+           x="579"
+           y="886.44965" />
       </g>
     </a>
     <text
@@ -17366,12 +17351,12 @@
       <image
          sodipodi:absref="/home/sergey/Documents/git/ta43/img/vbox_add_nic.png"
          xlink:href="img/vbox_add_nic.png"
-         width="760"
-         height="555"
-         preserveAspectRatio="none"
-         id="image9616"
+         y="606.44965"
          x="460"
-         y="606.44965" />
+         id="image9616"
+         preserveAspectRatio="none"
+         height="555"
+         width="760" />
     </a>
     <text
        xml:space="preserve"
@@ -17490,21 +17475,21 @@
         <image
            sodipodi:absref="/home/sergey/Documents/git/ta43/img/kali_edit_connections.png"
            xlink:href="img/kali_edit_connections.png"
-           width="374"
-           height="185"
-           preserveAspectRatio="none"
-           id="image9570"
+           y="761.44965"
            x="273"
-           y="761.44965" />
+           id="image9570"
+           preserveAspectRatio="none"
+           height="185"
+           width="374" />
         <image
            sodipodi:absref="/home/sergey/Documents/git/ta43/img/kali_add_connection.png"
            xlink:href="img/kali_add_connection.png"
-           width="689"
-           height="465"
-           preserveAspectRatio="none"
-           id="image9600"
+           y="626.44965"
            x="835.5"
-           y="626.44965" />
+           id="image9600"
+           preserveAspectRatio="none"
+           height="465"
+           width="689" />
       </g>
     </a>
     <g
@@ -17513,21 +17498,21 @@
       <image
          sodipodi:absref="/home/sergey/Documents/git/ta43/img/kali_edit_connections.png"
          xlink:href="img/kali_edit_connections.png"
-         width="374"
-         height="185"
-         preserveAspectRatio="none"
-         id="image9615"
+         y="761.44965"
          x="273"
-         y="761.44965" />
+         id="image9615"
+         preserveAspectRatio="none"
+         height="185"
+         width="374" />
       <image
          sodipodi:absref="/home/sergey/Documents/git/ta43/img/kali_add_connection.png"
          xlink:href="img/kali_add_connection.png"
-         width="689"
-         height="465"
-         preserveAspectRatio="none"
-         id="image9617"
+         y="626.44965"
          x="835.5"
-         y="626.44965" />
+         id="image9617"
+         preserveAspectRatio="none"
+         height="465"
+         width="689" />
     </g>
     <text
        id="text9527"
@@ -17633,12 +17618,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/kali_eth1.png"
        xlink:href="img/kali_eth1.png"
-       y="230"
-       x="416.5"
-       id="image9699"
-       preserveAspectRatio="none"
+       width="767"
        height="565"
-       width="767" />
+       preserveAspectRatio="none"
+       id="image9699"
+       x="416.5"
+       y="230" />
   </g>
   <g
      style="display:none"
@@ -17755,13 +17740,13 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/vpn_2_nic.png"
        xlink:href="img/vpn_2_nic.png"
-       style="stroke-width:1.05602241"
-       width="630.66846"
-       height="714"
-       preserveAspectRatio="none"
-       id="image8966"
+       y="96"
        x="947"
-       y="96" />
+       id="image8966"
+       preserveAspectRatio="none"
+       height="714"
+       width="630.66846"
+       style="stroke-width:1.05602241" />
     <text
        id="text12736"
        y="540.73163"
@@ -18129,7 +18114,7 @@
          y="320.73163"
          x="55.428467"
          sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Выпуск сертификата для сервера</tspan></text>
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Создание ключа и сертификата для сервера</tspan></text>
     <rect
        rx="20.000004"
        ry="19.999998"
@@ -18149,7 +18134,7 @@
          x="76.940186"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan13015">sudo ./easyrsa sign-req server server</tspan><tspan
+         id="tspan13015">sudo ./easyrsa build-server-full server</tspan><tspan
          y="421.42279"
          x="76.940186"
          sodipodi:role="line"
@@ -18165,7 +18150,7 @@
          sodipodi:role="line"
          x="55.428467"
          y="500.73163"
-         id="tspan13021">Создание ключей для клиента на машине kali</tspan></text>
+         id="tspan13021">Создание ключа и сертификата для клиента на машине kali</tspan></text>
     <rect
        style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77952671;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect13025"
@@ -18201,7 +18186,7 @@
          y="680.73163"
          x="55.428467"
          sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Создание ключей для клиента на машине Windows 10</tspan></text>
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Создание ключа и сертификата для клиента на машине Windows 10</tspan></text>
     <rect
        rx="20.000004"
        ry="19.999998"
@@ -18237,7 +18222,7 @@
          y="140.73163"
          x="55.428467"
          sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Создание запроса на выпуск сертификата для VPN-сервера</tspan></text>
+         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Создание TLS-ключа</tspan></text>
     <rect
        rx="20.000004"
        ry="19.999998"
@@ -18257,7 +18242,7 @@
          x="76.940186"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan12949">sudo ./easyrsa gen-req server nopass</tspan><tspan
+         id="tspan12949">sudo openvpn --genkey tls-auth ta.key</tspan><tspan
          y="241.42281"
          x="76.940186"
          sodipodi:role="line"
@@ -18463,7 +18448,7 @@
          x="76.940186"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan13192">#tls-auth ta.key 0</tspan><tspan
+         id="tspan13192">tls-auth ta.key 0</tspan><tspan
          y="341.64954"
          x="76.940186"
          sodipodi:role="line"
@@ -18698,7 +18683,7 @@
            height="200"
            x="-280"
            y="490" /></flowRegion><flowPara
-         id="flowPara13355"></flowPara></flowRoot>    <text
+         id="flowPara13355" /></flowRoot>    <text
        id="text13920"
        y="320.73163"
        x="55.428467"
@@ -18747,12 +18732,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/vpn_status.png"
        xlink:href="img/vpn_status.png"
-       width="666"
-       height="683"
-       preserveAspectRatio="none"
-       id="image13959"
+       y="110"
        x="887"
-       y="110" />
+       id="image13959"
+       preserveAspectRatio="none"
+       height="683"
+       width="666" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
@@ -19013,21 +18998,21 @@
       <image
          sodipodi:absref="/home/sergey/Documents/git/ta43/img/kali_add_vpn_connection.png"
          xlink:href="img/kali_add_vpn_connection.png"
-         y="210"
-         x="835.5"
-         id="image14792"
-         preserveAspectRatio="none"
+         width="689"
          height="435"
-         width="689" />
+         preserveAspectRatio="none"
+         id="image14792"
+         x="835.5"
+         y="210" />
       <image
          sodipodi:absref="/home/sergey/Documents/git/ta43/img/kali_edit_connections.png"
          xlink:href="img/kali_edit_connections.png"
-         y="317.5"
-         x="300"
-         id="image15070"
-         preserveAspectRatio="none"
+         width="374"
          height="185"
-         width="374" />
+         preserveAspectRatio="none"
+         id="image15070"
+         x="300"
+         y="317.5" />
     </g>
   </g>
   <g
@@ -19117,22 +19102,22 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/kali_tls_vpn_connection.png"
        xlink:href="img/kali_tls_vpn_connection.png"
-       width="782"
-       height="709"
-       preserveAspectRatio="none"
-       id="image15139"
+       y="90"
        x="689"
-       y="90" />
+       id="image15139"
+       preserveAspectRatio="none"
+       height="709"
+       width="782" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/kali_edit_vpn_connection.png"
        xlink:href="img/kali_edit_vpn_connection.png"
-       y="150"
-       x="99"
-       id="image14875"
-       preserveAspectRatio="none"
-       height="589"
+       style="display:inline"
        width="522"
-       style="display:inline" />
+       height="589"
+       preserveAspectRatio="none"
+       id="image14875"
+       x="99"
+       y="150" />
   </g>
   <g
      style="display:none"
@@ -19224,22 +19209,22 @@
       <image
          sodipodi:absref="/home/sergey/Documents/git/ta43/img/kali_enable_vpn_connection.png"
          xlink:href="img/kali_enable_vpn_connection.png"
-         y="321"
-         x="162"
-         id="image15262"
-         preserveAspectRatio="none"
+         width="436"
          height="258"
-         width="436" />
+         preserveAspectRatio="none"
+         id="image15262"
+         x="162"
+         y="321" />
       <image
          sodipodi:absref="/home/sergey/Documents/git/ta43/img/kali_ip_a_vpn_connection.png"
          xlink:href="img/kali_ip_a_vpn_connection.png"
-         y="95.977448"
-         x="700"
-         id="image15327"
-         preserveAspectRatio="none"
-         height="708.0451"
+         style="stroke-width:1.03100777"
          width="645"
-         style="stroke-width:1.03100777" />
+         height="708.0451"
+         preserveAspectRatio="none"
+         id="image15327"
+         x="700"
+         y="95.977448" />
     </g>
   </g>
   <g
@@ -19356,13 +19341,13 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/win10_openvpn_client.png"
        xlink:href="img/win10_openvpn_client.png"
-       style="stroke-width:1.12166667"
-       width="915.60181"
-       height="600"
-       preserveAspectRatio="none"
-       id="image14452"
+       y="210"
        x="342.1991"
-       y="210" />
+       id="image14452"
+       preserveAspectRatio="none"
+       height="600"
+       width="915.60181"
+       style="stroke-width:1.12166667" />
   </g>
   <g
      style="display:none"
@@ -19606,30 +19591,30 @@
       <image
          sodipodi:absref="/home/sergey/Documents/git/ta43/img/win10_openvpn_add_profile.png"
          xlink:href="img/win10_openvpn_add_profile.png"
-         y="110"
-         x="1098"
-         id="image14179"
-         preserveAspectRatio="none"
+         width="402"
          height="687"
-         width="402" />
+         preserveAspectRatio="none"
+         id="image14179"
+         x="1098"
+         y="110" />
       <image
          sodipodi:absref="/home/sergey/Documents/git/ta43/img/win10_openvpn_import_profile.png"
          xlink:href="img/win10_openvpn_import_profile.png"
-         y="110"
-         x="619"
-         id="image14209"
-         preserveAspectRatio="none"
+         width="402"
          height="687"
-         width="402" />
+         preserveAspectRatio="none"
+         id="image14209"
+         x="619"
+         y="110" />
       <image
          sodipodi:absref="/home/sergey/Documents/git/ta43/img/win10_start_openvpn.png"
          xlink:href="img/win10_start_openvpn.png"
-         y="134"
-         x="160"
-         id="image14293"
-         preserveAspectRatio="none"
+         width="375"
          height="639"
-         width="375" />
+         preserveAspectRatio="none"
+         id="image14293"
+         x="160"
+         y="134" />
     </g>
   </g>
   <g
@@ -19711,21 +19696,21 @@
       <image
          sodipodi:absref="/home/sergey/Documents/git/ta43/img/win10_openvpn_connect.png"
          xlink:href="img/win10_openvpn_connect.png"
-         width="404"
-         height="687"
-         preserveAspectRatio="none"
-         id="image14256"
+         y="110"
          x="298"
-         y="110" />
+         id="image14256"
+         preserveAspectRatio="none"
+         height="687"
+         width="404" />
       <image
          sodipodi:absref="/home/sergey/Documents/git/ta43/img/win10_openvpn_cmd.png"
          xlink:href="img/win10_openvpn_cmd.png"
-         width="637"
-         height="671"
-         preserveAspectRatio="none"
-         id="image14258"
+         y="110"
          x="781.5"
-         y="110" />
+         id="image14258"
+         preserveAspectRatio="none"
+         height="671"
+         width="637" />
     </g>
   </g>
   <g
