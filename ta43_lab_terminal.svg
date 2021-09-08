@@ -25,15 +25,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.63057688"
-     inkscape:cx="750.26628"
-     inkscape:cy="260.79128"
+     inkscape:zoom="0.59670801"
+     inkscape:cx="1084.0753"
+     inkscape:cy="200.86912"
      inkscape:document-units="px"
-     inkscape:current-layer="g6959"
+     inkscape:current-layer="g31586"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1135"
-     inkscape:window-x="0"
+     inkscape:window-height="1137"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
@@ -7066,21 +7066,21 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/start_kali.png"
        xlink:href="img/start_kali.png"
-       y="110"
-       x="80"
-       id="image3542"
-       preserveAspectRatio="none"
+       width="669"
        height="448"
-       width="669" />
+       preserveAspectRatio="none"
+       id="image3542"
+       x="80"
+       y="110" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/login_kali.png"
        xlink:href="img/login_kali.png"
-       y="330"
-       x="830.34283"
-       id="image3580"
-       preserveAspectRatio="none"
+       width="640"
        height="480"
-       width="640" />
+       preserveAspectRatio="none"
+       id="image3580"
+       x="830.34283"
+       y="330" />
   </g>
   <g
      style="display:none"
@@ -7281,13 +7281,13 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/open_terminal.png"
        xlink:href="img/open_terminal.png"
-       width="686"
-       height="489.72238"
-       preserveAspectRatio="none"
-       id="image2602"
-       x="860"
+       style="stroke-width:1.02915454"
        y="110"
-       style="stroke-width:1.02915454" />
+       x="860"
+       id="image2602"
+       preserveAspectRatio="none"
+       height="489.72238"
+       width="686" />
   </g>
   <g
      style="display:none"
@@ -7682,13 +7682,13 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/sudo.png"
        xlink:href="img/sudo.png"
-       style="stroke-width:1.13035703"
-       width="743.12799"
-       height="560"
-       preserveAspectRatio="none"
-       id="image10829"
+       y="110"
        x="836.87201"
-       y="110" />
+       id="image10829"
+       preserveAspectRatio="none"
+       height="560"
+       width="743.12799"
+       style="stroke-width:1.13035703" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot10832"
@@ -7699,7 +7699,7 @@
            height="360"
            x="1180"
            y="370" /></flowRegion><flowPara
-         id="flowPara10838"></flowPara></flowRoot>  </g>
+         id="flowPara10838" /></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="g15073"
@@ -8799,12 +8799,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/history.png"
        xlink:href="img/history.png"
-       width="706"
-       height="666"
-       preserveAspectRatio="none"
-       id="image7756"
+       y="110"
        x="860"
-       y="110" />
+       id="image7756"
+       preserveAspectRatio="none"
+       height="666"
+       width="706" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -8879,7 +8879,7 @@
          sodipodi:role="line"
          x="120.11719"
          y="222.23846"
-         id="tspan31560">Создайте в домашнем каталоге каталог Задание1</tspan></text>
+         id="tspan31560">Создайте в домашнем каталоге каталог folder1</tspan></text>
     <rect
        style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect31566"
@@ -8899,7 +8899,7 @@
          sodipodi:role="line"
          x="117.54475"
          y="306.76514"
-         id="tspan31594">Перейдите в каталог Задание1</tspan></text>
+         id="tspan31594">Перейдите в каталог folder1</tspan></text>
     <text
        id="text31578"
        y="137.69617"
@@ -8938,7 +8938,7 @@
          x="117.54475"
          sodipodi:role="line"
          style="font-size:32px;line-height:1;font-family:sans-serif"
-         id="tspan31690">С использованием перенаправления вывода создайте файл Задача1, содержащий </tspan><tspan
+         id="tspan31690">С использованием перенаправления вывода создайте файл file1, содержащий </tspan><tspan
          y="402.74173"
          x="117.54475"
          sodipodi:role="line"
@@ -8963,7 +8963,7 @@
          sodipodi:role="line"
          x="117.54475"
          y="450.74179"
-         id="tspan31606">Не меняя текущего каталога создайте в домашнем каталоге файл Задача2, </tspan><tspan
+         id="tspan31606">Не меняя текущего каталога создайте в домашнем каталоге файл file2, </tspan><tspan
          style="font-size:32px;line-height:1;font-family:sans-serif"
          sodipodi:role="line"
          x="117.54475"
@@ -8988,7 +8988,7 @@
          y="546.76514"
          x="117.54475"
          sodipodi:role="line"
-         style="font-size:32px;line-height:1;font-family:sans-serif">Скопируйте файл Задача2 в текущий каталог</tspan></text>
+         style="font-size:32px;line-height:1;font-family:sans-serif">Скопируйте файл file2 в текущий каталог</tspan></text>
     <rect
        style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect31616"
@@ -9008,7 +9008,7 @@
          sodipodi:role="line"
          x="117.54475"
          y="626.76514"
-         id="tspan31618">Удалите файл Задача2 в домашнем каталоге</tspan></text>
+         id="tspan31618">Удалите файл file2 в домашнем каталоге</tspan></text>
     <rect
        transform="rotate(-45)"
        ry="0"
@@ -9028,12 +9028,12 @@
          y="690.74194"
          x="117.54475"
          sodipodi:role="line"
-         style="font-size:32px;line-height:1;font-family:sans-serif">С помощью команды cat создайте в родительском каталоге файл Задача3, к </tspan><tspan
+         style="font-size:32px;line-height:1;font-family:sans-serif">С помощью команды cat создайте в родительском каталоге файл file3, в </tspan><tspan
          y="722.74194"
          x="117.54475"
          sodipodi:role="line"
          style="font-size:32px;line-height:1;font-family:sans-serif"
-         id="tspan31704">котором объединено содержимое файлов Задача1 и Задача2</tspan><tspan
+         id="tspan31704">котором объединено содержимое файлов file1 и file2</tspan><tspan
          y="754.74194"
          x="117.54475"
          sodipodi:role="line"
@@ -9058,7 +9058,7 @@
          sodipodi:role="line"
          x="117.54475"
          y="786.76514"
-         id="tspan31630">Удалите каталог Задание1</tspan></text>
+         id="tspan31630">Удалите каталог folder1</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -9198,12 +9198,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/ifconfig.png"
        xlink:href="img/ifconfig.png"
-       y="135"
-       x="834"
-       id="image9179"
-       preserveAspectRatio="none"
+       width="706"
        height="635"
-       width="706" />
+       preserveAspectRatio="none"
+       id="image9179"
+       x="834"
+       y="135" />
   </g>
   <g
      style="display:none"
@@ -9332,13 +9332,13 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/hosts.png"
        xlink:href="img/hosts.png"
-       width="706"
-       height="635"
-       preserveAspectRatio="none"
-       id="image6866"
-       x="820"
+       style="display:inline"
        y="130"
-       style="display:inline" />
+       x="820"
+       id="image6866"
+       preserveAspectRatio="none"
+       height="635"
+       width="706" />
   </g>
   <g
      inkscape:groupmode="layer"
