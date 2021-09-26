@@ -25,15 +25,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.50353039"
-     inkscape:cx="956.63925"
-     inkscape:cy="429.56479"
+     inkscape:zoom="0.63634264"
+     inkscape:cx="650.75277"
+     inkscape:cy="421.65939"
      inkscape:document-units="px"
-     inkscape:current-layer="g8173"
+     inkscape:current-layer="g8584"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1135"
-     inkscape:window-x="0"
+     inkscape:window-height="1137"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="false"
@@ -59,6 +59,20 @@
   </sodipodi:namedview>
   <defs
      id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker12819"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path12817"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#1f3c84;stroke-opacity:1;fill:#1f3c84;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
     <marker
        inkscape:stockid="Arrow2Mend"
        orient="auto"
@@ -6802,7 +6816,7 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="title"
-     style="display:inline">
+     style="display:none">
     <a
        id="a3034">
       <rect
@@ -6933,7 +6947,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="master_slide"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#5f7da9;stroke-opacity:1"
@@ -7343,7 +7357,7 @@
          sodipodi:role="line"
          x="799.86816"
          y="179.84944"
-         id="tspan8263"></tspan><tspan
+         id="tspan8263" /><tspan
          style="font-size:36px;line-height:120.00000477%;font-family:sans-serif;text-align:center;text-anchor:middle"
          sodipodi:role="line"
          x="799.86816"
@@ -7401,7 +7415,7 @@
       <ellipse
          ry="153.85028"
          rx="433.30713"
-         style="opacity:0.52300002;fill:#ffeeaa;fill-opacity:0.49803922;stroke:#ffcc00;stroke-width:3.77999973;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.7799999, 3.7799999;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         style="opacity:0.52300002;fill:#c8b7b7;fill-opacity:0.49803922;stroke:#483737;stroke-width:3.77999973;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3.7799999, 3.7799999;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
          id="ellipse7892"
          cx="657.31091"
          cy="-450.00006"
@@ -8906,6 +8920,194 @@
          id="tspan14469">млрд. руб. </tspan></text>
   </g>
   <g
+     style="display:none"
+     inkscape:label="Актуальные киберугрозы"
+     id="g8424"
+     inkscape:groupmode="layer">
+    <a
+       id="a8436"
+       xlink:href="https://www.ptsecurity.com/ru-ru/research/analytics/cybersecurity-threatscape-2020-q4/"
+       transform="translate(0,260)">
+      <text
+         id="text7903"
+         y="528.8822"
+         x="82.005493"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="528.8822"
+           x="82.005493"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan7901">Актуальные киберугрозы: IV квартал 2020 года</tspan></text>
+    </a>
+    <a
+       xlink:href="https://www.ptsecurity.com/ru-ru/research/analytics/cybersecurity-threatscape-2021-q2/"
+       id="a12147"
+       transform="translate(0,260)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="802.00549"
+         y="528.8822"
+         id="text12145"><tspan
+           id="tspan12143"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="802.00549"
+           y="528.8822">Актуальные киберугрозы: II квартал 2021 года</tspan></text>
+    </a>
+    <image
+       sodipodi:absref="/home/sergey/Documents/git/ta43/img/ib_stat_19_21.png"
+       xlink:href="img/ib_stat_19_21.png"
+       width="1490.6667"
+       height="626.66669"
+       preserveAspectRatio="none"
+       id="image15222"
+       x="69.333252"
+       y="123.33331" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g15239"
+     inkscape:label="Атаки на частных лиц 2021 году"
+     style="display:none">
+    <a
+       transform="translate(0,260)"
+       xlink:href="https://www.ptsecurity.com/ru-ru/research/analytics/cybersecurity-threatscape-2020-q4/"
+       id="a15229">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="82.005493"
+         y="528.8822"
+         id="text15227"><tspan
+           id="tspan15225"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="82.005493"
+           y="528.8822">Актуальные киберугрозы: IV квартал 2020 года</tspan></text>
+    </a>
+    <a
+       transform="translate(0,260)"
+       id="a15235"
+       xlink:href="https://www.ptsecurity.com/ru-ru/research/analytics/cybersecurity-threatscape-2021-q2/">
+      <text
+         id="text15233"
+         y="528.8822"
+         x="802.00549"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="528.8822"
+           x="802.00549"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan15231">Актуальные киберугрозы: II квартал 2021 года</tspan></text>
+    </a>
+    <image
+       sodipodi:absref="/home/sergey/Documents/git/ta43/img/attacks_person_21.png"
+       xlink:href="img/attacks_person_21.png"
+       width="1134.6667"
+       height="632"
+       preserveAspectRatio="none"
+       id="image15668"
+       x="232.66663"
+       y="118" />
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="Атаки на организации в 2021 году"
+     id="g15515"
+     inkscape:groupmode="layer">
+    <a
+       id="a15505"
+       xlink:href="https://www.ptsecurity.com/ru-ru/research/analytics/cybersecurity-threatscape-2020-q4/"
+       transform="translate(0,260)">
+      <text
+         id="text15503"
+         y="528.8822"
+         x="82.005493"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="528.8822"
+           x="82.005493"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan15501">Актуальные киберугрозы: IV квартал 2020 года</tspan></text>
+    </a>
+    <a
+       xlink:href="https://www.ptsecurity.com/ru-ru/research/analytics/cybersecurity-threatscape-2021-q2/"
+       id="a15511"
+       transform="translate(0,260)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="802.00549"
+         y="528.8822"
+         id="text15509"><tspan
+           id="tspan15507"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="802.00549"
+           y="528.8822">Актуальные киберугрозы: II квартал 2021 года</tspan></text>
+    </a>
+    <image
+       sodipodi:absref="/home/sergey/Documents/git/ta43/img/attacks_org_21.png"
+       xlink:href="img/attacks_org_21.png"
+       width="1196"
+       height="632"
+       preserveAspectRatio="none"
+       id="image15733"
+       x="202"
+       y="118" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g15750"
+     inkscape:label="Категории жертв среди организаций в 2021 году"
+     style="display:none">
+    <a
+       transform="translate(0,260)"
+       xlink:href="https://www.ptsecurity.com/ru-ru/research/analytics/cybersecurity-threatscape-2020-q4/"
+       id="a15740">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="82.005493"
+         y="528.8822"
+         id="text15738"><tspan
+           id="tspan15736"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="82.005493"
+           y="528.8822">Актуальные киберугрозы: IV квартал 2020 года</tspan></text>
+    </a>
+    <a
+       transform="translate(0,260)"
+       id="a15746"
+       xlink:href="https://www.ptsecurity.com/ru-ru/research/analytics/cybersecurity-threatscape-2021-q2/">
+      <text
+         id="text15744"
+         y="528.8822"
+         x="802.00549"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="528.8822"
+           x="802.00549"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan15742">Актуальные киберугрозы: II квартал 2021 года</tspan></text>
+    </a>
+    <image
+       sodipodi:absref="/home/sergey/Documents/git/ta43/img/attacks_cat_org_21.png"
+       xlink:href="img/attacks_cat_org_21.png"
+       width="1085.3333"
+       height="598.66669"
+       preserveAspectRatio="none"
+       id="image15814"
+       x="257.33337"
+       y="130" />
+  </g>
+  <g
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="Основные типы атак"
@@ -9072,946 +9274,6 @@
            x="117.24609"
            id="tspan8851"
            sodipodi:role="line">Парольные атаки</tspan></text>
-    </a>
-  </g>
-  <g
-     style="display:none"
-     inkscape:label="Криптографические атаки"
-     id="g8916"
-     inkscape:groupmode="layer">
-    <a
-       style="display:inline;fill:#800080"
-       id="a8867"
-       transform="translate(7.77568,-231.06251)"
-       xlink:href="https://ru.wikipedia.org/wiki/%D0%90%D1%82%D0%B0%D0%BA%D0%B0_%D0%BD%D0%B0_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B5_%D1%88%D0%B8%D1%84%D1%80%D0%BE%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         x="117.24609"
-         y="390"
-         id="text8865"><tspan
-           sodipodi:role="line"
-           id="tspan9089"
-           x="117.24609"
-           y="390">Атака на основе шифротекста (Ciphertext-only attack)</tspan></text>
-    </a>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="152.63457"
-       x="-59.497475"
-       height="20"
-       width="20"
-       id="rect8861"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect8869"
-       width="20"
-       height="20"
-       x="-172.63457"
-       y="265.77167"
-       ry="0"
-       transform="rotate(-45)" />
-    <a
-       transform="translate(7.77568,-71.06251)"
-       id="a8875"
-       style="display:inline;fill:#800080"
-       xlink:href="https://ru.wikipedia.org/wiki/%D0%90%D1%82%D0%B0%D0%BA%D0%B0_%D0%BD%D0%B0_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B5_%D0%BF%D0%BE%D0%B4%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BE%D0%B3%D0%BE_%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0">
-      <text
-         id="text8873"
-         y="390"
-         x="117.24609"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         xml:space="preserve"
-         xlink:href="https://ru.wikipedia.org/wiki/%D0%90%D1%82%D0%B0%D0%BA%D0%B0_%D0%BD%D0%B0_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B5_%D0%BF%D0%BE%D0%B4%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BE%D0%B3%D0%BE_%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0"><tspan
-           sodipodi:role="line"
-           id="tspan9093"
-           x="117.24609"
-           y="390">Атака на основе подобранного открытого текста (Chosen-plaintext attack, CPA)</tspan></text>
-    </a>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="322.34027"
-       x="-229.20311"
-       height="20"
-       width="20"
-       id="rect8877"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <a
-       style="display:inline;fill:#800080"
-       id="a8884"
-       transform="translate(7.77568,8.93749)"
-       xlink:href="https://ru.wikipedia.org/wiki/%D0%90%D1%82%D0%B0%D0%BA%D0%B0_%D0%BD%D0%B0_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B5_%D0%B0%D0%B4%D0%B0%D0%BF%D1%82%D0%B8%D0%B2%D0%BD%D0%BE_%D0%BF%D0%BE%D0%B4%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BE%D0%B3%D0%BE_%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         x="117.24609"
-         y="390"
-         id="text8882"
-         xlink:href="https://ru.wikipedia.org/wiki/%D0%90%D1%82%D0%B0%D0%BA%D0%B0_%D0%BD%D0%B0_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B5_%D0%B0%D0%B4%D0%B0%D0%BF%D1%82%D0%B8%D0%B2%D0%BD%D0%BE_%D0%BF%D0%BE%D0%B4%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%BE%D0%B3%D0%BE_%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0"><tspan
-           sodipodi:role="line"
-           id="tspan9097"
-           x="117.24609"
-           y="390">Атака на основе адаптивно подобранного открытого текста (Adaptive chosen-plaintext attack)</tspan></text>
-    </a>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect8886"
-       width="20"
-       height="20"
-       x="-285.7717"
-       y="378.90887"
-       ry="0"
-       transform="rotate(-45)" />
-    <a
-       transform="translate(7.77568,88.93749)"
-       id="a8892"
-       style="display:inline;fill:#800080"
-       xlink:href="https://ru.wikipedia.org/wiki/%D0%90%D1%82%D0%B0%D0%BA%D0%B0_%D0%BD%D0%B0_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B5_%D0%BF%D0%BE%D0%B4%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D1%88%D0%B8%D1%84%D1%80%D0%BE%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0">
-      <text
-         id="text8890"
-         y="390"
-         x="117.24609"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan9099"
-           x="117.24609"
-           y="390">Атака на основе подобранного шифротекста (Chosen-ciphertext attack)</tspan></text>
-    </a>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="435.47748"
-       x="-342.3403"
-       height="20"
-       width="20"
-       id="rect8894"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <a
-       id="a9107"
-       xlink:href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D1%88%D0%B8%D1%84%D1%80">
-      <text
-         xlink:href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D1%88%D0%B8%D1%84%D1%80"
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         x="125.02177"
-         y="558.9375"
-         id="text8898"><tspan
-           y="558.9375"
-           x="125.02177"
-           id="tspan9105"
-           sodipodi:role="line">Атаки на поточные шифры (Stream cipher attacks)</tspan></text>
-    </a>
-    <a
-       id="a9113"
-       xlink:href="https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D1%88%D0%B8%D1%84%D1%80">
-      <text
-         id="text8902"
-         y="638.9375"
-         x="125.02177"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           id="tspan9111"
-           sodipodi:role="line"
-           x="125.02177"
-           y="638.9375">Атаки на блочные шифры (Symmetric block cipher attacks)</tspan></text>
-    </a>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect8906"
-       width="20"
-       height="20"
-       x="-398.90891"
-       y="492.04608"
-       ry="0"
-       transform="rotate(-45)" />
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect8908"
-       width="20"
-       height="20"
-       x="-116.06602"
-       y="209.20311"
-       ry="0"
-       transform="rotate(-45)" />
-    <a
-       transform="translate(7.77568,-151.06251)"
-       id="a8914"
-       style="display:inline;fill:#800080"
-       xlink:href="https://ru.wikipedia.org/wiki/%D0%90%D1%82%D0%B0%D0%BA%D0%B0_%D0%BD%D0%B0_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B5_%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85_%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2">
-      <text
-         id="text8912"
-         y="390"
-         x="117.24609"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan9091"
-           x="117.24609"
-           y="390">Атака на основе открытых текстов (Known-plaintext attack)</tspan></text>
-    </a>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="548.61456"
-       x="-455.47742"
-       height="20"
-       width="20"
-       id="rect8934"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <a
-       style="display:inline;fill:#800080"
-       id="a8940"
-       transform="translate(7.77568,328.93749)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         x="117.24609"
-         y="390"
-         id="text8938"><tspan
-           sodipodi:role="line"
-           id="tspan8942"
-           x="117.24609"
-           y="390">и др.</tspan></text>
-    </a>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="g9006"
-     inkscape:label="Парольные атаки"
-     style="display:none">
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect8944"
-       width="20"
-       height="20"
-       x="-59.497475"
-       y="152.63457"
-       ry="0"
-       transform="rotate(-45)" />
-    <a
-       transform="translate(7.77568,-231.06251)"
-       id="a8950"
-       style="display:inline;fill:#800080"
-       xlink:href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%B1%D0%BE%D1%80_%D0%BF%D0%BE_%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8E" />
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="265.77173"
-       x="-172.6346"
-       height="20"
-       width="20"
-       id="rect8968"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <a
-       style="display:inline;fill:#800080"
-       id="a8974"
-       transform="translate(7.77568,-71.06251)"
-       xlink:href="https://ru.wikipedia.org/wiki/%D0%90%D1%82%D0%B0%D0%BA%D0%B0_%C2%AB%D0%B4%D0%BD%D0%B5%D0%B9_%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%C2%BB">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         x="117.24609"
-         y="390"
-         id="text8972"><tspan
-           sodipodi:role="line"
-           id="tspan9016"
-           x="117.24609"
-           y="390">Атаки на парольные хэши</tspan></text>
-    </a>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect8976"
-       width="20"
-       height="20"
-       x="-229.20316"
-       y="322.3403"
-       ry="0"
-       transform="rotate(-45)" />
-    <a
-       id="a9162"
-       xlink:href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D0%B9%D0%BB%D0%BE%D0%B3%D0%B5%D1%80"
-       transform="translate(0,-80)">
-      <text
-         id="text8980"
-         y="478.9375"
-         x="125.02177"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="478.9375"
-           x="125.02177"
-           id="tspan8978"
-           sodipodi:role="line">Сниффинг</tspan></text>
-    </a>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="378.90891"
-       x="-285.77173"
-       height="20"
-       width="20"
-       id="rect8988"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="209.20311"
-       x="-116.06602"
-       height="20"
-       width="20"
-       id="rect8990"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <a
-       style="display:inline;fill:#800080"
-       id="a8996"
-       transform="translate(7.77568,-151.06251)"
-       xlink:href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%B1%D0%BE%D1%80">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         x="117.24609"
-         y="390"
-         id="text8994"><tspan
-           sodipodi:role="line"
-           id="tspan9125"
-           x="117.24609"
-           y="390">Атака &quot;грубой силы&quot; (Brute force)</tspan></text>
-    </a>
-    <a
-       transform="translate(7.77568,88.93749)"
-       id="a9004"
-       style="display:inline;fill:#800080">
-      <text
-         id="text9002"
-         y="390"
-         x="117.24609"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="390"
-           x="117.24609"
-           id="tspan9000"
-           sodipodi:role="line">и др.</tspan></text>
-    </a>
-    <a
-       transform="translate(7.77568,-231.06251)"
-       id="a9152"
-       style="display:inline;fill:#800080"
-       xlink:href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%B1%D0%BE%D1%80_%D0%BF%D0%BE_%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8E">
-      <text
-         id="text9150"
-         y="390"
-         x="117.24609"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan9154"
-           x="117.24609"
-           y="390">Атака по словарю (Dictionary attack)</tspan></text>
-    </a>
-  </g>
-  <g
-     style="display:none"
-     inkscape:label="Атаки отказа в обслуживании"
-     id="g9074"
-     inkscape:groupmode="layer">
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="152.63457"
-       x="-59.497475"
-       height="20"
-       width="20"
-       id="rect9020"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <a
-       style="display:inline;fill:#800080"
-       id="a9026"
-       transform="translate(7.77568,-231.06251)"
-       xlink:href="https://ru.wikipedia.org/wiki/DoS-%D0%B0%D1%82%D0%B0%D0%BA%D0%B0">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         x="117.24609"
-         y="390"
-         id="text9024"><tspan
-           sodipodi:role="line"
-           id="tspan9117"
-           x="117.24609"
-           y="390">Отказ в обслуживании (Denial of Service, DoS)</tspan></text>
-    </a>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect9028"
-       width="20"
-       height="20"
-       x="-229.20311"
-       y="322.34027"
-       ry="0"
-       transform="rotate(-45)" />
-    <a
-       transform="translate(7.77568,8.93749)"
-       id="a9034"
-       style="display:inline;fill:#800080"
-       xlink:href="https://ru.wikipedia.org/wiki/DoS-%D0%B0%D1%82%D0%B0%D0%BA%D0%B0#%D0%9D%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%BE%D0%BA_%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D0%BE%D0%B2">
-      <text
-         id="text9032"
-         y="390"
-         x="117.24609"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan9179"
-           x="117.24609"
-           y="390">Недостаток ресурсов</tspan></text>
-    </a>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect9036"
-       width="20"
-       height="20"
-       x="-172.6346"
-       y="265.77173"
-       ry="0"
-       transform="rotate(-45)" />
-    <a
-       transform="translate(7.77568,-71.06251)"
-       id="a9042"
-       style="display:inline;fill:#800080"
-       xlink:href="https://ru.wikipedia.org/wiki/DoS-%D0%B0%D1%82%D0%B0%D0%BA%D0%B0#%D0%9D%D0%B0%D1%81%D1%8B%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE%D0%BB%D0%BE%D1%81%D1%8B_%D0%BF%D1%80%D0%BE%D0%BF%D1%83%D1%81%D0%BA%D0%B0%D0%BD%D0%B8%D1%8F">
-      <text
-         id="text9040"
-         y="390"
-         x="117.24609"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan9177"
-           x="117.24609"
-           y="390">Насыщение полосы пропускания</tspan></text>
-    </a>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="378.90891"
-       x="-285.77173"
-       height="20"
-       width="20"
-       id="rect9044"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <a
-       id="a9187"
-       xlink:href="https://ru.wikipedia.org/wiki/DoS-%D0%B0%D1%82%D0%B0%D0%BA%D0%B0#%D0%9C%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D0%B8_%D0%B0%D1%82%D0%B0%D0%BA%D0%B8_DNS">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         x="125.02177"
-         y="478.9375"
-         id="text9048"><tspan
-           sodipodi:role="line"
-           id="tspan9181"
-           x="125.02177"
-           y="478.9375">Маршрутизация и атаки DNS</tspan></text>
-    </a>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect9058"
-       width="20"
-       height="20"
-       x="-116.06602"
-       y="209.20311"
-       ry="0"
-       transform="rotate(-45)" />
-    <a
-       transform="translate(7.77568,-151.06251)"
-       id="a9064"
-       style="display:inline;fill:#800080"
-       xlink:href="https://ru.wikipedia.org/wiki/DoS-%D0%B0%D1%82%D0%B0%D0%BA%D0%B0#%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_DoS-%D0%B0%D1%82%D0%B0%D0%BA%D0%B0">
-      <text
-         id="text9062"
-         y="390"
-         x="117.24609"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan9166"
-           x="117.24609"
-           y="390">Распределённый отказ в обслуживании (Distributed Denial of Service, DDoS)</tspan></text>
-    </a>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="435.47739"
-       x="-342.34024"
-       height="20"
-       width="20"
-       id="rect9066"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <a
-       style="display:inline;fill:#800080"
-       id="a9072"
-       transform="translate(7.77568,168.93749)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         x="117.24609"
-         y="390"
-         id="text9070"><tspan
-           sodipodi:role="line"
-           id="tspan9068"
-           x="117.24609"
-           y="390">и др.</tspan></text>
-    </a>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="g9245"
-     inkscape:label="Атаки на программный код и приложения"
-     style="display:none">
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect9197"
-       width="20"
-       height="20"
-       x="-59.497475"
-       y="152.63457"
-       ry="0"
-       transform="rotate(-45)" />
-    <a
-       xlink:href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B1%D1%83%D1%84%D0%B5%D1%80%D0%B0"
-       transform="translate(7.77568,-231.06251)"
-       id="a9203"
-       style="display:inline;fill:#800080">
-      <text
-         id="text9201"
-         y="390"
-         x="117.24609"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan9397"
-           x="117.24609"
-           y="390">Переполнение буфера (Buffer Overflow) </tspan></text>
-    </a>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="265.77173"
-       x="-172.6346"
-       height="20"
-       width="20"
-       id="rect9213"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <a
-       xlink:href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B6%D1%81%D0%B0%D0%B9%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%B8%D0%BD%D0%B3"
-       style="display:inline;fill:#800080"
-       id="a9219"
-       transform="translate(7.77568,-71.06251)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         x="117.24609"
-         y="390"
-         id="text9217"><tspan
-           sodipodi:role="line"
-           id="tspan9401"
-           x="117.24609"
-           y="390">Межсайтовое исполнение сценариев (Cross-Site Scripting, XSS)</tspan></text>
-    </a>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect9221"
-       width="20"
-       height="20"
-       x="-229.20316"
-       y="322.34033"
-       ry="0"
-       transform="rotate(-45)" />
-    <a
-       xlink:href="https://ru.wikipedia.org/wiki/%D0%92%D0%BD%D0%B5%D0%B4%D1%80%D0%B5%D0%BD%D0%B8%D0%B5_SQL-%D0%BA%D0%BE%D0%B4%D0%B0"
-       id="a9227"
-       transform="translate(0,-80)">
-      <text
-         id="text9225"
-         y="478.9375"
-         x="125.02177"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan9399"
-           x="125.02177"
-           y="478.9375">Внедрение SQL-кода (SQL injection)</tspan></text>
-    </a>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="209.20311"
-       x="-116.06602"
-       height="20"
-       width="20"
-       id="rect9229"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <a
-       xlink:href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B6%D1%81%D0%B0%D0%B9%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D0%BB%D0%BA%D0%B0_%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D0%B0"
-       style="display:inline;fill:#800080"
-       id="a9235"
-       transform="translate(7.77568,-151.06251)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         x="117.24609"
-         y="390"
-         id="text9233"><tspan
-           sodipodi:role="line"
-           id="tspan9409"
-           x="117.24609"
-           y="390">Межсайтовая подделка запроса (Сross Site Request Forgery, CSRF)</tspan></text>
-    </a>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect9237"
-       width="20"
-       height="20"
-       x="-285.77167"
-       y="378.90881"
-       ry="0"
-       transform="rotate(-45)" />
-    <a
-       transform="translate(7.77568,88.93749)"
-       id="a9243"
-       style="display:inline;fill:#800080">
-      <text
-         id="text9241"
-         y="390"
-         x="117.24609"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="390"
-           x="117.24609"
-           id="tspan9239"
-           sodipodi:role="line">и др.</tspan></text>
-    </a>
-  </g>
-  <g
-     style="display:none"
-     inkscape:label="Социальная инженерия и физические атаки"
-     id="g9295"
-     inkscape:groupmode="layer">
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="152.63457"
-       x="-59.497475"
-       height="20"
-       width="20"
-       id="rect9247"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <a
-       style="fill:#800080"
-       xlink:href="https://ru.wikipedia.org/wiki/ILOVEYOU"
-       id="a9411"
-       transform="translate(7.77568,-71.06251)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         x="117.24609"
-         y="390"
-         id="text9251"><tspan
-           sodipodi:role="line"
-           id="tspan9249"
-           x="117.24609"
-           y="390">Атаки через электронную почту</tspan></text>
-    </a>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect9255"
-       width="20"
-       height="20"
-       x="-229.20311"
-       y="322.34027"
-       ry="0"
-       transform="rotate(-45)" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-       x="125.02177"
-       y="398.9375"
-       id="text9259"><tspan
-         y="398.9375"
-         x="125.02177"
-         id="tspan9257"
-         sodipodi:role="line">Атаки через телефон</tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect9263"
-       width="20"
-       height="20"
-       x="-172.6346"
-       y="265.77173"
-       ry="0"
-       transform="rotate(-45)" />
-    <a
-       transform="translate(7.77568,-151.06251)"
-       id="a9269"
-       style="display:inline;fill:#800080"
-       xlink:href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F#%D0%A1%D0%B1%D0%BE%D1%80_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%B8_%D0%B8%D0%B7_%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D1%85_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2">
-      <text
-         id="text9267"
-         y="390"
-         x="117.24609"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan9265"
-           x="117.24609"
-           y="390">Сбор информации из открытых источников</tspan></text>
-    </a>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="378.90891"
-       x="-285.77173"
-       height="20"
-       width="20"
-       id="rect9271"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <text
-       id="text9275"
-       y="478.9375"
-       x="125.02177"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan9432"
-         y="478.9375"
-         x="125.02177"
-         sodipodi:role="line">Атаки через службы обмена сообщениями</tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect9279"
-       width="20"
-       height="20"
-       x="-116.06602"
-       y="209.20311"
-       ry="0"
-       transform="rotate(-45)" />
-    <a
-       transform="translate(7.77568,-231.06251)"
-       id="a9285"
-       style="display:inline;fill:#800080"
-       xlink:href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F#%D0%A4%D0%B8%D1%88%D0%B8%D0%BD%D0%B3">
-      <text
-         id="text9283"
-         y="390"
-         x="117.24609"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan9281"
-           x="117.24609"
-           y="390">Фишинг</tspan></text>
-    </a>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="435.47739"
-       x="-342.34024"
-       height="20"
-       width="20"
-       id="rect9287"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <a
-       style="display:inline;fill:#800080"
-       id="a9293"
-       transform="translate(7.77568,168.93749)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         x="117.24609"
-         y="390"
-         id="text9291"><tspan
-           sodipodi:role="line"
-           id="tspan9289"
-           x="117.24609"
-           y="390">Незаконное проникновение</tspan></text>
-    </a>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect2807"
-       width="20"
-       height="20"
-       x="-398.90884"
-       y="492.04599"
-       ry="0"
-       transform="rotate(-45)" />
-    <a
-       transform="translate(7.77568,248.93749)"
-       id="a2813"
-       style="display:inline;fill:#800080">
-      <text
-         id="text2811"
-         y="390"
-         x="117.24609"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="390"
-           x="117.24609"
-           id="tspan2809"
-           sodipodi:role="line">и др.</tspan></text>
-    </a>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="g9345"
-     inkscape:label="Сетевые атаки"
-     style="display:none">
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect9297"
-       width="20"
-       height="20"
-       x="-59.497475"
-       y="152.63457"
-       ry="0"
-       transform="rotate(-45)" />
-    <a
-       xlink:href="https://ru.wikipedia.org/wiki/APT"
-       transform="translate(7.77568,-231.06251)"
-       id="a9303"
-       style="display:inline;fill:#800080">
-      <text
-         id="text9301"
-         y="390"
-         x="117.24609"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="390"
-           x="117.24609"
-           id="tspan9299"
-           sodipodi:role="line">Целенаправленные итерационные атаки (Аdvanced Persistent Threat, APT)</tspan></text>
-    </a>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="322.34027"
-       x="-229.20311"
-       height="20"
-       width="20"
-       id="rect9305"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <a
-       xlink:href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D1%83%D1%84%D0%B8%D0%BD%D0%B3"
-       style="display:inline;fill:#800080"
-       id="a9311"
-       transform="translate(7.77568,8.93749)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         x="117.24609"
-         y="390"
-         id="text9309"><tspan
-           y="390"
-           x="117.24609"
-           id="tspan9307"
-           sodipodi:role="line">Атаки с подменой адреса (Spoofing attacks)</tspan></text>
-    </a>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="265.77173"
-       x="-172.6346"
-       height="20"
-       width="20"
-       id="rect9313"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <a
-       xlink:href="https://ru.wikipedia.org/wiki/%D0%90%D1%82%D0%B0%D0%BA%D0%B0_%D0%BF%D0%BE%D0%B2%D1%82%D0%BE%D1%80%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B2%D0%BE%D1%81%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F"
-       style="display:inline;fill:#800080"
-       id="a9319"
-       transform="translate(7.77568,-71.06251)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         x="117.24609"
-         y="390"
-         id="text9317"><tspan
-           y="390"
-           x="117.24609"
-           id="tspan9315"
-           sodipodi:role="line">Атака повторного воспроизведения (Replay Attack)</tspan></text>
-    </a>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect9321"
-       width="20"
-       height="20"
-       x="-285.77173"
-       y="378.90891"
-       ry="0"
-       transform="rotate(-45)" />
-    <a
-       xlink:href="https://ru.wikipedia.org/wiki/%D0%A3%D1%8F%D0%B7%D0%B2%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C_%D0%BD%D1%83%D0%BB%D0%B5%D0%B2%D0%BE%D0%B3%D0%BE_%D0%B4%D0%BD%D1%8F"
-       id="a9327">
-      <text
-         id="text9325"
-         y="478.9375"
-         x="125.02177"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="478.9375"
-           x="125.02177"
-           id="tspan9323"
-           sodipodi:role="line">Атаки нулевого дня (Zero day attack)</tspan></text>
-    </a>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="209.20311"
-       x="-116.06602"
-       height="20"
-       width="20"
-       id="rect9329"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <a
-       xlink:href="https://ru.wikipedia.org/wiki/%D0%90%D1%82%D0%B0%D0%BA%D0%B0_%D0%BF%D0%BE%D1%81%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA%D0%B0"
-       style="display:inline;fill:#800080"
-       id="a9335"
-       transform="translate(7.77568,-151.06251)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         x="117.24609"
-         y="390"
-         id="text9333"><tspan
-           y="390"
-           x="117.24609"
-           id="tspan9331"
-           sodipodi:role="line">Человек посередине (Man In The Middle, MITM)</tspan></text>
-    </a>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect9337"
-       width="20"
-       height="20"
-       x="-342.34024"
-       y="435.47739"
-       ry="0"
-       transform="rotate(-45)" />
-    <a
-       transform="translate(7.77568,168.93749)"
-       id="a9343"
-       style="display:inline;fill:#800080">
-      <text
-         id="text9341"
-         y="390"
-         x="117.24609"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="390"
-           x="117.24609"
-           id="tspan9339"
-           sodipodi:role="line">и др.</tspan></text>
     </a>
   </g>
   <g
