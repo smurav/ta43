@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.56864518"
-     inkscape:cx="860.31396"
-     inkscape:cy="595.73865"
+     inkscape:zoom="0.26905136"
+     inkscape:cx="1293.0127"
+     inkscape:cy="485.95212"
      inkscape:document-units="px"
-     inkscape:current-layer="g15770"
+     inkscape:current-layer="g11064"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1137"
@@ -13526,12 +13526,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/ib_stat_19_21.png"
        xlink:href="img/ib_stat_19_21.png"
-       width="1490.6667"
-       height="626.66669"
-       preserveAspectRatio="none"
-       id="image15222"
+       y="123.33331"
        x="69.333252"
-       y="123.33331" />
+       id="image15222"
+       preserveAspectRatio="none"
+       height="626.66669"
+       width="1490.6667" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -13573,12 +13573,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/attacks_person_21.png"
        xlink:href="img/attacks_person_21.png"
-       width="1134.6667"
-       height="632"
-       preserveAspectRatio="none"
-       id="image15668"
+       y="118"
        x="232.66663"
-       y="118" />
+       id="image15668"
+       preserveAspectRatio="none"
+       height="632"
+       width="1134.6667" />
   </g>
   <g
      style="display:none"
@@ -13620,12 +13620,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/attacks_org_21.png"
        xlink:href="img/attacks_org_21.png"
-       width="1196"
-       height="632"
-       preserveAspectRatio="none"
-       id="image15733"
+       y="118"
        x="202"
-       y="118" />
+       id="image15733"
+       preserveAspectRatio="none"
+       height="632"
+       width="1196" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -13667,12 +13667,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/attacks_cat_org_21.png"
        xlink:href="img/attacks_cat_org_21.png"
-       width="1085.3333"
-       height="598.66669"
-       preserveAspectRatio="none"
-       id="image15814"
+       y="130"
        x="257.33337"
-       y="130" />
+       id="image15814"
+       preserveAspectRatio="none"
+       height="598.66669"
+       width="1085.3333" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -26862,13 +26862,13 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/path_traversal_passwd.png"
        xlink:href="img/path_traversal_passwd.png"
-       style="display:inline"
-       y="207.40698"
-       x="142.47321"
-       id="image11072"
-       preserveAspectRatio="none"
+       width="1321"
        height="590"
-       width="1321" />
+       preserveAspectRatio="none"
+       id="image11072"
+       x="142.47321"
+       y="207.40698"
+       style="display:inline" />
   </g>
   <g
      style="display:none"
@@ -27080,23 +27080,23 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/stored_XSS.png"
        xlink:href="img/stored_XSS.png"
-       style="display:inline"
-       width="898"
-       height="519"
-       preserveAspectRatio="none"
-       id="image6749"
+       y="131.62393"
        x="44.796646"
-       y="131.62393" />
+       id="image6749"
+       preserveAspectRatio="none"
+       height="519"
+       width="898"
+       style="display:inline" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/stored_XSS_cookie.png"
        xlink:href="img/stored_XSS_cookie.png"
-       style="display:inline"
-       width="447"
-       height="175"
-       preserveAspectRatio="none"
-       id="image6779"
+       y="211.62393"
        x="977.79657"
-       y="211.62393" />
+       id="image6779"
+       preserveAspectRatio="none"
+       height="175"
+       width="447"
+       style="display:inline" />
     <a
        style="display:inline"
        xlink:href="https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/?utm_source=addons.mozilla.org&amp;utm_medium=referral&amp;utm_content=search"
@@ -27140,23 +27140,23 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/reflected_XSS.png"
        xlink:href="img/reflected_XSS.png"
-       style="display:inline"
-       width="886"
-       height="509"
-       preserveAspectRatio="none"
-       id="image6878"
+       y="130.2402"
        x="56.25185"
-       y="130.2402" />
+       id="image6878"
+       preserveAspectRatio="none"
+       height="509"
+       width="886"
+       style="display:inline" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/reflected_XSS_alert.png"
        xlink:href="img/reflected_XSS_alert.png"
-       style="display:inline"
-       width="288"
-       height="173"
-       preserveAspectRatio="none"
-       id="image6908"
+       y="290.2402"
        x="1196.252"
-       y="290.2402" />
+       id="image6908"
+       preserveAspectRatio="none"
+       height="173"
+       width="288"
+       style="display:inline" />
     <path
        style="display:inline;fill:none;stroke:#ff0000;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0999999;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-8);paint-order:stroke fill markers"
        d="M 636.25185,390.2402 H 1166.2519"
@@ -27193,13 +27193,13 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/SQL_select.png"
        xlink:href="img/SQL_select.png"
-       style="display:inline"
-       y="498"
-       x="79.999939"
-       id="image10564"
-       preserveAspectRatio="none"
+       width="891"
        height="277"
-       width="891" />
+       preserveAspectRatio="none"
+       id="image10564"
+       x="79.999939"
+       y="498"
+       style="display:inline" />
     <rect
        style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77952671;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
        id="rect10567"
@@ -27345,6 +27345,118 @@
          x="78.152931"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">%' or 0=0 UNION SELECT null, table_name from information_schema.tables #</tspan></text>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="Управление сессиями"
+     id="g11064"
+     inkscape:groupmode="layer">
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="320.99884"
+       x="-228.2688"
+       height="20"
+       width="20"
+       id="rect11468"
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text11472"
+       y="236.77283"
+       x="117.25688"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:32px;line-height:1;font-family:sans-serif"
+         sodipodi:role="line"
+         x="117.25688"
+         y="236.77283"
+         id="tspan11470">Создание уникальных токенов сессий</tspan></text>
+    <text
+       id="text11478"
+       y="397.21896"
+       x="117.25688"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         x="117.25688"
+         y="397.21896"
+         id="tspan11474-2">Сохранение токенов сессий</tspan><tspan
+         id="tspan11476"
+         sodipodi:role="line"
+         x="117.25688"
+         y="429.21896" /></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="207.46332"
+       x="-114.73337"
+       height="20"
+       width="20"
+       id="rect11480"
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <rect
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect11486"
+       width="20"
+       height="20"
+       x="-285.23572"
+       y="377.96576"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+       x="117.25688"
+       y="158.46365"
+       id="text11490"><tspan
+         id="tspan11488"
+         y="158.46365"
+         x="117.25688"
+         sodipodi:role="line"
+         style="font-size:32px;line-height:1;font-family:sans-serif">Начало сессий</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+       x="117.25688"
+       y="477.78232"
+       id="text11496-5"><tspan
+         y="477.78232"
+         x="117.25688"
+         sodipodi:role="line"
+         id="tspan11492-4">Завершение сессий</tspan><tspan
+         y="509.78232"
+         x="117.25688"
+         sodipodi:role="line"
+         id="tspan11494-7" /></text>
+    <rect
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect11500"
+       width="20"
+       height="20"
+       x="-59.758049"
+       y="152.48801"
+       ry="0"
+       transform="rotate(-45)" />
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="265.22687"
+       x="-172.4969"
+       height="20"
+       width="20"
+       id="rect11506"
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+       x="117.25688"
+       y="318.34555"
+       id="text11512"><tspan
+         id="tspan11510"
+         y="318.34555"
+         x="117.25688"
+         sodipodi:role="line"
+         style="font-size:32px;line-height:1;font-family:sans-serif">Управление токенами сессий</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
