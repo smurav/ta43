@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.26905136"
-     inkscape:cx="1293.0127"
+     inkscape:zoom="1.0184014"
+     inkscape:cx="544.67104"
      inkscape:cy="485.95212"
      inkscape:document-units="px"
-     inkscape:current-layer="g11064"
+     inkscape:current-layer="layer13"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1137"
@@ -13526,12 +13526,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/ib_stat_19_21.png"
        xlink:href="img/ib_stat_19_21.png"
-       y="123.33331"
-       x="69.333252"
-       id="image15222"
-       preserveAspectRatio="none"
+       width="1490.6667"
        height="626.66669"
-       width="1490.6667" />
+       preserveAspectRatio="none"
+       id="image15222"
+       x="69.333252"
+       y="123.33331" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -13573,12 +13573,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/attacks_person_21.png"
        xlink:href="img/attacks_person_21.png"
-       y="118"
-       x="232.66663"
-       id="image15668"
-       preserveAspectRatio="none"
+       width="1134.6667"
        height="632"
-       width="1134.6667" />
+       preserveAspectRatio="none"
+       id="image15668"
+       x="232.66663"
+       y="118" />
   </g>
   <g
      style="display:none"
@@ -13620,12 +13620,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/attacks_org_21.png"
        xlink:href="img/attacks_org_21.png"
-       y="118"
-       x="202"
-       id="image15733"
-       preserveAspectRatio="none"
+       width="1196"
        height="632"
-       width="1196" />
+       preserveAspectRatio="none"
+       id="image15733"
+       x="202"
+       y="118" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -13667,12 +13667,12 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/attacks_cat_org_21.png"
        xlink:href="img/attacks_cat_org_21.png"
-       y="130"
-       x="257.33337"
-       id="image15814"
-       preserveAspectRatio="none"
+       width="1085.3333"
        height="598.66669"
-       width="1085.3333" />
+       preserveAspectRatio="none"
+       id="image15814"
+       x="257.33337"
+       y="130" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -26862,13 +26862,13 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/path_traversal_passwd.png"
        xlink:href="img/path_traversal_passwd.png"
-       width="1321"
-       height="590"
-       preserveAspectRatio="none"
-       id="image11072"
-       x="142.47321"
+       style="display:inline"
        y="207.40698"
-       style="display:inline" />
+       x="142.47321"
+       id="image11072"
+       preserveAspectRatio="none"
+       height="590"
+       width="1321" />
   </g>
   <g
      style="display:none"
@@ -27080,23 +27080,23 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/stored_XSS.png"
        xlink:href="img/stored_XSS.png"
-       y="131.62393"
-       x="44.796646"
-       id="image6749"
-       preserveAspectRatio="none"
-       height="519"
+       style="display:inline"
        width="898"
-       style="display:inline" />
+       height="519"
+       preserveAspectRatio="none"
+       id="image6749"
+       x="44.796646"
+       y="131.62393" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/stored_XSS_cookie.png"
        xlink:href="img/stored_XSS_cookie.png"
-       y="211.62393"
-       x="977.79657"
-       id="image6779"
-       preserveAspectRatio="none"
-       height="175"
+       style="display:inline"
        width="447"
-       style="display:inline" />
+       height="175"
+       preserveAspectRatio="none"
+       id="image6779"
+       x="977.79657"
+       y="211.62393" />
     <a
        style="display:inline"
        xlink:href="https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/?utm_source=addons.mozilla.org&amp;utm_medium=referral&amp;utm_content=search"
@@ -27140,23 +27140,23 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/reflected_XSS.png"
        xlink:href="img/reflected_XSS.png"
-       y="130.2402"
-       x="56.25185"
-       id="image6878"
-       preserveAspectRatio="none"
-       height="509"
+       style="display:inline"
        width="886"
-       style="display:inline" />
+       height="509"
+       preserveAspectRatio="none"
+       id="image6878"
+       x="56.25185"
+       y="130.2402" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/reflected_XSS_alert.png"
        xlink:href="img/reflected_XSS_alert.png"
-       y="290.2402"
-       x="1196.252"
-       id="image6908"
-       preserveAspectRatio="none"
-       height="173"
+       style="display:inline"
        width="288"
-       style="display:inline" />
+       height="173"
+       preserveAspectRatio="none"
+       id="image6908"
+       x="1196.252"
+       y="290.2402" />
     <path
        style="display:inline;fill:none;stroke:#ff0000;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0999999;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-8);paint-order:stroke fill markers"
        d="M 636.25185,390.2402 H 1166.2519"
@@ -27193,13 +27193,13 @@
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/SQL_select.png"
        xlink:href="img/SQL_select.png"
-       width="891"
-       height="277"
-       preserveAspectRatio="none"
-       id="image10564"
-       x="79.999939"
+       style="display:inline"
        y="498"
-       style="display:inline" />
+       x="79.999939"
+       id="image10564"
+       preserveAspectRatio="none"
+       height="277"
+       width="891" />
     <rect
        style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77952671;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
        id="rect10567"
@@ -32586,22 +32586,19 @@
            style="font-size:40px;line-height:2;font-family:sans-serif">smurav@mail.ru </tspan></text>
     </a>
     <a
-       xlink:href="https://smurav.github.io/ta43/pk21"
-       id="a4364">
-      <a
-         id="a7754">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       id="a7754"
+       xlink:href="https://smurav.github.io/ta43/pk21">
+      <text
+         id="text4358"
+         y="790"
+         x="80"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan4362"
+           sodipodi:role="line"
            x="80"
            y="790"
-           id="text4358"><tspan
-             style="font-size:40px;line-height:2;font-family:sans-serif"
-             y="790"
-             x="80"
-             sodipodi:role="line"
-             id="tspan4362">https://smurav.github.io/ta43/pk21</tspan></text>
-      </a>
+           style="font-size:40px;line-height:2;font-family:sans-serif">https://smurav.github.io/ta43/pk21</tspan></text>
     </a>
   </g>
   <ns1:mousehandler
