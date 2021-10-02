@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.4035395"
-     inkscape:cx="580.40028"
-     inkscape:cy="-172.5326"
+     inkscape:zoom="0.54003868"
+     inkscape:cx="880.98648"
+     inkscape:cy="107.25508"
      inkscape:document-units="px"
-     inkscape:current-layer="g11224"
+     inkscape:current-layer="g11522"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1137"
@@ -11112,21 +11112,21 @@
          id="flowPara10736" /></flowRoot>    <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/bWAPP.png"
        xlink:href="img/bWAPP.png"
-       y="230"
-       x="80"
-       id="image10795"
-       preserveAspectRatio="none"
+       width="701"
        height="556"
-       width="701" />
+       preserveAspectRatio="none"
+       id="image10795"
+       x="80"
+       y="230" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/bee_bug.png"
        xlink:href="img/bee_bug.png"
-       y="230"
-       x="820"
-       id="image10825"
-       preserveAspectRatio="none"
+       width="703"
        height="558"
-       width="703" />
+       preserveAspectRatio="none"
+       id="image10825"
+       x="820"
+       y="230" />
   </g>
   <g
      style="display:none"
@@ -11177,21 +11177,21 @@
          id="flowPara10994" /></flowRoot>    <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/path_traversal.png"
        xlink:href="img/path_traversal.png"
-       width="1088"
-       height="478"
-       preserveAspectRatio="none"
-       id="image10998"
+       y="310"
        x="60"
-       y="310" />
+       id="image10998"
+       preserveAspectRatio="none"
+       height="478"
+       width="1088" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/path_traversal_message.png"
        xlink:href="img/path_traversal_message.png"
-       width="1090"
-       height="305"
-       preserveAspectRatio="none"
-       id="image11000"
+       y="510"
        x="460"
-       y="510" />
+       id="image11000"
+       preserveAspectRatio="none"
+       height="305"
+       width="1090" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -11232,12 +11232,12 @@
          id="flowPara10840" /></flowRoot>    <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/path_traversal_passwd.png"
        xlink:href="img/path_traversal_passwd.png"
-       y="220"
-       x="139.5"
-       id="image11072"
-       preserveAspectRatio="none"
+       width="1321"
        height="590"
-       width="1321" />
+       preserveAspectRatio="none"
+       id="image11072"
+       x="139.5"
+       y="220" />
   </g>
   <g
      style="display:none"
@@ -13280,21 +13280,21 @@
          id="flowPara18690" /></flowRoot>    <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/webgoat.png"
        xlink:href="img/webgoat.png"
-       y="230"
-       x="80"
-       id="image18821"
-       preserveAspectRatio="none"
+       width="700"
        height="560"
-       width="700" />
+       preserveAspectRatio="none"
+       id="image18821"
+       x="80"
+       y="230" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/startwebgoat.png"
        xlink:href="img/startwebgoat.png"
-       y="232"
-       x="821"
-       id="image18851"
-       preserveAspectRatio="none"
+       width="699"
        height="558"
-       width="699" />
+       preserveAspectRatio="none"
+       id="image18851"
+       x="821"
+       y="232" />
   </g>
   <g
      style="display:none"
@@ -13335,12 +13335,12 @@
          id="flowPara18866" /></flowRoot>    <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/session_fixation_1.png"
        xlink:href="img/session_fixation_1.png"
-       y="253"
-       x="280"
-       id="image18989"
-       preserveAspectRatio="none"
+       width="1084"
        height="497"
-       width="1084" />
+       preserveAspectRatio="none"
+       id="image18989"
+       x="280"
+       y="253" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -13381,21 +13381,21 @@
          id="flowPara18922" /></flowRoot>    <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/session_fixation_2.png"
        xlink:href="img/session_fixation_2.png"
-       y="225"
-       x="44"
-       id="image19019"
-       preserveAspectRatio="none"
+       width="775.82343"
        height="560"
-       width="775.82343" />
+       preserveAspectRatio="none"
+       id="image19019"
+       x="44"
+       y="225" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/session_fixation_2_2.png"
        xlink:href="img/session_fixation_2_2.png"
-       y="220"
-       x="840"
-       id="image19049"
-       preserveAspectRatio="none"
+       width="719.74579"
        height="570"
-       width="719.74579" />
+       preserveAspectRatio="none"
+       id="image19049"
+       x="840"
+       y="220" />
   </g>
   <g
      style="display:none"
@@ -13436,21 +13436,21 @@
          id="flowPara19066" /></flowRoot>    <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/session_fixation_3_1.png"
        xlink:href="img/session_fixation_3_1.png"
-       y="250"
-       x="119"
-       id="image19107"
-       preserveAspectRatio="none"
+       width="581"
        height="427"
-       width="581" />
+       preserveAspectRatio="none"
+       id="image19107"
+       x="119"
+       y="250" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/session_fixation_3_2.png"
        xlink:href="img/session_fixation_3_2.png"
-       y="250"
-       x="920"
-       id="image19137"
-       preserveAspectRatio="none"
+       width="503"
        height="450"
-       width="503" />
+       preserveAspectRatio="none"
+       id="image19137"
+       x="920"
+       y="250" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -14401,21 +14401,21 @@
          id="flowPara23616" /></flowRoot>    <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/dvwa_select.png"
        xlink:href="img/dvwa_select.png"
-       y="230"
-       x="120"
-       id="image23681"
-       preserveAspectRatio="none"
+       width="672"
        height="570"
-       width="672" />
+       preserveAspectRatio="none"
+       id="image23681"
+       x="120"
+       y="230" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/dvwa_login_2.png"
        xlink:href="img/dvwa_login_2.png"
-       y="230"
-       x="848"
-       id="image23711"
-       preserveAspectRatio="none"
+       width="672"
        height="571"
-       width="672" />
+       preserveAspectRatio="none"
+       id="image23711"
+       x="848"
+       y="230" />
   </g>
   <g
      style="display:none"
@@ -14456,21 +14456,21 @@
          id="flowPara23730" /></flowRoot>    <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/dvwa_csrf.png"
        xlink:href="img/dvwa_csrf.png"
-       y="230"
-       x="108"
-       id="image23769"
-       preserveAspectRatio="none"
+       width="672"
        height="573"
-       width="672" />
+       preserveAspectRatio="none"
+       id="image23769"
+       x="108"
+       y="230" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/dvwa_csrf_source.png"
        xlink:href="img/dvwa_csrf_source.png"
-       y="230"
-       x="840"
-       id="image23801"
-       preserveAspectRatio="none"
+       width="673"
        height="573"
-       width="673" />
+       preserveAspectRatio="none"
+       id="image23801"
+       x="840"
+       y="230" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -14511,21 +14511,21 @@
          id="flowPara23816" /></flowRoot>    <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/dvwa_csrf_source.png"
        xlink:href="img/dvwa_csrf_source.png"
-       width="673"
-       height="573"
-       preserveAspectRatio="none"
-       id="image23822"
+       y="230"
        x="80"
-       y="230" />
+       id="image23822"
+       preserveAspectRatio="none"
+       height="573"
+       width="673" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/csrf_source.png"
        xlink:href="img/csrf_source.png"
-       y="230"
-       x="843"
-       id="image23857"
-       preserveAspectRatio="none"
+       width="673"
        height="574"
-       width="673" />
+       preserveAspectRatio="none"
+       id="image23857"
+       x="843"
+       y="230" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -14572,21 +14572,21 @@
          id="flowPara23872" /></flowRoot>    <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/csrf_exec.png"
        xlink:href="img/csrf_exec.png"
-       y="216"
-       x="80"
-       id="image25258"
-       preserveAspectRatio="none"
+       width="672"
        height="572"
-       width="672" />
+       preserveAspectRatio="none"
+       id="image25258"
+       x="80"
+       y="216" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/csrf_result.png"
        xlink:href="img/csrf_result.png"
-       y="214"
-       x="820"
-       id="image25288"
-       preserveAspectRatio="none"
+       width="672"
        height="572"
-       width="672" />
+       preserveAspectRatio="none"
+       id="image25288"
+       x="820"
+       y="214" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -14633,21 +14633,21 @@
          id="flowPara27270" /></flowRoot>    <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/dvwa_logout.png"
        xlink:href="img/dvwa_logout.png"
-       y="230"
-       x="78"
-       id="image27617"
-       preserveAspectRatio="none"
+       width="672"
        height="572"
-       width="672" />
+       preserveAspectRatio="none"
+       id="image27617"
+       x="78"
+       y="230" />
     <image
        sodipodi:absref="/home/sergey/Documents/git/ta43/img/dvwa_login_failed.png"
        xlink:href="img/dvwa_login_failed.png"
-       y="230"
-       x="840"
-       id="image27647"
-       preserveAspectRatio="none"
+       width="672"
        height="573"
-       width="672" />
+       preserveAspectRatio="none"
+       id="image27647"
+       x="840"
+       y="230" />
   </g>
   <g
      style="display:none"
