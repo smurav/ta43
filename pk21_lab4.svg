@@ -10017,7 +10017,7 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="title"
-     style="display:none;opacity:1">
+     style="display:inline;opacity:1">
     <rect
        y="152.36218"
        x="0"
@@ -10135,7 +10135,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="master_slide"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#5f7da9;stroke-opacity:1"
@@ -10331,7 +10331,7 @@
      inkscape:groupmode="layer"
      id="layer20"
      inkscape:label="Парольная атака на OWASP"
-     style="display:inline">
+     style="display:none">
     <rect
        rx="19.999998"
        ry="20"
