@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.85288844"
-     inkscape:cx="770.32349"
+     inkscape:cx="864.12239"
      inkscape:cy="436.1649"
      inkscape:document-units="px"
-     inkscape:current-layer="g10505"
+     inkscape:current-layer="g3338"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1018"
@@ -10351,7 +10351,7 @@
          y="159.50977"
          x="57.441406"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:34.6667px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">hydra -l admin -P /usr/share/john/password.lst 10.0.2.15 -f http-post-form \</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:34.6667px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">hydra -l admin -P /usr/share/john/password.lst 10.0.2.4 -f http-post-form </tspan><tspan
          y="202.24426"
          x="57.441406"
          sodipodi:role="line"
@@ -10414,7 +10414,7 @@
        rx="19.999998" />
     <a
        id="a6864"
-       xlink:href="https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/"
+       xlink:href="http://10.0.2.4/dvwa/vulnerabilities/xss_s/"
        transform="translate(0,-340)">
       <text
          id="text6635"
