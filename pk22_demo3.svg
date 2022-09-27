@@ -6,8 +6,8 @@
    height="900"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="pk22_lab3.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="pk22_demo3.svg"
    enable-background="new"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,15 +26,15 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70238611"
-     inkscape:cx="444.91199"
-     inkscape:cy="385.11582"
+     inkscape:cx="472.6745"
+     inkscape:cy="385.82768"
      inkscape:document-units="px"
-     inkscape:current-layer="a4364"
+     inkscape:current-layer="g10569"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1132"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:window-height="1018"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -6429,7 +6429,7 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="title"
-     style="display:inline">
+     style="display:none">
     <a
        id="a3034">
       <rect
@@ -6532,7 +6532,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#203d85;fill-opacity:1"
          y="617.91815"
          x="798.16016"
-         sodipodi:role="line">лабораторная работа</tspan><tspan
+         sodipodi:role="line">демонстрация</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#203d85;fill-opacity:1"
          y="671.25153"
          x="798.31018"
@@ -6550,7 +6550,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="master_slide"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#5f7da9;stroke-opacity:1"
@@ -6938,149 +6938,6 @@
        transform="rotate(-45)" />
   </g>
   <g
-     inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="Обновление Metasploit Framework"
-     style="display:none">
-    <rect
-       rx="20.000002"
-       ry="20"
-       y="190"
-       x="80"
-       height="80"
-       width="800"
-       id="rect10363"
-       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77953;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
-    <text
-       id="text10367"
-       y="239.93164"
-       x="98.152954"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan10365"
-         y="239.93164"
-         x="98.152954"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">sudo apt-get update</tspan><tspan
-         y="262.49725"
-         x="98.152954"
-         sodipodi:role="line"
-         id="tspan10554" /></text>
-    <text
-       id="text10560"
-       y="161.80609"
-       x="76.641235"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan10558"
-         y="161.80609"
-         x="76.641235"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120%;font-family:sans-serif">Обновление индекса пакетов</tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77953;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect6600"
-       width="800"
-       height="160"
-       x="80"
-       y="370"
-       ry="20"
-       rx="20.000002" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="98.152954"
-       y="419.93164"
-       id="text6606"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="98.152954"
-         y="419.93164"
-         id="tspan6602">sudo apt-get install metasploit-framework</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="98.152954"
-         y="463.13165"
-         id="tspan10347">cd /usr/share/metasploit-framework</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="98.152954"
-         y="506.33163"
-         id="tspan10349">sudo bundle install  </tspan><tspan
-         id="tspan6604"
-         sodipodi:role="line"
-         x="98.152954"
-         y="528.89728" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="76.641235"
-       y="341.80609"
-       id="text6610"><tspan
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="76.641235"
-         y="341.80609"
-         id="tspan6608">Обновление платформы</tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77953;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect10351"
-       width="800"
-       height="80"
-       x="80"
-       y="630"
-       ry="20"
-       rx="20.000002" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="98.152954"
-       y="679.93164"
-       id="text10357"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="98.152954"
-         y="679.93164"
-         id="tspan10353">sudo msfdb run</tspan><tspan
-         sodipodi:role="line"
-         x="98.152954"
-         y="702.49725"
-         id="tspan10518" /><tspan
-         id="tspan10355"
-         sodipodi:role="line"
-         x="98.152954"
-         y="716.89728" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="76.641235"
-       y="601.80609"
-       id="text10362"><tspan
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="76.641235"
-         y="601.80609"
-         id="tspan10359">Запуск базы данных Metasploit</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="1160"
-       y="410"
-       id="text10366"><tspan
-         sodipodi:role="line"
-         id="tspan10364"
-         x="1160"
-         y="410">1</tspan></text>
-    <image
-       xlink:href="img/msfconsole.png"
-       width="625"
-       height="513"
-       preserveAspectRatio="none"
-       id="image10425"
-       x="935"
-       y="190" />
-  </g>
-  <g
      style="display:none"
      inkscape:label="Консольный клиент Metasploit"
      id="g10569"
@@ -7091,113 +6948,35 @@
        width="800"
        height="80"
        x="80"
-       y="170"
+       y="370"
        ry="20"
        rx="20.000002" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        x="98.152954"
-       y="219.93164"
+       y="419.93164"
        id="text10526"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="98.152954"
-         y="219.93164"
+         y="419.93164"
          id="tspan10522">sudo msfconsole</tspan><tspan
          id="tspan10524"
          sodipodi:role="line"
          x="98.152954"
-         y="242.49727" /></text>
+         y="442.49725" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        x="76.641235"
-       y="141.80609"
+       y="341.80609"
        id="text10530"><tspan
          style="font-size:36px;line-height:120%;font-family:sans-serif"
          sodipodi:role="line"
          x="76.641235"
-         y="141.80609"
+         y="341.80609"
          id="tspan10528">Запуск консольного клиента</tspan></text>
-    <text
-       id="text10546"
-       y="321.80609"
-       x="76.641235"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan10544"
-         y="321.80609"
-         x="76.641235"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120%;font-family:sans-serif">Получение справки</tspan></text>
-    <rect
-       rx="20.000002"
-       ry="20"
-       y="530"
-       x="80"
-       height="80"
-       width="800"
-       id="rect10548"
-       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77953;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
-    <text
-       id="text10557"
-       y="579.93164"
-       x="98.152954"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan10550"
-         y="579.93164"
-         x="98.152954"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">msf6 &gt; show -h</tspan><tspan
-         id="tspan10553"
-         y="602.49725"
-         x="98.152954"
-         sodipodi:role="line" /><tspan
-         y="616.89728"
-         x="98.152954"
-         sodipodi:role="line"
-         id="tspan10555" /></text>
-    <text
-       id="text10561"
-       y="501.80609"
-       x="76.641235"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan10559"
-         y="501.80609"
-         x="76.641235"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120%;font-family:sans-serif">Просмотр сведений</tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77953;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect10571"
-       width="800"
-       height="80"
-       x="80"
-       y="350"
-       ry="20"
-       rx="20.000002" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="98.152954"
-       y="399.93164"
-       id="text10579"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="98.152954"
-         y="399.93164"
-         id="tspan10573">msf6 &gt; help</tspan><tspan
-         sodipodi:role="line"
-         x="98.152954"
-         y="422.49725"
-         id="tspan10575" /><tspan
-         id="tspan10577"
-         sodipodi:role="line"
-         x="98.152954"
-         y="436.89728" /></text>
     <image
        xlink:href="img/msfconsole_show.png"
        width="606"
@@ -7208,43 +6987,43 @@
        y="126" />
     <rect
        style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77953;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect10728"
+       id="rect10351"
        width="800"
        height="80"
        x="80"
-       y="710"
+       y="190"
        ry="20"
        rx="20.000002" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        x="98.152954"
-       y="759.93164"
-       id="text10736"><tspan
+       y="239.93164"
+       id="text10357"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="98.152954"
-         y="759.93164"
-         id="tspan10730">msf6 &gt; search строка</tspan><tspan
+         y="239.93164"
+         id="tspan10353">sudo msfdb run</tspan><tspan
          sodipodi:role="line"
          x="98.152954"
-         y="782.49725"
-         id="tspan10732" /><tspan
-         id="tspan10734"
+         y="262.49725"
+         id="tspan10518" /><tspan
+         id="tspan10355"
          sodipodi:role="line"
          x="98.152954"
-         y="796.89728" /></text>
+         y="276.89728" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        x="76.641235"
-       y="681.80609"
-       id="text10740"><tspan
+       y="161.80609"
+       id="text10362"><tspan
          style="font-size:36px;line-height:120%;font-family:sans-serif"
          sodipodi:role="line"
          x="76.641235"
-         y="681.80609"
-         id="tspan10738">Поиск эксплоитов</tspan></text>
+         y="161.80609"
+         id="tspan10359">Запуск базы данных Metasploit</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
