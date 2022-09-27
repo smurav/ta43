@@ -4,8 +4,8 @@
    height="100%"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="pk22_lab4.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="pk22_demo4.svg"
    enable-background="new"
    viewBox="0 0 1600 900"
    style="background-color:#649ccf;"
@@ -26,15 +26,15 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.85288844"
-     inkscape:cx="855.32875"
-     inkscape:cy="436.75114"
+     inkscape:cx="770.32349"
+     inkscape:cy="436.1649"
      inkscape:document-units="px"
-     inkscape:current-layer="layer13"
+     inkscape:current-layer="g10505"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1132"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:window-height="1018"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -10117,7 +10117,7 @@
          y="649.90778"
          x="801.10938"
          sodipodi:role="line"
-         id="tspan6632">лабораторная работа</tspan><tspan
+         id="tspan6632">демонстрация</tspan><tspan
          id="tspan8919"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#203d85;fill-opacity:1"
          y="705.18903"
@@ -10311,12 +10311,12 @@
          id="tspan10683">          [service://server[:ПОРТ][/OPT]]</tspan><tspan
          sodipodi:role="line"
          x="97.441406"
-         y="641.27539"
+         y="640.09729"
          id="tspan10667" /><tspan
          id="tspan6893"
          sodipodi:role="line"
          x="97.441406"
-         y="655.67542" /></text>
+         y="654.49731" /></text>
     <image
        xlink:href="img/hydra.png"
        style="display:inline;stroke-width:1.21905"
@@ -10352,12 +10352,12 @@
          x="57.441406"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:34.6667px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">hydra -l admin -P /usr/share/john/password.lst 10.0.2.15 -f http-post-form \</tspan><tspan
-         y="201.1098"
+         y="202.24426"
          x="57.441406"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:34.6667px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="tspan10779">&quot;/dvwa/login.php:username=^USER^&amp;password=^PASS^&amp;Login=Login:Login failed&quot;</tspan><tspan
-         y="242.70984"
+         y="243.8443"
          x="57.441406"
          sodipodi:role="line"
          id="tspan10699" /></text>
@@ -10427,7 +10427,7 @@
            x="97.441406"
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">http://10.0.2.4/dvwa/vulnerabilities/xss_s/</tspan><tspan
-           y="582.07538"
+           y="580.89734"
            x="97.441406"
            sodipodi:role="line"
            id="tspan6633" /></text>
@@ -10532,7 +10532,7 @@
            id="tspan6827"
            sodipodi:role="line"
            x="97.441406"
-           y="582.07538" /></text>
+           y="580.89734" /></text>
     </a>
     <image
        xlink:href="img/reflected_XSS.png"
@@ -10626,7 +10626,7 @@
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            id="tspan10579">WHERE user_id = 'UserID';</tspan><tspan
-           y="668.4754"
+           y="667.2973"
            x="97.441406"
            sodipodi:role="line"
            id="tspan10571" /></text>
@@ -10682,7 +10682,7 @@
            x="97.441406"
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">http://10.0.2.4/dvwa/vulnerabilities/sqli/</tspan><tspan
-           y="582.07538"
+           y="580.89734"
            x="97.441406"
            sodipodi:role="line"
            id="tspan10499" /></text>
