@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="554.37172"
-     inkscape:cy="896.6114"
+     inkscape:zoom="0.5"
+     inkscape:cx="624"
+     inkscape:cy="434"
      inkscape:document-units="px"
-     inkscape:current-layer="g190877"
+     inkscape:current-layer="g79389"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1018"
@@ -6444,6 +6444,42 @@
        is_visible="true" />
     <style
        id="style175441">.cls-1{fill:#568c78;}.cls-2{fill:#f2d8c2;}</style>
+    <rect
+       x="160"
+       y="670"
+       width="320"
+       height="80"
+       id="rect22947" />
+    <rect
+       x="160"
+       y="670"
+       width="320"
+       height="80"
+       id="rect49078" />
+    <rect
+       x="160"
+       y="670"
+       width="320"
+       height="80"
+       id="rect84749" />
+    <rect
+       x="160"
+       y="670"
+       width="320"
+       height="80"
+       id="rect197408" />
+    <rect
+       x="160"
+       y="670"
+       width="320"
+       height="80"
+       id="rect205149" />
+    <rect
+       x="160"
+       y="670"
+       width="320"
+       height="80"
+       id="rect3906" />
   </defs>
   <metadata
      id="metadata7">
@@ -6461,7 +6497,7 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="title"
-     style="display:none">
+     style="display:inline">
     <a
        id="a3034">
       <rect
@@ -6582,7 +6618,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="master_slide"
-     style="display:inline">
+     style="display:none"
+     sodipodi:insensitive="true">
     <rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#5f7da9;stroke-opacity:1"
        id="rect9037"
@@ -6627,7 +6664,7 @@
          x="31.882812"
          y="881.53516"
          id="tspan9304"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">ГосСОПКА и порядок подключения к ней</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">ГосСОПКА</tspan></text>
     <text
        id="text9306"
        y="881.53516"
@@ -6811,41 +6848,41 @@
        width="1520"
        height="300"
        x="40"
-       y="110"
+       y="130"
        ry="20.000002"
        rx="20" />
     <text
        id="text39776"
-       y="165.92274"
+       y="185.92274"
        x="66.32444"
        style="font-style:normal;font-weight:normal;font-size:11.9191px;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none;stroke-width:1"
        xml:space="preserve"><tspan
-         y="165.92274"
+         y="185.92274"
          x="66.32444"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
          id="tspan39764">Государственная система обнаружения, предупреждения и </tspan><tspan
-         y="208.83139"
+         y="228.83139"
          x="66.32444"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
          id="tspan39766">ликвидации последствий компьютерных атак на информационные ресурсы </tspan><tspan
-         y="251.74002"
+         y="271.74002"
          x="66.32444"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
          id="tspan39768">Российской Федерации представляет собой единый территориально </tspan><tspan
-         y="294.64865"
+         y="314.64865"
          x="66.32444"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
          id="tspan39770">распределенный комплекс, включающий силы и средства, предназначенные </tspan><tspan
-         y="337.55731"
+         y="357.55731"
          x="66.32444"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
          id="tspan39772">для обнаружения, предупреждения и ликвидации последствий </tspan><tspan
-         y="380.46594"
+         y="400.46594"
          x="66.32444"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
@@ -6856,41 +6893,41 @@
        width="1520"
        height="300"
        x="40"
-       y="110"
+       y="130"
        ry="20.000002"
        rx="20" />
     <text
        id="text7761"
-       y="165.92274"
+       y="185.92274"
        x="66.32444"
        style="font-style:normal;font-weight:normal;font-size:11.9191px;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none;stroke-width:1"
        xml:space="preserve"><tspan
-         y="165.92274"
+         y="185.92274"
          x="66.32444"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
          id="tspan7749">Государственная система обнаружения, предупреждения и </tspan><tspan
-         y="208.83139"
+         y="228.83139"
          x="66.32444"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
          id="tspan7751">ликвидации последствий компьютерных атак на информационные ресурсы </tspan><tspan
-         y="251.74002"
+         y="271.74002"
          x="66.32444"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
          id="tspan7753">Российской Федерации представляет собой единый территориально </tspan><tspan
-         y="294.64865"
+         y="314.64865"
          x="66.32444"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
          id="tspan7755">распределенный комплекс, включающий силы и средства, предназначенные </tspan><tspan
-         y="337.55731"
+         y="357.55731"
          x="66.32444"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
          id="tspan7757">для обнаружения, предупреждения и ликвидации последствий </tspan><tspan
-         y="380.46594"
+         y="400.46594"
          x="66.32444"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
@@ -11673,7 +11710,7 @@
            x="164.37724"
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-           id="tspan84724">программно-аппаратные средсва</tspan></text>
+           id="tspan84724">программно-аппаратные средства</tspan></text>
       <text
          id="text84730"
          y="291.72635"
@@ -13651,38 +13688,872 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="g224164"
-     inkscape:label="Обеспечение создания и функционирования ГосСОПКА+++"
+     id="g22945"
+     inkscape:label="Обеспечение создания и функционирования ГосСОПКА"
      style="display:none">
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="167.38435"
+       x="-74.247223"
+       height="20"
+       width="20"
+       id="rect22901"
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text22907"
+       y="181.09859"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="181.09859"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan22905">нормативно-правовое обеспечение</tspan></text>
+    <text
+       id="text22915"
+       y="501.83722"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="501.83722"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan22913">кадровое и организационно-штатное обеспечение</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect22917"
+       width="20"
+       height="20"
+       x="-301.0437"
+       y="394.18082"
+       ry="0"
+       transform="rotate(-45)" />
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect22919"
+       width="20"
+       height="20"
+       x="-225.44485"
+       y="318.582"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text22929"
+       y="288.01147"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="288.01147"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan22927">научно-техническое обеспечение</tspan></text>
+    <text
+       id="text22939"
+       y="394.92435"
+       x="128.00632"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="394.92435"
+         x="128.00632"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan22937">информационно-аналитическое обеспечение</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect22941"
+       width="20"
+       height="20"
+       x="-149.84608"
+       y="242.98315"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       xml:space="preserve"
+       id="text22943"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect22947);fill:#000000;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g49076"
+     inkscape:label="Нормативно-правовое обеспечение"
+     style="display:none">
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="139.10008"
+       x="-45.962955"
+       height="20"
+       width="20"
+       id="rect49050"
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text49054"
+       y="141.09859"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="141.09859"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan49052">создание законодательной базы Российской Федерации</tspan></text>
+    <text
+       id="text49058"
+       y="539.89868"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="539.89868"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan49056">порядок и периодичность проведения мероприятий по оценке степени </tspan><tspan
+         y="583.09869"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan72188">защищенности критической информационной инфраструктуры </tspan><tspan
+         y="626.29871"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan73114">Российской Федерации от компьютерных атак</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect49060"
+       width="20"
+       height="20"
+       x="-358.72174"
+       y="451.85886"
+       ry="0"
+       transform="rotate(-45)" />
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect49062"
+       width="20"
+       height="20"
+       x="-244.4315"
+       y="337.56863"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text49066"
+       y="216.63704"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="216.63704"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan49064">порядок фиксации и обмена информацией между субъектами Системы </tspan><tspan
+         y="259.83704"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan57918">о компьютерных атаках на информационные ресурсы Российской </tspan><tspan
+         y="303.03705"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan59276">Федерации и вызванных ими компьютерных инцидентах</tspan></text>
+    <text
+       id="text49070"
+       y="378.5755"
+       x="128.00632"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="378.5755"
+         x="128.00632"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan49068">порядок осуществления деятельности субъектов Системы в области </tspan><tspan
+         y="421.77551"
+         x="128.00632"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan64318">обнаружения, предупреждения и ликвидации последствий </tspan><tspan
+         y="464.97549"
+         x="128.00632"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan65700">компьютерных атак</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect49072"
+       width="20"
+       height="20"
+       x="-129.92375"
+       y="223.06082"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       xml:space="preserve"
+       id="text49074"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect49078);fill:#000000;fill-opacity:1;stroke:none" />
+    <text
+       id="text74828"
+       y="701.83716"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="701.83716"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan74826">порядок обмена информацией между органами государственной власти </tspan><tspan
+         y="745.03717"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan77805">и уполномоченными органами иностранных государств </tspan><tspan
+         y="788.23718"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan79823">(международными организациями) о компьютерных инцидентах</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect74830"
+       width="20"
+       height="20"
+       x="-473.01202"
+       y="566.14911"
+       ry="0"
+       transform="rotate(-45)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g84747"
+     inkscape:label="Научно-техническое обеспечение"
+     style="display:none">
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="210.04955"
+       x="-116.91243"
+       height="20"
+       width="20"
+       id="rect84699"
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text84703"
+       y="121.09859"
+       x="64.213287"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="121.09859"
+         x="64.213287"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan90223">Осуществляется на основе результатов фундаментальных и прикладных научно-</tspan><tspan
+         y="159.4986"
+         x="64.213287"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan202327">технических исследований и работ по следующим направлениям:</tspan></text>
+    <text
+       id="text84711"
+       y="665.05255"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="665.05255"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan107583">разработка методик обнаружения компьютерных атак на информационные </tspan><tspan
+         y="703.45258"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan186457">системы и информационно-телекоммуникационные сети</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect84713"
+       width="20"
+       height="20"
+       x="-430.8353"
+       y="523.97241"
+       ry="0"
+       transform="rotate(-45)" />
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect84715"
+       width="20"
+       height="20"
+       x="-362.39819"
+       y="455.53531"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text84723"
+       y="317.88324"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="317.88324"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan110263">разработка методик проведения мероприятий по оценке степени защищенности </tspan><tspan
+         y="356.28323"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan112629">информационных систем и информационно-телекоммуникационных сетей от </tspan><tspan
+         y="394.68323"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan113555">компьютерных атак, фиксации компьютерных инцидентов, а также методических </tspan><tspan
+         y="433.08325"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan115243">рекомендаций в области выявления, предупреждения и ликвидации последствий </tspan><tspan
+         y="471.48325"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan139819">компьютерных атак, включая рекомендации по организации защиты КИИ РФ от </tspan><tspan
+         y="509.88324"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan180399">компьютерных атак</tspan></text>
+    <text
+       id="text84731"
+       y="568.26788"
+       x="128.00632"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="568.26788"
+         x="128.00632"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan109277">прогнозирование и разработка моделей в области обеспечения информационной </tspan><tspan
+         y="606.66791"
+         x="128.00632"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan190181">безопасности Российской Федерации</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect84733"
+       width="20"
+       height="20"
+       x="-239.65533"
+       y="332.79242"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       xml:space="preserve"
+       id="text84735"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect84749);fill:#000000;fill-opacity:1;stroke:none" />
+    <text
+       id="text84743"
+       y="761.83722"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="761.83722"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan105143">разработка методов и средств выявления и предупреждения компьютерных </tspan><tspan
+         y="800.23724"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan192561">инцидентов, вызванных компьютерными атаками</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect84745"
+       width="20"
+       height="20"
+       x="-499.2724"
+       y="592.40948"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text197433"
+       y="221.09859"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="221.09859"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan197429">разработка методов выявления признаков проведения компьютерных </tspan><tspan
+         y="259.4986"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan197431">атак, определения их источников и способов осуществления и направленности</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g205147"
+     inkscape:label="Информационно-аналитическое обеспечение"
+     style="display:none">
+    <text
+       id="text205097"
+       y="121.09859"
+       x="64.213287"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="121.09859"
+         x="64.213287"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan205095">Осуществляется на основе прогнозирования ситуации в области обеспечения </tspan><tspan
+         y="159.4986"
+         x="64.213287"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan207173">информационной безопасности Российской Федерации. </tspan><tspan
+         y="197.89859"
+         x="64.213287"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan209677" /><tspan
+         y="236.29858"
+         x="64.213287"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan209679">Исходными данными для прогнозирования являются:</tspan></text>
+    <text
+       id="text205103"
+       y="585.05255"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="585.05255"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan205101">информация о компьютерных атаках и вызванных ими компьютерных </tspan><tspan
+         y="623.45258"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan222649">инцидентах, поступающая по каналам международного обмена</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect205105"
+       width="20"
+       height="20"
+       x="-374.80814"
+       y="467.94525"
+       ry="0"
+       transform="rotate(-45)" />
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect205107"
+       width="20"
+       height="20"
+       x="-280.34952"
+       y="373.48663"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text205121"
+       y="317.88324"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="317.88324"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan205119">информация, получаемая средствами обнаружения, предупреждения и </tspan><tspan
+         y="356.28323"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan214583">ликвидации последствий компьютерных атак</tspan></text>
+    <text
+       id="text205127"
+       y="451.96008"
+       x="128.00632"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="451.96008"
+         x="128.00632"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan205125">результаты оценки степени защищенности критической информационной </tspan><tspan
+         y="490.36008"
+         x="128.00632"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan218577">инфраструктуры Российской Федерации от компьютерных атак</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect205129"
+       width="20"
+       height="20"
+       x="-185.34953"
+       y="278.4866"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       xml:space="preserve"
+       id="text205131"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect205149);fill:#000000;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g197406"
+     inkscape:label="Кадровое и организационно-штатное обеспечение"
+     style="display:none">
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="157.13297"
+       x="-63.995838"
+       height="20"
+       width="20"
+       id="rect197358"
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text197362"
+       y="141.09859"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="141.09859"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan197360">целевое выделение дополнительных штатных ресурсов </tspan><tspan
+         y="184.29858"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan226091">заинтересованным органам государственной власти</tspan></text>
+    <text
+       id="text197370"
+       y="599.89868"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="599.89868"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan197368">подготовку, переподготовку и повышение квалификации кадров, </tspan><tspan
+         y="643.09869"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan247226">обеспечивающих реализацию функций Системы</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect197372"
+       width="20"
+       height="20"
+       x="-386.26617"
+       y="479.40329"
+       ry="0"
+       transform="rotate(-45)" />
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect197374"
+       width="20"
+       height="20"
+       x="-283.42017"
+       y="376.55728"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text197382"
+       y="265.80615"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="265.80615"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan197380">совершенствование нормативно-методического обеспечения </tspan><tspan
+         y="309.00616"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan237398">подготовки, переподготовки и повышения квалификации кадров, </tspan><tspan
+         y="352.20615"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan238378">обеспечивающих реализацию функций Системы</tspan></text>
+    <text
+       id="text197390"
+       y="433.71378"
+       x="128.00632"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="433.71378"
+         x="128.00632"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan197388">развитие учебно-лабораторной базы подготовки, переподготовки и </tspan><tspan
+         y="476.91379"
+         x="128.00632"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan240155">повышения квалификации кадров, обеспечивающих реализацию </tspan><tspan
+         y="520.11377"
+         x="128.00632"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan242893">функций Системы</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect197392"
+       width="20"
+       height="20"
+       x="-164.69156"
+       y="257.82864"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       xml:space="preserve"
+       id="text197394"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect197408);fill:#000000;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g3904"
+     inkscape:label="Взаимодействие субъектов КИИ с ГосСОПКА"
+     style="display:none">
+    <text
+       id="text3854"
+       y="161.09859"
+       x="64.213287"
+       style="font-style:normal;font-weight:normal;font-size:37.3333px;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="161.09859"
+         x="64.213287"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan3852">Взаимодействие субъектов КИИ с ГосСОПКА регулируется следующими </tspan><tspan
+         y="205.89854"
+         x="64.213287"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan7581">нормативными документами:</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text3888"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect3906);fill:#000000;fill-opacity:1;stroke:none" />
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect8068-0"
+       width="20"
+       height="20"
+       x="-155.13062"
+       y="248.2677"
+       ry="0"
+       transform="rotate(-45)" />
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect179965-6"
+       width="20"
+       height="20"
+       x="-216.96136"
+       y="310.09848"
+       ry="0"
+       transform="rotate(-45)" />
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect3764-1"
+       width="20"
+       height="20"
+       x="-340.22516"
+       y="433.36224"
+       ry="0"
+       transform="rotate(-45)" />
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect67232-3"
+       width="20"
+       height="20"
+       x="-278.59326"
+       y="371.73038"
+       ry="0"
+       transform="rotate(-45)" />
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect111913-4"
+       width="20"
+       height="20"
+       x="-402.24927"
+       y="495.38635"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text3231-91-1-9"
+       y="294.07379"
+       x="127.60773"
+       style="font-style:normal;font-weight:normal;font-size:37.3333px;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="294.07379"
+         x="127.60773"
+         sodipodi:role="line"
+         style="font-size:37.3333px;line-height:120%;font-family:sans-serif"
+         id="tspan44840-3-7">Федеральный закон от 26 июля 2017 г. № 187-ФЗ </tspan></text>
+    <text
+       id="text134333-2-6"
+       y="381.23444"
+       x="126.35773"
+       style="font-style:normal;font-weight:normal;font-size:37.3333px;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="381.23444"
+         x="126.35773"
+         sodipodi:role="line"
+         style="font-size:37.3333px;line-height:120%;font-family:sans-serif"
+         id="tspan154738-1-6">Приказ ФСБ России от 24 июля 2018 № 367</tspan></text>
+    <text
+       id="text3770-3"
+       y="555.55573"
+       x="126.35773"
+       style="font-style:normal;font-weight:normal;font-size:37.3333px;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="555.55573"
+         x="126.35773"
+         sodipodi:role="line"
+         style="font-size:37.3333px;line-height:120%;font-family:sans-serif"
+         id="tspan3768-0">Приказ ФСБ России от 19 июня 2019 г. № 282</tspan><tspan
+         y="600.35571"
+         x="126.35773"
+         sodipodi:role="line"
+         style="font-size:37.3333px;line-height:120%;font-family:sans-serif"
+         id="tspan4230-5" /></text>
+    <text
+       id="text67238-0"
+       y="468.39508"
+       x="126.35773"
+       style="font-style:normal;font-weight:normal;font-size:37.3333px;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="468.39508"
+         x="126.35773"
+         sodipodi:role="line"
+         style="font-size:37.3333px;line-height:120%;font-family:sans-serif"
+         id="tspan67234-1">Приказ ФСБ России от 19 июня 2019 г. № 281</tspan><tspan
+         y="513.19507"
+         x="126.35773"
+         sodipodi:role="line"
+         style="font-size:37.3333px;line-height:120%;font-family:sans-serif"
+         id="tspan67236-4" /></text>
+    <text
+       id="text111919-0"
+       y="643.82574"
+       x="126.35773"
+       style="font-style:normal;font-weight:normal;font-size:37.3333px;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="643.82574"
+         x="126.35773"
+         sodipodi:role="line"
+         style="font-size:37.3333px;line-height:120%;font-family:sans-serif"
+         id="tspan111915-8">Приказ ФСТЭК России от 21 декабря 2017 г. № 235</tspan><tspan
+         y="688.62573"
+         x="126.35773"
+         sodipodi:role="line"
+         style="font-size:37.3333px;line-height:120%;font-family:sans-serif"
+         id="tspan111917-3" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g3846"
+     inkscape:label="Федеральный закон от 26 июля 2017 г. № 187-ФЗ"
+     style="display:none">
+    <rect
+       style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77953;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect3818"
+       width="1520"
+       height="440"
+       x="40"
+       y="230"
+       ry="20.000002"
+       rx="20" />
+    <text
+       id="text3838"
+       y="285.92273"
+       x="66.32444"
+       style="font-style:normal;font-weight:normal;font-size:11.9191px;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         y="285.92273"
+         x="66.32444"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+         id="tspan3820">Статья 10. Система безопасности значимого объекта критической </tspan><tspan
+         y="328.83136"
+         x="66.32444"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+         id="tspan3822">информационной инфраструктуры</tspan><tspan
+         y="371.74002"
+         x="66.32444"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+         id="tspan3824">...</tspan><tspan
+         y="414.64865"
+         x="66.32444"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+         id="tspan3826">2. Основными задачами системы безопасности значимого объекта </tspan><tspan
+         y="457.55728"
+         x="66.32444"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+         id="tspan3828">критической информационной инфраструктуры являются:</tspan><tspan
+         y="500.46594"
+         x="66.32444"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+         id="tspan3830">...</tspan><tspan
+         y="543.37457"
+         x="66.32444"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+         id="tspan3832">4) непрерывное взаимодействие с государственной системой </tspan><tspan
+         y="586.2832"
+         x="66.32444"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+         id="tspan3834">обнаружения, предупреждения и ликвидации последствий компьютерных </tspan><tspan
+         y="629.19183"
+         x="66.32444"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+         id="tspan3836">атак на информационные ресурсы Российской Федерации.</tspan></text>
     <a
-       id="a224162"
-       xlink:href="https://www.ptsecurity.com/ru-ru/research/knowledge-base/vzaimodeistvie-s-gossopka/">
+       id="a28457"
+       xlink:href="https://fstec.ru/tekhnicheskaya-zashchita-informatsii/obespechenie-bezopasnosti-kii/285-zakony/1610-federalnyj-zakon-ot-26-iyulya-2017-g-n-187-fz"
+       style="display:inline">
       <text
-         id="text224160"
+         id="text28455"
          y="139.28381"
-         x="40.863892"
-         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="806.36462"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="139.28381"
-           x="40.863892"
+           x="806.36456"
            sodipodi:role="line"
-           style="font-size:36px;line-height:120%;font-family:sans-serif"
-           id="tspan224156">Как организовать взаимодействие с ГосСОПКА</tspan><tspan
-           y="182.48381"
-           x="40.863892"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
+           id="tspan28451">О безопасности критической информационной </tspan><tspan
+           y="190.48386"
+           x="806.36462"
            sodipodi:role="line"
-           style="font-size:36px;line-height:120%;font-family:sans-serif"
-           id="tspan224947" /><tspan
-           y="225.68382"
-           x="40.863892"
-           sodipodi:role="line"
-           style="font-size:36px;line-height:120%;font-family:sans-serif"
-           id="tspan224949" /><tspan
-           y="248.24945"
-           x="40.863892"
-           sodipodi:role="line"
-           style="font-size:36px;line-height:120%;font-family:sans-serif"
-           id="tspan224158" /></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
+           id="tspan28453">инфраструктуры Российской Федерации</tspan></text>
     </a>
   </g>
   <g
@@ -14187,6 +15058,311 @@
          id="tspan458597">произошел компьютерный инцидент</tspan></text>
   </g>
   <g
+     inkscape:groupmode="layer"
+     id="g79389"
+     inkscape:label="Приказ ФСБ России от 19 июня 2019 г. № 281"
+     style="display:none">
+    <rect
+       style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77954;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect79361"
+       width="1520"
+       height="360"
+       x="40"
+       y="450"
+       ry="20.000002"
+       rx="20" />
+    <text
+       id="text79381"
+       y="505.92273"
+       x="66.32444"
+       style="font-style:normal;font-weight:normal;font-size:11.9191px;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         y="505.92273"
+         x="66.32444"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+         id="tspan79379">...</tspan><tspan
+         y="548.83136"
+         x="66.32444"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+         id="tspan108117">8. В целях непрерывного взаимодействия с государственной системой </tspan><tspan
+         y="591.73999"
+         x="66.32444"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+         id="tspan127978">обнаружения, предупреждения и ликвидации последствий компьютерных </tspan><tspan
+         y="634.64862"
+         x="66.32444"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+         id="tspan129816">атак на информационные ресурсы Российской Федерации субъект </tspan><tspan
+         y="677.55731"
+         x="66.32444"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+         id="tspan130838">критической информационной инфраструктуры обеспечивает </tspan><tspan
+         y="720.46594"
+         x="66.32444"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+         id="tspan133090">круглосуточную и бесперебойную работу средств.</tspan><tspan
+         y="763.37457"
+         x="66.32444"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+         id="tspan135756">...</tspan></text>
+    <a
+       id="a31473"
+       xlink:href="http://publication.pravo.gov.ru/Document/View/0001201907170027?index=0&amp;rangeSize=1"
+       transform="translate(23.879869)"
+       style="display:inline">
+      <text
+         id="text31471"
+         y="119.28381"
+         x="781.39355"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="119.28381"
+           x="781.39355"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
+           id="tspan31469">Об утверждении Порядка, технических условий установки и </tspan><tspan
+           y="162.48381"
+           x="781.39355"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
+           id="tspan41821">эксплуатации средств, предназначенных для обнаружения, </tspan><tspan
+           y="205.68382"
+           x="781.39355"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
+           id="tspan45597">предупреждения и ликвидации последствий компьютерных атак и </tspan><tspan
+           y="248.88382"
+           x="781.39355"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
+           id="tspan53409">реагирования на компьютерные инциденты, за исключением </tspan><tspan
+           y="292.08383"
+           x="781.39355"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
+           id="tspan59799">средств, предназначенных для поиска признаков компьютерных атак в </tspan><tspan
+           y="335.28381"
+           x="781.39355"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
+           id="tspan66601">сетях электросвязи, используемых для организации взаимодействия </tspan><tspan
+           y="378.48383"
+           x="781.39355"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
+           id="tspan70257">объектов критической информационной инфраструктуры </tspan><tspan
+           y="421.68384"
+           x="781.39355"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
+           id="tspan72485">Российской Федерации</tspan></text>
+    </a>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g120029"
+     inkscape:label="Приказ ФСБ России от 19 июня 2019 г. № 282"
+     style="display:none">
+    <rect
+       style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77954;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect119995"
+       width="1520"
+       height="360"
+       x="40"
+       y="350"
+       ry="20.000002"
+       rx="20" />
+    <text
+       id="text120021"
+       y="405.92273"
+       x="66.32444"
+       style="font-style:normal;font-weight:normal;font-size:11.9191px;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         y="405.92273"
+         x="66.32444"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+         id="tspan119997">...</tspan><tspan
+         y="448.83136"
+         x="66.32444"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+         id="tspan119999">2. Субъекты критической информационной инфраструктуры информируют </tspan><tspan
+         y="491.74002"
+         x="66.32444"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+         id="tspan120001">ФСБ России обо всех компьютерных инцидентах, связанных с </tspan><tspan
+         y="534.64862"
+         x="66.32444"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+         id="tspan120003">функционированием принадлежащих им на праве собственности, аренды </tspan><tspan
+         y="577.55731"
+         x="66.32444"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+         id="tspan120005">или ином законном основании объектов критической информационной </tspan><tspan
+         y="620.46594"
+         x="66.32444"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+         id="tspan120007">инфраструктуры.</tspan><tspan
+         y="663.37457"
+         x="66.32444"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+         id="tspan106729">...</tspan><tspan
+         y="685.78802"
+         x="66.32444"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+         id="tspan120019" /></text>
+    <a
+       id="a132244"
+       xlink:href="http://publication.pravo.gov.ru/Document/View/0001201907170025">
+      <text
+         id="text76215"
+         y="139.28381"
+         x="805.27344"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="139.28381"
+           x="805.27344"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
+           id="tspan76213">Об утверждении Порядка информирования ФСБ России о</tspan><tspan
+           y="182.48381"
+           x="805.27344"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
+           id="tspan87747">компьютерных инцидентах, реагирования на них, принятия </tspan><tspan
+           y="225.68382"
+           x="805.27344"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
+           id="tspan91217">мер по ликвидации последствий компьютерных атак, </tspan><tspan
+           y="268.88382"
+           x="805.27344"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
+           id="tspan94183">проведенных в отношении значимых объектов критической </tspan><tspan
+           y="312.08383"
+           x="805.27344"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
+           id="tspan102173">информационной инфраструктуры Российской Федерации</tspan></text>
+    </a>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g11388"
+     inkscape:label="Приказ ФСТЭК России от 21 декабря 2017 г. № 235"
+     style="display:none">
+    <rect
+       style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77953;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect11360"
+       width="1520"
+       height="520"
+       x="40"
+       y="230"
+       ry="20.000002"
+       rx="20" />
+    <text
+       id="text11380"
+       y="285.92273"
+       x="66.32444"
+       style="font-style:normal;font-weight:normal;font-size:11.9191px;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"><tspan
+         y="285.92273"
+         x="66.32444"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+         id="tspan11372">6. Системы безопасности должны обеспечивать:</tspan><tspan
+         y="328.83136"
+         x="66.32444"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+         id="tspan11378">непрерывное взаимодействие с государственной системой обнаружения, </tspan><tspan
+         y="371.74002"
+         x="66.32444"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+         id="tspan34320">предупреждения и ликвидации последствий компьютерных атак на </tspan><tspan
+         y="414.64865"
+         x="66.32444"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+         id="tspan34322">информационные ресурсы Российской Федерации</tspan><tspan
+         y="457.55728"
+         x="66.32444"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+         id="tspan35836">...</tspan><tspan
+         y="500.46594"
+         x="66.32444"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+         id="tspan36492">25. Организационно-распорядительные документы по безопасности </tspan><tspan
+         y="543.37457"
+         x="66.32444"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+         id="tspan43819">значимых объектов должны определять:</tspan><tspan
+         y="586.2832"
+         x="66.32444"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+         id="tspan45217">б) ... порядок взаимодействия субъекта критической информационной </tspan><tspan
+         y="629.19183"
+         x="66.32444"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+         id="tspan45219">инфраструктуры с государственной системой обнаружения, </tspan><tspan
+         y="672.10046"
+         x="66.32444"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+         id="tspan45221">предупреждения и ликвидации последствий компьютерных атак на </tspan><tspan
+         y="715.00916"
+         x="66.32444"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+         id="tspan45223">информационные ресурсы Российской Федерации;</tspan><tspan
+         y="737.42261"
+         x="66.32444"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+         id="tspan36496" /></text>
+    <a
+       id="a132239"
+       xlink:href="https://fstec.ru/normotvorcheskaya/akty/53-prikazy/1589-prikaz-fstek-rossii-ot-21-dekabrya-2017-g-n-236">
+      <text
+         id="text113159"
+         y="139.28381"
+         x="805.27344"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="139.28381"
+           x="805.27344"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
+           id="tspan113553">Об утверждении Требований к созданию систем безопасности значимых </tspan><tspan
+           y="182.48381"
+           x="805.27344"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
+           id="tspan113558">объектов КИИ РФ и обеспечению их функционирования</tspan></text>
+    </a>
+  </g>
+  <g
      style="display:none"
      inkscape:label="Ссылки"
      id="layer12"
@@ -14244,8 +15420,8 @@
        id="rect8698"
        width="20"
        height="20"
-       x="-127.6674"
-       y="220.80447"
+       x="-117.94426"
+       y="211.08134"
        ry="0"
        transform="rotate(-45)" />
     <a
@@ -14269,7 +15445,7 @@
        id="a5132"
        xlink:href="http://www.kremlin.ru/acts/bank/42623"
        style="display:inline"
-       transform="translate(86.683277,118.36232)">
+       transform="translate(86.683277,103.61168)">
       <text
          id="text5130"
          y="139.28381"
@@ -14287,8 +15463,8 @@
        id="rect125791"
        width="20"
        height="20"
-       x="-264.67065"
-       y="357.8078"
+       x="-233.37985"
+       y="326.517"
        ry="0"
        transform="rotate(-45)" />
     <a
@@ -14300,7 +15476,7 @@
        id="a134335-6"
        xlink:href="http://publication.pravo.gov.ru/Document/View/0001201809100002"
        style="display:inline"
-       transform="translate(95.032226,214.11423)">
+       transform="translate(95.032226,184.61298)">
       <text
          id="text134333-2"
          y="139.28381"
@@ -14318,15 +15494,15 @@
        id="rect179965"
        width="20"
        height="20"
-       x="-196.5226"
-       y="289.6597"
+       x="-175.66208"
+       y="268.79916"
        ry="0"
        transform="rotate(-45)" />
     <a
        id="a193212-9"
        xlink:href="http://www.scrf.gov.ru/security/information/document131/"
        style="display:inline"
-       transform="translate(85.962574,311.1142)">
+       transform="translate(85.962574,266.8623)">
       <text
          id="text193210-6"
          y="139.28381"
@@ -14343,6 +15519,99 @@
            sodipodi:role="line"
            style="font-size:36px;line-height:120%;font-family:sans-serif"
            id="tspan193208-3" /></text>
+    </a>
+    <rect
+       style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect3764"
+       width="20"
+       height="20"
+       x="-348.37421"
+       y="441.51135"
+       ry="0"
+       transform="rotate(-45)" />
+    <a
+       id="a3772"
+       xlink:href="http://publication.pravo.gov.ru/Document/View/0001201907170025"
+       style="display:inline"
+       transform="translate(85.962574,428.86487)">
+      <text
+         id="text3770"
+         y="139.28381"
+         x="40.863892"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="139.28381"
+           x="40.863892"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
+           id="tspan3768">Приказ ФСБ России от 19 июня 2019 г. № 282</tspan><tspan
+           y="161.84944"
+           x="40.863892"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
+           id="tspan4230" /></text>
+    </a>
+    <rect
+       style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect67232"
+       width="20"
+       height="20"
+       x="-291.09766"
+       y="384.2348"
+       ry="0"
+       transform="rotate(-45)" />
+    <a
+       id="a67240"
+       xlink:href="http://publication.pravo.gov.ru/Document/View/0001201907170027?index=0&amp;rangeSize=1"
+       style="display:inline"
+       transform="translate(85.962574,487.86359)">
+      <text
+         id="text67238"
+         y="-0.71618652"
+         x="40.863892"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="-0.71618652"
+           x="40.863892"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
+           id="tspan67234">Приказ ФСБ России от 19 июня 2019 г. № 281</tspan><tspan
+           y="21.84944"
+           x="40.863892"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
+           id="tspan67236" /></text>
+    </a>
+    <rect
+       style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect111913"
+       width="20"
+       height="20"
+       x="-406.09201"
+       y="499.22916"
+       ry="0"
+       transform="rotate(-45)" />
+    <a
+       id="a111921"
+       xlink:href="https://fstec.ru/normotvorcheskaya/akty/53-prikazy/1589-prikaz-fstek-rossii-ot-21-dekabrya-2017-g-n-236"
+       style="display:inline"
+       transform="translate(85.962574,511.1142)">
+      <text
+         id="text111919"
+         y="139.28381"
+         x="40.863892"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="139.28381"
+           x="40.863892"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
+           id="tspan111915">Приказ ФСТЭК России от 21 декабря 2017 г. № 235</tspan><tspan
+           y="161.84944"
+           x="40.863892"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
+           id="tspan111917" /></text>
     </a>
   </g>
   <g
