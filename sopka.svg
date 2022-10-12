@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="624"
-     inkscape:cy="434"
+     inkscape:zoom="1"
+     inkscape:cx="454"
+     inkscape:cy="236"
      inkscape:document-units="px"
-     inkscape:current-layer="g79389"
+     inkscape:current-layer="layer14"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1018"
@@ -6497,7 +6497,7 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="title"
-     style="display:inline">
+     style="display:none">
     <a
        id="a3034">
       <rect
@@ -6618,7 +6618,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="master_slide"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#5f7da9;stroke-opacity:1"
@@ -6704,6 +6704,116 @@
        style="display:inline"
        xlink:href="http://www.postgresql.org/download/"
        id="a5529-8" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="История создания+++"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="40"
+       y="290"
+       id="text5061"><tspan
+         sodipodi:role="line"
+         id="tspan5059"
+         x="40"
+         y="290">2009 Указ Президента РФ </tspan><tspan
+         sodipodi:role="line"
+         x="40"
+         y="340"
+         id="tspan5063">от 12.05.2009 № 537 </tspan><tspan
+         sodipodi:role="line"
+         x="40"
+         y="390"
+         id="tspan5065">«О Стратегии национальной </tspan><tspan
+         sodipodi:role="line"
+         x="40"
+         y="440"
+         id="tspan5067">безопасности РФ до 2020 года»</tspan><tspan
+         sodipodi:role="line"
+         x="40"
+         y="490"
+         id="tspan5069">уже утратил силу</tspan><tspan
+         sodipodi:role="line"
+         x="40"
+         y="540"
+         id="tspan13209" /><tspan
+         sodipodi:role="line"
+         x="40"
+         y="590"
+         id="tspan13211">2012 «Основные направления </tspan><tspan
+         sodipodi:role="line"
+         x="40"
+         y="640"
+         id="tspan16577">государственной политики в </tspan><tspan
+         sodipodi:role="line"
+         x="40"
+         y="690"
+         id="tspan16579">области обеспечения </tspan><tspan
+         sodipodi:role="line"
+         x="40"
+         y="740"
+         id="tspan16581">безопасности </tspan><tspan
+         sodipodi:role="line"
+         x="40"
+         y="790"
+         id="tspan16583">автоматизированных систем </tspan><tspan
+         sodipodi:role="line"
+         x="40"
+         y="840"
+         id="tspan16585">управления </tspan><tspan
+         sodipodi:role="line"
+         x="40"
+         y="890"
+         id="tspan16587">производственными </tspan><tspan
+         sodipodi:role="line"
+         x="40"
+         y="940"
+         id="tspan16589">и технологическими </tspan><tspan
+         sodipodi:role="line"
+         x="40"
+         y="990"
+         id="tspan16591">процессами критически </tspan><tspan
+         sodipodi:role="line"
+         x="40"
+         y="1040"
+         id="tspan16593">важных объектов </tspan><tspan
+         sodipodi:role="line"
+         x="40"
+         y="1090"
+         id="tspan16595">инфраструктуры РФ»</tspan><tspan
+         sodipodi:role="line"
+         x="40"
+         y="1140"
+         id="tspan16597">Утверждены Президентом РФ 3.02.2012 </tspan><tspan
+         sodipodi:role="line"
+         x="40"
+         y="1190"
+         id="tspan16599">г., № 80</tspan><tspan
+         sodipodi:role="line"
+         x="40"
+         y="1240"
+         id="tspan22031" /><tspan
+         sodipodi:role="line"
+         x="40"
+         y="1290"
+         id="tspan22033">Указ Президента от 15 января 2013 г. № 31с</tspan><tspan
+         sodipodi:role="line"
+         x="40"
+         y="1340"
+         id="tspan9559" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="160"
+       y="570"
+       id="text15249"><tspan
+         sodipodi:role="line"
+         id="tspan15247"
+         x="160"
+         y="570"> </tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -12482,6 +12592,100 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Методические рекомендации ФСБ России+++"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="60"
+       y="150"
+       id="text31833"><tspan
+         sodipodi:role="line"
+         id="tspan31831"
+         x="60"
+         y="150">Обнаружение атак</tspan><tspan
+         sodipodi:role="line"
+         x="60"
+         y="200"
+         id="tspan31835">Анализ результатов</tspan><tspan
+         sodipodi:role="line"
+         x="60"
+         y="250"
+         id="tspan31837">Функции </tspan><tspan
+         sodipodi:role="line"
+         x="60"
+         y="300"
+         id="tspan31839">сегмента </tspan><tspan
+         sodipodi:role="line"
+         x="60"
+         y="350"
+         id="tspan31841">ГосСОПКА</tspan><tspan
+         sodipodi:role="line"
+         x="60"
+         y="400"
+         id="tspan31843">Повышение квалификации </tspan><tspan
+         sodipodi:role="line"
+         x="60"
+         y="450"
+         id="tspan31845">персонала</tspan><tspan
+         sodipodi:role="line"
+         x="60"
+         y="500"
+         id="tspan31847">Анализ данных </tspan><tspan
+         sodipodi:role="line"
+         x="60"
+         y="550"
+         id="tspan31849">о событиях безопасности</tspan><tspan
+         sodipodi:role="line"
+         x="60"
+         y="600"
+         id="tspan31851">Прием сообщений </tspan><tspan
+         sodipodi:role="line"
+         x="60"
+         y="650"
+         id="tspan31853">об инцидентах</tspan><tspan
+         sodipodi:role="line"
+         x="60"
+         y="700"
+         id="tspan31855">Регистрация инцидентов</tspan><tspan
+         sodipodi:role="line"
+         x="60"
+         y="750"
+         id="tspan31857">Реагирование на инциденты </tspan><tspan
+         sodipodi:role="line"
+         x="60"
+         y="800"
+         id="tspan31859">Расследование инцидентов</tspan><tspan
+         sodipodi:role="line"
+         x="60"
+         y="850"
+         id="tspan31861">Инвентаризация </tspan><tspan
+         sodipodi:role="line"
+         x="60"
+         y="900"
+         id="tspan31863">Анализ угроз</tspan><tspan
+         sodipodi:role="line"
+         x="60"
+         y="950"
+         id="tspan31865" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="60"
+       y="950"
+       id="text35055"><tspan
+         sodipodi:role="line"
+         id="tspan35053"
+         x="60"
+         y="950">Выявление уязвимостей</tspan><tspan
+         sodipodi:role="line"
+         x="60"
+         y="1000"
+         id="tspan35057" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="g193228"
      inkscape:label="Фунции ГосСОПКА"
      style="display:none">
@@ -15059,6 +15263,16 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Сроки предоставления информации +++"
+     style="display:none" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Способы взаимодействия+++"
+     style="display:none" />
+  <g
+     inkscape:groupmode="layer"
      id="g79389"
      inkscape:label="Приказ ФСБ России от 19 июня 2019 г. № 281"
      style="display:none">
@@ -15362,6 +15576,26 @@
            id="tspan113558">объектов КИИ РФ и обеспечению их функционирования</tspan></text>
     </a>
   </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="Условия подключения к ГосСОПКА+++"
+     style="display:none" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer14"
+     inkscape:label="Условия для создания центра ГосСОПКА+++"
+     style="display:none" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="Уголовная ответственность+++"
+     style="display:none" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="Административная ответственность+++"
+     style="display:none" />
   <g
      style="display:none"
      inkscape:label="Ссылки"
