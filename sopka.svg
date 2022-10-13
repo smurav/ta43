@@ -29,7 +29,7 @@
      inkscape:cx="823"
      inkscape:cy="519"
      inkscape:document-units="px"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer4"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1132"
@@ -12372,7 +12372,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="История создания"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
@@ -12478,7 +12478,7 @@
          x="257.31543"
          y="188.81055"
          id="text12729"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="257.31543"
            y="188.81055"
@@ -12524,7 +12524,7 @@
          x="257.31543"
          y="568.81055"
          id="text431664"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="257.31543"
            y="568.81055"
@@ -12580,7 +12580,7 @@
          x="257.31543"
          y="364.03027"
          id="text165157"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            id="tspan209468"
            x="257.31543"
@@ -12676,7 +12676,7 @@
            y="139.28381"
            x="40.863892"
            sodipodi:role="line"
-           style="font-size:32px;line-height:120%;font-family:sans-serif"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
            id="tspan209787-3-9">Концепция ГосСОПКА от 12 декабря 2014 г. № К 1274</tspan><tspan
            y="177.68381"
            x="40.863892"
@@ -12791,7 +12791,7 @@
   <g
      inkscape:groupmode="layer"
      id="g473270"
-     inkscape:label="Копия Указ Президента от 3 февраля 2012 г. № 803"
+     inkscape:label="Указ Президента от 3 февраля 2012 г. № 803"
      style="display:none">
     <a
        id="a473228"
@@ -16137,7 +16137,7 @@
      inkscape:label="Условия для создания центра ГосСОПКА+++"
      style="display:none" />
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="Ссылки"
      id="layer12"
      inkscape:groupmode="layer">
