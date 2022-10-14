@@ -6,7 +6,7 @@
    height="900"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="sopka.svg"
    enable-background="new"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -25,16 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="823"
-     inkscape:cy="519"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="277.18586"
+     inkscape:cy="613.76869"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer7"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1132"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:window-height="1018"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -6480,6 +6480,62 @@
        width="320"
        height="80"
        id="rect3906" />
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-5-2"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path34305-6-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-2-4"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path34308-9-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker70851"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path70849"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker70855"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path70853"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
   </defs>
   <metadata
      id="metadata7">
@@ -6497,7 +6553,7 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="title"
-     style="display:none">
+     style="display:inline">
     <a
        id="a3034">
       <rect
@@ -6618,7 +6674,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="master_slide"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#5f7da9;stroke-opacity:1"
@@ -7509,7 +7565,7 @@
              inkscape:connector-curvature="0"
              style="fill:#b9cae0" />
           <polygon
-             points="37.8,169.7 35.3,171.4 32.7,173.1 30.1,174.7 27.3,176.1 24.4,177.6 21.5,178.9 18.4,180.2 15.3,181.3 12.1,182.5 8.8,183.5 5.5,184.4 3.2,185 4.6,187.9 6.5,191.9 8.2,196 9.9,200 11.5,204 13,208.1 14.4,212.1 14.5,212.4 21.9,212.2 21.1,209.8 19.6,205.6 18.1,201.5 16.4,197.4 14.7,193.2 13.1,189.6 14.3,189.2 17.7,188 21.1,186.7 24.3,185.4 27.4,184 30.5,182.4 33.5,180.8 36.4,179.1 39.2,177.4 41.9,175.5 44.6,173.5 47.1,171.5 49.5,169.4 51.9,167.2 54.2,164.9 56.3,162.5 58.4,160 60.4,157.5 62.2,154.8 64,152.1 65.7,149.3 67.2,146.5 68.7,143.5 70.1,140.5 71.3,137.4 72.5,134.3 73.6,131 74.6,127.7 74.6,127.4 154.2,127.4 233.7,127.4 233.8,127.7 234.7,131 235.8,134.3 237,137.4 238.2,140.5 239.6,143.5 241.1,146.5 242.7,149.3 244.3,152.1 246.1,154.8 248,157.5 249.9,160 252,162.5 254.2,164.9 256.4,167.2 258.8,169.4 261.2,171.5 263.8,173.5 266.4,175.5 269.1,177.4 271.9,179.1 274.8,180.8 277.8,182.4 280.9,184 284,185.4 287.3,186.7 290.6,188 294,189.2 295.2,189.6 293.6,193.2 291.9,197.4 290.3,201.5 288.7,205.6 287.3,209.8 286.4,212.2 293.8,212.4 293.9,212.1 295.4,208.1 296.9,204 298.4,200 300.1,196 301.9,191.9 303.7,187.9 305.1,185 302.9,184.4 299.5,183.5 296.2,182.5 293,181.3 289.9,180.2 286.8,178.9 283.9,177.6 281,176.1 278.3,174.7 275.6,173.1 273,171.4 270.5,169.7 268.1,167.9 265.7,166.1 263.5,164.1 261.4,162.1 259.3,160 257.3,157.8 255.4,155.6 253.6,153.2 251.9,150.8 250.3,148.4 248.8,145.8 247.3,143.2 246,140.5 244.7,137.7 243.6,134.9 242.5,131.9 241.5,128.9 240.6,125.9 239.8,122.7 239.2,120.3 154.2,120.3 69.1,120.3 68.6,122.7 67.8,125.9 66.8,128.9 65.9,131.9 64.8,134.9 63.6,137.7 62.3,140.5 61,143.2 59.6,145.8 58,148.4 56.4,150.8 54.7,153.2 52.9,155.6 51,157.8 49,160 47,162.1 44.8,164.1 42.6,166.1 40.3,167.9 "
+             points="27.3,176.1 24.4,177.6 21.5,178.9 18.4,180.2 15.3,181.3 12.1,182.5 8.8,183.5 5.5,184.4 3.2,185 4.6,187.9 6.5,191.9 8.2,196 9.9,200 11.5,204 13,208.1 14.4,212.1 14.5,212.4 21.9,212.2 21.1,209.8 19.6,205.6 18.1,201.5 16.4,197.4 14.7,193.2 13.1,189.6 14.3,189.2 17.7,188 21.1,186.7 24.3,185.4 27.4,184 30.5,182.4 33.5,180.8 36.4,179.1 39.2,177.4 41.9,175.5 44.6,173.5 47.1,171.5 49.5,169.4 51.9,167.2 54.2,164.9 56.3,162.5 58.4,160 60.4,157.5 62.2,154.8 64,152.1 65.7,149.3 67.2,146.5 68.7,143.5 70.1,140.5 71.3,137.4 72.5,134.3 73.6,131 74.6,127.7 74.6,127.4 154.2,127.4 233.7,127.4 233.8,127.7 234.7,131 235.8,134.3 237,137.4 238.2,140.5 239.6,143.5 241.1,146.5 242.7,149.3 244.3,152.1 246.1,154.8 248,157.5 249.9,160 252,162.5 254.2,164.9 256.4,167.2 258.8,169.4 261.2,171.5 263.8,173.5 266.4,175.5 269.1,177.4 271.9,179.1 274.8,180.8 277.8,182.4 280.9,184 284,185.4 287.3,186.7 290.6,188 294,189.2 295.2,189.6 293.6,193.2 291.9,197.4 290.3,201.5 288.7,205.6 287.3,209.8 286.4,212.2 293.8,212.4 293.9,212.1 295.4,208.1 296.9,204 298.4,200 300.1,196 301.9,191.9 303.7,187.9 305.1,185 302.9,184.4 299.5,183.5 296.2,182.5 293,181.3 289.9,180.2 286.8,178.9 283.9,177.6 281,176.1 278.3,174.7 275.6,173.1 273,171.4 270.5,169.7 268.1,167.9 265.7,166.1 263.5,164.1 261.4,162.1 259.3,160 257.3,157.8 255.4,155.6 253.6,153.2 251.9,150.8 250.3,148.4 248.8,145.8 247.3,143.2 246,140.5 244.7,137.7 243.6,134.9 242.5,131.9 241.5,128.9 240.6,125.9 239.8,122.7 239.2,120.3 154.2,120.3 69.1,120.3 68.6,122.7 67.8,125.9 66.8,128.9 65.9,131.9 64.8,134.9 63.6,137.7 62.3,140.5 61,143.2 59.6,145.8 58,148.4 56.4,150.8 54.7,153.2 52.9,155.6 51,157.8 49,160 47,162.1 44.8,164.1 42.6,166.1 40.3,167.9 37.8,169.7 35.3,171.4 32.7,173.1 30.1,174.7 "
              id="polygon10"
              style="fill:#b9cae0" />
         </g>
@@ -11421,7 +11477,7 @@
            id="c1_ray"
            style="fill:#fc001c;fill-opacity:1">
           <polygon
-             points="10.972,15.803 6.44,27.793 22.716,11.989 16.819,11.989 20.972,0 5.076,15.803 "
+             points="20.972,0 5.076,15.803 10.972,15.803 6.44,27.793 22.716,11.989 16.819,11.989 "
              id="polygon136"
              style="fill:#fc001c;fill-opacity:1" />
         </g>
@@ -12372,7 +12428,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="История создания"
-     style="display:inline">
+     style="display:none">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
@@ -12390,83 +12446,83 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:150%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="85.541138"
+       x="86.595703"
        y="173.08691"
        id="text12653"><tspan
          id="tspan12643"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
-         x="85.541138"
+         x="86.595703"
          y="173.08691">2009</tspan><tspan
          id="tspan12645"
          sodipodi:role="line"
-         x="85.541138"
+         x="86.595703"
          y="202.85254" /><tspan
          id="tspan12647"
          sodipodi:role="line"
-         x="85.541138"
+         x="86.595703"
          y="220.85254" /><tspan
          id="tspan12649"
          sodipodi:role="line"
-         x="85.541138"
+         x="86.595703"
          y="238.85254" /><tspan
          id="tspan12651"
          sodipodi:role="line"
-         x="85.541138"
+         x="86.595703"
          y="256.85254" /></text>
     <text
        id="text12702"
        y="333.08691"
-       x="85.541138"
+       x="87.131836"
        style="font-style:normal;font-weight:normal;line-height:150%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          y="333.08691"
-         x="85.541138"
+         x="87.131836"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="tspan12692">2012</tspan><tspan
          y="362.85254"
-         x="85.541138"
+         x="87.131836"
          sodipodi:role="line"
          id="tspan12694" /><tspan
          y="380.85254"
-         x="85.541138"
+         x="87.131836"
          sodipodi:role="line"
          id="tspan12696" /><tspan
          y="398.85254"
-         x="85.541138"
+         x="87.131836"
          sodipodi:role="line"
          id="tspan12698" /><tspan
          y="416.85254"
-         x="85.541138"
+         x="87.131836"
          sodipodi:role="line"
          id="tspan12700" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:150%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="85.541138"
+       x="86.771484"
        y="513.08691"
        id="text12714"><tspan
          id="tspan12704"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
-         x="85.541138"
+         x="86.771484"
          y="513.08691">2013</tspan><tspan
          id="tspan12706"
          sodipodi:role="line"
-         x="85.541138"
+         x="86.771484"
          y="542.85254" /><tspan
          id="tspan12708"
          sodipodi:role="line"
-         x="85.541138"
+         x="86.771484"
          y="560.85254" /><tspan
          id="tspan12710"
          sodipodi:role="line"
-         x="85.541138"
+         x="86.771484"
          y="578.85254" /><tspan
          id="tspan12712"
          sodipodi:role="line"
-         x="85.541138"
+         x="86.771484"
          y="596.85254" /></text>
     <a
        id="a471300"
@@ -12634,29 +12690,29 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:150%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="85.541138"
+       x="86.34082"
        y="673.08691"
        id="text441984"><tspan
          id="tspan441974"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
-         x="85.541138"
+         x="86.34082"
          y="673.08691">2014</tspan><tspan
          id="tspan441976"
          sodipodi:role="line"
-         x="85.541138"
+         x="86.34082"
          y="702.85254" /><tspan
          id="tspan441978"
          sodipodi:role="line"
-         x="85.541138"
+         x="86.34082"
          y="720.85254" /><tspan
          id="tspan441980"
          sodipodi:role="line"
-         x="85.541138"
+         x="86.34082"
          y="738.85254" /><tspan
          id="tspan441982"
          sodipodi:role="line"
-         x="85.541138"
+         x="86.34082"
          y="756.85254" /></text>
     <a
        id="a575907"
@@ -14151,6 +14207,141 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="g191076"
+     inkscape:label="Создание центров ГосСОПКА"
+     style="display:none">
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="171.26889"
+       x="-78.131752"
+       height="20"
+       width="20"
+       id="rect191028"
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text191034"
+       y="161.09859"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="161.09859"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan191032">ведомственные центры создаются заинтересованными органами </tspan><tspan
+         y="204.29858"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan203740">государственной власти</tspan></text>
+    <text
+       id="text191042"
+       y="681.83722"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="681.83722"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan191040">включение ведомственного (корпоративного) центра в состав Системы </tspan><tspan
+         y="725.03723"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan242417">осуществляется на основе соглашения органа государственной власти</tspan><tspan
+         y="768.23724"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan244945"> (организации), создавшего (создавшей) указанный центр, с ФСБ России</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect191044"
+       width="20"
+       height="20"
+       x="-459.09988"
+       y="552.237"
+       ry="0"
+       transform="rotate(-45)" />
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect191046"
+       width="20"
+       height="20"
+       x="-330.42834"
+       y="423.56549"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text191052"
+       y="274.69922"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="274.69922"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan191050">ведомственные центры могут создаваться и эксплуатироваться в </tspan><tspan
+         y="317.89923"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan210362">интересах органов государственной власти организациями, </tspan><tspan
+         y="361.09921"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan212578">осуществляющими лицензируемую деятельность в области защиты </tspan><tspan
+         y="404.29922"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan214932">информации</tspan></text>
+    <text
+       id="text191070"
+       y="474.69986"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="474.69986"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan191068">корпоративные центры могут создаваться государственными </tspan><tspan
+         y="517.89984"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan227678">корпорациями, операторами связи и другими организациями, </tspan><tspan
+         y="561.09985"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan229780">осуществляющими лицензируемую деятельность в области </tspan><tspan
+         y="604.29987"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan232320">защиты информации.</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect191074"
+       width="20"
+       height="20"
+       x="-189.00658"
+       y="282.14365"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       xml:space="preserve"
+       id="text235680"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect235682);fill:#000000;fill-opacity:1;stroke:none" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="g73036"
      inkscape:label="Основные задачи центров"
      style="display:none">
@@ -14304,141 +14495,6 @@
        y="251.49608"
        ry="0"
        transform="rotate(-45)" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="g191076"
-     inkscape:label="Создание центров ГосСОПКА"
-     style="display:none">
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="171.26889"
-       x="-78.131752"
-       height="20"
-       width="20"
-       id="rect191028"
-       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <text
-       id="text191034"
-       y="161.09859"
-       x="126.5921"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="161.09859"
-         x="126.5921"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan191032">ведомственные центры создаются заинтересованными органами </tspan><tspan
-         y="204.29858"
-         x="126.5921"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan203740">государственной власти</tspan></text>
-    <text
-       id="text191042"
-       y="681.83722"
-       x="126.5921"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="681.83722"
-         x="126.5921"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan191040">включение ведомственного (корпоративного) центра в состав Системы </tspan><tspan
-         y="725.03723"
-         x="126.5921"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan242417">осуществляется на основе соглашения органа государственной власти</tspan><tspan
-         y="768.23724"
-         x="126.5921"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan244945"> (организации), создавшего (создавшей) указанный центр, с ФСБ России</tspan></text>
-    <rect
-       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect191044"
-       width="20"
-       height="20"
-       x="-459.09988"
-       y="552.237"
-       ry="0"
-       transform="rotate(-45)" />
-    <rect
-       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect191046"
-       width="20"
-       height="20"
-       x="-330.42834"
-       y="423.56549"
-       ry="0"
-       transform="rotate(-45)" />
-    <text
-       id="text191052"
-       y="274.69922"
-       x="126.5921"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="274.69922"
-         x="126.5921"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan191050">ведомственные центры могут создаваться и эксплуатироваться в </tspan><tspan
-         y="317.89923"
-         x="126.5921"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan210362">интересах органов государственной власти организациями, </tspan><tspan
-         y="361.09921"
-         x="126.5921"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan212578">осуществляющими лицензируемую деятельность в области защиты </tspan><tspan
-         y="404.29922"
-         x="126.5921"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan214932">информации</tspan></text>
-    <text
-       id="text191070"
-       y="474.69986"
-       x="126.5921"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="474.69986"
-         x="126.5921"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan191068">корпоративные центры могут создаваться государственными </tspan><tspan
-         y="517.89984"
-         x="126.5921"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan227678">корпорациями, операторами связи и другими организациями, </tspan><tspan
-         y="561.09985"
-         x="126.5921"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan229780">осуществляющими лицензируемую деятельность в области </tspan><tspan
-         y="604.29987"
-         x="126.5921"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan232320">защиты информации.</tspan></text>
-    <rect
-       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect191074"
-       width="20"
-       height="20"
-       x="-189.00658"
-       y="282.14365"
-       ry="0"
-       transform="rotate(-45)" />
-    <text
-       xml:space="preserve"
-       id="text235680"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect235682);fill:#000000;fill-opacity:1;stroke:none" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -15813,16 +15869,6 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer7"
-     inkscape:label="Сроки предоставления информации +++"
-     style="display:none" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer8"
-     inkscape:label="Способы взаимодействия+++"
-     style="display:none" />
-  <g
-     inkscape:groupmode="layer"
      id="g79389"
      inkscape:label="Приказ ФСБ России от 19 июня 2019 г. № 281"
      style="display:none">
@@ -16027,6 +16073,409 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Сроки предоставления информации о компьютерных инцидентах"
+     style="display:none">
+    <g
+       id="g7156"
+       transform="matrix(0.51556889,0,0,0.51556889,687.02519,97.02519)"
+       style="fill:#203d85;fill-opacity:1">
+      <g
+         id="g7094"
+         style="fill:#203d85;fill-opacity:1">
+	<path
+   style="fill:#203d85;fill-opacity:1"
+   d="m 413.426,314.527 -5.764,-266.46 c 1.726,-0.629 2.965,-2.27 2.965,-4.214 0,-2.011 -1.328,-3.694 -3.149,-4.271 l -0.217,-10.014 c -0.053,-2.446 -2.052,-4.402 -4.499,-4.402 h -22.41 c -2.447,0 -4.446,1.956 -4.499,4.402 l -0.217,10.014 c -1.82,0.576 -3.149,2.259 -3.149,4.271 0,1.944 1.239,3.584 2.965,4.214 l -5.764,266.46 h -24.117 v 19.15 h -49.518 c -8.948,-41.729 -13.6,-84.278 -13.907,-127.021 h 1.962 c 2.485,0 4.5,-2.015 4.5,-4.5 0,-2.485 -2.015,-4.5 -4.5,-4.5 h -2.002 -109.66 -1.927 c -2.485,0 -4.5,2.015 -4.5,4.5 0,2.485 2.015,4.5 4.5,4.5 h 1.887 c -0.201,27.741 -2.241,55.696 -6.116,83.171 -1.125,7.967 -2.419,15.953 -3.856,23.904 -7.216,-38.43 -10.989,-77.456 -11.257,-116.646 h 2.019 c 2.485,0 4.5,-2.015 4.5,-4.5 0,-2.485 -2.015,-4.5 -4.5,-4.5 H 34.759 c -2.485,0 -4.5,2.015 -4.5,4.5 0,2.485 2.015,4.5 4.5,4.5 h 2.019 c -0.411,59.977 -9.006,119.58 -25.611,177.231 L 0,413.087 h 438.253 v -98.56 z M 383.598,87.736 h 15.92 l 0.657,30.383 h -17.234 z m -0.852,39.383 h 17.624 l 0.657,30.382 h -18.938 z m 16.577,-48.383 h -15.53 l 0.657,-30.383 h 14.216 z m -17.428,87.765 h 19.327 l 0.657,30.383 h -20.642 z m -0.852,39.383 h 21.031 l 0.657,30.383 h -22.346 z m -0.852,39.382 h 22.735 l 0.657,30.382 h -24.05 z m 18.168,-211.099 0.112,5.187 h -13.826 l 0.112,-5.187 z m -19.02,250.481 h 24.439 l 0.646,29.879 H 378.692 Z M 273.591,226.584 h -92.624 c 0.06,-1.543 0.101,-3.085 0.149,-4.628 h 92.323 c 0.048,1.543 0.093,3.086 0.152,4.628 z m -23.893,-13.628 v -6.299 h 8.919 v 6.299 z m -9,0 h -8.919 v -6.299 h 8.919 z m -17.919,0 h -8.919 v -6.299 h 8.919 z m -17.919,0 h -8.919 v -6.299 h 8.919 z m 68.363,0 h -5.607 v -6.299 h 5.508 c 0.016,2.101 0.064,4.199 0.099,6.299 z m -86.282,-6.299 v 6.299 h -5.606 c 0.036,-2.1 0.083,-4.201 0.098,-6.299 z m -44.277,12.125 h -97.37 c 0.075,-1.896 0.126,-3.794 0.185,-5.691 h 97.001 c 0.058,1.897 0.109,3.795 0.184,5.691 z m -15.685,-14.691 h -9.75 v -7.003 h 9.75 z m 9,-7.003 h 6.176 c 0.016,2.335 0.067,4.669 0.107,7.003 h -6.283 z m -56.25,7.003 v -7.003 h 9.75 v 7.003 z m 18.75,-7.004 h 9.75 v 7.003 h -9.75 z m -27.75,0 v 7.004 h -9.75 v -7.004 z m -18.75,0 v 7.004 h -6.284 c 0.04,-2.334 0.091,-4.668 0.107,-7.004 z m -40.021,207 7.857,-27.278 C 33.817,328.196 42.197,278.214 44.866,227.783 h 98.225 c 2.669,50.431 11.049,100.413 25.051,149.026 L 176,404.087 Z m 173.408,0 -8.575,-29.769 c -3.613,-12.545 -6.825,-25.187 -9.68,-37.901 3.224,-14.922 5.952,-30.165 8.093,-45.332 2.589,-18.356 4.363,-36.924 5.343,-55.502 h 93.461 c 2.539,48.278 10.552,96.138 23.956,142.688 l 7.436,25.814 H 185.366 Z m 243.887,0 H 314.766 l -8.153,-28.305 c -3.157,-10.965 -6.003,-22.005 -8.554,-33.104 h 56.515 v -19.15 h 74.68 v 80.559 z"
+   id="path7076" />
+
+	<rect
+   x="364.008"
+   y="370.89899"
+   style="fill:#203d85;fill-opacity:1"
+   width="9"
+   height="17.73"
+   id="rect7078" />
+
+	<rect
+   x="341.31299"
+   y="370.89899"
+   style="fill:#203d85;fill-opacity:1"
+   width="9"
+   height="17.73"
+   id="rect7080" />
+
+	<rect
+   x="318.61801"
+   y="370.89899"
+   style="fill:#203d85;fill-opacity:1"
+   width="9"
+   height="17.73"
+   id="rect7082" />
+
+	<rect
+   x="386.703"
+   y="370.89899"
+   style="fill:#203d85;fill-opacity:1"
+   width="9"
+   height="17.73"
+   id="rect7084" />
+
+	<rect
+   x="409.39801"
+   y="370.89899"
+   style="fill:#203d85;fill-opacity:1"
+   width="9"
+   height="17.73"
+   id="rect7086" />
+
+	<rect
+   x="364.008"
+   y="331.793"
+   style="fill:#203d85;fill-opacity:1"
+   width="9"
+   height="24.922001"
+   id="rect7088" />
+
+	<rect
+   x="386.703"
+   y="331.793"
+   style="fill:#203d85;fill-opacity:1"
+   width="9"
+   height="24.922001"
+   id="rect7090" />
+
+	<rect
+   x="409.39801"
+   y="331.793"
+   style="fill:#203d85;fill-opacity:1"
+   width="9"
+   height="24.922001"
+   id="rect7092" />
+
+</g>
+      <g
+         id="g7096"
+         style="fill:#203d85;fill-opacity:1">
+</g>
+      <g
+         id="g7098"
+         style="fill:#203d85;fill-opacity:1">
+</g>
+      <g
+         id="g7100"
+         style="fill:#203d85;fill-opacity:1">
+</g>
+      <g
+         id="g7102"
+         style="fill:#203d85;fill-opacity:1">
+</g>
+      <g
+         id="g7104"
+         style="fill:#203d85;fill-opacity:1">
+</g>
+      <g
+         id="g7106"
+         style="fill:#203d85;fill-opacity:1">
+</g>
+      <g
+         id="g7108"
+         style="fill:#203d85;fill-opacity:1">
+</g>
+      <g
+         id="g7110"
+         style="fill:#203d85;fill-opacity:1">
+</g>
+      <g
+         id="g7112"
+         style="fill:#203d85;fill-opacity:1">
+</g>
+      <g
+         id="g7114"
+         style="fill:#203d85;fill-opacity:1">
+</g>
+      <g
+         id="g7116"
+         style="fill:#203d85;fill-opacity:1">
+</g>
+      <g
+         id="g7118"
+         style="fill:#203d85;fill-opacity:1">
+</g>
+      <g
+         id="g7120"
+         style="fill:#203d85;fill-opacity:1">
+</g>
+      <g
+         id="g7122"
+         style="fill:#203d85;fill-opacity:1">
+</g>
+      <g
+         id="g7124"
+         style="fill:#203d85;fill-opacity:1">
+</g>
+    </g>
+    <g
+       id="g88342"
+       transform="translate(46,460)"
+       style="fill:#d40000;fill-opacity:1">
+      <g
+         id="g32028"
+         transform="matrix(0.1984127,0,0,0.1984127,76.992,181.488)"
+         style="fill:#d40000;fill-opacity:1">
+        <g
+           id="g31964"
+           style="fill:#d40000;fill-opacity:1">
+	<g
+   id="g31962"
+   style="fill:#d40000;fill-opacity:1">
+		
+	</g>
+
+</g>
+        <g
+           id="g31970"
+           style="fill:#d40000;fill-opacity:1">
+	<g
+   id="g31968"
+   style="fill:#d40000;fill-opacity:1">
+		<path
+   d="M 389.74,240.184 H 272.264 c -2.056,-3.94 -4.512,-6.396 -8.448,-8.452 V 114.264 c 0,-6.48 -5.34,-11.748 -11.816,-11.748 -6.476,0 -11.816,5.268 -11.816,11.748 v 117.472 c -7.876,4.068 -11.668,11.616 -11.668,20.264 0,12.928 10.536,23.484 23.464,23.484 8.648,0 16.22,-3.792 20.284,-11.668 h 117.472 c 6.476,0 11.748,-5.336 11.748,-11.816 0,-6.48 -5.268,-11.816 -11.744,-11.816 z"
+   id="path31966"
+   style="fill:#d40000;fill-opacity:1" />
+
+	</g>
+
+</g>
+        <g
+           id="g31972"
+           style="fill:#d40000;fill-opacity:1">
+</g>
+        <g
+           id="g31974"
+           style="fill:#d40000;fill-opacity:1">
+</g>
+        <g
+           id="g31976"
+           style="fill:#d40000;fill-opacity:1">
+</g>
+        <g
+           id="g31978"
+           style="fill:#d40000;fill-opacity:1">
+</g>
+        <g
+           id="g31980"
+           style="fill:#d40000;fill-opacity:1">
+</g>
+        <g
+           id="g31982"
+           style="fill:#d40000;fill-opacity:1">
+</g>
+        <g
+           id="g31984"
+           style="fill:#d40000;fill-opacity:1">
+</g>
+        <g
+           id="g31986"
+           style="fill:#d40000;fill-opacity:1">
+</g>
+        <g
+           id="g31988"
+           style="fill:#d40000;fill-opacity:1">
+</g>
+        <g
+           id="g31990"
+           style="fill:#d40000;fill-opacity:1">
+</g>
+        <g
+           id="g31992"
+           style="fill:#d40000;fill-opacity:1">
+</g>
+        <g
+           id="g31994"
+           style="fill:#d40000;fill-opacity:1">
+</g>
+        <g
+           id="g31996"
+           style="fill:#d40000;fill-opacity:1">
+</g>
+        <g
+           id="g31998"
+           style="fill:#d40000;fill-opacity:1">
+</g>
+        <g
+           id="g32000"
+           style="fill:#d40000;fill-opacity:1">
+</g>
+      </g>
+      <g
+         id="g88315"
+         style="fill:#d40000;fill-opacity:1">
+        <path
+           d="M 252,0 C 113.048,0 0,113.048 0,252 0,390.952 113.048,504 252,504 390.952,504 504,390.952 504,252 504,113.048 390.952,0 252,0 Z m 171.34,341.828 c -3.776,-2.172 -8.584,-0.884 -10.76,2.884 -2.176,3.768 -0.888,8.584 2.884,10.76 L 428.516,363 c -16.672,26.416 -39.092,48.836 -65.508,65.512 l -7.536,-13.056 c -2.172,-3.768 -6.988,-5.06 -10.756,-2.884 -3.768,2.176 -5.064,6.992 -2.884,10.76 l 7.556,13.084 c -26.908,14.264 -58.004,22.8 -89.512,24.004 v -42.972 c 0,-4.348 -3.524,-7.876 -7.876,-7.876 -4.348,0 -7.876,3.524 -7.876,7.876 v 42.972 c -31.504,-1.204 -62.596,-9.736 -89.504,-24.004 l 7.556,-13.084 c 2.172,-3.768 0.888,-8.584 -2.88,-10.76 -3.768,-2.176 -8.584,-0.884 -10.76,2.884 L 141,428.512 C 114.584,411.84 92.164,389.416 75.488,363 l 13.056,-7.532 c 3.768,-2.172 5.056,-6.992 2.884,-10.756 -2.172,-3.768 -6.992,-5.06 -10.76,-2.884 l -13.084,7.552 c -14.268,-26.908 -22.8,-58 -24.004,-89.504 h 42.972 c 4.348,0 7.876,-3.528 7.876,-7.876 0,-4.348 -3.524,-7.876 -7.876,-7.876 h -42.98 c 1.204,-31.504 9.736,-62.604 24.004,-89.508 l 13.084,7.56 c 1.24,0.716 2.592,1.056 3.928,1.056 2.724,0 5.368,-1.416 6.832,-3.94 2.172,-3.764 0.884,-8.584 -2.884,-10.756 L 75.48,141 c 16.676,-26.416 39.096,-48.836 65.512,-65.512 l 7.532,13.056 c 1.456,2.524 4.104,3.936 6.828,3.936 1.336,0 2.692,-0.336 3.928,-1.056 3.768,-2.176 5.06,-6.992 2.884,-10.76 L 154.612,67.58 c 26.908,-14.268 58,-22.8 89.504,-24.004 v 42.972 c 0,4.348 3.528,7.876 7.876,7.876 4.352,0 7.876,-3.524 7.876,-7.876 V 43.572 c 31.508,1.204 62.604,9.736 89.512,24.004 l -7.556,13.088 c -2.176,3.764 -0.884,8.584 2.888,10.756 1.24,0.716 2.592,1.06 3.924,1.06 2.724,0 5.372,-1.412 6.832,-3.94 L 363,75.484 c 26.416,16.676 48.836,39.1 65.512,65.512 l -13.056,7.536 c -3.768,2.172 -5.06,6.992 -2.884,10.756 1.456,2.528 4.104,3.94 6.828,3.94 1.336,0 2.692,-0.34 3.932,-1.06 l 13.084,-7.556 c 14.264,26.908 22.8,58.004 24.004,89.508 h -42.972 c -4.348,0 -7.876,3.528 -7.876,7.876 0,4.348 3.536,7.88 7.884,7.88 h 42.972 c -1.204,31.504 -9.736,62.6 -24.004,89.504 z"
+           id="path31960"
+           style="display:inline;fill:#d40000;fill-opacity:1"
+           transform="matrix(0.1984127,0,0,0.1984127,76.992,181.488)" />
+        <text
+           id="text76271-5"
+           y="240.86594"
+           x="193.72247"
+           style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#d40000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             y="240.86594"
+             x="193.72247"
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#d40000;fill-opacity:1"
+             id="tspan76269-05">не более 3 часов</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g88368"
+       transform="translate(320,-21.161762)">
+      <g
+         id="g39463"
+         transform="matrix(0.29672886,0,0,0.29672886,714.30094,662.64979)">
+        <g
+           id="g39407">
+	<g
+   id="g39405">
+		<path
+   id="path39401"
+   style="fill:#203d85;fill-opacity:1"
+   d="m 97.353516,0 c 0,6.5364583 0,13.072917 0,19.609375 -30.306641,0 -60.613282,0 -90.9199222,0 -10e-8,108.046225 -10e-8,216.092445 0,324.138675 108.0468762,0 216.0937462,0 324.1406262,0 0,-108.04623 0,-216.09245 0,-324.138675 -30.30925,0 -60.61849,0 -90.92774,0 0,-8.783203 0,-17.5664063 0,-26.3496094 -8.39713,0 -16.79427,0 -25.1914,0 0,8.7832032 0,17.5664064 0,26.3496094 -30.63672,0 -61.27344,0 -91.91016,0 0,-8.783203 0,-17.5664063 0,-26.3496094 -8.39713,0 -16.79427,0 -25.191404,0 0,2.2467448 0,4.4934896 0,6.7402344 z m 0,44.798828 c 0,7.807292 0,15.614583 0,23.421875 8.397134,0 16.794274,0 25.191404,0 0,-7.807292 0,-15.614583 0,-23.421875 30.63672,0 61.27344,0 91.91016,0 0,7.807292 0,15.614583 0,23.421875 8.39713,0 16.79427,0 25.1914,0 0,-7.807292 0,-15.614583 0,-23.421875 21.91016,0 43.82032,0 65.73047,0 0,17.464193 0,34.928386 0,52.392578 -91.25065,0 -182.5013,0 -273.75195,0 0,-17.464192 0,-34.928385 0,-52.392578 21.909505,0 43.81901,0 65.728516,0 z M 305.38281,122.38086 c 0,65.39258 0,130.78516 0,196.17773 -91.2526,0 -182.50521,0 -273.75781,0 0,-65.39257 0,-130.78515 0,-196.17773 91.2526,0 182.50521,0 273.75781,0 z" />
+
+		<path
+   id="polygon39403"
+   style="fill:#203d85;fill-opacity:1"
+   d="m 165.21484,145.93164 c -11.14062,5.96354 -22.28124,11.9271 -33.42187,17.89063 2.28936,9.01912 4.57621,18.03888 6.86328,27.05859 6.99201,-3.77191 13.98322,-7.54531 20.97461,-11.31836 0,36.91862 0,73.83724 0,110.75586 10.23437,0 20.46875,0 30.70312,0 0,-48.39518 0,-96.79037 0,-145.18555 -7.8763,0 -15.7526,0 -23.6289,0 -0.49675,0.26628 -0.99349,0.53255 -1.49024,0.79883 z" />
+
+	</g>
+
+</g>
+        <g
+           id="g39409">
+</g>
+        <g
+           id="g39411">
+</g>
+        <g
+           id="g39413">
+</g>
+        <g
+           id="g39415">
+</g>
+        <g
+           id="g39417">
+</g>
+        <g
+           id="g39419">
+</g>
+        <g
+           id="g39421">
+</g>
+        <g
+           id="g39423">
+</g>
+        <g
+           id="g39425">
+</g>
+        <g
+           id="g39427">
+</g>
+        <g
+           id="g39429">
+</g>
+        <g
+           id="g39431">
+</g>
+        <g
+           id="g39433">
+</g>
+        <g
+           id="g39435">
+</g>
+        <g
+           id="g39437">
+</g>
+      </g>
+      <text
+         id="text56018"
+         y="726.3783"
+         x="829.12231"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="726.3783"
+           x="829.12231"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan56016">не более 24 часов</tspan></text>
+    </g>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#203d85;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 638.21115,510 800,430 960,510 800,590 638.21115,510 H 640"
+       id="path57958"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-2-4)"
+       d="M 640,510 H 339.95496 v 120"
+       id="path185013-6"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="display:inline;fill:#203d85;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-2-4)"
+       d="m 800,329.38121 v 90.5"
+       id="path184480-7"
+       sodipodi:nodetypes="cc" />
+    <text
+       id="text85274"
+       y="380.86594"
+       x="833.72247"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="380.86594"
+         x="833.72247"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan85272">Обнаружен инцидент</tspan></text>
+    <text
+       id="text87450"
+       y="523.10449"
+       x="728.54718"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="523.10449"
+         x="728.54718"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan87448">ЗО КИИ</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-2-4)"
+       d="M 961.99975,510 H 1262.0448 V 630"
+       id="path88344"
+       sodipodi:nodetypes="ccc" />
+    <text
+       id="text95788"
+       y="482.35742"
+       x="460.55353"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="482.35742"
+         x="460.55353"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan95786">Да</tspan></text>
+    <text
+       id="text96434"
+       y="482.35742"
+       x="1080.7665"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="482.35742"
+         x="1080.7665"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan96432">Нет</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="g11388"
      inkscape:label="Приказ ФСТЭК России от 21 декабря 2017 г. № 235"
      style="display:none">
@@ -16126,16 +16575,6 @@
            id="tspan113558">объектов КИИ РФ и обеспечению их функционирования</tspan></text>
     </a>
   </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer9"
-     inkscape:label="Условия подключения к ГосСОПКА+++"
-     style="display:none" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer14"
-     inkscape:label="Условия для создания центра ГосСОПКА+++"
-     style="display:none" />
   <g
      style="display:none"
      inkscape:label="Ссылки"
