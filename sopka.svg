@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="277.18586"
-     inkscape:cy="613.76869"
+     inkscape:zoom="0.5"
+     inkscape:cx="708"
+     inkscape:cy="300"
      inkscape:document-units="px"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="g4229"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1018"
@@ -6553,7 +6553,7 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="title"
-     style="display:inline">
+     style="display:none">
     <a
        id="a3034">
       <rect
@@ -6674,7 +6674,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="master_slide"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#5f7da9;stroke-opacity:1"
@@ -13180,15 +13180,15 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="g74214"
-     inkscape:label="Концепция ГосСОПКА от 12 декабря 2014 г. № К 1274"
+     id="g22155"
+     inkscape:label="Копия Концепция ГосСОПКА от 12 декабря 2014 г. № К 1274"
      style="display:none">
     <a
-       id="a74198"
+       id="a22129"
        xlink:href="https://fstec.ru/tekhnicheskaya-zashchita-informatsii/obespechenie-bezopasnosti-kii/285-zakony/1610-federalnyj-zakon-ot-26-iyulya-2017-g-n-187-fz"
        style="display:inline">
       <text
-         id="text74196"
+         id="text22127"
          y="139.28381"
          x="806.36462"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
@@ -13197,21 +13197,21 @@
            x="806.36462"
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
-           id="tspan74194">Концепция государственной системы обнаружения, </tspan><tspan
+           id="tspan22121">Концепция государственной системы обнаружения, </tspan><tspan
            y="190.48386"
            x="806.36462"
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
-           id="tspan78051">предупреждения и ликвидации последствий компьютерных </tspan><tspan
+           id="tspan22123">предупреждения и ликвидации последствий компьютерных </tspan><tspan
            y="241.6839"
            x="806.36462"
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
-           id="tspan82771">атак на информационные ресурсы Российской Федерации</tspan></text>
+           id="tspan22125">атак на информационные ресурсы Российской Федерации</tspan></text>
     </a>
     <rect
        style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect74200"
+       id="rect22131"
        width="20"
        height="20"
        x="-280.04953"
@@ -13220,7 +13220,7 @@
        transform="rotate(-45)" />
     <rect
        style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect74202"
+       id="rect22133"
        width="20"
        height="20"
        x="-206.89111"
@@ -13228,7 +13228,7 @@
        ry="0"
        transform="rotate(-45)" />
     <text
-       id="text74208"
+       id="text22137"
        y="367.82397"
        x="126.5921"
        style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
@@ -13237,9 +13237,9 @@
          x="126.5921"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan74206">назначение ГосСОПКА</tspan></text>
+         id="tspan22135">назначение ГосСОПКА</tspan></text>
     <text
-       id="text74212"
+       id="text22141"
        y="471.28555"
        x="126.5921"
        style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
@@ -13248,10 +13248,10 @@
          x="126.5921"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan74210">функции ГосСОПКА</tspan></text>
+         id="tspan22139">функции ГосСОПКА</tspan></text>
     <rect
        style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect98007"
+       id="rect22143"
        width="20"
        height="20"
        x="-355.99835"
@@ -13259,7 +13259,7 @@
        ry="0"
        transform="rotate(-45)" />
     <text
-       id="text98011"
+       id="text22147"
        y="575.66119"
        x="126.5921"
        style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
@@ -13268,10 +13268,10 @@
          x="126.5921"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan98009">принципы создания ГосСОПКА</tspan></text>
+         id="tspan22145">принципы создания ГосСОПКА</tspan></text>
     <rect
        style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect98331"
+       id="rect22149"
        width="20"
        height="20"
        x="-433.16541"
@@ -13279,7 +13279,7 @@
        ry="0"
        transform="rotate(-45)" />
     <text
-       id="text98335"
+       id="text22153"
        y="687.82397"
        x="126.5921"
        style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
@@ -13288,7 +13288,7 @@
          x="126.5921"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan98333">обеспечение создания и функционирования ГосСОПКА</tspan></text>
+         id="tspan22151">обеспечение создания и функционирования ГосСОПКА</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -15140,6 +15140,436 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="g74214"
+     inkscape:label="Рекомендации №149/2/7-200 от 24 декабря 2016 г."
+     style="display:none">
+    <a
+       id="a74198"
+       xlink:href="https://safe-surf.ru/upload/conf/SOC-forum%202016/07%20novikov.pdf"
+       style="display:inline">
+      <text
+         id="text74196"
+         y="139.28381"
+         x="806.36462"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="139.28381"
+           x="806.36462"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
+           id="tspan82771">Рекомендации №149/2/7-200 от 24 декабря 2016 г. </tspan><tspan
+           y="190.48386"
+           x="806.36462"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
+           id="tspan28232">«Методические рекомендации по созданию ведомственных</tspan><tspan
+           y="241.6839"
+           x="806.36462"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
+           id="tspan34146">и корпоративных центров государственной системы </tspan><tspan
+           y="292.88394"
+           x="806.36456"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
+           id="tspan37976">обнаружения, предупреждения и ликвидации последствий </tspan><tspan
+           y="344.08398"
+           x="806.36462"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
+           id="tspan40606">компьютерных атак на информационные ресурсы </tspan><tspan
+           y="395.28403"
+           x="806.36462"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
+           id="tspan50218">Российской Федерации»</tspan></text>
+    </a>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect74200"
+       width="20"
+       height="20"
+       x="-294.71402"
+       y="387.85092"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text74212"
+       y="471.28555"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="471.28555"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan74210">разработаны Центром защиты информации и специальной связи </tspan><tspan
+         y="514.48553"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan59513">Федеральной службы безопасности (8 Центр)</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect98331"
+       width="20"
+       height="20"
+       x="-391.26126"
+       y="484.39816"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text98335"
+       y="607.82397"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="607.82397"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan71657">для получения необходимо направить соответствующий письменный </tspan><tspan
+         y="651.02399"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan78809">запрос на имя заместителя начальника Центра</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g4179"
+     inkscape:label="Содержание методических рекомендаций по созданию центров"
+     style="display:none">
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="152.3535"
+       x="-59.216373"
+       height="20"
+       width="20"
+       id="rect4131"
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text4137"
+       y="161.09859"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="161.09859"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan4135">Общие положения</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect4149"
+       width="20"
+       height="20"
+       x="-237.67148"
+       y="330.80862"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text4155"
+       y="243.70262"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="243.70262"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan87870">Функции ведомственного сегмента ГосСОПКА и способы их реализации</tspan></text>
+    <text
+       id="text4159"
+       y="495.61044"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="495.61044"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan96708">Варианты архитектуры ведомственного сегмента</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect4161"
+       width="20"
+       height="20"
+       x="-297.24973"
+       y="390.3869"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text4167"
+       y="327.09769"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="327.09769"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan4165">Рекомендации к средствам автоматизации</tspan></text>
+    <text
+       id="text4173"
+       y="412.21539"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="412.21539"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan93620">Обеспечение безопасности информации ведомственного сегмента</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect4175"
+       width="20"
+       height="20"
+       x="-178.09322"
+       y="271.23038"
+       ry="0"
+       transform="rotate(-45)" />
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect4177"
+       width="20"
+       height="20"
+       x="-118.51498"
+       y="211.65207"
+       ry="0"
+       transform="rotate(-45)" />
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect100326"
+       width="20"
+       height="20"
+       x="-415.52377"
+       y="508.66092"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text100330"
+       y="747.37769"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="747.37769"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan115350">Взаимодействие с главным центром ГосСОПКА</tspan><tspan
+         y="769.9433"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan115352" /></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect100332"
+       width="20"
+       height="20"
+       x="-474.88452"
+       y="568.02167"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text100336"
+       y="579.4801"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="579.4801"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan105506">Организационно-штатная структура ведомственного сегмента ГосСОПКА</tspan></text>
+    <text
+       id="text100340"
+       y="662.87518"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="662.87518"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan100338">Порядок создания ведомственного сегмента</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect100342"
+       width="20"
+       height="20"
+       x="-356.38672"
+       y="449.5239"
+       ry="0"
+       transform="rotate(-45)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g4229"
+     inkscape:label="Защитные меры"
+     style="display:none">
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="153.24222"
+       x="-60.105091"
+       height="20"
+       width="20"
+       id="rect4181"
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text4187"
+       y="161.09859"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="161.09859"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan4185">анализ угроз безопасности информации и рисков их реализации</tspan></text>
+    <text
+       id="text4195"
+       y="593.53577"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="593.53577"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan4193">обеспечение действий в нештатных ситуациях</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect4197"
+       width="20"
+       height="20"
+       x="-365.88437"
+       y="459.02148"
+       ry="0"
+       transform="rotate(-45)" />
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect4199"
+       width="20"
+       height="20"
+       x="-246.52589"
+       y="339.66302"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text4205"
+       y="248.74969"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="248.74969"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan8112">контроль (анализ) защищенности информации</tspan></text>
+    <text
+       id="text4209"
+       y="505.23422"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="505.23422"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan4207">выявление инцидентов и реагирование на них</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect4211"
+       width="20"
+       height="20"
+       x="-306.20508"
+       y="399.34225"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text4217"
+       y="336.43594"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="336.43594"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan4215">управление конфигурацией средств защиты</tspan></text>
+    <text
+       id="text4223"
+       y="424.73743"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="424.73743"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan4221">регистрация и анализ событий безопасности;</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect4225"
+       width="20"
+       height="20"
+       x="-184.30484"
+       y="277.44199"
+       ry="0"
+       transform="rotate(-45)" />
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect4227"
+       width="20"
+       height="20"
+       x="-122.31375"
+       y="215.45084"
+       ry="0"
+       transform="rotate(-45)" />
+    <a
+       id="a18951"
+       xlink:href="https://lukatsky.blogspot.com/2017/04/1.html"
+       style="fill:#800080">
+      <text
+         id="text7554"
+         y="761.83722"
+         x="61.881248"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="761.83722"
+           x="61.881248"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#800080"
+           id="tspan7552">https://lukatsky.blogspot.com/2017/04/1.html</tspan></text>
+    </a>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect7556"
+       width="20"
+       height="20"
+       x="-428.32297"
+       y="521.46008"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text17605"
+       y="681.83728"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="681.83728"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan17603">информирование и обучение персонала</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="g3904"
      inkscape:label="Взаимодействие субъектов КИИ с ГосСОПКА"
      style="display:none">
@@ -16083,136 +16513,112 @@
       <g
          id="g7094"
          style="fill:#203d85;fill-opacity:1">
-	<path
-   style="fill:#203d85;fill-opacity:1"
-   d="m 413.426,314.527 -5.764,-266.46 c 1.726,-0.629 2.965,-2.27 2.965,-4.214 0,-2.011 -1.328,-3.694 -3.149,-4.271 l -0.217,-10.014 c -0.053,-2.446 -2.052,-4.402 -4.499,-4.402 h -22.41 c -2.447,0 -4.446,1.956 -4.499,4.402 l -0.217,10.014 c -1.82,0.576 -3.149,2.259 -3.149,4.271 0,1.944 1.239,3.584 2.965,4.214 l -5.764,266.46 h -24.117 v 19.15 h -49.518 c -8.948,-41.729 -13.6,-84.278 -13.907,-127.021 h 1.962 c 2.485,0 4.5,-2.015 4.5,-4.5 0,-2.485 -2.015,-4.5 -4.5,-4.5 h -2.002 -109.66 -1.927 c -2.485,0 -4.5,2.015 -4.5,4.5 0,2.485 2.015,4.5 4.5,4.5 h 1.887 c -0.201,27.741 -2.241,55.696 -6.116,83.171 -1.125,7.967 -2.419,15.953 -3.856,23.904 -7.216,-38.43 -10.989,-77.456 -11.257,-116.646 h 2.019 c 2.485,0 4.5,-2.015 4.5,-4.5 0,-2.485 -2.015,-4.5 -4.5,-4.5 H 34.759 c -2.485,0 -4.5,2.015 -4.5,4.5 0,2.485 2.015,4.5 4.5,4.5 h 2.019 c -0.411,59.977 -9.006,119.58 -25.611,177.231 L 0,413.087 h 438.253 v -98.56 z M 383.598,87.736 h 15.92 l 0.657,30.383 h -17.234 z m -0.852,39.383 h 17.624 l 0.657,30.382 h -18.938 z m 16.577,-48.383 h -15.53 l 0.657,-30.383 h 14.216 z m -17.428,87.765 h 19.327 l 0.657,30.383 h -20.642 z m -0.852,39.383 h 21.031 l 0.657,30.383 h -22.346 z m -0.852,39.382 h 22.735 l 0.657,30.382 h -24.05 z m 18.168,-211.099 0.112,5.187 h -13.826 l 0.112,-5.187 z m -19.02,250.481 h 24.439 l 0.646,29.879 H 378.692 Z M 273.591,226.584 h -92.624 c 0.06,-1.543 0.101,-3.085 0.149,-4.628 h 92.323 c 0.048,1.543 0.093,3.086 0.152,4.628 z m -23.893,-13.628 v -6.299 h 8.919 v 6.299 z m -9,0 h -8.919 v -6.299 h 8.919 z m -17.919,0 h -8.919 v -6.299 h 8.919 z m -17.919,0 h -8.919 v -6.299 h 8.919 z m 68.363,0 h -5.607 v -6.299 h 5.508 c 0.016,2.101 0.064,4.199 0.099,6.299 z m -86.282,-6.299 v 6.299 h -5.606 c 0.036,-2.1 0.083,-4.201 0.098,-6.299 z m -44.277,12.125 h -97.37 c 0.075,-1.896 0.126,-3.794 0.185,-5.691 h 97.001 c 0.058,1.897 0.109,3.795 0.184,5.691 z m -15.685,-14.691 h -9.75 v -7.003 h 9.75 z m 9,-7.003 h 6.176 c 0.016,2.335 0.067,4.669 0.107,7.003 h -6.283 z m -56.25,7.003 v -7.003 h 9.75 v 7.003 z m 18.75,-7.004 h 9.75 v 7.003 h -9.75 z m -27.75,0 v 7.004 h -9.75 v -7.004 z m -18.75,0 v 7.004 h -6.284 c 0.04,-2.334 0.091,-4.668 0.107,-7.004 z m -40.021,207 7.857,-27.278 C 33.817,328.196 42.197,278.214 44.866,227.783 h 98.225 c 2.669,50.431 11.049,100.413 25.051,149.026 L 176,404.087 Z m 173.408,0 -8.575,-29.769 c -3.613,-12.545 -6.825,-25.187 -9.68,-37.901 3.224,-14.922 5.952,-30.165 8.093,-45.332 2.589,-18.356 4.363,-36.924 5.343,-55.502 h 93.461 c 2.539,48.278 10.552,96.138 23.956,142.688 l 7.436,25.814 H 185.366 Z m 243.887,0 H 314.766 l -8.153,-28.305 c -3.157,-10.965 -6.003,-22.005 -8.554,-33.104 h 56.515 v -19.15 h 74.68 v 80.559 z"
-   id="path7076" />
-
-	<rect
-   x="364.008"
-   y="370.89899"
-   style="fill:#203d85;fill-opacity:1"
-   width="9"
-   height="17.73"
-   id="rect7078" />
-
-	<rect
-   x="341.31299"
-   y="370.89899"
-   style="fill:#203d85;fill-opacity:1"
-   width="9"
-   height="17.73"
-   id="rect7080" />
-
-	<rect
-   x="318.61801"
-   y="370.89899"
-   style="fill:#203d85;fill-opacity:1"
-   width="9"
-   height="17.73"
-   id="rect7082" />
-
-	<rect
-   x="386.703"
-   y="370.89899"
-   style="fill:#203d85;fill-opacity:1"
-   width="9"
-   height="17.73"
-   id="rect7084" />
-
-	<rect
-   x="409.39801"
-   y="370.89899"
-   style="fill:#203d85;fill-opacity:1"
-   width="9"
-   height="17.73"
-   id="rect7086" />
-
-	<rect
-   x="364.008"
-   y="331.793"
-   style="fill:#203d85;fill-opacity:1"
-   width="9"
-   height="24.922001"
-   id="rect7088" />
-
-	<rect
-   x="386.703"
-   y="331.793"
-   style="fill:#203d85;fill-opacity:1"
-   width="9"
-   height="24.922001"
-   id="rect7090" />
-
-	<rect
-   x="409.39801"
-   y="331.793"
-   style="fill:#203d85;fill-opacity:1"
-   width="9"
-   height="24.922001"
-   id="rect7092" />
-
-</g>
+        <path
+           style="fill:#203d85;fill-opacity:1"
+           d="m 413.426,314.527 -5.764,-266.46 c 1.726,-0.629 2.965,-2.27 2.965,-4.214 0,-2.011 -1.328,-3.694 -3.149,-4.271 l -0.217,-10.014 c -0.053,-2.446 -2.052,-4.402 -4.499,-4.402 h -22.41 c -2.447,0 -4.446,1.956 -4.499,4.402 l -0.217,10.014 c -1.82,0.576 -3.149,2.259 -3.149,4.271 0,1.944 1.239,3.584 2.965,4.214 l -5.764,266.46 h -24.117 v 19.15 h -49.518 c -8.948,-41.729 -13.6,-84.278 -13.907,-127.021 h 1.962 c 2.485,0 4.5,-2.015 4.5,-4.5 0,-2.485 -2.015,-4.5 -4.5,-4.5 h -2.002 -109.66 -1.927 c -2.485,0 -4.5,2.015 -4.5,4.5 0,2.485 2.015,4.5 4.5,4.5 h 1.887 c -0.201,27.741 -2.241,55.696 -6.116,83.171 -1.125,7.967 -2.419,15.953 -3.856,23.904 -7.216,-38.43 -10.989,-77.456 -11.257,-116.646 h 2.019 c 2.485,0 4.5,-2.015 4.5,-4.5 0,-2.485 -2.015,-4.5 -4.5,-4.5 H 34.759 c -2.485,0 -4.5,2.015 -4.5,4.5 0,2.485 2.015,4.5 4.5,4.5 h 2.019 c -0.411,59.977 -9.006,119.58 -25.611,177.231 L 0,413.087 h 438.253 v -98.56 z M 383.598,87.736 h 15.92 l 0.657,30.383 h -17.234 z m -0.852,39.383 h 17.624 l 0.657,30.382 h -18.938 z m 16.577,-48.383 h -15.53 l 0.657,-30.383 h 14.216 z m -17.428,87.765 h 19.327 l 0.657,30.383 h -20.642 z m -0.852,39.383 h 21.031 l 0.657,30.383 h -22.346 z m -0.852,39.382 h 22.735 l 0.657,30.382 h -24.05 z m 18.168,-211.099 0.112,5.187 h -13.826 l 0.112,-5.187 z m -19.02,250.481 h 24.439 l 0.646,29.879 H 378.692 Z M 273.591,226.584 h -92.624 c 0.06,-1.543 0.101,-3.085 0.149,-4.628 h 92.323 c 0.048,1.543 0.093,3.086 0.152,4.628 z m -23.893,-13.628 v -6.299 h 8.919 v 6.299 z m -9,0 h -8.919 v -6.299 h 8.919 z m -17.919,0 h -8.919 v -6.299 h 8.919 z m -17.919,0 h -8.919 v -6.299 h 8.919 z m 68.363,0 h -5.607 v -6.299 h 5.508 c 0.016,2.101 0.064,4.199 0.099,6.299 z m -86.282,-6.299 v 6.299 h -5.606 c 0.036,-2.1 0.083,-4.201 0.098,-6.299 z m -44.277,12.125 h -97.37 c 0.075,-1.896 0.126,-3.794 0.185,-5.691 h 97.001 c 0.058,1.897 0.109,3.795 0.184,5.691 z m -15.685,-14.691 h -9.75 v -7.003 h 9.75 z m 9,-7.003 h 6.176 c 0.016,2.335 0.067,4.669 0.107,7.003 h -6.283 z m -56.25,7.003 v -7.003 h 9.75 v 7.003 z m 18.75,-7.004 h 9.75 v 7.003 h -9.75 z m -27.75,0 v 7.004 h -9.75 v -7.004 z m -18.75,0 v 7.004 h -6.284 c 0.04,-2.334 0.091,-4.668 0.107,-7.004 z m -40.021,207 7.857,-27.278 C 33.817,328.196 42.197,278.214 44.866,227.783 h 98.225 c 2.669,50.431 11.049,100.413 25.051,149.026 L 176,404.087 Z m 173.408,0 -8.575,-29.769 c -3.613,-12.545 -6.825,-25.187 -9.68,-37.901 3.224,-14.922 5.952,-30.165 8.093,-45.332 2.589,-18.356 4.363,-36.924 5.343,-55.502 h 93.461 c 2.539,48.278 10.552,96.138 23.956,142.688 l 7.436,25.814 H 185.366 Z m 243.887,0 H 314.766 l -8.153,-28.305 c -3.157,-10.965 -6.003,-22.005 -8.554,-33.104 h 56.515 v -19.15 h 74.68 v 80.559 z"
+           id="path7076" />
+        <rect
+           x="364.008"
+           y="370.89899"
+           style="fill:#203d85;fill-opacity:1"
+           width="9"
+           height="17.73"
+           id="rect7078" />
+        <rect
+           x="341.31299"
+           y="370.89899"
+           style="fill:#203d85;fill-opacity:1"
+           width="9"
+           height="17.73"
+           id="rect7080" />
+        <rect
+           x="318.61801"
+           y="370.89899"
+           style="fill:#203d85;fill-opacity:1"
+           width="9"
+           height="17.73"
+           id="rect7082" />
+        <rect
+           x="386.703"
+           y="370.89899"
+           style="fill:#203d85;fill-opacity:1"
+           width="9"
+           height="17.73"
+           id="rect7084" />
+        <rect
+           x="409.39801"
+           y="370.89899"
+           style="fill:#203d85;fill-opacity:1"
+           width="9"
+           height="17.73"
+           id="rect7086" />
+        <rect
+           x="364.008"
+           y="331.793"
+           style="fill:#203d85;fill-opacity:1"
+           width="9"
+           height="24.922001"
+           id="rect7088" />
+        <rect
+           x="386.703"
+           y="331.793"
+           style="fill:#203d85;fill-opacity:1"
+           width="9"
+           height="24.922001"
+           id="rect7090" />
+        <rect
+           x="409.39801"
+           y="331.793"
+           style="fill:#203d85;fill-opacity:1"
+           width="9"
+           height="24.922001"
+           id="rect7092" />
+      </g>
       <g
          id="g7096"
-         style="fill:#203d85;fill-opacity:1">
-</g>
+         style="fill:#203d85;fill-opacity:1" />
       <g
          id="g7098"
-         style="fill:#203d85;fill-opacity:1">
-</g>
+         style="fill:#203d85;fill-opacity:1" />
       <g
          id="g7100"
-         style="fill:#203d85;fill-opacity:1">
-</g>
+         style="fill:#203d85;fill-opacity:1" />
       <g
          id="g7102"
-         style="fill:#203d85;fill-opacity:1">
-</g>
+         style="fill:#203d85;fill-opacity:1" />
       <g
          id="g7104"
-         style="fill:#203d85;fill-opacity:1">
-</g>
+         style="fill:#203d85;fill-opacity:1" />
       <g
          id="g7106"
-         style="fill:#203d85;fill-opacity:1">
-</g>
+         style="fill:#203d85;fill-opacity:1" />
       <g
          id="g7108"
-         style="fill:#203d85;fill-opacity:1">
-</g>
+         style="fill:#203d85;fill-opacity:1" />
       <g
          id="g7110"
-         style="fill:#203d85;fill-opacity:1">
-</g>
+         style="fill:#203d85;fill-opacity:1" />
       <g
          id="g7112"
-         style="fill:#203d85;fill-opacity:1">
-</g>
+         style="fill:#203d85;fill-opacity:1" />
       <g
          id="g7114"
-         style="fill:#203d85;fill-opacity:1">
-</g>
+         style="fill:#203d85;fill-opacity:1" />
       <g
          id="g7116"
-         style="fill:#203d85;fill-opacity:1">
-</g>
+         style="fill:#203d85;fill-opacity:1" />
       <g
          id="g7118"
-         style="fill:#203d85;fill-opacity:1">
-</g>
+         style="fill:#203d85;fill-opacity:1" />
       <g
          id="g7120"
-         style="fill:#203d85;fill-opacity:1">
-</g>
+         style="fill:#203d85;fill-opacity:1" />
       <g
          id="g7122"
-         style="fill:#203d85;fill-opacity:1">
-</g>
+         style="fill:#203d85;fill-opacity:1" />
       <g
          id="g7124"
-         style="fill:#203d85;fill-opacity:1">
-</g>
+         style="fill:#203d85;fill-opacity:1" />
     </g>
     <g
        id="g88342"
@@ -16225,87 +16631,67 @@
         <g
            id="g31964"
            style="fill:#d40000;fill-opacity:1">
-	<g
-   id="g31962"
-   style="fill:#d40000;fill-opacity:1">
-		
-	</g>
-
-</g>
+          <g
+             id="g31962"
+             style="fill:#d40000;fill-opacity:1" />
+        </g>
         <g
            id="g31970"
            style="fill:#d40000;fill-opacity:1">
-	<g
-   id="g31968"
-   style="fill:#d40000;fill-opacity:1">
-		<path
-   d="M 389.74,240.184 H 272.264 c -2.056,-3.94 -4.512,-6.396 -8.448,-8.452 V 114.264 c 0,-6.48 -5.34,-11.748 -11.816,-11.748 -6.476,0 -11.816,5.268 -11.816,11.748 v 117.472 c -7.876,4.068 -11.668,11.616 -11.668,20.264 0,12.928 10.536,23.484 23.464,23.484 8.648,0 16.22,-3.792 20.284,-11.668 h 117.472 c 6.476,0 11.748,-5.336 11.748,-11.816 0,-6.48 -5.268,-11.816 -11.744,-11.816 z"
-   id="path31966"
-   style="fill:#d40000;fill-opacity:1" />
-
-	</g>
-
-</g>
+          <g
+             id="g31968"
+             style="fill:#d40000;fill-opacity:1">
+            <path
+               d="M 389.74,240.184 H 272.264 c -2.056,-3.94 -4.512,-6.396 -8.448,-8.452 V 114.264 c 0,-6.48 -5.34,-11.748 -11.816,-11.748 -6.476,0 -11.816,5.268 -11.816,11.748 v 117.472 c -7.876,4.068 -11.668,11.616 -11.668,20.264 0,12.928 10.536,23.484 23.464,23.484 8.648,0 16.22,-3.792 20.284,-11.668 h 117.472 c 6.476,0 11.748,-5.336 11.748,-11.816 0,-6.48 -5.268,-11.816 -11.744,-11.816 z"
+               id="path31966"
+               style="fill:#d40000;fill-opacity:1" />
+          </g>
+        </g>
         <g
            id="g31972"
-           style="fill:#d40000;fill-opacity:1">
-</g>
+           style="fill:#d40000;fill-opacity:1" />
         <g
            id="g31974"
-           style="fill:#d40000;fill-opacity:1">
-</g>
+           style="fill:#d40000;fill-opacity:1" />
         <g
            id="g31976"
-           style="fill:#d40000;fill-opacity:1">
-</g>
+           style="fill:#d40000;fill-opacity:1" />
         <g
            id="g31978"
-           style="fill:#d40000;fill-opacity:1">
-</g>
+           style="fill:#d40000;fill-opacity:1" />
         <g
            id="g31980"
-           style="fill:#d40000;fill-opacity:1">
-</g>
+           style="fill:#d40000;fill-opacity:1" />
         <g
            id="g31982"
-           style="fill:#d40000;fill-opacity:1">
-</g>
+           style="fill:#d40000;fill-opacity:1" />
         <g
            id="g31984"
-           style="fill:#d40000;fill-opacity:1">
-</g>
+           style="fill:#d40000;fill-opacity:1" />
         <g
            id="g31986"
-           style="fill:#d40000;fill-opacity:1">
-</g>
+           style="fill:#d40000;fill-opacity:1" />
         <g
            id="g31988"
-           style="fill:#d40000;fill-opacity:1">
-</g>
+           style="fill:#d40000;fill-opacity:1" />
         <g
            id="g31990"
-           style="fill:#d40000;fill-opacity:1">
-</g>
+           style="fill:#d40000;fill-opacity:1" />
         <g
            id="g31992"
-           style="fill:#d40000;fill-opacity:1">
-</g>
+           style="fill:#d40000;fill-opacity:1" />
         <g
            id="g31994"
-           style="fill:#d40000;fill-opacity:1">
-</g>
+           style="fill:#d40000;fill-opacity:1" />
         <g
            id="g31996"
-           style="fill:#d40000;fill-opacity:1">
-</g>
+           style="fill:#d40000;fill-opacity:1" />
         <g
            id="g31998"
-           style="fill:#d40000;fill-opacity:1">
-</g>
+           style="fill:#d40000;fill-opacity:1" />
         <g
            id="g32000"
-           style="fill:#d40000;fill-opacity:1">
-</g>
+           style="fill:#d40000;fill-opacity:1" />
       </g>
       <g
          id="g88315"
@@ -16336,66 +16722,48 @@
          transform="matrix(0.29672886,0,0,0.29672886,714.30094,662.64979)">
         <g
            id="g39407">
-	<g
-   id="g39405">
-		<path
-   id="path39401"
-   style="fill:#203d85;fill-opacity:1"
-   d="m 97.353516,0 c 0,6.5364583 0,13.072917 0,19.609375 -30.306641,0 -60.613282,0 -90.9199222,0 -10e-8,108.046225 -10e-8,216.092445 0,324.138675 108.0468762,0 216.0937462,0 324.1406262,0 0,-108.04623 0,-216.09245 0,-324.138675 -30.30925,0 -60.61849,0 -90.92774,0 0,-8.783203 0,-17.5664063 0,-26.3496094 -8.39713,0 -16.79427,0 -25.1914,0 0,8.7832032 0,17.5664064 0,26.3496094 -30.63672,0 -61.27344,0 -91.91016,0 0,-8.783203 0,-17.5664063 0,-26.3496094 -8.39713,0 -16.79427,0 -25.191404,0 0,2.2467448 0,4.4934896 0,6.7402344 z m 0,44.798828 c 0,7.807292 0,15.614583 0,23.421875 8.397134,0 16.794274,0 25.191404,0 0,-7.807292 0,-15.614583 0,-23.421875 30.63672,0 61.27344,0 91.91016,0 0,7.807292 0,15.614583 0,23.421875 8.39713,0 16.79427,0 25.1914,0 0,-7.807292 0,-15.614583 0,-23.421875 21.91016,0 43.82032,0 65.73047,0 0,17.464193 0,34.928386 0,52.392578 -91.25065,0 -182.5013,0 -273.75195,0 0,-17.464192 0,-34.928385 0,-52.392578 21.909505,0 43.81901,0 65.728516,0 z M 305.38281,122.38086 c 0,65.39258 0,130.78516 0,196.17773 -91.2526,0 -182.50521,0 -273.75781,0 0,-65.39257 0,-130.78515 0,-196.17773 91.2526,0 182.50521,0 273.75781,0 z" />
-
-		<path
-   id="polygon39403"
-   style="fill:#203d85;fill-opacity:1"
-   d="m 165.21484,145.93164 c -11.14062,5.96354 -22.28124,11.9271 -33.42187,17.89063 2.28936,9.01912 4.57621,18.03888 6.86328,27.05859 6.99201,-3.77191 13.98322,-7.54531 20.97461,-11.31836 0,36.91862 0,73.83724 0,110.75586 10.23437,0 20.46875,0 30.70312,0 0,-48.39518 0,-96.79037 0,-145.18555 -7.8763,0 -15.7526,0 -23.6289,0 -0.49675,0.26628 -0.99349,0.53255 -1.49024,0.79883 z" />
-
-	</g>
-
-</g>
+          <g
+             id="g39405">
+            <path
+               id="path39401"
+               style="fill:#203d85;fill-opacity:1"
+               d="m 97.353516,0 c 0,6.5364583 0,13.072917 0,19.609375 -30.306641,0 -60.613282,0 -90.9199222,0 -10e-8,108.046225 -10e-8,216.092445 0,324.138675 108.0468762,0 216.0937462,0 324.1406262,0 0,-108.04623 0,-216.09245 0,-324.138675 -30.30925,0 -60.61849,0 -90.92774,0 0,-8.783203 0,-17.5664063 0,-26.3496094 -8.39713,0 -16.79427,0 -25.1914,0 0,8.7832032 0,17.5664064 0,26.3496094 -30.63672,0 -61.27344,0 -91.91016,0 0,-8.783203 0,-17.5664063 0,-26.3496094 -8.39713,0 -16.79427,0 -25.191404,0 0,2.2467448 0,4.4934896 0,6.7402344 z m 0,44.798828 c 0,7.807292 0,15.614583 0,23.421875 8.397134,0 16.794274,0 25.191404,0 0,-7.807292 0,-15.614583 0,-23.421875 30.63672,0 61.27344,0 91.91016,0 0,7.807292 0,15.614583 0,23.421875 8.39713,0 16.79427,0 25.1914,0 0,-7.807292 0,-15.614583 0,-23.421875 21.91016,0 43.82032,0 65.73047,0 0,17.464193 0,34.928386 0,52.392578 -91.25065,0 -182.5013,0 -273.75195,0 0,-17.464192 0,-34.928385 0,-52.392578 21.909505,0 43.81901,0 65.728516,0 z M 305.38281,122.38086 c 0,65.39258 0,130.78516 0,196.17773 -91.2526,0 -182.50521,0 -273.75781,0 0,-65.39257 0,-130.78515 0,-196.17773 91.2526,0 182.50521,0 273.75781,0 z" />
+            <path
+               id="polygon39403"
+               style="fill:#203d85;fill-opacity:1"
+               d="m 165.21484,145.93164 c -11.14062,5.96354 -22.28124,11.9271 -33.42187,17.89063 2.28936,9.01912 4.57621,18.03888 6.86328,27.05859 6.99201,-3.77191 13.98322,-7.54531 20.97461,-11.31836 0,36.91862 0,73.83724 0,110.75586 10.23437,0 20.46875,0 30.70312,0 0,-48.39518 0,-96.79037 0,-145.18555 -7.8763,0 -15.7526,0 -23.6289,0 -0.49675,0.26628 -0.99349,0.53255 -1.49024,0.79883 z" />
+          </g>
+        </g>
         <g
-           id="g39409">
-</g>
+           id="g39409" />
         <g
-           id="g39411">
-</g>
+           id="g39411" />
         <g
-           id="g39413">
-</g>
+           id="g39413" />
         <g
-           id="g39415">
-</g>
+           id="g39415" />
         <g
-           id="g39417">
-</g>
+           id="g39417" />
         <g
-           id="g39419">
-</g>
+           id="g39419" />
         <g
-           id="g39421">
-</g>
+           id="g39421" />
         <g
-           id="g39423">
-</g>
+           id="g39423" />
         <g
-           id="g39425">
-</g>
+           id="g39425" />
         <g
-           id="g39427">
-</g>
+           id="g39427" />
         <g
-           id="g39429">
-</g>
+           id="g39429" />
         <g
-           id="g39431">
-</g>
+           id="g39431" />
         <g
-           id="g39433">
-</g>
+           id="g39433" />
         <g
-           id="g39435">
-</g>
+           id="g39435" />
         <g
-           id="g39437">
-</g>
+           id="g39437" />
       </g>
       <text
          id="text56018"
