@@ -16101,7 +16101,7 @@
          x="126.59209"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan391784">Информация о компьютерных инцидентах, связанных с </tspan><tspan
+         id="tspan391784">информация о компьютерных инцидентах, связанных с </tspan><tspan
          y="210.28532"
          x="126.59209"
          sodipodi:role="line"
@@ -17042,7 +17042,7 @@
          x="126.5921"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan10557">Создание постоянно действующей Комиссии1 по категорированию КИИ </tspan></text>
+         id="tspan10557">Создание постоянно действующей Комиссии по категорированию КИИ </tspan></text>
     <text
        id="text10563"
        y="411.77097"
@@ -17098,7 +17098,7 @@
          x="126.5921"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan10573">Управление инцидентами (УИ)</tspan><tspan
+         id="tspan10573">Управление инцидентами</tspan><tspan
          y="554.60162"
          x="126.5921"
          sodipodi:role="line"
@@ -17198,7 +17198,7 @@
   <g
      inkscape:groupmode="layer"
      id="g41334"
-     inkscape:label="Оформление подключения систем безопасности ЗО КИИ к ГосСОПКА"
+     inkscape:label="Оформление подключения ЗО КИИ к ГосСОПКА"
      style="display:none">
     <rect
        transform="rotate(-45)"
