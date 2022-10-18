@@ -4,7 +4,7 @@
    height="100%"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="ta43_lab_terminal.svg"
    enable-background="new"
    viewBox="0 0 1600 900"
@@ -25,16 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.59670801"
-     inkscape:cx="853.85145"
-     inkscape:cy="200.26545"
+     inkscape:zoom="0.5"
+     inkscape:cx="754"
+     inkscape:cy="446"
      inkscape:document-units="px"
-     inkscape:current-layer="g7334"
+     inkscape:current-layer="g80108"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1132"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:window-height="1018"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -6811,7 +6811,7 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="title"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <rect
        y="152.36218"
@@ -7538,14 +7538,14 @@
        rx="20" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        x="60.441406"
-       y="350.40625"
+       y="349.25"
        id="text6927"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:32px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="60.441406"
-         y="350.40625"
+         y="349.25"
          id="tspan6925">su [-] [имя_пользователя][аргументы]</tspan></text>
     <a
        id="a10695"
@@ -7590,15 +7590,15 @@
        style="opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77953;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
     <text
        id="text10720"
-       y="610.40625"
+       y="609.25"
        x="60.441406"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan10718"
-         y="610.40625"
+         y="609.25"
          x="60.441406"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">sudo [аргументы]</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:32px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">sudo [аргументы]</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
@@ -7646,6 +7646,289 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="g8545"
+     inkscape:label="Установка программного обеспечения"
+     style="display:none">
+    <a
+       id="a8495"
+       xlink:href="https://ru.wikipedia.org/wiki/Advanced_Packaging_Tool"
+       transform="translate(-40)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:32px;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="77.186157"
+         y="134.1579"
+         id="text8493"><tspan
+           sodipodi:role="line"
+           x="77.186157"
+           y="134.1579"
+           id="tspan8491"
+           style="font-size:32px">Для установки, обновления и удаления </tspan><tspan
+           sodipodi:role="line"
+           x="77.186157"
+           y="172.55789"
+           style="font-size:32px"
+           id="tspan18069">программных пакетов в операционных </tspan><tspan
+           sodipodi:role="line"
+           x="77.186157"
+           y="210.9579"
+           style="font-size:32px"
+           id="tspan18071">системах Debian применяется утилита </tspan><tspan
+           sodipodi:role="line"
+           x="77.186157"
+           y="249.35791"
+           style="font-size:32px"
+           id="tspan18073">apt (Advanced Packaging Tool).</tspan><tspan
+           sodipodi:role="line"
+           x="77.186157"
+           y="287.7579"
+           style="font-size:32px"
+           id="tspan22971" /><tspan
+           sodipodi:role="line"
+           x="77.186157"
+           y="326.1579"
+           style="font-size:32px"
+           id="tspan22973">Обновление баз данных пакетов</tspan></text>
+    </a>
+    <rect
+       style="opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77953;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect8497"
+       width="680"
+       height="60"
+       x="40"
+       y="352.46954"
+       ry="20"
+       rx="20" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="60.441406"
+       y="391.71954"
+       id="text8501"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:32px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="60.441406"
+         y="391.71954"
+         id="tspan8499">sudo apt update</tspan></text>
+    <a
+       id="a8515"
+       xlink:href="https://white55.ru/sudo.html#:~:text=%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%20sudo%20(%20substitute%20user%20and,%D0%B1%D0%B5%D0%B7%20%D0%B2%D0%B2%D0%BE%D0%B4%D0%B0%20%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D1%8F%20%D1%81%D1%83%D0%BF%D0%B5%D1%80%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%20root."
+       transform="translate(-40,133.49921)">
+      <text
+         id="text8513"
+         y="354.1579"
+         x="77.186157"
+         style="font-style:normal;font-weight:normal;font-size:32px;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="354.1579"
+           x="77.186157"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan8509">Установка пакета</tspan><tspan
+           id="tspan8511"
+           y="392.55789"
+           x="77.186157"
+           sodipodi:role="line"
+           style="font-size:32px" /></text>
+    </a>
+    <rect
+       rx="20"
+       ry="20"
+       y="510"
+       x="40"
+       height="60"
+       width="680"
+       id="rect8517"
+       style="opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77953;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    <text
+       id="text8521"
+       y="549.25"
+       x="60.441406"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan8519"
+         y="549.25"
+         x="60.441406"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:32px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">sudo apt install пакет</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8543"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion8539"><rect
+           id="rect8537"
+           width="200"
+           height="360"
+           x="1180"
+           y="370" /></flowRegion><flowPara
+         id="flowPara8541" /></flowRoot>
+    <a
+       id="a34864"
+       xlink:href="https://white55.ru/sudo.html#:~:text=%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%20sudo%20(%20substitute%20user%20and,%D0%B1%D0%B5%D0%B7%20%D0%B2%D0%B2%D0%BE%D0%B4%D0%B0%20%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D1%8F%20%D1%81%D1%83%D0%BF%D0%B5%D1%80%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%20root."
+       transform="translate(-40,293.49921)">
+      <text
+         id="text34862"
+         y="354.1579"
+         x="77.186157"
+         style="font-style:normal;font-weight:normal;font-size:32px;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="354.1579"
+           x="77.186157"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan34858">Установка пакета</tspan><tspan
+           id="tspan34860"
+           y="392.55789"
+           x="77.186157"
+           sodipodi:role="line"
+           style="font-size:32px" /></text>
+    </a>
+    <rect
+       rx="19.999998"
+       ry="20"
+       y="670"
+       x="40"
+       height="60"
+       width="680"
+       id="rect34866"
+       style="opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77953;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    <text
+       id="text34870"
+       y="709.25"
+       x="60.441406"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan34868"
+         y="709.25"
+         x="60.441406"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:32px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">sudo apt remove пакет</tspan></text>
+    <image
+       width="838.76526"
+       height="688.76459"
+       preserveAspectRatio="none"
+       xlink:href="img/apt.png"
+       id="image41308"
+       x="741.88977"
+       y="110"
+       style="stroke-width:1.84549" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g56402"
+     inkscape:label="Задания для самостоятельного выполнения"
+     style="display:none">
+    <a
+       id="a56322"
+       xlink:href="http://www.postgresql.org/docs/current/static/transaction-iso.html"
+       style="fill:#800080">
+      <a
+         id="a56320"
+         xlink:href="http://www.postgresql.org/docs/current/static/sql-prepare-transaction.html" />
+    </a>
+    <a
+       style="fill:#800080"
+       id="a56324"
+       xlink:href="http://momjian.us/main/writings/pgsql/Get_to_know_PostgreSQL.pdf"
+       transform="translate(2.8710938)" />
+    <a
+       transform="translate(2.8710938,-240)"
+       xlink:href="http://www.postgresql.org/docs/9.3/static/dblink.html"
+       id="a56326"
+       style="fill:#800080" />
+    <a
+       transform="translate(2.8710938,-240)"
+       xlink:href="http://www.wikisec.ru/index.php?title=%D0%93%D0%9E%D0%A1%D0%A2_%D0%A0_51275-2006"
+       id="a56328"
+       style="fill:#800080" />
+    <a
+       transform="translate(2.8710938)"
+       xlink:href="http://wiki.postgresql.org/images/7/7e/Conferences-write_a_foreign_data_wrapper_in_15_minutes-presentation.pdf"
+       id="a56330"
+       style="fill:#800080" />
+    <text
+       id="text56334"
+       y="712.11163"
+       x="-541.44177"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:40px;line-height:1.25;font-family:sans-serif"
+         y="712.11163"
+         x="-541.44177"
+         id="tspan56332"
+         sodipodi:role="line"> </tspan></text>
+    <a
+       style="display:inline;fill:#800080"
+       id="a56336"
+       xlink:href="http://www.wikisec.ru/index.php?title=%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD_%D0%BE%D1%82_26_%D0%B8%D1%8E%D0%BB%D1%8F_2017_%D0%B3._N_187-%D0%A4%D0%97"
+       transform="translate(1.3304513,63.30743)" />
+    <a
+       transform="translate(1.3304513,183.30743)"
+       xlink:href="https://media.kaspersky.com/ru/business-security/Kaspersky_Anti_Targeted_Attack_Platform_Datasheet.PDF"
+       id="a56338"
+       style="display:inline;fill:#800080" />
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="137.61469"
+       x="-44.477585"
+       height="20"
+       width="20"
+       id="rect56340"
+       style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text56344"
+       y="222.23846"
+       x="120.11719"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:32px;line-height:1;font-family:sans-serif"
+         sodipodi:role="line"
+         x="120.11719"
+         y="222.23846"
+         id="tspan56342">Установите пакеты chromium, dsniff, gvm</tspan></text>
+    <rect
+       style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect56346"
+       width="20"
+       height="20"
+       x="-164.08817"
+       y="257.22525"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text56350"
+       y="306.76514"
+       x="117.54475"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:32px;line-height:1;font-family:sans-serif"
+         sodipodi:role="line"
+         x="117.54475"
+         y="306.76514"
+         id="tspan56348">От имени суперпользователя выполните команду gvm-setup</tspan></text>
+    <text
+       id="text56354"
+       y="137.69617"
+       x="125.02177"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan56352"
+         x="125.02177"
+         y="137.69617">Обновите базы данных пакетов</tspan></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="197.38959"
+       x="-104.25249"
+       height="20"
+       width="20"
+       id="rect56356"
+       style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="g15073"
      inkscape:label="Навигация по файловой системе"
      style="display:none">
@@ -7690,22 +7973,22 @@
          x="77.186157"
          sodipodi:role="line"
          id="tspan15288" /><tspan
-         y="335.7579"
+         y="336.93597"
          x="77.186157"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="tspan30977">/  - корневой каталог и разделитель</tspan><tspan
-         y="378.95792"
+         y="380.13599"
          x="77.186157"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="tspan30979">~  - путь к домашнему каталогу пользователя</tspan><tspan
-         y="422.1579"
+         y="423.336"
          x="77.186157"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="tspan30971">.  - текущий каталог</tspan><tspan
-         y="465.35791"
+         y="466.53598"
          x="77.186157"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
@@ -7713,55 +7996,55 @@
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
    id="tspan3794">.. - родительский каталог</tspan> </tspan><tspan
          id="tspan15043"
-         y="487.92352"
+         y="489.10162"
          x="77.186157"
          sodipodi:role="line" /><tspan
          id="tspan15045"
-         y="502.32355"
+         y="503.50162"
          x="77.186157"
          sodipodi:role="line" /><tspan
          id="tspan15047"
-         y="516.72351"
+         y="517.90161"
          x="77.186157"
          sodipodi:role="line" /><tspan
          id="tspan15049"
-         y="531.12354"
+         y="532.30164"
          x="77.186157"
          sodipodi:role="line" /><tspan
          id="tspan15051"
-         y="545.52356"
+         y="546.7016"
          x="77.186157"
          sodipodi:role="line" /><tspan
          id="tspan15053"
-         y="559.92352"
+         y="561.10162"
          x="77.186157"
          sodipodi:role="line" /><tspan
          id="tspan15055"
-         y="574.32355"
+         y="575.50165"
          x="77.186157"
          sodipodi:role="line" /><tspan
          id="tspan15057"
-         y="588.72351"
+         y="589.90161"
          x="77.186157"
          sodipodi:role="line" /><tspan
          id="tspan15059"
-         y="603.12354"
+         y="604.30164"
          x="77.186157"
          sodipodi:role="line" /><tspan
          id="tspan15061"
-         y="617.52356"
+         y="618.7016"
          x="77.186157"
          sodipodi:role="line" /><tspan
          id="tspan15063"
-         y="631.92352"
+         y="633.10162"
          x="77.186157"
          sodipodi:role="line" /><tspan
          id="tspan15065"
-         y="646.32355"
+         y="647.50165"
          x="77.186157"
          sodipodi:role="line" /><tspan
          id="tspan15067"
-         y="660.72357"
+         y="661.90161"
          x="77.186157"
          sodipodi:role="line" /></text>
     <rect
@@ -8983,15 +9266,15 @@
    id="tspan6742">ip</tspan>.</tspan><tspan
            sodipodi:role="line"
            x="57.31543"
-           y="286.36755"
+           y="287.02911"
            id="tspan6758" /><tspan
            sodipodi:role="line"
            x="57.31543"
-           y="304.36755"
+           y="305.02911"
            id="tspan6760" /><tspan
            sodipodi:role="line"
            x="57.31543"
-           y="322.36755"
+           y="323.02911"
            id="tspan6764" /><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
@@ -9024,11 +9307,11 @@
            id="tspan6778">других.</tspan><tspan
            sodipodi:role="line"
            x="57.31543"
-           y="610.36755"
+           y="611.02911"
            id="tspan6786" /><tspan
            sodipodi:role="line"
            x="57.31543"
-           y="628.36755"
+           y="629.02911"
            id="tspan6788" /><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
@@ -9049,27 +9332,27 @@
    id="tspan6796">ping</tspan>.</tspan><tspan
            sodipodi:role="line"
            x="57.31543"
-           y="808.36755"
+           y="809.02911"
            id="tspan6754" /><tspan
            sodipodi:role="line"
            x="57.31543"
-           y="826.36755"
+           y="827.02911"
            id="tspan6756" /><tspan
            sodipodi:role="line"
            x="57.31543"
-           y="844.36755"
+           y="845.02911"
            id="tspan6746" /><tspan
            sodipodi:role="line"
            x="57.31543"
-           y="862.36755"
+           y="863.02911"
            id="tspan6748" /><tspan
            sodipodi:role="line"
            x="57.31543"
-           y="880.36755"
+           y="881.02911"
            id="tspan6736" /><tspan
            sodipodi:role="line"
            x="57.31543"
-           y="898.36755"
+           y="899.02911"
            id="tspan2591" /></text>
     </a>
     <image
@@ -9083,7 +9366,7 @@
   </g>
   <g
      style="display:none"
-     inkscape:label="Назначение доменных имён"
+     inkscape:label="Назначение имён хостов"
      id="g6856"
      inkscape:groupmode="layer">
     <a
@@ -9111,15 +9394,15 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            id="tspan6876">назначения им доменных имён.</tspan><tspan
            id="tspan6808"
-           y="286.36755"
+           y="287.02911"
            x="57.31543"
            sodipodi:role="line" /><tspan
            id="tspan6810"
-           y="304.36755"
+           y="305.02911"
            x="57.31543"
            sodipodi:role="line" /><tspan
            id="tspan6812"
-           y="322.36755"
+           y="323.02911"
            x="57.31543"
            sodipodi:role="line" /><tspan
            id="tspan6826"
@@ -9145,11 +9428,11 @@
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
    id="tspan6903">/etc/hosts</tspan></tspan><tspan
            id="tspan6828"
-           y="556.36755"
+           y="557.02911"
            x="57.31543"
            sodipodi:role="line" /><tspan
            id="tspan6830"
-           y="574.36755"
+           y="575.02911"
            x="57.31543"
            sodipodi:role="line" /><tspan
            id="tspan6838"
@@ -9170,27 +9453,27 @@
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
    id="tspan6914">nano</tspan></tspan><tspan
            id="tspan6840"
-           y="754.36755"
+           y="755.02911"
            x="57.31543"
            sodipodi:role="line" /><tspan
            id="tspan6842"
-           y="772.36755"
+           y="773.02911"
            x="57.31543"
            sodipodi:role="line" /><tspan
            id="tspan6844"
-           y="790.36755"
+           y="791.02911"
            x="57.31543"
            sodipodi:role="line" /><tspan
            id="tspan6846"
-           y="808.36755"
+           y="809.02911"
            x="57.31543"
            sodipodi:role="line" /><tspan
            id="tspan6848"
-           y="826.36755"
+           y="827.02911"
            x="57.31543"
            sodipodi:role="line" /><tspan
            id="tspan6850"
-           y="844.36755"
+           y="845.02911"
            x="57.31543"
            sodipodi:role="line" /></text>
     </a>
@@ -9335,7 +9618,7 @@
        height="60"
        width="1440"
        id="rect7140"
-       style="opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77952766;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+       style="opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77953;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
     <text
        id="text7144"
        y="770.38867"
@@ -9397,7 +9680,7 @@
        height="60"
        width="1440"
        id="rect7216"
-       style="opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77952766;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+       style="opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77953;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
     <text
        id="text7220"
        y="270.38867"
@@ -9411,7 +9694,115 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">ssh логин@адрес</tspan></text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
+     inkscape:label="Настройка защищённого сетевого подключения"
+     id="g80108"
+     inkscape:groupmode="layer">
+    <a
+       xlink:href="https://ru.wikipedia.org/wiki/Hosts"
+       id="a80104">
+      <text
+         id="text80102"
+         y="149.26349"
+         x="57.31543"
+         style="font-style:normal;font-weight:normal;line-height:150%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="149.26349"
+           x="57.31543"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan80060">Для корректного подключения к </tspan><tspan
+           y="203.26349"
+           x="57.31543"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan81409">машинам meta и owasp через <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan95568">ssh</tspan></tspan><tspan
+           y="257.26349"
+           x="57.31543"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan81411">нужно выполнить настройку </tspan><tspan
+           y="311.26349"
+           x="57.31543"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan81413">используемых алгоритмов </tspan><tspan
+           y="365.26349"
+           x="57.31543"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan80072">шифрования в конфигурационном</tspan><tspan
+           y="419.26349"
+           x="57.31543"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan80076">файле <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan85329">~/.ssh/config</tspan></tspan><tspan
+           id="tspan80078"
+           y="449.02911"
+           x="57.31543"
+           sodipodi:role="line" /><tspan
+           id="tspan80080"
+           y="467.02911"
+           x="57.31543"
+           sodipodi:role="line" /><tspan
+           id="tspan80082"
+           y="509.26349"
+           x="57.31543"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Для его редактирования также</tspan><tspan
+           y="563.26349"
+           x="57.31543"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan80088">можно воспользоваться текстовым</tspan><tspan
+           y="617.26349"
+           x="57.31543"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:150%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan93045">редактором <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan80086">nano</tspan></tspan><tspan
+           id="tspan80090"
+           y="647.02911"
+           x="57.31543"
+           sodipodi:role="line" /><tspan
+           id="tspan80092"
+           y="665.02911"
+           x="57.31543"
+           sodipodi:role="line" /><tspan
+           id="tspan80094"
+           y="683.02911"
+           x="57.31543"
+           sodipodi:role="line" /><tspan
+           id="tspan80096"
+           y="701.02911"
+           x="57.31543"
+           sodipodi:role="line" /><tspan
+           id="tspan80098"
+           y="719.02911"
+           x="57.31543"
+           sodipodi:role="line" /><tspan
+           id="tspan80100"
+           y="737.02911"
+           x="57.31543"
+           sodipodi:role="line" /></text>
+    </a>
+    <image
+       width="820"
+       height="669.81195"
+       preserveAspectRatio="none"
+       xlink:href="img/22_ssh_config.png"
+       id="image99668"
+       x="760"
+       y="130"
+       style="stroke-width:1.89392" />
+  </g>
+  <g
+     style="display:none"
      inkscape:label="Задания для самостоятельного выполнения"
      id="g7334"
      inkscape:groupmode="layer">
