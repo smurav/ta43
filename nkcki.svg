@@ -29,11 +29,11 @@
      inkscape:cx="845"
      inkscape:cy="349"
      inkscape:document-units="px"
-     inkscape:current-layer="g91665"
+     inkscape:current-layer="layer9"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1132"
-     inkscape:window-x="1920"
+     inkscape:window-x="3840"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
@@ -6973,7 +6973,7 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="title"
-     style="display:inline">
+     style="display:none">
     <a
        id="a3034">
       <rect
@@ -7094,7 +7094,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="master_slide"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#5f7da9;stroke-opacity:1"
@@ -8421,25 +8421,25 @@
        transform="translate(3.0517578e-4,-106.76581)"><tspan
          x="126.5921"
          y="448.73944"
-         id="tspan168337"><tspan
+         id="tspan35015"><tspan
            style="line-height:120%;-inkscape-font-specification:'sans-serif, Normal'"
-           id="tspan168335">отказывать в предоставлении информации о компьютерныхн </tspan></tspan><tspan
+           id="tspan35013">отказывать в предоставлении информации о компьютерныхн </tspan></tspan><tspan
          x="126.5921"
          y="493.53939"
-         id="tspan168341"><tspan
+         id="tspan35019"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.0001115799 0.00010299683"
            style="line-height:120%;-inkscape-font-specification:'sans-serif, Normal'"
-           id="tspan168339">ицидентах, связанных с функционированием объектов КИИ, по </tspan></tspan><tspan
+           id="tspan35017">ицидентах, связанных с функционированием объектов КИИ, по </tspan></tspan><tspan
          x="126.5921"
          y="538.33935"
-         id="tspan168345"><tspan
+         id="tspan35023"><tspan
            style="line-height:120%;-inkscape-font-specification:'sans-serif, Normal'"
-           id="tspan168343">запросам органа иностранного государства или международной </tspan></tspan><tspan
+           id="tspan35021">запросам органа иностранного государства или международной </tspan></tspan><tspan
          x="126.5921"
          y="583.13933"
-         id="tspan168349"><tspan
+         id="tspan35027"><tspan
            style="line-height:120%;-inkscape-font-specification:'sans-serif, Normal'"
-           id="tspan168347">организации</tspan></tspan></text>
+           id="tspan35025">организации</tspan></tspan></text>
     <rect
        style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect684807"
@@ -8458,15 +8458,15 @@
        transform="translate(3.0517578e-4,113.05483)"><tspan
          x="126.5921"
          y="448.73944"
-         id="tspan168351">создавать рабочие группы из представителей субъектов критической </tspan><tspan
+         id="tspan35029">создавать рабочие группы из представителей субъектов критической </tspan><tspan
          x="126.5921"
          y="493.53939"
-         id="tspan168353">информационной инфраструктуры по согласованию с их руководством </tspan><tspan
+         id="tspan35031">информационной инфраструктуры по согласованию с их руководством </tspan><tspan
          x="126.5921"
          y="538.33935"
-         id="tspan168357"><tspan
+         id="tspan35035"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00010490417"
-           id="tspan168355">для решения вопросов, отнесенных к компетенции НКЦКИ</tspan></tspan></text>
+           id="tspan35033">для решения вопросов, отнесенных к компетенции НКЦКИ</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text694489"
@@ -8489,12 +8489,12 @@
        transform="translate(3.0517578e-4,279.99994)"><tspan
          x="126.5921"
          y="448.73944"
-         id="tspan168361"><tspan
+         id="tspan35039"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00010299683 0.00010299683"
-           id="tspan168359">привлекать к реагированию на компьютерные инциденты организации </tspan></tspan><tspan
+           id="tspan35037">привлекать к реагированию на компьютерные инциденты организации </tspan></tspan><tspan
          x="126.5921"
          y="493.53939"
-         id="tspan168363">и экспертов, осуществляющих деятельность в данной области</tspan></text>
+         id="tspan35041">и экспертов, осуществляющих деятельность в данной области</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -8564,21 +8564,21 @@
        transform="translate(3.0517578e-4,-6.76581)"><tspan
          x="126.5921"
          y="448.73944"
-         id="tspan168367"><tspan
+         id="tspan35045"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00010108948"
            style="line-height:120%;-inkscape-font-specification:'sans-serif, Normal'"
-           id="tspan168365">заключать от своего имени соглашения о сотрудничестве в области </tspan></tspan><tspan
+           id="tspan35043">заключать от своего имени соглашения о сотрудничестве в области </tspan></tspan><tspan
          x="126.5921"
          y="493.53939"
-         id="tspan168371"><tspan
+         id="tspan35049"><tspan
            style="line-height:120%;-inkscape-font-specification:'sans-serif, Normal'"
-           id="tspan168369">обнаружения, предупреждения и ликвидации последствий </tspan></tspan><tspan
+           id="tspan35047">обнаружения, предупреждения и ликвидации последствий </tspan></tspan><tspan
          x="126.5921"
          y="538.33935"
-         id="tspan168375"><tspan
+         id="tspan35053"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00010299683"
            style="line-height:120%;-inkscape-font-specification:'sans-serif, Normal'"
-           id="tspan168373">компьютерных атак и реагирования на компьютерные инциденты</tspan></tspan></text>
+           id="tspan35051">компьютерных атак и реагирования на компьютерные инциденты</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text723241"
@@ -12446,6 +12446,62 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
          id="tspan164348">собственности, аренды или ином законном основании.</tspan></text>
   </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="Взаимодействие с Центральным банком РФ"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-size:32px;line-height:120%;font-family:sans-serif"
+       x="280"
+       y="470"
+       id="text13196"><tspan
+         sodipodi:role="line"
+         id="tspan13194"
+         x="280"
+         y="470">https://safe-surf.ru/specialists/article/5301/681725/</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="Формат JSON"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-size:32px;line-height:120%;font-family:sans-serif"
+       x="420"
+       y="430"
+       id="text4906"><tspan
+         sodipodi:role="line"
+         id="tspan4904"
+         x="420"
+         y="430">https://safe-surf.ru/specialists/article/5252/638030/</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="FinCERT"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:32px;line-height:120%;font-family:sans-serif"
+       x="340"
+       y="250"
+       id="text24943"><tspan
+         sodipodi:role="line"
+         id="tspan24941"
+         x="340"
+         y="250">https://lib.itsec.ru/articles2/focus/problemnye-voprosy-vzaimodeystviya-s-gossopka</tspan><tspan
+         sodipodi:role="line"
+         x="340"
+         y="288.39999"
+         id="tspan28653">https://asros.ru/upload/iblock/534/17086_asoifintsert.pdf</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Статистика НКЦКИ" />
   <g
      style="display:none"
      inkscape:label="Ссылки"
