@@ -6,7 +6,7 @@
    height="900"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="nkcki.svg"
    enable-background="new"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -26,15 +26,15 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="845"
-     inkscape:cy="349"
+     inkscape:cx="922"
+     inkscape:cy="356"
      inkscape:document-units="px"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="g140499"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1132"
-     inkscape:window-x="3840"
-     inkscape:window-y="0"
+     inkscape:window-height="1018"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -8421,25 +8421,25 @@
        transform="translate(3.0517578e-4,-106.76581)"><tspan
          x="126.5921"
          y="448.73944"
-         id="tspan35015"><tspan
+         id="tspan262243"><tspan
            style="line-height:120%;-inkscape-font-specification:'sans-serif, Normal'"
-           id="tspan35013">отказывать в предоставлении информации о компьютерныхн </tspan></tspan><tspan
+           id="tspan262241">отказывать в предоставлении информации о компьютерныхн </tspan></tspan><tspan
          x="126.5921"
          y="493.53939"
-         id="tspan35019"><tspan
+         id="tspan262247"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.0001115799 0.00010299683"
            style="line-height:120%;-inkscape-font-specification:'sans-serif, Normal'"
-           id="tspan35017">ицидентах, связанных с функционированием объектов КИИ, по </tspan></tspan><tspan
+           id="tspan262245">ицидентах, связанных с функционированием объектов КИИ, по </tspan></tspan><tspan
          x="126.5921"
          y="538.33935"
-         id="tspan35023"><tspan
+         id="tspan262251"><tspan
            style="line-height:120%;-inkscape-font-specification:'sans-serif, Normal'"
-           id="tspan35021">запросам органа иностранного государства или международной </tspan></tspan><tspan
+           id="tspan262249">запросам органа иностранного государства или международной </tspan></tspan><tspan
          x="126.5921"
          y="583.13933"
-         id="tspan35027"><tspan
+         id="tspan262255"><tspan
            style="line-height:120%;-inkscape-font-specification:'sans-serif, Normal'"
-           id="tspan35025">организации</tspan></tspan></text>
+           id="tspan262253">организации</tspan></tspan></text>
     <rect
        style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect684807"
@@ -8458,15 +8458,15 @@
        transform="translate(3.0517578e-4,113.05483)"><tspan
          x="126.5921"
          y="448.73944"
-         id="tspan35029">создавать рабочие группы из представителей субъектов критической </tspan><tspan
+         id="tspan262257">создавать рабочие группы из представителей субъектов критической </tspan><tspan
          x="126.5921"
          y="493.53939"
-         id="tspan35031">информационной инфраструктуры по согласованию с их руководством </tspan><tspan
+         id="tspan262259">информационной инфраструктуры по согласованию с их руководством </tspan><tspan
          x="126.5921"
          y="538.33935"
-         id="tspan35035"><tspan
+         id="tspan262263"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00010490417"
-           id="tspan35033">для решения вопросов, отнесенных к компетенции НКЦКИ</tspan></tspan></text>
+           id="tspan262261">для решения вопросов, отнесенных к компетенции НКЦКИ</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text694489"
@@ -8489,12 +8489,12 @@
        transform="translate(3.0517578e-4,279.99994)"><tspan
          x="126.5921"
          y="448.73944"
-         id="tspan35039"><tspan
+         id="tspan262267"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00010299683 0.00010299683"
-           id="tspan35037">привлекать к реагированию на компьютерные инциденты организации </tspan></tspan><tspan
+           id="tspan262265">привлекать к реагированию на компьютерные инциденты организации </tspan></tspan><tspan
          x="126.5921"
          y="493.53939"
-         id="tspan35041">и экспертов, осуществляющих деятельность в данной области</tspan></text>
+         id="tspan262269">и экспертов, осуществляющих деятельность в данной области</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -8564,21 +8564,21 @@
        transform="translate(3.0517578e-4,-6.76581)"><tspan
          x="126.5921"
          y="448.73944"
-         id="tspan35045"><tspan
+         id="tspan262273"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00010108948"
            style="line-height:120%;-inkscape-font-specification:'sans-serif, Normal'"
-           id="tspan35043">заключать от своего имени соглашения о сотрудничестве в области </tspan></tspan><tspan
+           id="tspan262271">заключать от своего имени соглашения о сотрудничестве в области </tspan></tspan><tspan
          x="126.5921"
          y="493.53939"
-         id="tspan35049"><tspan
+         id="tspan262277"><tspan
            style="line-height:120%;-inkscape-font-specification:'sans-serif, Normal'"
-           id="tspan35047">обнаружения, предупреждения и ликвидации последствий </tspan></tspan><tspan
+           id="tspan262275">обнаружения, предупреждения и ликвидации последствий </tspan></tspan><tspan
          x="126.5921"
          y="538.33935"
-         id="tspan35053"><tspan
+         id="tspan262281"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00010299683"
            style="line-height:120%;-inkscape-font-specification:'sans-serif, Normal'"
-           id="tspan35051">компьютерных атак и реагирования на компьютерные инциденты</tspan></tspan></text>
+           id="tspan262279">компьютерных атак и реагирования на компьютерные инциденты</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text723241"
@@ -12448,6 +12448,500 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="g140499"
+     inkscape:label="Состав технических параметров компьютерного инцидента"
+     style="display:inline">
+    <a
+       id="a140479"
+       xlink:href="https://safe-surf.ru/specialists/article/5252/638030/"
+       style="display:inline"
+       transform="translate(-18,2)">
+      <text
+         id="text140471"
+         y="139.28381"
+         x="806.36462"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="139.28381"
+           x="806.36462"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
+           id="tspan140469">Состав технических параметров компьютерного инцидента, указываемых при </tspan><tspan
+           y="177.68381"
+           x="806.36462"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
+           id="tspan142941">представлении информации в ГосСОПКА, и форматы представления </tspan><tspan
+           y="216.08382"
+           x="806.36462"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle"
+           id="tspan151605">информации о компьютерных инцидентах</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+         x="-1022"
+         y="348"
+         id="text140477"><tspan
+           sodipodi:role="line"
+           id="tspan140473"
+           x="-1022"
+           y="348" /><tspan
+           sodipodi:role="line"
+           id="tspan140475"
+           x="-1022"
+           y="398" /></text>
+    </a>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect140481"
+       width="20"
+       height="20"
+       x="-503.87186"
+       y="568.72424"
+       ry="0"
+       transform="rotate(-45)" />
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect140487"
+       width="20"
+       height="20"
+       x="-454.08029"
+       y="518.93286"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text140497"
+       y="627.9079"
+       x="106.5921"
+       style="font-style:normal;font-weight:normal;font-size:37.3333px;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="627.9079"
+         x="106.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan140495">уведомление о компьютерной атаке</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect159881"
+       width="20"
+       height="20"
+       x="-183.45258"
+       y="248.30495"
+       ry="0"
+       transform="rotate(-45)" />
+    <a
+       id="a159891"
+       xlink:href="https://safe-surf.ru/upload/%D0%A4%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D1%8B%20%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B2%20%D0%93%D0%BE%D1%81%D0%A1%D0%9E%D0%9F%D0%9A%D0%90_json-%D1%81%D1%85%D0%B5%D0%BC%D1%8B.zip">
+      <text
+         id="text159889"
+         y="247.82397"
+         x="106.5921"
+         style="font-style:normal;font-weight:normal;font-size:37.3333px;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="247.82397"
+           x="106.5921"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan159883" /><tspan
+           y="292.62393"
+           x="106.5921"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan159887">форматы представления информации о компьютерных инцидентах</tspan><tspan
+           y="337.42389"
+           x="106.5921"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan217929">(компьютерных атаках, уязвимостях) в формате JSON</tspan></text>
+    </a>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect159893"
+       width="20"
+       height="20"
+       x="-264.51627"
+       y="329.36887"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text159903"
+       y="408.15869"
+       x="106.5921"
+       style="font-style:normal;font-weight:normal;font-size:37.3333px;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="408.15869"
+         x="106.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan164144">базовые категории и типы событий, по которым инициируется </tspan><tspan
+         y="452.95865"
+         x="106.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan212829">информационное взаимодействие</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect165596"
+       width="20"
+       height="20"
+       x="-342.43491"
+       y="407.28751"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text165602"
+       y="515.61792"
+       x="106.5921"
+       style="font-style:normal;font-weight:normal;font-size:37.3333px;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="515.61792"
+         x="106.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan190643">уведомления о компьютерном инциденте и о признаке компьютерного </tspan><tspan
+         y="560.41791"
+         x="106.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan256113">инцидента </tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect172402"
+       width="20"
+       height="20"
+       x="-404.28882"
+       y="469.14142"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text172406"
+       y="698.6427"
+       x="106.5921"
+       style="font-style:normal;font-weight:normal;font-size:37.3333px;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="698.6427"
+         x="106.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan172404">уведомление об уязвимости и о признаке уязвимости</tspan></text>
+    <text
+       id="text227687"
+       y="768.73944"
+       x="106.5921"
+       style="font-style:normal;font-weight:normal;font-size:37.3333px;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="768.73944"
+         x="106.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan227685">технические сведения в различных видах уведомлений</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Статистика по основным результатам деятельнсоти НКЦКИ"
+     style="display:none">
+    <a
+       id="a22201"
+       xlink:href="https://safe-surf.ru/users-of/media/nkcki-statistics/"
+       transform="translate(-20,-40)">
+      <text
+         id="text7075"
+         y="165.92273"
+         x="66.32444"
+         style="font-style:normal;font-weight:normal;font-size:11.9191px;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none;stroke-width:1"
+         xml:space="preserve"><tspan
+           y="165.92273"
+           x="66.32444"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+           id="tspan7073">На сайте <tspan
+   style="fill:#800080"
+   id="tspan21591">https://safe-surf.ru/users-of/media/nkcki-statistics/</tspan> НКЦКИ еженедельно</tspan><tspan
+           y="208.83138"
+           x="66.32444"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.7572px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1"
+           id="tspan9964">публикует статистику по основным результатам деятельности:</tspan></text>
+    </a>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect7089"
+       width="20"
+       height="20"
+       x="-311.89951"
+       y="376.75201"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text7093"
+       y="242.75888"
+       x="104.39484"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="242.75888"
+         x="104.39484"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan7091">количество вредоносных </tspan><tspan
+         y="285.95889"
+         x="104.39484"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan77616">ресурсов, деятельность </tspan><tspan
+         y="329.15887"
+         x="104.39484"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan77618">которых прекращена по</tspan><tspan
+         y="372.35889"
+         x="104.39484"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan31881">по обращениям НКЦКИё</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect7095"
+       width="20"
+       height="20"
+       x="-180.56982"
+       y="245.42238"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text7099"
+       y="428.48706"
+       x="106.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="428.48706"
+         x="106.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan7097">количество направленых</tspan><tspan
+         y="471.68707"
+         x="106.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan80990">запросов о пресечении </tspan><tspan
+         y="514.88708"
+         x="106.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan80992">вредоносной активности </tspan><tspan
+         y="558.08704"
+         x="106.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan37373">уполномоченным органам</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect7101"
+       width="20"
+       height="20"
+       x="-458.50259"
+       y="523.35516"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text7111"
+       y="614.21521"
+       x="106.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="614.21521"
+         x="106.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan7109">количество направленых </tspan><tspan
+         y="657.41522"
+         x="106.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan83724">уведомлений российским </tspan><tspan
+         y="700.61523"
+         x="106.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan83726">операторам связи о </tspan><tspan
+         y="743.81519"
+         x="106.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan49222">вредоносной активности </tspan><tspan
+         y="787.0152"
+         x="106.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan86020">в их адресном пространстве</tspan></text>
+    <image
+       width="866"
+       height="487.125"
+       preserveAspectRatio="none"
+       xlink:href="img/2909-051022.png"
+       id="image76300"
+       x="696"
+       y="216.875"
+       style="stroke-width:1.47806" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g87612"
+     inkscape:label="Статистика НКЦКИ (продолжение)"
+     style="display:none">
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect87572"
+       width="20"
+       height="20"
+       x="-163.07614"
+       y="227.92865"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text87582"
+       y="142.75888"
+       x="104.39484"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="142.75888"
+         x="104.39484"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan87580">количество фактов оказания содействия участникам ГосСОПКА в </tspan><tspan
+         y="185.95888"
+         x="104.39484"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan92137">реагировании на компьютерные атаки и компьютерные инциденты</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect87584"
+       width="20"
+       height="20"
+       x="-76.770271"
+       y="141.62283"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text87594"
+       y="261.21906"
+       x="106.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="261.21906"
+         x="106.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan87592">число новых участников, </tspan><tspan
+         y="304.41907"
+         x="106.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan104816">присоединившихся к системе</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect87596"
+       width="20"
+       height="20"
+       x="-389.52292"
+       y="454.37549"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text87608"
+       y="379.6792"
+       x="106.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="379.6792"
+         x="106.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan87606">количество снятых с </tspan><tspan
+         y="422.87921"
+         x="106.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan111210">делегирования доменных </tspan><tspan
+         y="466.07919"
+         x="106.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan112364">имён</tspan></text>
+    <image
+       width="860"
+       height="483.75"
+       preserveAspectRatio="none"
+       xlink:href="img/0610-121022.png"
+       id="image87622"
+       x="700"
+       y="218.28038"
+       style="stroke-width:1.48837" />
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect112526"
+       width="20"
+       height="20"
+       x="-259.64633"
+       y="324.49884"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text112534"
+       y="754.21509"
+       x="106.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="754.21509"
+         x="106.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan116667">количество проинформированных владельцев российских информационных </tspan><tspan
+         y="797.4151"
+         x="106.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan116671">ресурсов о наличии признаков компьютерных инцидентов</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect112536"
+       width="20"
+       height="20"
+       x="-509.1351"
+       y="573.98767"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text112544"
+       y="542.16553"
+       x="106.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="542.16553"
+         x="106.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan112542">количество бюллетеней об </tspan><tspan
+         y="585.36554"
+         x="106.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan123890">актуальных уязвимостях ПО,</tspan><tspan
+         y="628.56555"
+         x="106.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan123892">распространённых среди </tspan><tspan
+         y="671.7655"
+         x="106.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan123894">участников системы</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="Взаимодействие с Центральным банком РФ"
      style="display:none">
@@ -12464,25 +12958,9 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer11"
-     inkscape:label="Формат JSON"
-     style="display:none">
-    <text
-       xml:space="preserve"
-       style="font-size:32px;line-height:120%;font-family:sans-serif"
-       x="420"
-       y="430"
-       id="text4906"><tspan
-         sodipodi:role="line"
-         id="tspan4904"
-         x="420"
-         y="430">https://safe-surf.ru/specialists/article/5252/638030/</tspan></text>
-  </g>
-  <g
-     inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="FinCERT"
-     style="display:inline">
+     style="display:none">
     <text
        xml:space="preserve"
        style="font-size:32px;line-height:120%;font-family:sans-serif"
@@ -12498,10 +12976,6 @@
          y="288.39999"
          id="tspan28653">https://asros.ru/upload/iblock/534/17086_asoifintsert.pdf</tspan></text>
   </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer5"
-     inkscape:label="Статистика НКЦКИ" />
   <g
      style="display:none"
      inkscape:label="Ссылки"
@@ -12633,6 +13107,58 @@
            sodipodi:role="line"
            style="font-size:36px;line-height:120%;font-family:sans-serif"
            id="tspan822098" /></text>
+    </a>
+    <rect
+       style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect3649"
+       width="20"
+       height="20"
+       x="-249.53856"
+       y="342.67575"
+       ry="0"
+       transform="rotate(-45)" />
+    <a
+       id="a3655"
+       xlink:href="https://safe-surf.ru/specialists/article/5252/638030/"
+       style="display:inline"
+       transform="translate(85.171558,268.11411)">
+      <text
+         id="text3653"
+         y="159.28381"
+         x="40.863892"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="159.28381"
+           x="40.863892"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
+           id="tspan3651">Состав технических параметров компьютерного инцидента</tspan></text>
+    </a>
+    <rect
+       style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect3657"
+       width="20"
+       height="20"
+       x="-306.10715"
+       y="399.24435"
+       ry="0"
+       transform="rotate(-45)" />
+    <a
+       id="a3665"
+       xlink:href="https://safe-surf.ru/users-of/media/nkcki-statistics/"
+       style="display:inline"
+       transform="translate(85.171558,348.11411)">
+      <text
+         id="text3663"
+         y="159.28381"
+         x="40.863892"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="159.28381"
+           x="40.863892"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
+           id="tspan3661">Статистика по основным результатам деятельности НКЦКИ</tspan></text>
     </a>
   </g>
   <g
