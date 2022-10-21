@@ -6,7 +6,7 @@
    height="900"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="nkcki.svg"
    enable-background="new"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -26,15 +26,15 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="741.04791"
-     inkscape:cy="455.37677"
+     inkscape:cx="740.3408"
+     inkscape:cy="456.08387"
      inkscape:document-units="px"
-     inkscape:current-layer="g818900"
+     inkscape:current-layer="layer5"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1018"
-     inkscape:window-x="-6"
-     inkscape:window-y="-6"
+     inkscape:window-height="1132"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -8513,25 +8513,25 @@
        transform="translate(3.0517578e-4,-106.76581)"><tspan
          x="126.5921"
          y="448.73944"
-         id="tspan119304"><tspan
+         id="tspan14185"><tspan
            style="line-height:120%;-inkscape-font-specification:'sans-serif, Normal'"
-           id="tspan119302">отказывать в предоставлении информации о компьютерныхн </tspan></tspan><tspan
+           id="tspan14183">отказывать в предоставлении информации о компьютерныхн </tspan></tspan><tspan
          x="126.5921"
          y="493.53939"
-         id="tspan119308"><tspan
+         id="tspan14189"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.0001115799 0.00010299683"
            style="line-height:120%;-inkscape-font-specification:'sans-serif, Normal'"
-           id="tspan119306">ицидентах, связанных с функционированием объектов КИИ, по </tspan></tspan><tspan
+           id="tspan14187">ицидентах, связанных с функционированием объектов КИИ, по </tspan></tspan><tspan
          x="126.5921"
          y="538.33935"
-         id="tspan119312"><tspan
+         id="tspan14193"><tspan
            style="line-height:120%;-inkscape-font-specification:'sans-serif, Normal'"
-           id="tspan119310">запросам органа иностранного государства или международной </tspan></tspan><tspan
+           id="tspan14191">запросам органа иностранного государства или международной </tspan></tspan><tspan
          x="126.5921"
          y="583.13933"
-         id="tspan119316"><tspan
+         id="tspan14197"><tspan
            style="line-height:120%;-inkscape-font-specification:'sans-serif, Normal'"
-           id="tspan119314">организации</tspan></tspan></text>
+           id="tspan14195">организации</tspan></tspan></text>
     <rect
        style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect684807"
@@ -8550,15 +8550,15 @@
        transform="translate(3.0517578e-4,113.05483)"><tspan
          x="126.5921"
          y="448.73944"
-         id="tspan119318">создавать рабочие группы из представителей субъектов критической </tspan><tspan
+         id="tspan14199">создавать рабочие группы из представителей субъектов критической </tspan><tspan
          x="126.5921"
          y="493.53939"
-         id="tspan119320">информационной инфраструктуры по согласованию с их руководством </tspan><tspan
+         id="tspan14201">информационной инфраструктуры по согласованию с их руководством </tspan><tspan
          x="126.5921"
          y="538.33935"
-         id="tspan119324"><tspan
+         id="tspan14205"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00010490417"
-           id="tspan119322">для решения вопросов, отнесенных к компетенции НКЦКИ</tspan></tspan></text>
+           id="tspan14203">для решения вопросов, отнесенных к компетенции НКЦКИ</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text694489"
@@ -8581,12 +8581,12 @@
        transform="translate(3.0517578e-4,279.99994)"><tspan
          x="126.5921"
          y="448.73944"
-         id="tspan119328"><tspan
+         id="tspan14209"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00010299683 0.00010299683"
-           id="tspan119326">привлекать к реагированию на компьютерные инциденты организации </tspan></tspan><tspan
+           id="tspan14207">привлекать к реагированию на компьютерные инциденты организации </tspan></tspan><tspan
          x="126.5921"
          y="493.53939"
-         id="tspan119330">и экспертов, осуществляющих деятельность в данной области</tspan></text>
+         id="tspan14211">и экспертов, осуществляющих деятельность в данной области</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -8656,21 +8656,21 @@
        transform="translate(3.0517578e-4,-6.76581)"><tspan
          x="126.5921"
          y="448.73944"
-         id="tspan119334"><tspan
+         id="tspan14215"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00010108948"
            style="line-height:120%;-inkscape-font-specification:'sans-serif, Normal'"
-           id="tspan119332">заключать от своего имени соглашения о сотрудничестве в области </tspan></tspan><tspan
+           id="tspan14213">заключать от своего имени соглашения о сотрудничестве в области </tspan></tspan><tspan
          x="126.5921"
          y="493.53939"
-         id="tspan119338"><tspan
+         id="tspan14219"><tspan
            style="line-height:120%;-inkscape-font-specification:'sans-serif, Normal'"
-           id="tspan119336">обнаружения, предупреждения и ликвидации последствий </tspan></tspan><tspan
+           id="tspan14217">обнаружения, предупреждения и ликвидации последствий </tspan></tspan><tspan
          x="126.5921"
          y="538.33935"
-         id="tspan119342"><tspan
+         id="tspan14223"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00010299683"
            style="line-height:120%;-inkscape-font-specification:'sans-serif, Normal'"
-           id="tspan119340">компьютерных атак и реагирования на компьютерные инциденты</tspan></tspan></text>
+           id="tspan14221">компьютерных атак и реагирования на компьютерные инциденты</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text723241"
@@ -9137,7 +9137,7 @@
   <g
      inkscape:groupmode="layer"
      id="g4604"
-     inkscape:label="Копия Приказ ФСБ России от 24 июля 2018 г. № 368"
+     inkscape:label="Приказ ФСБ России от 24 июля 2018 г. № 368"
      style="display:none">
     <a
        id="a4584"
@@ -16977,7 +16977,7 @@
          x="104.39484"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan31881">по обращениям НКЦКИё</tspan></text>
+         id="tspan31881">по обращениям НКЦКИ</tspan></text>
     <rect
        style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect7095"
