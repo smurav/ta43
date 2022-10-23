@@ -9,9 +9,9 @@
 1. [Целенаправленные атаки на компьютерные системы критической информационной инфраструктуры](../kii_ta.svg)
 1. [Основы сетевых технологий](../kii_network.svg)
 1. [Знакомcтво с терминалом](../ta43_lab_terminal.svg)
-1. [Знакомство с Wireshark](../ta43_lab_wireshark.svg)
 
 ### 11 ноября 
+1. [Протоколы канального уровня](../ta43_lab_wireshark.svg)
 1. [Протоколы сетевого уровня](../ta43_lab_network_protocols.svg)
 1. [Протоколы транспортного уровня](../ta43_lab_transport_protocols.svg)
 1. [Протоколы прикладного уровня](../ta43_lab_application_protocols.svg)
@@ -26,7 +26,7 @@
 1. [Парольные атаки](../ta43_lab_password_attacks.svg)
 1. [Поддержание доступа](../ta43_lab_maintaining_access.svg)
 
-### 9 декабря Атаки на Web-приложения
+### 9 декабря
 1. [WEB-прокси](../ta43_lab_proxy.svg)
 1. [Атаки на Web-приложения (Часть 1)](../ta43_lab_web_attacks.svg)
 1. [Атаки на Web-приложения (Часть 2)](../ta43_lab_web_attacks2.svg)
