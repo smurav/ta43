@@ -6811,7 +6811,7 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="title"
-     style="display:none">
+     style="display:inline">
     <rect
        y="152.36218"
        x="0"
@@ -6924,7 +6924,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="master_slide"
-     style="display:inline">
+     style="display:none">
     <rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#5f7da9;stroke-opacity:1"
        id="rect9037"
@@ -7815,7 +7815,7 @@
      inkscape:groupmode="layer"
      id="g56402"
      inkscape:label="Задания для самостоятельного выполнения"
-     style="display:inline">
+     style="display:none">
     <a
        id="a56322"
        xlink:href="http://www.postgresql.org/docs/current/static/transaction-iso.html"
