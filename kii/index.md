@@ -13,7 +13,7 @@
 ### 11 ноября 
 1. [Знакомство с Wireshark](../ta43_lab_wireshark.svg)
 1. [Протоколы сетевого уровня](../ta43_lab_network_protocols.svg)
-1. [Протоколы транспортного уровня](../ta43_lab_transport_protocols.svg)
+1. [Протоколы транспортного уровня](../kii_lab_transport_protocols.svg)
 1. [Протоколы прикладного уровня](../ta43_lab_application_protocols.svg)
 
 ### 18 ноября 
