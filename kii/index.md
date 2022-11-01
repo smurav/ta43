@@ -16,6 +16,9 @@
 1. [Протоколы транспортного уровня](../kii_lab_transport_protocols.svg)
 1. [Протоколы прикладного уровня](../ta43_lab_application_protocols.svg)
 
+#### Дополнительные задания для самостоятельного выполнения
+1. [Знакомство с языком Python](../kii_lab_python.svg)
+
 ### 18 ноября 
 1. [Разведка и сбор данных](../ta43_lab_reconnaissance.svg)
 1. [Сканирование](../ta43_lab_scanning.svg)
