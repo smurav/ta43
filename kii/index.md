@@ -21,9 +21,14 @@
 1. [Инфрастуктуры открытых ключей](../ta43_lab_pki.svg)
 
 ### 18 ноября 
-1. [Разведка и сбор данных](../ta43_lab_reconnaissance.svg)
-1. [Сканирование](../ta43_lab_scanning.svg)
-1. [Сканирование уязвимостей](../ta43_lab_vuln_scanning.svg)
+1. [Разведка и сбор данных](../kii_reconnaissance)
+1. [Сканирование](../kii_scanning.svg)
+1. [Сканирование уязвимостей](../kii_vuln_scanning.svg)
+
+#### Дополнительные задания для самостоятельного выполнения
+1. [Разведка и сбор данных](../kii_lab_reconnaissance.svg)
+1. [Сканирование](../kii_lab_scanning.svg)
+1. [Сканирование уязвимостей](../kii_lab_vuln_scanning.svg)
 
 ### 2 декабря 
 1. [Эксплуатация уязвимостей](../ta43_lab_exploitation.svg)
