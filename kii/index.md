@@ -21,7 +21,7 @@
 1. [Инфрастуктуры открытых ключей](../ta43_lab_pki.svg)
 
 ### 18 ноября 
-1. [Разведка и сбор данных](../kii_reconnaissance)
+1. [Разведка и сбор данных](../kii_reconnaissance.svg)
 1. [Сканирование](../kii_scanning.svg)
 1. [Сканирование уязвимостей](../kii_vuln_scanning.svg)
 

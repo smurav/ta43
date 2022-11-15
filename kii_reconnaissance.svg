@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.55154866"
-     inkscape:cx="944.61293"
+     inkscape:cx="795.94065"
      inkscape:cy="371.68071"
      inkscape:document-units="px"
-     inkscape:current-layer="g118158"
+     inkscape:current-layer="layer7"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1018"
@@ -7746,7 +7746,7 @@
        style="stroke-width:1.35021" />
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="Демонстрация"
      id="g118158"
      inkscape:groupmode="layer">
@@ -7792,6 +7792,455 @@
            y="790"
            style="font-size:40px;line-height:2;font-family:sans-serif">https://smurav.github.io/ta43/</tspan></text>
     </a>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Сбор общедоступной информации"
+     style="display:none">
+    <rect
+       y="290"
+       x="580.09131"
+       height="79.999977"
+       width="939.90875"
+       id="rect5895"
+       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.12119;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="210.00002"
+       x="580.09131"
+       height="79.999977"
+       width="939.90875"
+       id="rect5909"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.12119;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="607.35522"
+       y="260.59741"
+       id="text5913"><tspan
+         sodipodi:role="line"
+         id="tspan5911"
+         x="607.35522"
+         y="260.59741">Просмотр истории изменения сайтов</tspan></text>
+    <a
+       id="a10159"
+       xlink:href="https://archive.org/"
+       transform="translate(0,-19.999987)"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="107.35522"
+         y="280.59741"
+         id="text5917"><tspan
+           sodipodi:role="line"
+           id="tspan5915"
+           x="107.35522"
+           y="280.59741">archive.org</tspan></text>
+    </a>
+    <rect
+       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5921"
+       width="500.00003"
+       height="79.999977"
+       x="80"
+       y="290" />
+    <text
+       id="text5925"
+       y="340.59741"
+       x="607.35522"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan5923"
+         x="607.35522"
+         y="340.59741">Информация о домене и сети</tspan></text>
+    <a
+       id="a10163"
+       xlink:href="https://www.robtex.com/"
+       transform="translate(0,-19.999987)"
+       style="display:inline">
+      <text
+         id="text5929"
+         y="360.59741"
+         x="107.35522"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           sodipodi:role="line"
+           id="tspan5927"
+           x="107.35522"
+           y="360.59741">robtex.com</tspan></text>
+    </a>
+    <rect
+       y="130.00002"
+       x="580.15479"
+       height="79.999977"
+       width="939.84528"
+       id="rect5947"
+       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.12119;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="949.6272"
+       y="181.68947"
+       id="text5951"><tspan
+         sodipodi:role="line"
+         id="tspan5949"
+         x="949.6272"
+         y="181.68947"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Описание</tspan></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5963"
+       width="500.00003"
+       height="79.999977"
+       x="80"
+       y="210.00002" />
+    <rect
+       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5965"
+       width="500.00003"
+       height="79.999977"
+       x="80"
+       y="130.00002" />
+    <text
+       id="text5969"
+       y="183.10451"
+       x="258.19336"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan5967"
+         x="258.19336"
+         y="183.10451">Ресурс</tspan></text>
+    <text
+       id="text5979"
+       y="190.00002"
+       x="860"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;line-height:1.25;font-family:Aharoni;-inkscape-font-specification:Aharoni;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="190.00002"
+         x="860"
+         id="tspan5977"
+         sodipodi:role="line"> </tspan></text>
+    <rect
+       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.12119;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10167"
+       width="939.90875"
+       height="79.999977"
+       x="580.09131"
+       y="450" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.12119;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10169"
+       width="939.90875"
+       height="79.999977"
+       x="580.09131"
+       y="370" />
+    <text
+       id="text10173"
+       y="420.59741"
+       x="607.35522"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="420.59741"
+         x="607.35522"
+         id="tspan10171"
+         sodipodi:role="line">Информация о доменах</tspan></text>
+    <a
+       xlink:href="https://www.reg.ru/whois/"
+       id="a10179"
+       transform="translate(0,140.00002)"
+       style="display:inline">
+      <text
+         id="text10177"
+         y="280.59741"
+         x="107.35522"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="280.59741"
+           x="107.35522"
+           id="tspan10175"
+           sodipodi:role="line">reg.ru/whois</tspan></text>
+    </a>
+    <rect
+       y="450"
+       x="80"
+       height="79.999977"
+       width="500.00003"
+       id="rect10181"
+       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="607.35522"
+       y="500.59741"
+       id="text10185"><tspan
+         y="500.59741"
+         x="607.35522"
+         id="tspan10183"
+         sodipodi:role="line">Сведения о вакансиях и компаниях</tspan><tspan
+         y="543.79742"
+         x="607.35522"
+         sodipodi:role="line"
+         id="tspan10237" /></text>
+    <a
+       xlink:href="https://hh.ru/employer"
+       id="a10191"
+       transform="translate(0,140.00002)"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="107.35522"
+         y="360.59741"
+         id="text10189"><tspan
+           y="360.59741"
+           x="107.35522"
+           id="tspan10187"
+           sodipodi:role="line">hh.ru</tspan></text>
+    </a>
+    <rect
+       y="370"
+       x="80"
+       height="79.999977"
+       width="500.00003"
+       id="rect10193"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="610"
+       x="580.09131"
+       height="79.999977"
+       width="939.90875"
+       id="rect10195"
+       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.12119;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="530"
+       x="580.09131"
+       height="79.999977"
+       width="939.90875"
+       id="rect10197"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.12119;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="607.35522"
+       y="580.59741"
+       id="text10201"><tspan
+         sodipodi:role="line"
+         id="tspan10199"
+         x="607.35522"
+         y="580.59741">Сведения из ЕГРЮЛ/ЕГРИП</tspan></text>
+    <a
+       transform="translate(0,300.00002)"
+       id="a10207"
+       xlink:href="https://egrul.nalog.ru/"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="107.35522"
+         y="280.59741"
+         id="text10205"><tspan
+           sodipodi:role="line"
+           id="tspan10203"
+           x="107.35522"
+           y="280.59741">egrul.nalog.ru/</tspan></text>
+    </a>
+    <rect
+       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10209"
+       width="500.00003"
+       height="79.999977"
+       x="80"
+       y="610" />
+    <text
+       id="text10213"
+       y="660.59741"
+       x="607.35522"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan10211"
+         x="607.35522"
+         y="660.59741">Сведения о компаниях</tspan></text>
+    <a
+       transform="translate(0,300.00002)"
+       id="a10219"
+       xlink:href="https://www.spark-interfax.ru/"
+       style="display:inline">
+      <text
+         id="text10217"
+         y="360.59741"
+         x="107.35522"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           sodipodi:role="line"
+           id="tspan10215"
+           x="107.35522"
+           y="360.59741">spark-interfax.ru/</tspan></text>
+    </a>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10221"
+       width="500.00003"
+       height="79.999977"
+       x="80"
+       y="530" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.12119;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10223"
+       width="939.90875"
+       height="79.999977"
+       x="580.09131"
+       y="690" />
+    <text
+       id="text10227"
+       y="740.59741"
+       x="607.35522"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="740.59741"
+         x="607.35522"
+         id="tspan10225"
+         sodipodi:role="line">Центр раскрытия корпоративной информации</tspan></text>
+    <a
+       xlink:href="https://www.e-disclosure.ru/"
+       id="a10233"
+       transform="translate(0,460.00002)"
+       style="display:inline">
+      <text
+         id="text10231"
+         y="280.59741"
+         x="107.35522"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="280.59741"
+           x="107.35522"
+           id="tspan10229"
+           sodipodi:role="line">e-disclosure.ru</tspan></text>
+    </a>
+    <rect
+       y="690"
+       x="80"
+       height="79.999977"
+       width="500.00003"
+       id="rect10235"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Информация о домене"
+     style="display:none">
+    <a
+       id="a138362"
+       xlink:href="https://www.robtex.com/dns-lookup/mail.ru"
+       transform="translate(-520,62.75177)">
+      <image
+         width="967.5"
+         height="565.5"
+         preserveAspectRatio="none"
+         xlink:href="img/robtex_mail_ru.png"
+         id="image121923"
+         x="600"
+         y="110"
+         style="display:inline" />
+    </a>
+    <a
+       id="a132300"
+       xlink:href="https://www.robtex.com/"
+       style="fill:#800080"
+       transform="translate(-40,-40)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+         x="98.152954"
+         y="205.26349"
+         id="text8206-1"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#800080"
+           sodipodi:role="line"
+           x="98.152954"
+           y="205.26349"
+           id="tspan7208-0">https://www.robtex.com</tspan></text>
+    </a>
+    <a
+       id="a143369"
+       xlink:href="https://www.reg.ru/whois/"
+       transform="translate(460,440)"
+       style="fill:#800080">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+         x="98.152954"
+         y="345.26349"
+         id="text132308"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#800080"
+           sodipodi:role="line"
+           x="98.152954"
+           y="345.26349"
+           id="tspan132306">https://www.reg.ru/whois/</tspan></text>
+    </a>
+    <a
+       id="a138357"
+       xlink:href="https://www.reg.ru/whois/mail.ru">
+      <g
+         id="g138355"
+         transform="translate(580,-620)">
+        <rect
+           style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77954;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect138348"
+           width="480"
+           height="640"
+           x="500"
+           y="770"
+           ry="20"
+           rx="20" />
+        <image
+           width="420"
+           height="590.56927"
+           preserveAspectRatio="none"
+           xlink:href="img/whois_mail_ru.png"
+           id="image134304"
+           x="530"
+           y="794.71533"
+           style="stroke-width:1.40119" />
+      </g>
+    </a>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Сведения о вакансиях"
+     style="display:inline">
+    <a
+       id="a145565"
+       xlink:href="https://hh.ru/employer/84201"
+       style="display:inline;fill:#800080"
+       transform="translate(-21.248047,14.839828)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+         x="98.152954"
+         y="205.26349"
+         id="text145563"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#800080"
+           sodipodi:role="line"
+           x="98.152954"
+           y="205.26349"
+           id="tspan145561">https://hh.ru/employer/84201</tspan></text>
+    </a>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="78.152954"
+       y="165.26347"
+       id="text149692"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="78.152954"
+         y="165.26347"
+         id="tspan149690">Сведения о текущих вакансиях МИФИ</tspan></text>
   </g>
   <g
      style="display:none"
