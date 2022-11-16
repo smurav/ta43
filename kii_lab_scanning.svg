@@ -7,7 +7,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="kii_reconnaissance.svg"
+   sodipodi:docname="kii_lab_scanning.svg"
    enable-background="new"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.55154866"
-     inkscape:cx="944.61294"
-     inkscape:cy="371.68071"
+     inkscape:zoom="0.45457458"
+     inkscape:cx="1064.7318"
+     inkscape:cy="197.98731"
      inkscape:document-units="px"
-     inkscape:current-layer="g102490"
+     inkscape:current-layer="layer4"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1018"
@@ -57,11 +57,6 @@
        spacingy="20"
        originy="30"
        originx="0" />
-    <sodipodi:guide
-       position="-169.39478,731.07222"
-       orientation="1,0"
-       id="guide7222"
-       inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
      id="defs4">
@@ -6434,7 +6429,7 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="title"
-     style="display:inline">
+     style="display:none">
     <a
        id="a3034">
       <rect
@@ -6524,20 +6519,25 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px">Стратегические информационные исследования</tspan></text>
     <text
        id="text8913"
-       y="589.90778"
-       x="801.10938"
+       y="562.6369"
+       x="798.16016"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;letter-spacing:0.3px;word-spacing:0px;text-anchor:middle;fill:#203d85;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan4346"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
-         y="589.90778"
-         x="801.10938"
-         sodipodi:role="line">Разведка и сбор данных</tspan><tspan
+         y="562.6369"
+         x="798.16016"
+         sodipodi:role="line">Сканирование</tspan><tspan
          id="tspan8919"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#203d85;fill-opacity:1"
-         y="645.18903"
-         x="801.2594"
-         sodipodi:role="line">Муравьёв С.К.</tspan></text>
+         y="617.91815"
+         x="798.16016"
+         sodipodi:role="line">лабораторная работа</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#203d85;fill-opacity:1"
+         y="671.25153"
+         x="798.31018"
+         sodipodi:role="line"
+         id="tspan6404">Муравьёв С.К.</tspan></text>
     <path
        style="fill:#224087;fill-opacity:1;stroke-width:1"
        d="m 129.09366,930.40423 c -15.85799,-8.3239 -32.140275,-19.4241 -40.027805,-27.2884 -7.7415,-7.7186 -19.25137,-25.263 -21.27213,-32.2142 l 0.18331,-52.5182 c 29.30978,-1.7858 57.744495,-3.4464 86.357145,-1.6729 l 9,0.7183 -17.9636,18.2184 c -9.87999,10.02009 -18.44115,18.2183 -19.02482,18.2183 -1.08148,0 -9.5116,-8.4887 -9.5116,-9.5778 0,-0.3288 3.26252,-3.6895 7.25,-7.468 l 7.25,-6.8702 -4.49998,0.051 c -2.47502,0.028 -13.95001,0.5719 -25.50002,1.208 l -20.821415,0.978 0.68738,37.6147 c 5.81242,16.8707 26.673495,36.2696 52.924355,49.2148 l 8.79026,4.33479 8.49695,-4.3509 c 25.24384,-12.9262 42.16441,-27.7756 50.52737,-44.34259 l 2.89512,-5.7351 v -62.8828 -62.88284 l -7.25,-2.15206 C 163.02731,732.47478 118.98935,730.239 80.591775,743.14371 l -0.75761,25.97712 3.75001,-0.5709 c 2.06249,-0.314 7.0125,-0.8797 10.99998,-1.257 3.987515,-0.3774 7.250005,-0.9465 7.250005,-1.2647 0,-0.3183 -1.66844,-2.28731 -3.707645,-4.37565 l -3.70764,-3.79699 4.873475,-4.94787 4.87347,-4.94788 31.66836,28.80469 -10.25,1.5078 c -5.59022,0.8224 -20.80335,1.7955 -33.701935,3.143 -12.89855,1.3474 -23.59389,2.4499 -23.76745,2.4499 -0.17348,0 -0.19502,-11.0923 -0.048,-24.6496 l 0.26759,-24.64961 6.4964,-2.42896 c 9.51757,-3.55856 28.808135,-8.00309 42.304825,-9.74699 28.97889,-3.74435 63.54773,-0.37932 89.89338,8.75048 l 9.30539,3.22469 0.25701,68.70589 0.25701,68.706 -2.41867,5.469 c -8.86844,20.0531 -29.51702,38.6936 -59.30317,53.5359 -6.71445,3.3457 -12.56444,6.075 -12.99999,6.065 -0.43555,-0.011 -6.30013,-2.9094 -13.03234,-6.4431 z M 67.834095,801.60793 v -5.5546 l 4.74999,-0.6031 c 7.98527,-1.01391 42.402145,-3.5846 47.990065,-3.5846 h 5.25997 v 5.8096 5.8096 l -20.25003,1.2095 c -11.137475,0.6651 -24.187505,1.4926 -28.999975,1.8389 l -8.75002,0.6294 z m 69.944125,0.4135 c -4.50266,-3.646 -1.68015,-12.1558 4.03181,-12.1558 3.10961,0 7.02407,3.901 7.02407,7 0,1.893 -0.88766,3.5531 -2.63486,4.9274 -3.2521,2.5581 -5.4697,2.6182 -8.42102,0.2284 z"
@@ -6550,7 +6550,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="master_slide"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#5f7da9;stroke-opacity:1"
@@ -6596,7 +6596,7 @@
          x="31.882812"
          y="881.53516"
          id="tspan9304"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">Разведка и сбор данных</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">Сканирование</tspan></text>
     <text
        id="text9306"
        y="881.53516"
@@ -6638,444 +6638,156 @@
        id="a5529-8" />
   </g>
   <g
-     style="display:none"
-     inkscape:label="Стандартные этапы тестирования"
-     id="g7199"
-     inkscape:groupmode="layer">
-    <g
-       id="g7123"
-       transform="matrix(0.89081565,0,0,0.89081565,17.410639,78.550889)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path7121"
-         d="m 1683.555,141.23847 -73.6816,16.57812 19.1621,20.75977 C 1369.592,414.3578 977.62737,639.0603 294.16892,678.11508 l 1.07812,18.86718 C 983.31377,657.66417 1380.5862,429.87979 1641.8539,192.46307 l 19.291,20.89844 z"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#d7e3f4;fill-opacity:1;fill-rule:nonzero;stroke:#2c5aa0;stroke-width:3.77953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-         sodipodi:nodetypes="cccccccc" />
-    </g>
-    <circle
-       r="100"
-       cy="690"
-       cx="300"
-       id="circle7125"
-       style="opacity:1;fill:#ffd5d5;fill-opacity:1;stroke:#ff0000;stroke-width:3.77953;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
-    <circle
-       style="opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77953;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="circle7127"
-       cx="521.63959"
-       cy="660.16254"
-       r="100" />
-    <circle
-       r="100"
-       cy="610"
-       cx="735.0813"
-       id="circle7129"
-       style="opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77953;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
-    <circle
-       style="opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77953;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="circle7131"
-       cx="945.24384"
-       cy="545.0813"
-       r="100" />
-    <circle
-       r="100"
-       cy="461.80212"
-       cx="1151.8021"
-       id="circle7133"
-       style="opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77953;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
-    <circle
-       style="opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77953;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="circle7135"
-       cx="1344.9187"
-       cy="356.55832"
-       r="100" />
-    <a
-       style="display:inline;fill:#ff0000;stroke:#ff0000"
-       id="a7143"
-       transform="translate(210.89914,348.18816)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#ff0000;fill-opacity:1;stroke:#ff0000"
-         x="88.514923"
-         y="350.41339"
-         id="text7141"><tspan
-           id="tspan7139"
-           sodipodi:role="line"
-           x="88.514923"
-           y="350.41339">Reconnaissance</tspan></text>
-    </a>
-    <a
-       transform="translate(450.89914,308.18816)"
-       id="a7149"
-       style="display:inline;fill:#800080">
-      <text
-         id="text7147"
-         y="358.34351"
-         x="71.238495"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="358.34351"
-           x="71.238495"
-           sodipodi:role="line"
-           id="tspan7145">Scanning</tspan></text>
-    </a>
-    <a
-       style="display:inline;fill:#800080"
-       id="a7179"
-       transform="translate(670.89914,268.18816)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         x="64.592316"
-         y="338.513"
-         id="text7153"><tspan
-           id="tspan7151"
-           sodipodi:role="line"
-           x="64.592316"
-           y="338.513">Gaining</tspan><tspan
-           sodipodi:role="line"
-           x="64.592316"
-           y="362.513"
-           id="tspan7203">session</tspan></text>
-      <text
-         id="text7157"
-         y="273.5943"
-         x="274.75485"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="273.5943"
-           x="274.75485"
-           sodipodi:role="line"
-           id="tspan7201">Maintaining</tspan><tspan
-           y="297.5943"
-           x="274.75485"
-           sodipodi:role="line"
-           id="tspan7207">access</tspan></text>
-      <text
-         id="text7169"
-         y="94.674843"
-         x="673.93164"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           id="tspan7167"
-           y="94.674843"
-           x="673.93164"
-           sodipodi:role="line">Reporting</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         x="481.31314"
-         y="190.31514"
-         id="text7161"><tspan
-           id="tspan7159"
-           sodipodi:role="line"
-           x="481.31314"
-           y="190.31514">Covering</tspan><tspan
-           sodipodi:role="line"
-           x="481.31314"
-           y="214.31514"
-           id="tspan7209">tracks</tspan></text>
-    </a>
-    <a
-       style="display:inline;fill:#000080;fill-opacity:1"
-       id="a7197"
-       transform="translate(-41.906517,-238.81537)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:2;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000080;fill-opacity:1;stroke:none"
-         x="117.24609"
-         y="390"
-         id="text7195"><tspan
-           sodipodi:role="line"
-           id="tspan7181"
-           x="117.24609"
-           y="390"
-           style="fill:#ff0000">1. Разведка и сбор данных</tspan><tspan
-           id="tspan7183"
-           sodipodi:role="line"
-           x="117.24609"
-           y="454">2. Сканирование</tspan><tspan
-           id="tspan7185"
-           sodipodi:role="line"
-           x="117.24609"
-           y="518">3. Получение доступа</tspan><tspan
-           id="tspan7187"
-           sodipodi:role="line"
-           x="117.24609"
-           y="582">4. Поддержание доступа</tspan><tspan
-           id="tspan7189"
-           sodipodi:role="line"
-           x="117.24609"
-           y="646">5. Заметание следов</tspan><tspan
-           id="tspan7193"
-           sodipodi:role="line"
-           x="117.24609"
-           y="710">6. Составление отчёта </tspan></text>
-    </a>
-  </g>
-  <g
-     style="display:none"
-     inkscape:label="Подходы к сбору данных"
-     id="g8208"
-     inkscape:groupmode="layer">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="76.641235"
-       y="149.80608"
-       id="text8196"><tspan
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="76.641235"
-         y="149.80608"
-         id="tspan8194">Пассивный сбор</tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77953;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect8105"
-       width="1480"
-       height="120"
-       x="60"
-       y="170"
-       ry="20"
-       rx="20" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="78.152954"
-       y="225.26347"
-       id="text8206"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="78.152954"
-         y="225.26347"
-         id="tspan8204">Сбор данных осуществляется во внешних источниках, что делает </tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="78.152954"
-         y="268.46347"
-         id="tspan7208">практически невозможным обнаружение исполнителя.</tspan></text>
-    <text
-       id="text7212"
-       y="369.80609"
-       x="79.893188"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan7210"
-         y="369.80609"
-         x="79.893188"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120%;font-family:sans-serif">Активный сбор</tspan></text>
-    <rect
-       rx="20"
-       ry="20"
-       y="390"
-       x="60"
-       height="260"
-       width="1480"
-       id="rect7214"
-       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77953;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
-    <text
-       id="text7220"
-       y="445.26349"
-       x="80.279907"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="445.26349"
-         x="80.279907"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan7224">Подразумевается взаимодействие c целевой инфраструктурой, которое </tspan><tspan
-         y="488.4635"
-         x="80.279907"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan7226">фиксируется в журналах, может быть обнаружено администраторами</tspan><tspan
-         y="531.66351"
-         x="80.279907"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan7234">или системами обнаружения вторжений.</tspan><tspan
-         y="554.22913"
-         x="80.279907"
-         sodipodi:role="line"
-         id="tspan7236" /><tspan
-         y="589.26349"
-         x="80.279907"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan7238">Также возможно непосредственное взаимодействие со специалистами,</tspan><tspan
-         y="632.4635"
-         x="80.279907"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan7240">взаимодействующими с целевой системой.</tspan></text>
-  </g>
-  <g
      inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="Основные методы пассивного сбора данных"
+     inkscape:label="Задания для самостоятельного выполнения"
      style="display:none">
     <text
        id="text3231-91"
-       y="161.68945"
+       y="159.93164"
        x="116.58347"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         id="tspan7959"
-         y="161.68945"
+         y="159.93164"
          x="116.58347"
          sodipodi:role="line"
-         style="font-size:36px;line-height:120%;font-family:sans-serif">Использование поисковых систем</tspan></text>
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         id="tspan11346">Запустите машины kali, owasp и meta2</tspan></text>
     <rect
        style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect8068-5"
        width="20"
        height="20"
-       x="-59.497475"
+       x="-59.497471"
        y="152.63457"
        ry="0"
        transform="rotate(-45)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        x="116.58347"
-       y="481.68945"
+       y="542.87238"
        id="text7250"><tspan
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
          sodipodi:role="line"
          x="116.58347"
-         y="481.68945"
-         id="tspan7248">Исследование выброшенной документации и носителей информации</tspan></text>
+         y="542.87238"
+         id="tspan7248">С помощью АRP определите адреса всех участников сетевого </tspan><tspan
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="116.58347"
+         y="578.87238"
+         id="tspan7092">взаимодействия</tspan></text>
     <rect
        transform="rotate(-45)"
        ry="0"
-       y="378.90887"
-       x="-285.7717"
+       y="435.47754"
+       x="-342.34036"
        height="20"
        width="20"
        id="rect7252"
        style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
     <text
        id="text7256"
-       y="561.68945"
+       y="642.23962"
        x="116.58347"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         id="tspan7254"
-         y="561.68945"
+         y="642.23962"
          x="116.58347"
          sodipodi:role="line"
-         style="font-size:36px;line-height:120%;font-family:sans-serif">Использование методов социальной инженерии</tspan></text>
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         id="tspan11352">С помощью Wireshark определите все порты и протоколы, использованные</tspan><tspan
+         y="678.23962"
+         x="116.58347"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         id="tspan7096">при сетевом взаимодействии.</tspan></text>
     <rect
        style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect7258"
        width="20"
        height="20"
-       x="-342.3403"
-       y="435.47748"
+       x="-413.05109"
+       y="506.18826"
        ry="0"
        transform="rotate(-45)" />
     <text
        id="text7287"
-       y="241.68945"
+       y="259.93179"
        x="116.58347"
        style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan7285"
-         y="241.68945"
+         y="259.93179"
          x="116.58347"
          sodipodi:role="line"
-         style="font-size:36px;line-height:120%;font-family:sans-serif">Сбор данных из социальных сетей</tspan></text>
+         style="font-size:36px;line-height:120%;font-family:sans-serif">На машине kali запустите Wireshark</tspan></text>
     <rect
        style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect7289"
        width="20"
        height="20"
-       x="-116.06602"
-       y="209.20312"
+       x="-130.20824"
+       y="223.34535"
        ry="0"
        transform="rotate(-45)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        x="116.58347"
-       y="401.68945"
+       y="441.93185"
        id="text7293"><tspan
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
          sodipodi:role="line"
          x="116.58347"
-         y="401.68945"
-         id="tspan7291">Анализ данных из объявлений о вакансиях</tspan></text>
+         y="441.93185"
+         id="tspan11350">C машины kali браузером откройте сайты, расположенные на машинах</tspan><tspan
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="116.58347"
+         y="477.93185"
+         id="tspan7090">owasp и meta2.</tspan></text>
     <rect
        transform="rotate(-45)"
        ry="0"
-       y="322.34027"
-       x="-229.20311"
+       y="364.76678"
+       x="-271.62964"
        height="20"
        width="20"
        id="rect7295"
        style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
     <text
        id="text7299"
-       y="321.68945"
+       y="359.93185"
        x="116.58347"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         id="tspan7297"
-         y="321.68945"
+         y="359.93185"
          x="116.58347"
          sodipodi:role="line"
-         style="font-size:36px;line-height:120%;font-family:sans-serif">Анализ данных на официальном сайте</tspan></text>
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         id="tspan11348">C машин owasp и meta2 выполните проверку соденинения с машиной kali</tspan></text>
     <rect
        style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect7301"
        width="20"
        height="20"
-       x="-172.63457"
-       y="265.77167"
+       x="-200.91898"
+       y="294.05606"
        ry="0"
        transform="rotate(-45)" />
-  </g>
-  <g
-     style="display:none"
-     inkscape:label="Разведка на основе открытых источников"
-     id="g7463"
-     inkscape:groupmode="layer">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="116.58347"
-       y="301.68945"
-       id="text7417"><tspan
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.58347"
-         y="301.68945"
-         id="tspan7415">СМИ — газеты, журналы, радио, телевидение.</tspan></text>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="251.62953"
-       x="-158.49243"
-       height="20"
-       width="20"
-       id="rect7419"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        x="116.58347"
-       y="741.89691"
-       id="text7429"><tspan
+       y="759.61566"
+       id="text11358"><tspan
          style="font-size:36px;line-height:100%;font-family:sans-serif"
          sodipodi:role="line"
          x="116.58347"
-         y="741.89691"
-         id="tspan7427">Профессиональные и академические отчёты, конференции, доклады, </tspan><tspan
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.58347"
-         y="777.89691"
-         id="tspan7475">статьи и другая специализированная литература</tspan></text>
+         y="759.61566"
+         id="tspan11366">Определите адрес DNS-сервера. </tspan></text>
     <rect
        transform="rotate(-45)"
        ry="0"
@@ -7083,76 +6795,514 @@
        x="-483.76181"
        height="20"
        width="20"
-       id="rect7431"
+       id="rect11360"
        style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <text
-       id="text7435"
-       y="149.68945"
-       x="76.583473"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan7433"
-         y="149.68945"
-         x="76.583473"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120%;font-family:sans-serif">Open source intelligence (OSINT) — разведывательная дисциплина, </tspan><tspan
-         y="192.88945"
-         x="76.583473"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         id="tspan7477">включающая в себя поиск, выбор и сбор разведывательной информации </tspan><tspan
-         y="236.08946"
-         x="76.583473"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         id="tspan7479">из общедоступных источников, а также её анализ.</tspan></text>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="Задания для самостоятельного выполнения"
+     id="g7568"
+     inkscape:groupmode="layer">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        x="116.58347"
-       y="383.49609"
-       id="text7447"><tspan
+       y="141.93164"
+       id="text7522"><tspan
+         id="tspan7520"
          style="font-size:36px;line-height:100%;font-family:sans-serif"
          sodipodi:role="line"
          x="116.58347"
-         y="383.49609"
-         id="tspan7445">Интернет, социальные сети, видеохостинги, блоги, форумы и другой </tspan><tspan
+         y="141.93164">С машины kali просканируйте порты машины meta2 и определите</tspan><tspan
          style="font-size:36px;line-height:100%;font-family:sans-serif"
          sodipodi:role="line"
          x="116.58347"
-         y="419.49609"
-         id="tspan7465">контент, созданный пользователями</tspan></text>
+         y="177.93164"
+         id="tspan7570">запущенные на ней сервисы</tspan></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="152.63457"
+       x="-59.497471"
+       height="20"
+       width="20"
+       id="rect7524"
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <rect
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect7532"
+       width="20"
+       height="20"
+       x="-342.34036"
+       y="435.47754"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="116.58347"
+       y="541.93195"
+       id="text7538"><tspan
+         id="tspan7536"
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="116.58347"
+         y="541.93195">С помощью Wireshark изучите пакеты, отправленные в процессе </tspan><tspan
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="116.58347"
+         y="577.93195"
+         id="tspan7578">DDoS-атаки.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="116.58347"
+       y="242.2394"
+       id="text7544"><tspan
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="116.58347"
+         y="242.2394"
+         id="tspan7542">C машины kali браузером откройте сайт, расположенный на машине</tspan><tspan
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="116.58347"
+         y="278.23938"
+         id="tspan7572">owasp, и оцените его отзывчивость</tspan></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="223.34535"
+       x="-130.20824"
+       height="20"
+       width="20"
+       id="rect7546"
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text7552"
+       y="459.93185"
+       x="116.58347"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan7550"
+         y="459.93185"
+         x="116.58347"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:100%;font-family:sans-serif">Проверьте отзывчивость сайта на машине owasp под DDoS-атакой</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect7554"
+       width="20"
+       height="20"
+       x="-271.62964"
+       y="364.76678"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="116.58347"
+       y="359.93185"
+       id="text7558"><tspan
+         id="tspan7556"
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="116.58347"
+         y="359.93185">Запустите DDoS-атаку на машину owasp</tspan></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="294.05606"
+       x="-200.91898"
+       height="20"
+       width="20"
+       id="rect7560"
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g11033"
+     inkscape:label="Задания для самостоятельного выполнения"
+     style="display:none">
+    <text
+       id="text11001"
+       y="161.18848"
+       x="116.58347"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan10999"
+         y="161.18848"
+         x="116.58347"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:100%;font-family:sans-serif">Найдите все хосты в подсети 10.0.2.0/24</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect11003"
+       width="20"
+       height="20"
+       x="-59.497471"
+       y="152.63457"
+       ry="0"
+       transform="rotate(-45)" />
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="506.18829"
+       x="-413.05112"
+       height="20"
+       width="20"
+       id="rect11005"
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text11011"
+       y="659.61554"
+       x="116.58347"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan11009"
+         y="659.61554"
+         x="116.58347"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:100%;font-family:sans-serif">Определите все сервисы на машине meta2, использующие протокол UDP</tspan></text>
+    <text
+       id="text11017"
+       y="259.93179"
+       x="116.58347"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan11015"
+         y="259.93179"
+         x="116.58347"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:100%;font-family:sans-serif">Определите версию СУБД PostgreSQL, функционирующей на машине meta2</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect11019"
+       width="20"
+       height="20"
+       x="-130.20824"
+       y="223.34535"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="116.58347"
+       y="459.61545"
+       id="text11023"><tspan
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="116.58347"
+         y="459.61545"
+         id="tspan11021">Выполните агрессивное сканирование машины meta2</tspan></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="364.76678"
+       x="-271.62964"
+       height="20"
+       width="20"
+       id="rect11025"
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text11029"
+       y="359.93185"
+       x="116.58347"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="359.93185"
+         x="116.58347"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         id="tspan11027">Идентифицируйте операционную систему на машине owasp</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect11031"
+       width="20"
+       height="20"
+       x="-200.91898"
+       y="294.05606"
+       ry="0"
+       transform="rotate(-45)" />
+    <rect
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect11041"
+       width="20"
+       height="20"
+       x="-483.76187"
+       y="576.89905"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="116.58347"
+       y="741.93207"
+       id="text11045"><tspan
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="116.58347"
+         y="741.93207"
+         id="tspan11043">С помощью Wireshark исследуйте содержимое пакетов для всех видов</tspan><tspan
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="116.58347"
+         y="777.93207"
+         id="tspan11047">сканирования</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect11049"
+       width="20"
+       height="20"
+       x="-342.34036"
+       y="435.47754"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="116.58347"
+       y="559.61554"
+       id="text11053"><tspan
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="116.58347"
+         y="559.61554"
+         id="tspan11051">Определите все протоколы, используемые на машине meta2</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Задания для самостоятельного выполнения"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="116.58347"
+       y="442.87238"
+       id="text7250-1"><tspan
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="116.58347"
+         y="442.87238"
+         id="tspan7092-3">С помощью браузера просмотрите содержимое папок, к которым открыт</tspan><tspan
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="116.58347"
+         y="478.87238"
+         id="tspan7559">доступ на машине meta2</tspan></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="364.76682"
+       x="-271.62964"
+       height="20"
+       width="20"
+       id="rect7252-4"
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text7256-0"
+       y="560.23962"
+       x="116.58347"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="560.23962"
+         x="116.58347"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         id="tspan7096-8">Определите версию библиотеки PHP, используемой на web-сервере owasp</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect7258-8"
+       width="20"
+       height="20"
+       x="-342.34036"
+       y="435.47751"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text7287-1"
+       y="159.93179"
+       x="116.58347"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan7285-7"
+         y="159.93179"
+         x="116.58347"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:120%;font-family:sans-serif">С помощью legion просканируйте машины owasp и meta2</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect7289-7"
+       width="20"
+       height="20"
+       x="-59.497566"
+       y="152.63467"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="116.58347"
+       y="359.93164"
+       id="text7293-2"><tspan
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="116.58347"
+         y="359.93164"
+         id="tspan7090-2">Определите логин и пароль для доступа к машине meta2 через ftp</tspan></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="294.05591"
+       x="-200.91879"
+       height="20"
+       width="20"
+       id="rect7295-2"
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text7299-3"
+       y="259.93185"
+       x="116.58347"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="259.93185"
+         x="116.58347"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         id="tspan11348-4">Исследуйте обнаруженные уязвимости web-сервера на машине owasp</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect7301-2"
+       width="20"
+       height="20"
+       x="-130.2083"
+       y="223.34538"
+       ry="0"
+       transform="rotate(-45)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Задания для самостоятельного выполнения"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="116.58347"
+       y="159.93164"
+       id="text10831"><tspan
+         id="tspan10829"
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="116.58347"
+         y="159.93164">Установите и запустите на машине kali утилиту GVM/OpenVAS</tspan></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="152.63458"
+       x="-59.497375"
+       height="20"
+       width="20"
+       id="rect10833"
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text17532"
+       y="239.93164"
+       x="116.58347"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="239.93164"
+         x="116.58347"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         id="tspan17530">Создайте и запустите задачу по быстрому полному сканированию owasp </tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect17534"
+       width="20"
+       height="20"
+       x="-116.06586"
+       y="209.20312"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="116.58347"
+       y="479.93164"
+       id="text17538"><tspan
+         id="tspan17536"
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="116.58347"
+         y="479.93164">Проанализируйте отчёты о результатах сканирования и сравните их</tspan></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="378.90887"
+       x="-285.77142"
+       height="20"
+       width="20"
+       id="rect17540"
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="116.58347"
+       y="399.93164"
+       id="text17550"><tspan
+         id="tspan17548"
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="116.58347"
+         y="399.93164">Проконтролируйте запуск задачи сканирования meta2 в заданное время</tspan></text>
     <rect
        transform="rotate(-45)"
        ry="0"
        y="322.34027"
-       x="-229.20312"
+       x="-229.20285"
        height="20"
        width="20"
-       id="rect7449"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+       id="rect17552"
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
     <text
-       id="text7453"
-       y="622.23932"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="116.58347"
+       y="559.93164"
+       id="text17556"><tspan
+         id="tspan17554"
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="116.58347"
+         y="559.93164">Выполните экспорт отчётов в формат pdf</tspan></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="435.47748"
+       x="-342.34003"
+       height="20"
+       width="20"
+       id="rect17558"
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text17562"
+       y="639.93164"
        x="116.58347"
        style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         id="tspan7451"
-         y="622.23932"
-         x="116.58347"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:100%;font-family:sans-serif">Наблюдения — радиомониторинг, использование общедоступных данных </tspan><tspan
-         y="658.23932"
+         y="639.93164"
          x="116.58347"
          sodipodi:role="line"
          style="font-size:36px;line-height:100%;font-family:sans-serif"
-         id="tspan7473">дистанционного зондирования земли и аэрофотосъемок</tspan></text>
+         id="tspan17560">Проверьте доступ к машинам по указанным в отчётах учётным данным</tspan></text>
     <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect7455"
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect17564"
        width="20"
        height="20"
-       x="-398.90891"
+       x="-398.90863"
        y="492.04608"
        ry="0"
        transform="rotate(-45)" />
@@ -7160,1836 +7310,47 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        x="116.58347"
-       y="502.23926"
-       id="text7459"><tspan
+       y="319.93164"
+       id="text17581"><tspan
+         id="tspan17579"
          style="font-size:36px;line-height:100%;font-family:sans-serif"
          sodipodi:role="line"
          x="116.58347"
-         y="502.23926"
-         id="tspan7467">Публичные отчёты, официальные данные о бюджетах, материалы пресс-</tspan><tspan
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.58347"
-         y="538.23926"
-         id="tspan7471">конференций, различные публичные заявления.</tspan></text>
+         y="319.93164">Создайте отложенную задачу по полному глубокому сканированию meta2</tspan></text>
     <rect
        transform="rotate(-45)"
        ry="0"
-       y="407.19318"
-       x="-314.056"
+       y="265.77167"
+       x="-172.63437"
        height="20"
        width="20"
-       id="rect7461"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="g7371"
-     inkscape:label="Собираемые данные"
-     style="display:none">
-    <text
-       id="text7361"
-       y="181.68945"
-       x="116.58347"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan7359"
-         y="181.68945"
-         x="116.58347"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120%;font-family:sans-serif">Имена контакных лиц организации</tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect7363"
-       width="20"
-       height="20"
-       x="-73.63961"
-       y="166.7767"
-       ry="0"
-       transform="rotate(-45)" />
-    <text
-       id="text7367"
-       y="261.68945"
-       x="116.58347"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan7365"
-         y="261.68945"
-         x="116.58347"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120%;font-family:sans-serif">Адреса электронной почты и телефоны сотрудников организации</tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect7369"
-       width="20"
-       height="20"
-       x="-130.20816"
-       y="223.34526"
-       ry="0"
-       transform="rotate(-45)" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="116.58347"
-       y="341.68945"
-       id="text7375"><tspan
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.58347"
-         y="341.68945"
-         id="tspan7373">Организационная структура и функционал подразделений</tspan></text>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="279.91382"
-       x="-186.7767"
-       height="20"
-       width="20"
-       id="rect7377"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="116.58347"
-       y="501.68945"
-       id="text7381"><tspan
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.58347"
-         y="501.68945"
-         id="tspan7379">Резюме действующих и бывших сотрудников, данные о вакансиях</tspan></text>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="336.48242"
-       x="-243.34525"
-       height="20"
-       width="20"
-       id="rect7383"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <text
-       id="text7387"
-       y="741.68945"
-       x="116.58347"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan7385"
-         y="741.68945"
-         x="116.58347"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120%;font-family:sans-serif">Сведения об используемых доменах и поддоменах</tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect7389"
-       width="20"
-       height="20"
-       x="-299.91385"
-       y="393.05103"
-       ry="0"
-       transform="rotate(-45)" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="116.58347"
-       y="421.68945"
-       id="text7393"><tspan
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.58347"
-         y="421.68945"
-         id="tspan7391">Режим работы ключевых сотрудников и подразделений</tspan></text>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="449.61963"
-       x="-356.48245"
-       height="20"
-       width="20"
-       id="rect7395"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <text
-       id="text7405"
-       y="661.68945"
-       x="116.58347"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan7403"
-         y="661.68945"
-         x="116.58347"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120%;font-family:sans-serif">Используемое оборудование и программное обеспечение</tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect7407"
-       width="20"
-       height="20"
-       x="-413.05106"
-       y="506.18823"
-       ry="0"
-       transform="rotate(-45)" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="116.58347"
-       y="581.68945"
-       id="text7411"><tspan
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.58347"
-         y="581.68945"
-         id="tspan7409">Сведения о поставщиках услуг и потребителях</tspan></text>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="562.75684"
-       x="-469.61963"
-       height="20"
-       width="20"
-       id="rect7413"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="Совместное расследование The Insider, Bellingcat и Der Spiegel"
-     style="display:none">
-    <text
-       id="text7928"
-       y="177.77794"
-       x="116.58347"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan7926"
-         y="177.77794"
-         x="116.58347"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120%;font-family:sans-serif">Данные выпускников ведущих военных </tspan><tspan
-         y="220.97794"
-         x="116.58347"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         id="tspan20046">институтов России</tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect7930"
-       width="20"
-       height="20"
-       x="-87.781746"
-       y="180.91884"
-       ry="0"
-       transform="rotate(-45)" />
-    <text
-       id="text7934"
-       y="325.72852"
-       x="116.58347"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan7932"
-         y="325.72852"
-         x="116.58347"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120%;font-family:sans-serif">Сведения о доходах физических лиц</tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect7936"
-       width="20"
-       height="20"
-       x="-176.95729"
-       y="270.09439"
-       ry="0"
-       transform="rotate(-45)" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="116.58347"
-       y="430.00449"
-       id="text7940"><tspan
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.58347"
-         y="430.00449"
-         id="tspan7938">Данные о жителях России</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="116.58347"
-       y="634.86505"
-       id="text7946"><tspan
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.58347"
-         y="634.86505"
-         id="tspan7944">Данные из социальных сетей</tspan></text>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="343.34393"
-       x="-250.20674"
-       height="20"
-       width="20"
-       id="rect7948"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect7954"
-       width="20"
-       height="20"
-       x="-322.63589"
-       y="415.77307"
-       ry="0"
-       transform="rotate(-45)" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="116.58347"
-       y="532.43475"
-       id="text7958"><tspan
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.58347"
-         y="532.43475"
-         id="tspan7956">Данные о водителях</tspan></text>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="488.85477"
-       x="-395.71759"
-       height="20"
-       width="20"
-       id="rect7960"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="116.58347"
-       y="739.61566"
-       id="text7970"><tspan
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.58347"
-         y="739.61566"
-         id="tspan7968">Сведения из резюме</tspan></text>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="562.75684"
-       x="-469.61963"
-       height="20"
-       width="20"
-       id="rect7972"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <image
-       width="571.87915"
-       height="340"
-       preserveAspectRatio="none"
-       xlink:href="img/insider_chat.jpg"
-       id="image78151"
-       x="942"
-       y="290"
-       style="stroke-width:2.98431" />
-    <image
-       width="460.7424"
-       height="320"
-       preserveAspectRatio="none"
-       xlink:href="img/insider_registry.jpg"
-       id="image18232"
-       x="1079.2576"
-       y="90"
-       style="stroke-width:1.11125" />
-    <image
-       width="460"
-       height="316.25"
-       preserveAspectRatio="none"
-       xlink:href="img/insider_resume.jpg"
-       id="image76234"
-       x="1080"
-       y="470"
-       style="stroke-width:1.87855" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="g76294"
-     inkscape:label="Сбор фото и видеоданных"
-     style="display:none">
-    <text
-       id="text76242"
-       y="179.61523"
-       x="116.58347"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="179.61523"
-         x="116.58347"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         id="tspan76240">Спутниковые снимки</tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect76244"
-       width="20"
-       height="20"
-       x="-73.63961"
-       y="166.7767"
-       ry="0"
-       transform="rotate(-45)" />
-    <text
-       id="text76248"
-       y="290.4458"
-       x="116.58347"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan76246"
-         y="290.4458"
-         x="116.58347"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120%;font-family:sans-serif">Публикации СМИ</tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect76250"
-       width="20"
-       height="20"
-       x="-151.5674"
-       y="244.7045"
-       ry="0"
-       transform="rotate(-45)" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="116.58347"
-       y="400.02832"
-       id="text76254"><tspan
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.58347"
-         y="400.02832"
-         id="tspan76252">Совместные фото</tspan></text>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="322.63229"
-       x="-229.49518"
-       height="20"
-       width="20"
-       id="rect76256"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="116.58347"
-       y="621.68945"
-       id="text76260"><tspan
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.58347"
-         y="621.68945"
-         id="tspan76258">Публикации в социальных </tspan><tspan
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.58347"
-         y="664.88947"
-         id="tspan101330">сетях</tspan></text>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="400.56012"
-       x="-307.42294"
-       height="20"
-       width="20"
-       id="rect76262"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect76268"
-       width="20"
-       height="20"
-       x="-385.79199"
-       y="478.92917"
-       ry="0"
-       transform="rotate(-45)" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="116.58347"
-       y="510.85889"
-       id="text76272"><tspan
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.58347"
-         y="510.85889"
-         id="tspan76270">Официальные публикации</tspan></text>
-    <image
-       width="386.34375"
-       height="520"
-       preserveAspectRatio="none"
-       xlink:href="img/insider_photo.jpg"
-       id="image102900"
-       x="1177.9746"
-       y="210"
-       style="stroke-width:1.6618" />
-    <image
-       width="664.13501"
-       height="454.5174"
-       preserveAspectRatio="none"
-       xlink:href="img/insider_group_photo.jpg"
-       id="image102912"
-       x="720"
-       y="346.875"
-       style="stroke-width:1.30114" />
-    <image
-       width="712.91144"
-       height="439.99997"
-       preserveAspectRatio="none"
-       xlink:href="img/insider_asad.jpg"
-       id="image100776"
-       x="756.79309"
-       y="110"
-       style="stroke-width:2.39394" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="g102490"
-     inkscape:label="Сводный анализ собранных данных"
-     style="display:none">
-    <text
-       id="text102454"
-       y="179.61523"
-       x="116.58347"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="179.61523"
-         x="116.58347"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         id="tspan102452">Привязка к местности</tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect102456"
-       width="20"
-       height="20"
-       x="-73.63961"
-       y="166.7767"
-       ry="0"
-       transform="rotate(-45)" />
-    <text
-       id="text102460"
-       y="290.4458"
-       x="116.58347"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan102458"
-         y="290.4458"
-         x="116.58347"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120%;font-family:sans-serif">Распознавание образов</tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect102462"
-       width="20"
-       height="20"
-       x="-151.5674"
-       y="244.7045"
-       ry="0"
-       transform="rotate(-45)" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="116.58347"
-       y="400.02832"
-       id="text102466"><tspan
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.58347"
-         y="400.02832"
-         id="tspan102464">Сопоставление данных</tspan></text>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="322.63229"
-       x="-229.49518"
-       height="20"
-       width="20"
-       id="rect102468"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <image
-       width="603.77356"
-       height="400"
-       preserveAspectRatio="none"
-       xlink:href="img/insider_map.jpg"
-       id="image104255"
-       x="616.22644"
-       y="152"
-       style="display:inline;stroke-width:1.43122" />
-    <image
-       width="640"
-       height="345"
-       preserveAspectRatio="none"
-       xlink:href="img/insider_group.png"
-       id="image113000"
-       x="920"
-       y="448.43805"
-       style="stroke-width:2.66667" />
-    <image
-       width="512"
-       height="182.8"
-       preserveAspectRatio="none"
-       xlink:href="img/insider_medal.jpg"
-       id="image113012"
-       x="380"
-       y="590" />
-    <image
-       width="640"
-       height="217.00002"
-       preserveAspectRatio="none"
-       xlink:href="img/insider_person.jpg"
-       id="image115080"
-       x="920"
-       y="110"
-       style="stroke-width:1.35021" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer8"
-     inkscape:label="Утилита whois"
-     style="display:none">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="84.641235"
-       y="149.80608"
-       id="text8196-5"><tspan
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="84.641235"
-         y="149.80608"
-         id="tspan10307">WHOIS — сетевой протокол прикладного уровня, </tspan><tspan
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="84.641235"
-         y="193.00607"
-         id="tspan10309">базирующийся на протоколе TCP (порт 43). </tspan><tspan
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="84.641235"
-         y="236.20609"
-         id="tspan10313" /><tspan
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="84.641235"
-         y="279.40607"
-         id="tspan6301">Основное применение — получение </tspan><tspan
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="84.641235"
-         y="322.60608"
-         id="tspan6305">регистрационных данных о владельцах доменных </tspan><tspan
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="84.641235"
-         y="365.80609"
-         id="tspan10317">имён, IP-адресов и автономных систем.</tspan><tspan
-         sodipodi:role="line"
-         x="84.641235"
-         y="388.3717"
-         id="tspan10303" /><tspan
-         sodipodi:role="line"
-         x="84.641235"
-         y="402.7717"
-         id="tspan10319" /><tspan
-         sodipodi:role="line"
-         x="84.641235"
-         y="417.17172"
-         id="tspan10329" /><tspan
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="84.641235"
-         y="452.20609"
-         id="tspan10323">Протокол используется для доступа к публичным </tspan><tspan
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="84.641235"
-         y="495.4061"
-         id="tspan10325">серверам баз данных регистраторов IP-адресов и </tspan><tspan
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="84.641235"
-         y="538.60608"
-         id="tspan10327">регистраторов доменных имён. </tspan></text>
-    <rect
-       style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77953;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect8105-0"
-       width="952"
-       height="80"
-       x="88"
-       y="610"
-       ry="20"
-       rx="20" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="106.15295"
-       y="659.93164"
-       id="text8206-4"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="106.15295"
-         y="659.93164"
-         id="tspan7208-7">whois -I mephi.ru</tspan></text>
-    <image
-       width="446.64661"
-       height="680"
-       preserveAspectRatio="none"
-       xlink:href="img/whois_mephi_ru.png"
-       id="image2575"
-       x="1120"
-       y="110"
-       style="stroke-width:1.22132" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer9"
-     inkscape:label="Утилита DMitry"
-     style="display:none">
-    <text
-       id="text10361"
-       y="149.80609"
-       x="76.641235"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan10359"
-         y="149.80609"
-         x="76.641235"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120%;font-family:sans-serif">Deepmagic Information Gathering Tool (DMitry) - инструмент для сбора </tspan><tspan
-         y="193.00609"
-         x="76.641235"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         id="tspan10539">расширенных сведений о домене: </tspan></text>
-    <rect
-       rx="20"
-       ry="20"
-       y="670"
-       x="80"
-       height="80"
-       width="680"
-       id="rect10363"
-       style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77953;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
-    <text
-       id="text10367"
-       y="725.26349"
-       x="98.152954"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan10365"
-         y="725.26349"
-         x="98.152954"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">dmitry -iwnse example.com</tspan></text>
-    <image
-       xlink:href="img/dmitry.png"
-       y="277"
-       x="812"
-       id="image10432"
-       preserveAspectRatio="none"
-       height="513"
-       width="728"
-       style="display:inline" />
-    <text
-       id="text7361-4"
-       y="281.68945"
-       x="116.44132"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan7359-3"
-         y="281.68945"
-         x="116.44132"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120%;font-family:sans-serif">Записи Whois</tspan></text>
-    <rect
-       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect7363-3"
-       width="20"
-       height="20"
-       x="-144.3503"
-       y="237.4874"
-       ry="0"
-       transform="rotate(-45)" />
-    <text
-       id="text7367-3"
-       y="361.68945"
-       x="116.44132"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan7365-8"
-         y="361.68945"
-         x="116.44132"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120%;font-family:sans-serif">Данные о системе и сервере</tspan></text>
-    <rect
-       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect7369-6"
-       width="20"
-       height="20"
-       x="-200.91882"
-       y="294.05597"
-       ry="0"
-       transform="rotate(-45)" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="116.44132"
-       y="441.68945"
-       id="text7375-0"><tspan
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.44132"
-         y="441.68945"
-         id="tspan7373-4">Поддомены целевого домена</tspan></text>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="350.62457"
-       x="-257.48734"
-       height="20"
-       width="20"
-       id="rect7377-8"
+       id="rect17583"
        style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="116.44132"
-       y="601.68945"
-       id="text7381-8"><tspan
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.44132"
-         y="601.68945"
-         id="tspan7379-8">Состояние портов TCP</tspan></text>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="407.19321"
-       x="-314.05591"
-       height="20"
-       width="20"
-       id="rect7383-9"
-       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <rect
-       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect7389-7"
-       width="20"
-       height="20"
-       x="-370.62448"
-       y="463.76178"
-       ry="0"
-       transform="rotate(-45)" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="116.44132"
-       y="521.68945"
-       id="text7393-7"><tspan
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.44132"
-         y="521.68945"
-         id="tspan7391-6">Адреса электронной почты</tspan></text>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer10"
-     inkscape:label="Утилита theHarvester"
-     style="display:none">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="56.641243"
-       y="149.80609"
-       id="text11047"><tspan
-         id="tspan11045"
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="56.641243"
-         y="149.80609">theHarvester — инструмент для сбора </tspan><tspan
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="56.641243"
-         y="193.00609"
-         id="tspan11157">e-mail адресов, имён поддоменов, </tspan><tspan
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="56.641243"
-         y="236.2061"
-         id="tspan11091">виртуальных хостов, открытых портов</tspan><tspan
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="56.641243"
-         y="279.4061"
-         id="tspan11093">и имён работников из различных </tspan><tspan
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="56.641243"
-         y="322.60611"
-         id="tspan11163">открытых источников. </tspan></text>
-    <rect
-       style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77953;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect11049"
-       width="1440"
-       height="80"
-       x="60"
-       y="710"
-       ry="20"
-       rx="20" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="78.152946"
-       y="765.26349"
-       id="text11053"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="78.152946"
-         y="765.26349"
-         id="tspan11051">theHarvester -nv -b dnsdumpster -d wordpress.com</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="96.441353"
-       y="377.18851"
-       id="text11065"><tspan
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="96.441353"
-         y="377.18851"
-         id="tspan11063">Поисковые системы – электронные </tspan><tspan
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="96.441353"
-         y="413.18851"
-         id="tspan11167">письма, поддомены / имена хостов</tspan></text>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="304.34723"
-       x="-239.49388"
-       height="20"
-       width="20"
-       id="rect11067"
-       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <text
-       id="text11071"
-       y="471.836"
-       x="96.441353"
+       id="text29476"
+       y="701.37811"
+       x="116.58347"
        style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         id="tspan11069"
-         y="471.836"
-         x="96.441353"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:100%;font-family:sans-serif">Серверы Pgp – электронные письма, </tspan><tspan
-         y="507.836"
-         x="96.441353"
+         y="701.37811"
+         x="116.58347"
          sodipodi:role="line"
          style="font-size:36px;line-height:100%;font-family:sans-serif"
-         id="tspan11169">поддомены / имена хостов</tspan></text>
-    <rect
-       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect11073"
-       width="20"
-       height="20"
-       x="-306.25195"
-       y="371.10532"
-       ry="0"
-       transform="rotate(-45)" />
-    <text
-       id="text11077"
-       y="621.93176"
-       x="96.441353"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan11075"
-         y="621.93176"
-         x="96.441353"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:100%;font-family:sans-serif">Exalead – электронные письма, </tspan><tspan
-         y="657.93176"
-         x="96.441353"
+         id="tspan29474">Поищите записи о выявленных уязвимостях и уязвимых сервисах  в БДУ и</tspan><tspan
+         y="737.37811"
+         x="116.58347"
          sodipodi:role="line"
          style="font-size:36px;line-height:100%;font-family:sans-serif"
-         id="tspan11165">субдомен / имена хостов</tspan></text>
+         id="tspan30198">базе уязвимостей НКЦКИ</tspan></text>
     <rect
        style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect11079"
+       id="rect29478"
        width="20"
        height="20"
-       x="-359.09512"
-       y="423.94849"
+       x="-455.47723"
+       y="548.61469"
        ry="0"
        transform="rotate(-45)" />
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="477.90408"
-       x="-413.05066"
-       height="20"
-       width="20"
-       id="rect11081"
-       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <text
-       id="text11085"
-       y="567.11633"
-       x="96.441353"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan11083"
-         y="567.11633"
-         x="96.441353"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120%;font-family:sans-serif">LinkedIn – имена пользователей</tspan></text>
-    <image
-       xlink:href="img/theHarvester.png"
-       y="130"
-       x="849"
-       id="image11154"
-       preserveAspectRatio="none"
-       height="513"
-       width="651"
-       style="display:inline" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer11"
-     inkscape:label="Утилита RedHawk"
-     style="display:none">
-    <text
-       id="text10662"
-       y="149.80609"
-       x="76.641243"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="149.80609"
-         x="76.641243"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         id="tspan10808">Установка утилиты RedHawk, позволяющей собирать различную </tspan><tspan
-         y="193.00609"
-         x="76.641243"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         id="tspan11220">информацию о целевом домене в интерактивном режиме.</tspan></text>
-    <rect
-       rx="20"
-       ry="20"
-       y="230"
-       x="80"
-       height="80"
-       width="1440"
-       id="rect10664"
-       style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77953;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
-    <text
-       id="text10668"
-       y="279.43066"
-       x="98.152946"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan10666"
-         y="279.43066"
-         x="98.152946"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">git clone https://github.com/th3justhacker/RED_HAWK.git</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="76.641243"
-       y="369.80609"
-       id="text10780"><tspan
-         style="font-size:36px;line-height:120%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="76.641243"
-         y="369.80609"
-         id="tspan10778">Запуск утилиты</tspan></text>
-    <rect
-       style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77953;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect10782"
-       width="480"
-       height="120"
-       x="80"
-       y="390"
-       ry="20"
-       rx="20" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="98.152946"
-       y="438.33163"
-       id="text10786"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="98.152946"
-         y="438.33163"
-         id="tspan10788">cd RED_HAWK</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         sodipodi:role="line"
-         x="98.152946"
-         y="481.53165"
-         id="tspan11211">php rhawk.php </tspan></text>
-    <image
-       xlink:href="img/RedHawk.png"
-       y="370"
-       x="654"
-       id="image11343"
-       preserveAspectRatio="none"
-       height="406"
-       width="866"
-       style="display:inline" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer4"
-     inkscape:label="Сбор общедоступной информации"
-     style="display:none">
-    <rect
-       y="290"
-       x="580.09131"
-       height="79.999977"
-       width="939.90875"
-       id="rect5895"
-       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.12119;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       y="210.00002"
-       x="580.09131"
-       height="79.999977"
-       width="939.90875"
-       id="rect5909"
-       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.12119;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="607.35522"
-       y="420.59741"
-       id="text5913"><tspan
-         sodipodi:role="line"
-         id="tspan5911"
-         x="607.35522"
-         y="420.59741">Просмотр истории изменения сайтов</tspan></text>
-    <a
-       id="a10159"
-       xlink:href="https://archive.org/"
-       transform="translate(0,-19.999987)"
-       style="display:inline">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-         x="107.35522"
-         y="440.59741"
-         id="text5917"><tspan
-           sodipodi:role="line"
-           id="tspan5915"
-           x="107.35522"
-           y="440.59741">archive.org</tspan></text>
-    </a>
-    <rect
-       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect5921"
-       width="500.00003"
-       height="79.999977"
-       x="80"
-       y="290" />
-    <text
-       id="text5925"
-       y="260.59741"
-       x="607.35522"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         id="tspan5923"
-         x="607.35522"
-         y="260.59741">Информация о домене и сети</tspan></text>
-    <a
-       id="a10163"
-       xlink:href="https://www.robtex.com/"
-       transform="translate(0,-99.99999)"
-       style="display:inline">
-      <text
-         id="text5929"
-         y="360.59741"
-         x="107.35522"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan5927"
-           x="107.35522"
-           y="360.59741">robtex.com</tspan></text>
-    </a>
-    <rect
-       y="130.00002"
-       x="580.15479"
-       height="79.999977"
-       width="939.84528"
-       id="rect5947"
-       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.12119;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="949.6272"
-       y="181.68947"
-       id="text5951"><tspan
-         sodipodi:role="line"
-         id="tspan5949"
-         x="949.6272"
-         y="181.68947"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Описание</tspan></text>
-    <rect
-       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect5963"
-       width="500.00003"
-       height="79.999977"
-       x="80"
-       y="210.00002" />
-    <rect
-       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect5965"
-       width="500.00003"
-       height="79.999977"
-       x="80"
-       y="130.00002" />
-    <text
-       id="text5969"
-       y="183.10451"
-       x="258.19336"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         id="tspan5967"
-         x="258.19336"
-         y="183.10451">Ресурс</tspan></text>
-    <text
-       id="text5979"
-       y="190.00002"
-       x="860"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;line-height:1.25;font-family:Aharoni;-inkscape-font-specification:Aharoni;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="190.00002"
-         x="860"
-         id="tspan5977"
-         sodipodi:role="line"> </tspan></text>
-    <rect
-       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.12119;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect10167"
-       width="939.90875"
-       height="79.999977"
-       x="580.09131"
-       y="450" />
-    <rect
-       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.12119;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect10169"
-       width="939.90875"
-       height="79.999977"
-       x="580.09131"
-       y="370" />
-    <text
-       id="text10173"
-       y="340.59741"
-       x="607.35522"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="340.59741"
-         x="607.35522"
-         id="tspan10171"
-         sodipodi:role="line">Информация о доменах</tspan></text>
-    <a
-       xlink:href="https://www.reg.ru/whois/"
-       id="a10179"
-       transform="translate(0,60.00002)"
-       style="display:inline">
-      <text
-         id="text10177"
-         y="280.59741"
-         x="107.35522"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="280.59741"
-           x="107.35522"
-           id="tspan10175"
-           sodipodi:role="line">reg.ru/whois</tspan></text>
-    </a>
-    <rect
-       y="450"
-       x="80"
-       height="79.999977"
-       width="500.00003"
-       id="rect10181"
-       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="607.35522"
-       y="500.59741"
-       id="text10185"><tspan
-         y="500.59741"
-         x="607.35522"
-         id="tspan10183"
-         sodipodi:role="line">Сведения о вакансиях и компаниях</tspan><tspan
-         y="543.79742"
-         x="607.35522"
-         sodipodi:role="line"
-         id="tspan10237" /></text>
-    <a
-       xlink:href="https://hh.ru/employer"
-       id="a10191"
-       transform="translate(0,140.00002)"
-       style="display:inline">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-         x="107.35522"
-         y="360.59741"
-         id="text10189"><tspan
-           y="360.59741"
-           x="107.35522"
-           id="tspan10187"
-           sodipodi:role="line">hh.ru</tspan></text>
-    </a>
-    <rect
-       y="370"
-       x="80"
-       height="79.999977"
-       width="500.00003"
-       id="rect10193"
-       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       y="610"
-       x="580.09131"
-       height="79.999977"
-       width="939.90875"
-       id="rect10195"
-       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.12119;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       y="530"
-       x="580.09131"
-       height="79.999977"
-       width="939.90875"
-       id="rect10197"
-       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.12119;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="607.35522"
-       y="580.59741"
-       id="text10201"><tspan
-         sodipodi:role="line"
-         id="tspan10199"
-         x="607.35522"
-         y="580.59741">Сведения из ЕГРЮЛ/ЕГРИП</tspan></text>
-    <a
-       transform="translate(0,300.00002)"
-       id="a10207"
-       xlink:href="https://egrul.nalog.ru/"
-       style="display:inline">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-         x="107.35522"
-         y="280.59741"
-         id="text10205"><tspan
-           sodipodi:role="line"
-           id="tspan10203"
-           x="107.35522"
-           y="280.59741">egrul.nalog.ru/</tspan></text>
-    </a>
-    <rect
-       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect10209"
-       width="500.00003"
-       height="79.999977"
-       x="80"
-       y="610" />
-    <text
-       id="text10213"
-       y="660.59741"
-       x="607.35522"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         sodipodi:role="line"
-         id="tspan10211"
-         x="607.35522"
-         y="660.59741">Сведения о компаниях</tspan></text>
-    <a
-       transform="translate(0,300.00002)"
-       id="a10219"
-       xlink:href="https://www.spark-interfax.ru/"
-       style="display:inline">
-      <text
-         id="text10217"
-         y="360.59741"
-         x="107.35522"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan10215"
-           x="107.35522"
-           y="360.59741">spark-interfax.ru/</tspan></text>
-    </a>
-    <rect
-       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect10221"
-       width="500.00003"
-       height="79.999977"
-       x="80"
-       y="530" />
-    <rect
-       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.12119;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect10223"
-       width="939.90875"
-       height="79.999977"
-       x="580.09131"
-       y="690" />
-    <text
-       id="text10227"
-       y="740.59741"
-       x="607.35522"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="740.59741"
-         x="607.35522"
-         id="tspan10225"
-         sodipodi:role="line">Центр раскрытия корпоративной информации</tspan></text>
-    <a
-       xlink:href="https://www.e-disclosure.ru/"
-       id="a10233"
-       transform="translate(0,460.00002)"
-       style="display:inline">
-      <text
-         id="text10231"
-         y="280.59741"
-         x="107.35522"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="280.59741"
-           x="107.35522"
-           id="tspan10229"
-           sodipodi:role="line">e-disclosure.ru</tspan></text>
-    </a>
-    <rect
-       y="690"
-       x="80"
-       height="79.999977"
-       width="500.00003"
-       id="rect10235"
-       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer6"
-     inkscape:label="Информация о домене"
-     style="display:none">
-    <a
-       id="a138362"
-       xlink:href="https://www.robtex.com/dns-lookup/mail.ru"
-       transform="translate(-520,62.75177)">
-      <image
-         width="967.5"
-         height="565.5"
-         preserveAspectRatio="none"
-         xlink:href="img/robtex_mail_ru.png"
-         id="image121923"
-         x="600"
-         y="110"
-         style="display:inline" />
-    </a>
-    <a
-       id="a132300"
-       xlink:href="https://www.robtex.com/"
-       style="fill:#800080"
-       transform="translate(-40,-40)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         x="98.152954"
-         y="205.26349"
-         id="text8206-1"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#800080"
-           sodipodi:role="line"
-           x="98.152954"
-           y="205.26349"
-           id="tspan7208-0">https://www.robtex.com</tspan></text>
-    </a>
-    <a
-       id="a143369"
-       xlink:href="https://www.reg.ru/whois/"
-       transform="translate(460,440)"
-       style="fill:#800080">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         x="98.152954"
-         y="345.26349"
-         id="text132308"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#800080"
-           sodipodi:role="line"
-           x="98.152954"
-           y="345.26349"
-           id="tspan132306">https://www.reg.ru/whois/</tspan></text>
-    </a>
-    <a
-       id="a138357"
-       xlink:href="https://www.reg.ru/whois/mail.ru">
-      <g
-         id="g138355"
-         transform="translate(580,-620)">
-        <rect
-           style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77954;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-           id="rect138348"
-           width="480"
-           height="640"
-           x="500"
-           y="770"
-           ry="20"
-           rx="20" />
-        <image
-           width="420"
-           height="590.56927"
-           preserveAspectRatio="none"
-           xlink:href="img/whois_mail_ru.png"
-           id="image134304"
-           x="530"
-           y="794.71533"
-           style="stroke-width:1.40119" />
-      </g>
-    </a>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="g11570"
-     inkscape:label="История изменения сайтов"
-     style="display:none">
-    <a
-       id="a24395"
-       xlink:href="https://ru.wikipedia.org/wiki/%D0%90%D1%80%D1%85%D0%B8%D0%B2_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D0%B0"
-       transform="translate(-20,20)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-         x="84.641235"
-         y="149.80608"
-         id="text11560"><tspan
-           style="font-size:36px;line-height:120%;font-family:sans-serif"
-           sodipodi:role="line"
-           x="84.641235"
-           y="149.80608"
-           id="tspan11558">Архив Интернета (англ. Internet Archive) </tspan><tspan
-           style="font-size:36px;line-height:120%;font-family:sans-serif"
-           sodipodi:role="line"
-           x="84.641235"
-           y="193.00607"
-           id="tspan18971">предоставляет доступ к накопленной в </tspan><tspan
-           style="font-size:36px;line-height:120%;font-family:sans-serif"
-           sodipodi:role="line"
-           x="84.641235"
-           y="236.20609"
-           id="tspan18973">Интернете информации. </tspan><tspan
-           style="font-size:36px;line-height:120%;font-family:sans-serif"
-           sodipodi:role="line"
-           x="84.641235"
-           y="279.40607"
-           id="tspan18975" /><tspan
-           style="font-size:36px;line-height:120%;font-family:sans-serif"
-           sodipodi:role="line"
-           x="84.641235"
-           y="322.60608"
-           id="tspan18977">Коллекция архива состоит из множества </tspan><tspan
-           style="font-size:36px;line-height:120%;font-family:sans-serif"
-           sodipodi:role="line"
-           x="84.641235"
-           y="365.80609"
-           id="tspan18979">подколлекций архивированных веб-сайтов, </tspan><tspan
-           style="font-size:36px;line-height:120%;font-family:sans-serif"
-           sodipodi:role="line"
-           x="84.641235"
-           y="409.00607"
-           id="tspan18981">оцифрованных книг, аудио- и видеофайлов, </tspan><tspan
-           style="font-size:36px;line-height:120%;font-family:sans-serif"
-           sodipodi:role="line"
-           x="84.641235"
-           y="452.20609"
-           id="tspan18983">игр, программного обеспечения.</tspan><tspan
-           style="font-size:36px;line-height:120%;font-family:sans-serif"
-           sodipodi:role="line"
-           x="84.641235"
-           y="495.4061"
-           id="tspan21307" /><tspan
-           style="font-size:36px;line-height:120%;font-family:sans-serif"
-           sodipodi:role="line"
-           x="84.641235"
-           y="538.60608"
-           id="tspan21309">Сервис архива Wayback Machine архивирует </tspan><tspan
-           style="font-size:36px;line-height:120%;font-family:sans-serif"
-           sodipodi:role="line"
-           x="84.641235"
-           y="581.80609"
-           id="tspan24191">и предоставляет доступ к большей части </tspan><tspan
-           style="font-size:36px;line-height:120%;font-family:sans-serif"
-           sodipodi:role="line"
-           x="84.641235"
-           y="625.0061"
-           id="tspan24193">«открытого» интернета. </tspan></text>
-    </a>
-    <rect
-       style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77953;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect11562"
-       width="832"
-       height="80"
-       x="68"
-       y="690"
-       ry="20"
-       rx="20" />
-    <a
-       id="a29870"
-       xlink:href="http://web.archive.org/"
-       style="fill:#800080"
-       transform="translate(-20,20)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         x="106.15295"
-         y="719.93164"
-         id="text11566"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#800080"
-           sodipodi:role="line"
-           x="106.15295"
-           y="719.93164"
-           id="tspan11564">http://web.archive.org/</tspan></text>
-    </a>
-    <g
-       id="A"
-       transform="translate(952.299,158.4445)">
-      <g
-         id="g11723">
-        <path
-           d="M 146.564,60.034 139.981,41.778 H 117.6 l -6.583,18.256 h -5.441 L 123.042,12.2 c 0.351,-0.878 1.492,-4.389 1.492,-5.178 0,-3.687 -4.038,-3.687 -6.758,-4.125 V 0.965 h 16.5 l 21.416,59.068 h -9.128 z m -18.081,-48.01 -9.391,25.629 h 19.397 z"
-           id="path11709" />
-        <path
-           d="M 221.758,60.034 206.223,32.738 h -5.441 v 27.296 h -9.655 V 12.901 c 0,-8.426 0,-8.776 -8.338,-10.005 V 0.965 h 22.557 c 10.62,0 23.785,2.282 23.785,15.71 0,8.865 -5.09,13.166 -13.429,14.482 l 16.15,28.876 H 221.758 Z M 206.662,5.09 c -6.319,0 -5.88,2.37 -5.88,7.899 v 15.623 h 5.002 c 7.636,0 13.692,-2.809 13.692,-11.41 C 219.476,8.513 215,5.09 206.662,5.09 Z"
-           id="path11711" />
-        <path
-           d="m 287.723,60.911 c -20.187,0 -25.892,-13.077 -25.892,-31.246 0,-16.939 5.617,-28.964 24.488,-28.964 5.968,0 11.936,0.79 17.554,2.633 l 0.526,14.658 h -2.545 c -0.176,-1.843 -0.878,-3.774 -1.843,-5.354 -2.722,-4.74 -7.286,-7.724 -12.815,-7.724 -13.253,0 -15.008,14.57 -15.008,24.751 0,10.883 3.335,26.331 17.027,26.331 5.793,0 10.621,-1.141 15.36,-4.477 v 6.056 c -5.53,2.459 -10.797,3.336 -16.852,3.336 z"
-           id="path11713" />
-        <path
-           d="M 376.778,60.034 V 31.333 h -23.872 v 28.701 h -9.655 V 12.551 c 0,-7.636 -1.404,-7.812 -8.776,-8.601 V 2.019 L 352.906,0 v 27.208 h 23.872 V 0.965 h 9.655 v 59.068 h -9.655 z"
-           id="path11715" />
-        <path
-           d="M 420.354,60.034 V 57.84 c 6.583,0 7.461,-1.755 7.461,-8.163 v -37.74 c 0,-6.407 -0.878,-8.163 -7.461,-8.163 V 1.58 h 24.575 v 2.194 c -6.582,0 -7.46,1.843 -7.46,8.163 v 37.74 c 0,6.32 0.878,8.163 7.46,8.163 v 2.194 z"
-           id="path11717" />
-        <path
-           d="m 509.035,60.034 h -7.636 L 484.196,12.2 C 481.563,4.827 481.125,4.301 473.577,2.896 V 0.965 h 17.026 l 17.203,48.097 h 0.175 L 524.746,0.965 h 5.705 z"
-           id="path11719" />
-        <path
-           d="m 599.734,60.034 h -35.02 V 12.901 c 0,-8.426 -0.088,-8.688 -8.339,-10.005 V 0.965 h 42.042 l 0.264,12.99 h -2.458 c 0,-6.583 -3.247,-8.865 -9.479,-8.865 h -6.847 c -4.037,0 -5.529,0.088 -5.529,4.564 V 27.12 h 10.62 c 5.003,0 6.407,-2.282 7.197,-6.758 h 2.457 v 18.432 h -2.457 c 0,-4.916 -2.106,-7.548 -7.197,-7.548 h -10.62 v 19.572 c 0,4.828 1.054,5.091 5.529,5.091 h 9.743 c 5.968,0 7.46,-2.984 7.898,-8.602 h 2.458 z"
-           id="path11721" />
-      </g>
-      <rect
-         x="139.201"
-         y="558.56097"
-         width="423.263"
-         height="21.705"
-         id="rect11725" />
-      <rect
-         x="155.897"
-         y="516.81799"
-         width="390.70401"
-         height="30.055"
-         id="rect11727" />
-      <rect
-         x="153.39301"
-         y="174.535"
-         width="388.617"
-         height="41.742001"
-         id="rect11729" />
-      <polygon
-         points="144.21,149.072 155.897,162.012 347.701,162.012 539.506,162.012 551.193,149.072 347.701,101.486 "
-         id="polygon11731" />
-      <g
-         id="g11749">
-        <path
-           d="m 59.068,583.111 h -2.194 c 0,-6.582 -1.755,-7.46 -8.163,-7.46 h -37.74 c -6.407,0 -8.162,0.878 -8.162,7.46 H 0.614 v -24.575 h 2.194 c 0,6.583 1.843,7.461 8.162,7.461 h 37.741 c 6.319,0 8.163,-0.878 8.163,-7.461 h 2.194 z"
-           id="path11733" />
-        <path
-           d="M 59.068,486.655 9.127,515.619 v 0.176 h 49.941 v 5.529 H 11.234 c -8.25,0 -7.899,1.316 -9.304,8.776 H 0 v -18.519 l 47.746,-27.648 v -0.175 H 0 v -5.529 h 59.068 z"
-           id="path11735" />
-        <path
-           d="m 12.989,399.853 c -6.846,0 -8.864,2.984 -8.864,9.567 v 5.968 h 54.943 v 9.655 H 4.125 v 6.056 c 0,6.67 1.931,8.952 8.601,9.479 v 2.458 L 0,442.685 v -44.938 l 12.989,-0.351 z"
-           id="path11737" />
-        <path
-           d="m 59.068,327.093 v 35.021 H 11.936 c -8.426,0 -8.688,0.087 -10.005,8.338 H 0 V 328.41 l 12.989,-0.263 v 2.457 c -6.583,0 -8.864,3.248 -8.864,9.479 v 6.846 c 0,4.037 0.088,5.529 4.564,5.529 h 17.466 v -10.62 c 0,-5.002 -2.282,-6.406 -6.758,-7.197 v -2.457 h 18.432 v 2.457 c -4.915,0 -7.548,2.106 -7.548,7.197 v 10.62 h 19.572 c 4.828,0 5.091,-1.053 5.091,-5.529 v -9.742 c 0,-5.969 -2.984,-7.46 -8.602,-7.899 v -2.457 z"
-           id="path11739" />
-        <path
-           d="m 59.068,256.44 -27.296,15.535 v 5.442 h 27.296 v 9.654 H 11.936 c -8.426,0 -8.776,0 -10.005,8.338 H 0 v -22.556 c 0,-10.62 2.282,-23.786 15.71,-23.786 8.864,0 13.166,5.091 14.481,13.429 L 59.067,246.347 V 256.44 Z M 4.125,271.536 c 0,6.32 2.37,5.881 7.899,5.881 h 15.623 v -5.003 c 0,-7.636 -2.809,-13.692 -11.41,-13.692 -8.689,0 -12.112,4.476 -12.112,12.814 z"
-           id="path11741" />
-        <path
-           d="M 59.068,173.938 9.127,202.902 v 0.176 h 49.941 v 5.529 H 11.234 c -8.25,0 -7.899,1.316 -9.304,8.777 H 0 v -18.519 l 47.746,-27.647 v -0.175 H 0 v -5.53 h 59.068 z"
-           id="path11743" />
-        <path
-           d="m 59.068,87.662 v 35.021 H 11.936 c -8.426,0 -8.688,0.087 -10.005,8.337 H 0 V 88.979 l 12.989,-0.263 v 2.458 c -6.583,0 -8.864,3.247 -8.864,9.479 v 6.846 c 0,4.037 0.088,5.529 4.564,5.529 h 17.466 v -10.62 c 0,-5.003 -2.282,-6.407 -6.758,-7.197 v -2.458 h 18.432 v 2.458 c -4.915,0 -7.548,2.106 -7.548,7.197 v 10.62 h 19.572 c 4.828,0 5.091,-1.053 5.091,-5.529 v -9.743 c 0,-5.968 -2.984,-7.46 -8.602,-7.899 v -2.458 z"
-           id="path11745" />
-        <path
-           d="m 12.989,12.182 c -6.846,0 -8.864,2.984 -8.864,9.567 v 5.969 h 54.943 v 9.654 H 4.125 v 6.056 c 0,6.671 1.931,8.953 8.601,9.479 v 2.458 L 0,55.013 V 10.075 L 12.989,9.724 Z"
-           id="path11747" />
-      </g>
-      <path
-         d="m 209.446,348.42 c -0.335,-20.5 -0.866,-41.001 -1.669,-61.487 -0.756,-19.302 -2,-38.585 -2.939,-57.881 -0.081,-1.666 -0.787,-2.026 -2.169,-2.328 -5.693,-1.241 -11.416,-1.824 -17.163,-1.833 -5.747,0.009 -11.47,0.592 -17.163,1.833 -1.382,0.301 -2.088,0.662 -2.169,2.328 -0.939,19.296 -2.183,38.579 -2.939,57.881 -0.803,20.486 -1.335,40.987 -1.669,61.487 -0.237,14.528 -0.09,29.067 0.14,43.599 0.254,16.121 0.612,32.246 1.265,48.355 0.7,17.288 1.782,34.562 2.731,51.839 0.182,3.311 0.521,6.613 0.78,9.831 6.379,1.66 12.704,2.619 19.025,2.698 6.321,-0.079 12.645,-1.038 19.025,-2.698 0.259,-3.218 0.597,-6.521 0.779,-9.831 0.949,-17.277 2.031,-34.551 2.731,-51.839 0.653,-16.109 1.011,-32.234 1.265,-48.355 0.229,-14.532 0.377,-29.071 0.139,-43.599 z"
-         id="path11751" />
-      <path
-         d="m 315.257,348.42 c -0.335,-20.5 -0.867,-41.001 -1.67,-61.487 -0.757,-19.302 -2.001,-38.585 -2.939,-57.881 -0.081,-1.666 -0.786,-2.026 -2.169,-2.328 -5.692,-1.241 -11.416,-1.824 -17.162,-1.833 -5.747,0.009 -11.47,0.592 -17.163,1.833 -1.382,0.301 -2.088,0.662 -2.169,2.328 -0.938,19.296 -2.183,38.579 -2.939,57.881 -0.803,20.486 -1.335,40.987 -1.669,61.487 -0.237,14.528 -0.09,29.067 0.139,43.599 0.255,16.121 0.612,32.246 1.265,48.355 0.701,17.288 1.782,34.562 2.731,51.839 0.182,3.311 0.521,6.613 0.779,9.831 6.38,1.66 12.705,2.619 19.025,2.698 6.321,-0.079 12.645,-1.038 19.025,-2.698 0.258,-3.218 0.597,-6.521 0.779,-9.831 0.948,-17.277 2.03,-34.551 2.73,-51.839 0.653,-16.109 1.011,-32.234 1.266,-48.355 0.231,-14.532 0.378,-29.071 0.141,-43.599 z"
-         id="path11753" />
-      <path
-         d="m 437.972,348.42 c -0.335,-20.5 -0.866,-41.001 -1.67,-61.487 -0.756,-19.302 -2,-38.585 -2.938,-57.881 -0.082,-1.666 -0.787,-2.026 -2.17,-2.328 -5.692,-1.241 -11.415,-1.824 -17.162,-1.833 -5.747,0.009 -11.47,0.592 -17.163,1.833 -1.382,0.301 -2.088,0.662 -2.169,2.328 -0.938,19.296 -2.183,38.579 -2.938,57.881 -0.804,20.486 -1.335,40.987 -1.67,61.487 -0.237,14.528 -0.09,29.067 0.14,43.599 0.255,16.121 0.612,32.246 1.265,48.355 0.701,17.288 1.782,34.562 2.731,51.839 0.183,3.311 0.521,6.613 0.779,9.831 6.38,1.66 12.704,2.619 19.025,2.698 6.321,-0.079 12.645,-1.038 19.025,-2.698 0.258,-3.218 0.597,-6.521 0.779,-9.831 0.949,-17.277 2.03,-34.551 2.731,-51.839 0.652,-16.109 1.01,-32.234 1.265,-48.355 0.23,-14.532 0.377,-29.071 0.14,-43.599 z"
-         id="path11755" />
-      <path
-         d="m 541.277,348.42 c -0.335,-20.5 -0.866,-41.001 -1.669,-61.487 -0.757,-19.302 -2.001,-38.585 -2.939,-57.881 -0.082,-1.666 -0.787,-2.026 -2.17,-2.328 -5.691,-1.241 -11.415,-1.824 -17.162,-1.833 -5.746,0.009 -11.47,0.592 -17.162,1.833 -1.383,0.301 -2.088,0.662 -2.169,2.328 -0.939,19.296 -2.184,38.579 -2.939,57.881 -0.803,20.486 -1.335,40.987 -1.67,61.487 -0.237,14.528 -0.09,29.067 0.14,43.599 0.255,16.121 0.612,32.246 1.266,48.355 0.7,17.288 1.782,34.562 2.73,51.839 0.183,3.311 0.521,6.613 0.779,9.831 6.381,1.66 12.705,2.619 19.025,2.698 6.321,-0.079 12.646,-1.038 19.025,-2.698 0.259,-3.218 0.597,-6.521 0.779,-9.831 0.949,-17.277 2.031,-34.551 2.731,-51.839 0.653,-16.109 1.01,-32.234 1.265,-48.355 0.23,-14.532 0.378,-29.071 0.14,-43.599 z"
-         id="path11757" />
-    </g>
-  </g>
-  <g
-     style="display:none"
-     inkscape:label="Ссылки"
-     id="layer12"
-     inkscape:groupmode="layer">
-    <a
-       style="fill:#800080"
-       xlink:href="http://www.postgresql.org/docs/current/static/transaction-iso.html"
-       id="a4242">
-      <a
-         xlink:href="http://www.postgresql.org/docs/current/static/sql-prepare-transaction.html"
-         id="a3974" />
-    </a>
-    <a
-       transform="translate(2.8710938)"
-       xlink:href="http://momjian.us/main/writings/pgsql/Get_to_know_PostgreSQL.pdf"
-       id="a4319"
-       style="fill:#800080" />
-    <a
-       style="fill:#800080"
-       id="a6488"
-       xlink:href="http://www.postgresql.org/docs/9.3/static/dblink.html"
-       transform="translate(2.8710938,-240)" />
-    <a
-       style="fill:#800080"
-       id="a6508"
-       xlink:href="http://www.wikisec.ru/index.php?title=%D0%93%D0%9E%D0%A1%D0%A2_%D0%A0_51275-2006"
-       transform="translate(2.8710938,-240)" />
-    <a
-       style="fill:#800080"
-       id="a7089"
-       xlink:href="http://wiki.postgresql.org/images/7/7e/Conferences-write_a_foreign_data_wrapper_in_15_minutes-presentation.pdf"
-       transform="translate(2.8710938)" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="-541.44177"
-       y="712.11163"
-       id="text7571"><tspan
-         sodipodi:role="line"
-         id="tspan7573"
-         x="-541.44177"
-         y="712.11163"
-         style="font-size:40px;line-height:1.25;font-family:sans-serif"> </tspan></text>
-    <rect
-       style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect8068"
-       width="20"
-       height="20"
-       x="-122.25932"
-       y="215.39644"
-       ry="0"
-       transform="rotate(-45)" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-       x="120.11719"
-       y="156.12128"
-       id="text8074"><tspan
-         id="tspan8623"
-         y="156.12128"
-         x="120.11719"
-         sodipodi:role="line"
-         style="font-size:32px;line-height:1;font-family:sans-serif">Парасрам Ш., Замм А., Хериянто Т. Kali Linux. Тестирование на проникновение и</tspan><tspan
-         y="188.12128"
-         x="120.11719"
-         sodipodi:role="line"
-         style="font-size:32px;line-height:1;font-family:sans-serif"
-         id="tspan7220">безопасность. - СПб.: Питер, 2020. - 448 с.</tspan></text>
-    <a
-       transform="translate(7.7756839,-142.30383)"
-       xlink:href="https://itsecforu.ru/2019/09/05/%F0%9F%A7%AA-7-%D0%BF%D0%BE%D0%BF%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D1%85-%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2-osint-%D1%81-%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82/"
-       id="a8076-7"
-       style="display:inline;fill:#800080">
-      <text
-         id="text8074-9"
-         y="390"
-         x="117.24609"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan8696"
-           x="117.24609"
-           y="390">7 популярных инструментов OSINT</tspan></text>
-    </a>
-    <rect
-       style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect8698"
-       width="20"
-       height="20"
-       x="-68.897141"
-       y="162.03424"
-       ry="0"
-       transform="rotate(-45)" />
-  </g>
-  <g
-     style="display:none"
-     inkscape:label=" "
-     id="layer13"
-     inkscape:groupmode="layer">
-    <text
-       id="text8913-9"
-       y="470"
-       x="799.84998"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-align:center;letter-spacing:0.3px;word-spacing:0px;text-anchor:middle;display:inline;fill:#203d85;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan8919-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#203d85;fill-opacity:1"
-         y="470"
-         x="800"
-         sodipodi:role="line">Спасибо за внимание</tspan></text>
-    <a
-       transform="translate(0,14)"
-       xlink:href="mailto:smurav@mail.ru"
-       id="a4369">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-         x="80"
-         y="710"
-         id="text4350"><tspan
-           y="710"
-           x="80"
-           sodipodi:role="line"
-           id="tspan4356"
-           style="font-size:40px;line-height:2;font-family:sans-serif">smurav@mail.ru </tspan></text>
-    </a>
-    <a
-       xlink:href="https://smurav.github.io/ta43/"
-       id="a4364">
-      <text
-         id="text4358"
-         y="790"
-         x="80"
-         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           id="tspan4362"
-           sodipodi:role="line"
-           x="80"
-           y="790"
-           style="font-size:40px;line-height:2;font-family:sans-serif">https://smurav.github.io/ta43/kii/</tspan></text>
-    </a>
   </g>
   <ns1:mousehandler
      ns1:subtype="jessyInk_core_mouseHandler_noclick">
