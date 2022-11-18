@@ -30,12 +30,12 @@
 1. [Отслеживание в сети Интернет](../kii_lab_tracking.svg)
 1. [Сканирование](../kii_lab_scanning.svg)
 
-## 2 декабря 
+## 25 ноября 
 1. [Эксплуатация уязвимостей](../ta43_lab_exploitation.svg)
 1. [Парольные атаки](../ta43_lab_password_attacks.svg)
 1. [Поддержание доступа](../ta43_lab_maintaining_access.svg)
 
-## 9 декабря
+## 2 декабря
 1. [WEB-прокси](../ta43_lab_proxy.svg)
 1. [Атаки на Web-приложения](../ta43_lab_web_attacks.svg)
 1. [Тестирование Web-приложений](../ta43_lab_web_testing.svg)
