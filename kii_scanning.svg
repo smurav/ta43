@@ -6,7 +6,7 @@
    height="900"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="kii_scanning.svg"
    enable-background="new"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -26,15 +26,15 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.38135452"
-     inkscape:cx="776.18066"
-     inkscape:cy="545.42425"
+     inkscape:cx="777.49177"
+     inkscape:cy="546.73536"
      inkscape:document-units="px"
-     inkscape:current-layer="a7596"
+     inkscape:current-layer="layer8"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1018"
-     inkscape:window-x="-6"
-     inkscape:window-y="-6"
+     inkscape:window-height="1132"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -9947,358 +9947,349 @@
      id="layer8"
      inkscape:label="Базы данных уязвимостей"
      style="display:none">
+    <rect
+       y="610"
+       x="80"
+       height="79.999977"
+       width="620.00006"
+       id="rect5899"
+       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="107.35522"
+       y="660.59741"
+       id="text5907"><tspan
+         y="660.59741"
+         x="107.35522"
+         id="tspan5905"
+         sodipodi:role="line">UC-CERT Alerts</tspan></text>
+    <text
+       id="text5917"
+       y="580.59741"
+       x="107.35522"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="580.59741"
+         x="107.35522"
+         id="tspan5915"
+         sodipodi:role="line">Vulnerability Notes Database</tspan></text>
+    <rect
+       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5921"
+       width="620.00006"
+       height="79.999977"
+       x="80"
+       y="450" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="107.35522"
+       y="500.59741"
+       id="text5929"><tspan
+         y="500.59741"
+         x="107.35522"
+         id="tspan5927"
+         sodipodi:role="line">IBM iSS X-Force</tspan></text>
     <a
-       transform="translate(660,-479.99999)"
-       id="a7614"
-       xlink:href="https://bdu.fstec.ru/vul"
-       style="display:inline">
-      <rect
-         y="1090"
-         x="-580"
-         height="79.999977"
-         width="620.00006"
-         id="rect5899"
-         style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="display:inline"
+       transform="translate(-700)"
+       id="a5937"
+       xlink:href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D0%B9_%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-         x="-552.64478"
-         y="1140.5974"
-         id="text5907"><tspan
-           y="1140.5974"
-           x="-552.64478"
-           id="tspan5905"
-           sodipodi:role="line">UC-CERT Alerts</tspan></text>
-      <text
-         id="text5917"
-         y="1060.5974"
-         x="-552.64478"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="1060.5974"
-           x="-552.64478"
-           id="tspan5915"
-           sodipodi:role="line">Vulnerability Notes Database</tspan></text>
-      <rect
-         style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect5921"
-         width="620.00006"
-         height="79.999977"
-         x="-580"
-         y="930" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-         x="-552.64478"
-         y="980.59741"
-         id="text5929"><tspan
-           y="980.59741"
-           x="-552.64478"
-           id="tspan5927"
-           sodipodi:role="line">IBM iSS X-Force</tspan></text>
-      <a
-         style="display:inline"
-         transform="translate(-1360,479.99999)"
-         id="a5937"
-         xlink:href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D0%B9_%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-           x="807.35522"
-           y="420.59741"
-           id="text5935"><tspan
-             sodipodi:role="line"
-             id="tspan5933"
-             x="807.35522"
-             y="420.59741">National Vulnerability Database</tspan></text>
-      </a>
-      <rect
-         y="770"
-         x="-580"
-         height="79.999977"
-         width="620.00006"
-         id="rect5939"
-         style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <a
-         style="display:inline"
-         transform="translate(-1360,399.33424)"
-         id="a5945"
-         xlink:href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C">
-        <text
-           id="text5943"
-           y="340.59741"
-           x="807.35522"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-           xml:space="preserve"><tspan
-             sodipodi:role="line"
-             id="tspan5941"
-             x="807.35522"
-             y="340.59741">База уязвимостей НКЦКИ</tspan></text>
-      </a>
-      <rect
-         y="610"
-         x="40.253853"
-         height="79.999977"
-         width="819.74622"
-         id="rect5947"
-         style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.12119;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-         x="225.57446"
-         y="661.68945"
-         id="text5951"><tspan
+         x="807.35522"
+         y="420.59741"
+         id="text5935"><tspan
            sodipodi:role="line"
-           id="tspan5949"
-           x="225.57446"
-           y="661.68945"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Адрес</tspan></text>
+           id="tspan5933"
+           x="807.35522"
+           y="420.59741">National Vulnerability Database</tspan></text>
+    </a>
+    <rect
+       y="290"
+       x="80"
+       height="79.999977"
+       width="620.00006"
+       id="rect5939"
+       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <a
+       style="display:inline"
+       transform="translate(-700,-80.66575)"
+       id="a5945"
+       xlink:href="https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C">
       <text
-         xml:space="preserve"
+         id="text5943"
+         y="340.59741"
+         x="807.35522"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-         x="-552.64478"
-         y="1220.5974"
-         id="text5961"><tspan
-           y="1220.5974"
-           x="-552.64478"
-           id="tspan5959"
-           sodipodi:role="line">Bugtraq SecurityFocus</tspan></text>
-      <rect
-         style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect5963"
-         width="620.00006"
-         height="79.999977"
-         x="-580"
-         y="1010" />
-      <rect
-         style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect5965"
-         width="620.00006"
-         height="79.999977"
-         x="-580"
-         y="610" />
-      <text
-         id="text5969"
-         y="663.10449"
-         x="-311.50195"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            sodipodi:role="line"
-           id="tspan5967"
-           x="-311.50195"
-           y="663.10449">Имя</tspan></text>
-      <rect
-         style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect5971"
-         width="620.00006"
-         height="79.999977"
-         x="-580"
-         y="690" />
-      <rect
-         y="850"
-         x="-580"
-         height="79.999977"
-         width="620.00006"
-         id="rect5973"
-         style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="1170.1921"
-         x="-580"
-         height="79.615807"
-         width="620.00006"
-         id="rect5975"
-         style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48102;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           id="tspan5941"
+           x="807.35522"
+           y="340.59741">База уязвимостей НКЦКИ</tspan></text>
+    </a>
+    <rect
+       y="130.00002"
+       x="700.25385"
+       height="79.999977"
+       width="819.74622"
+       id="rect5947"
+       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.12119;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="885.57446"
+       y="181.68947"
+       id="text5951"><tspan
+         sodipodi:role="line"
+         id="tspan5949"
+         x="885.57446"
+         y="181.68947"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Адрес</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="107.35522"
+       y="740.59741"
+       id="text5961"><tspan
+         y="740.59741"
+         x="107.35522"
+         id="tspan5959"
+         sodipodi:role="line">Bugtraq SecurityFocus</tspan></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5963"
+       width="620.00006"
+       height="79.999977"
+       x="80"
+       y="530" />
+    <rect
+       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5965"
+       width="620.00006"
+       height="79.999977"
+       x="80"
+       y="130.00002" />
+    <text
+       id="text5969"
+       y="183.10451"
+       x="348.49805"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan5967"
+         x="348.49805"
+         y="183.10451">Имя</tspan></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5971"
+       width="620.00006"
+       height="79.999977"
+       x="80"
+       y="210.00002" />
+    <rect
+       y="370"
+       x="80"
+       height="79.999977"
+       width="620.00006"
+       id="rect5973"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="690.19214"
+       x="80"
+       height="79.615807"
+       width="620.00006"
+       id="rect5975"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48102;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text5979"
+       y="190.00002"
+       x="980"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;line-height:1.25;font-family:Aharoni;-inkscape-font-specification:Aharoni;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="190.00002"
+         x="980"
+         id="tspan5977"
+         sodipodi:role="line"> </tspan></text>
+    <a
+       style="display:inline"
+       xlink:href="https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%B7%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C"
+       id="a5985"
+       transform="translate(40,-400.00001)">
       <text
-         id="text5979"
-         y="670"
-         x="320"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;line-height:1.25;font-family:Aharoni;-inkscape-font-specification:Aharoni;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           y="670"
-           x="320"
-           id="tspan5977"
-           sodipodi:role="line"> </tspan></text>
-      <a
-         style="display:inline"
-         xlink:href="https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%B7%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C"
-         id="a5985"
-         transform="translate(-620,79.99998)">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="67.355255"
+         y="721.37793"
+         id="text5983"><tspan
+           sodipodi:role="line"
+           id="tspan5981"
            x="67.355255"
-           y="721.37793"
-           id="text5983"><tspan
-             sodipodi:role="line"
-             id="tspan5981"
-             x="67.355255"
-             y="721.37793">Банк данных угроз</tspan><tspan
-             sodipodi:role="line"
-             x="67.355255"
-             y="757.37793"
-             id="tspan11323">безопасности информации</tspan></text>
-      </a>
-      <rect
-         style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect7567"
-         width="820.00006"
-         height="79.999977"
-         x="40"
-         y="1090" />
-      <a
-         id="a11333"
-         xlink:href="https://us-cert.cisa.gov/ncas/alerts"
-         style="display:inline"
-         transform="translate(-660,479.99999)">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-           x="727.35522"
+           y="721.37793">Банк данных угроз</tspan><tspan
+           sodipodi:role="line"
+           x="67.355255"
+           y="757.37793"
+           id="tspan11323">безопасности информации</tspan></text>
+    </a>
+    <rect
+       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7567"
+       width="820.00006"
+       height="79.999977"
+       x="700"
+       y="610" />
+    <a
+       id="a11333"
+       xlink:href="https://us-cert.cisa.gov/ncas/alerts"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="727.35522"
+         y="660.59741"
+         id="text7572"><tspan
            y="660.59741"
-           id="text7572"><tspan
-             y="660.59741"
-             x="727.35522"
-             id="tspan7569"
-             sodipodi:role="line">https://us-cert.cisa.gov/ncas/alerts</tspan></text>
-      </a>
-      <a
-         id="a11329"
-         xlink:href="https://www.kb.cert.org/vuls/"
-         style="display:inline"
-         transform="translate(-660,479.99999)">
-        <text
-           id="text7576"
+           x="727.35522"
+           id="tspan7569"
+           sodipodi:role="line">https://us-cert.cisa.gov/ncas/alerts</tspan></text>
+    </a>
+    <a
+       id="a11329"
+       xlink:href="https://www.kb.cert.org/vuls/"
+       style="display:inline">
+      <text
+         id="text7576"
+         y="580.59741"
+         x="727.35522"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
            y="580.59741"
            x="727.35522"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-           xml:space="preserve"><tspan
-             y="580.59741"
-             x="727.35522"
-             id="tspan7574"
-             sodipodi:role="line">https://www.kb.cert.org/vuls/</tspan></text>
-      </a>
-      <rect
-         y="930"
-         x="40"
-         height="79.999977"
-         width="820.00006"
-         id="rect7578"
-         style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <a
-         id="a11325"
-         xlink:href="https://exchange.xforce.ibmcloud.com/"
-         style="display:inline"
-         transform="translate(-660,479.99999)">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-           x="727.35522"
+           id="tspan7574"
+           sodipodi:role="line">https://www.kb.cert.org/vuls/</tspan></text>
+    </a>
+    <rect
+       y="450"
+       x="700"
+       height="79.999977"
+       width="820.00006"
+       id="rect7578"
+       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <a
+       id="a11325"
+       xlink:href="https://exchange.xforce.ibmcloud.com/"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="727.35522"
+         y="500.59741"
+         id="text7582"><tspan
            y="500.59741"
-           id="text7582"><tspan
-             y="500.59741"
-             x="727.35522"
-             id="tspan7580"
-             sodipodi:role="line">https://exchange.xforce.ibmcloud.com/</tspan></text>
-      </a>
-      <a
-         xlink:href="https://nvd.nist.gov/"
-         id="a7588"
-         transform="translate(-740,479.99999)"
-         style="display:inline">
-        <text
-           id="text7586"
+           x="727.35522"
+           id="tspan7580"
+           sodipodi:role="line">https://exchange.xforce.ibmcloud.com/</tspan></text>
+    </a>
+    <a
+       xlink:href="https://nvd.nist.gov/"
+       id="a7588"
+       transform="translate(-80)"
+       style="display:inline">
+      <text
+         id="text7586"
+         y="420.59741"
+         x="807.35522"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
            y="420.59741"
            x="807.35522"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-           xml:space="preserve"><tspan
-             y="420.59741"
-             x="807.35522"
-             id="tspan7584"
-             sodipodi:role="line">https://nvd.nist.gov/</tspan></text>
-      </a>
-      <rect
-         style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect7590"
-         width="820.00006"
-         height="79.999977"
-         x="40"
-         y="770" />
-      <a
-         xlink:href="https://safe-surf.ru/specialists/base-vulnerabilities/"
-         id="a7596"
-         transform="translate(-740,399.33424)"
-         style="display:inline">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-           x="807.35522"
+           id="tspan7584"
+           sodipodi:role="line">https://nvd.nist.gov/</tspan></text>
+    </a>
+    <rect
+       style="display:inline;fill:#ccdff0;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7590"
+       width="820.00006"
+       height="79.999977"
+       x="700"
+       y="290" />
+    <a
+       xlink:href="https://safe-surf.ru/specialists/base-vulnerabilities/"
+       id="a7596"
+       transform="translate(-80,-80.66575)"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="807.35522"
+         y="340.59741"
+         id="text7594"><tspan
            y="340.59741"
-           id="text7594"><tspan
-             y="340.59741"
-             x="807.35522"
-             id="tspan7592"
-             sodipodi:role="line">safe-surf.ru/specialists/base-vulnerabilities/</tspan></text>
-      </a>
-      <a
-         id="a7616"
-         xlink:href="https://www.securityfocus.com/"
-         transform="translate(-540,959.99999)"
-         style="display:inline">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-           x="607.35522"
+           x="807.35522"
+           id="tspan7592"
+           sodipodi:role="line">safe-surf.ru/specialists/base-vulnerabilities/</tspan></text>
+    </a>
+    <a
+       id="a7616"
+       xlink:href="https://www.securityfocus.com/"
+       transform="translate(120,480)"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="607.35522"
+         y="260.59741"
+         id="text7600"><tspan
            y="260.59741"
-           id="text7600"><tspan
-             y="260.59741"
-             x="607.35522"
-             id="tspan7598"
-             sodipodi:role="line">https://www.securityfocus.com/</tspan></text>
-      </a>
-      <rect
-         y="1010"
-         x="40"
-         height="79.999977"
-         width="820.00006"
-         id="rect7602"
-         style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="690"
-         x="40"
-         height="79.999977"
-         width="820.00006"
-         id="rect7604"
-         style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect7606"
-         width="820.00006"
-         height="79.999977"
-         x="40"
-         y="850" />
-      <rect
-         style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48102;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect7608"
-         width="820.00012"
-         height="79.615807"
-         x="40"
-         y="1170.1921" />
-      <a
-         transform="translate(0,79.33421)"
-         id="a7614-4"
-         xlink:href="https://bdu.fstec.ru/vul"
-         style="display:inline">
-        <text
-           id="text7612"
+           x="607.35522"
+           id="tspan7598"
+           sodipodi:role="line">https://www.securityfocus.com/</tspan></text>
+    </a>
+    <rect
+       y="530"
+       x="700"
+       height="79.999977"
+       width="820.00006"
+       id="rect7602"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="210.00002"
+       x="700"
+       height="79.999977"
+       width="820.00006"
+       id="rect7604"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48721;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7606"
+       width="820.00006"
+       height="79.999977"
+       x="700"
+       y="370" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#1f3c84;stroke-width:2.48102;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7608"
+       width="820.00012"
+       height="79.615807"
+       x="700"
+       y="690.19214" />
+    <a
+       transform="translate(660,-400.66578)"
+       id="a7614-4"
+       xlink:href="https://bdu.fstec.ru/vul"
+       style="display:inline">
+      <text
+         id="text7612"
+         y="740.59741"
+         x="67.355255"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
            y="740.59741"
            x="67.355255"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-           xml:space="preserve"><tspan
-             y="740.59741"
-             x="67.355255"
-             id="tspan7610"
-             sodipodi:role="line">https://bdu.fstec.ru/vul</tspan></text>
-      </a>
+           id="tspan7610"
+           sodipodi:role="line">https://bdu.fstec.ru/vul</tspan></text>
     </a>
   </g>
   <g
