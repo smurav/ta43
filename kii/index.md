@@ -32,11 +32,13 @@
 
 ## 25 ноября 
 1. [Эксплуатация уязвимостей](../kii_exploitation.svg)
-1. [Парольные атаки](../ta43_lab_password_attacks.svg)
-1. [Поддержание доступа](../ta43_lab_maintaining_access.svg)
+1. [Парольные атаки](../kii_password_attacks.svg)
+1. [Поддержание доступа](../kii_maintaining_access.svg)
 
 #### Дополнительные задания для самостоятельного выполнения
 1. [Разведка и сбор данных](../kii_lab_exploitation.svg)
+1. [Парольные атаки](../kii_lab_password_attacks.svg)
+1. [Поддержание доступа](../kii_lab_maintaining_access.svg)
 
 ## 2 декабря
 1. [WEB-прокси](../ta43_lab_proxy.svg)
