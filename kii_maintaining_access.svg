@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="585"
-     inkscape:cy="671"
+     inkscape:cx="509"
+     inkscape:cy="511"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer6"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1132"
@@ -8546,7 +8546,7 @@
          x="97.441406"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">john [опции] [файлы-паролей]</tspan><tspan
-         y="440.89731"
+         y="442.07538"
          x="97.441406"
          sodipodi:role="line"
          id="tspan6762" /></text>
@@ -8554,7 +8554,7 @@
        style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77953;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
        id="rect11077"
        width="1440"
-       height="80"
+       height="120"
        x="80"
        y="550"
        ry="20"
@@ -8563,17 +8563,22 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        x="97.441406"
-       y="599.50977"
+       y="598.33167"
        id="text11083"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="97.441406"
-         y="599.50977"
-         id="tspan11079">sudo john --wordlist=/usr/share/john/password.lst pass.txt</tspan><tspan
+         y="598.33167"
+         id="tspan11079">sudo john --wordlist=/usr/share/john/password.lst --format=md5crypt-long \ </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="97.441406"
+         y="641.53168"
+         id="tspan4599">pass.txt</tspan><tspan
          id="tspan11081"
          sodipodi:role="line"
          x="97.441406"
-         y="620.89734" /></text>
+         y="664.09729" /></text>
     <text
        id="text11089"
        y="523.50977"
@@ -8585,14 +8590,14 @@
          x="76.900856"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Словарная атака</tspan><tspan
-         y="544.89734"
+         y="546.07538"
          x="76.900856"
          sodipodi:role="line"
          id="tspan11087" /></text>
     <rect
        rx="19.999998"
        ry="20"
-       y="710"
+       y="750"
        x="80"
        height="80"
        width="1440"
@@ -8600,16 +8605,16 @@
        style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77953;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
     <text
        id="text11097"
-       y="759.50977"
+       y="799.50977"
        x="97.441406"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan11093"
-         y="759.50977"
+         y="799.50977"
          x="97.441406"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">sudo john --show pass.txt</tspan><tspan
-         y="780.89734"
+         y="822.07538"
          x="97.441406"
          sodipodi:role="line"
          id="tspan11095" /></text>
@@ -8617,17 +8622,17 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        x="76.900856"
-       y="683.50977"
+       y="723.50977"
        id="text11103"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="76.900856"
-         y="683.50977"
+         y="723.50977"
          id="tspan11099">Просмотр подобранных паролей</tspan><tspan
          id="tspan11101"
          sodipodi:role="line"
          x="76.900856"
-         y="704.89734" /></text>
+         y="746.07538" /></text>
     <image
        xlink:href="img/johntheripper.png"
        y="122.38464"
