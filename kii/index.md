@@ -39,7 +39,9 @@
 1. [Поддержание доступа](../kii_lab_maintaining_access.svg)
 
 ## 2 декабря
-1. [WEB-прокси](../ta43_lab_proxy.svg)
-1. [Атаки на Web-приложения](../ta43_lab_web_attacks.svg)
-1. [Тестирование Web-приложений](../ta43_lab_web_testing.svg)
+1. [Атаки на Web-приложения](../kii_web_attacks.svg)
+1. [Тестирование Web-приложений](../kii_web_testing.svg)
 
+#### Задания для самостоятельного выполнения
+1. [Атаки на Web-приложения](../kii_lab_web_attacks.svg)
+1. [Тестирование Web-приложений](../kii_lab_web_testing.svg)
