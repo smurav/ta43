@@ -7,7 +7,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="kii_web_scanning.svg"
+   sodipodi:docname="kii_web_testing.svg"
    enable-background="new"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.55306874"
-     inkscape:cx="936.59244"
+     inkscape:cx="779.2883"
      inkscape:cy="289.29496"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="g10585"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1018"
@@ -6638,7 +6638,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="master_slide"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#5f7da9;stroke-opacity:1"
        id="rect9037"
@@ -6960,7 +6961,7 @@
        height="80"
        width="740"
        id="rect10384"
-       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.7795279;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77953;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
     <text
        id="text10388"
        y="239.93164"
@@ -6984,7 +6985,7 @@
          sodipodi:role="line"
          style="font-size:36px;line-height:120%;font-family:sans-serif">Запуск сканирования</tspan></text>
     <rect
-       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.7795279;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77953;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect10396"
        width="740"
        height="80"
@@ -7045,7 +7046,7 @@
        height="80"
        width="740"
        id="rect10463"
-       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.7795279;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77953;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
     <a
        id="a10469"
        xlink:href="https://127.0.0.1:9392"
@@ -7065,42 +7066,157 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="g10585"
-     inkscape:label="OWASP ZAP как сканер Web-приложений"
+     id="layer5"
+     inkscape:label="Знакомство с OWASP ZAP"
      style="display:none">
     <text
+       id="text16641"
+       y="140.5974"
+       x="80.715302"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="140.5974"
+         x="80.715302"
+         sodipodi:role="line"
+         id="tspan16666">OWASP ZAP (Zed Attack Proxy) - </tspan><tspan
+         y="183.79739"
+         x="80.715302"
+         sodipodi:role="line"
+         id="tspan20887">открытый инструмент для анализа </tspan><tspan
+         y="226.99741"
+         x="80.715302"
+         sodipodi:role="line"
+         id="tspan16668">безопасности web-приложений</tspan><tspan
+         id="tspan16639"
+         y="270.19739"
+         x="80.715302"
+         sodipodi:role="line" /></text>
+    <image
+       xlink:href="img/zap.png"
+       style="display:inline;stroke-width:1.2625"
+       width="685.1485"
+       height="560"
+       preserveAspectRatio="none"
+       id="image16727"
+       x="835"
+       y="170" />
+    <a
+       id="a8495-9"
+       xlink:href="https://ru.wikipedia.org/wiki/Advanced_Packaging_Tool"
+       transform="translate(0,177.53046)"
+       style="display:inline">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:37.3333px;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="77.186157"
+         y="134.1579"
+         id="text8493-6"><tspan
+           sodipodi:role="line"
+           x="77.186157"
+           y="134.1579"
+           id="tspan22973-1">Обновление баз данных пакетов</tspan></text>
+    </a>
+    <rect
+       style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77953;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect8497-5"
+       width="680"
+       height="60"
+       x="80"
+       y="330"
+       ry="20"
+       rx="20" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.3333px;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="100.44141"
+       y="369.25"
+       id="text8501-8"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:37.3333px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="100.44141"
+         y="369.25"
+         id="tspan8499-6">sudo apt update</tspan></text>
+    <a
+       id="a8515-5"
+       xlink:href="https://white55.ru/sudo.html#:~:text=%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%20sudo%20(%20substitute%20user%20and,%D0%B1%D0%B5%D0%B7%20%D0%B2%D0%B2%D0%BE%D0%B4%D0%B0%20%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D1%8F%20%D1%81%D1%83%D0%BF%D0%B5%D1%80%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%20root."
+       transform="translate(0,111.02967)"
+       style="display:inline">
+      <text
+         id="text8513-8"
+         y="354.1579"
+         x="77.186157"
+         style="font-style:normal;font-weight:normal;font-size:32px;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="354.1579"
+           x="77.186157"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan8509-0">Установка OWASP ZAP</tspan><tspan
+           id="tspan8511-6"
+           y="394.37247"
+           x="77.186157"
+           sodipodi:role="line"
+           style="font-size:32px" /></text>
+    </a>
+    <rect
+       rx="20"
+       ry="20"
+       y="487.53046"
+       x="80"
+       height="60"
+       width="680"
+       id="rect8517-8"
+       style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77953;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    <text
+       id="text8521-3"
+       y="526.78046"
+       x="100.44141"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.3333px;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan8519-5"
+         y="526.78046"
+         x="100.44141"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:37.3333px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">sudo apt install zaproxy</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g10585"
+     inkscape:label="OWASP ZAP как сканер Web-приложений"
+     style="display:inline">
+    <text
        id="text10512"
-       y="129.80608"
-       x="76.641235"
+       y="149.80608"
+       x="56.641235"
        style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="129.80608"
-         x="76.641235"
+         y="149.80608"
+         x="56.641235"
          sodipodi:role="line"
          style="font-size:36px;line-height:120%;font-family:sans-serif"
          id="tspan10587">OWASP ZAP позволяет тестировать </tspan><tspan
-         y="173.00607"
-         x="76.641235"
+         y="193.00607"
+         x="56.641235"
          sodipodi:role="line"
          style="font-size:36px;line-height:120%;font-family:sans-serif"
          id="tspan10631">Web-приложения на проникновение</tspan><tspan
-         y="195.5717"
-         x="76.641235"
+         y="215.5717"
+         x="56.641235"
          sodipodi:role="line"
          id="tspan10510" /></text>
     <text
        id="text10516"
-       y="525.30603"
-       x="116.44132"
+       y="545.30603"
+       x="96.441322"
        style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan10514"
-         y="525.30603"
-         x="116.44132"
+         y="545.30603"
+         x="96.441322"
          sodipodi:role="line"
          style="font-size:36px;line-height:120%;font-family:sans-serif">Стандартный режим — выполняются любые</tspan><tspan
-         y="568.50604"
-         x="116.44132"
+         y="588.50604"
+         x="96.441322"
          sodipodi:role="line"
          style="font-size:36px;line-height:120%;font-family:sans-serif"
          id="tspan10591">действия с веб-приложением.</tspan></text>
@@ -7109,23 +7225,23 @@
        id="rect10518"
        width="20"
        height="20"
-       x="-252.77333"
+       x="-281.05762"
        y="345.91046"
        ry="0"
        transform="rotate(-45)" />
     <text
        id="text10522"
-       y="411.66501"
-       x="116.44131"
+       y="431.66501"
+       x="96.441307"
        style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan10520"
-         y="411.66501"
-         x="116.44131"
+         y="431.66501"
+         x="96.441307"
          sodipodi:role="line"
          style="font-size:36px;line-height:120%;font-family:sans-serif">Защищенный режим — сканирование </tspan><tspan
-         y="454.86502"
-         x="116.44131"
+         y="474.86502"
+         x="96.441307"
          sodipodi:role="line"
          style="font-size:36px;line-height:120%;font-family:sans-serif"
          id="tspan10593">осуществляется только в разрешенной области</tspan></text>
@@ -7133,7 +7249,7 @@
        transform="rotate(-45)"
        ry="0"
        y="426.04926"
-       x="-332.91217"
+       x="-361.19647"
        height="20"
        width="20"
        id="rect10524"
@@ -7152,25 +7268,25 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="116.44132"
-       y="637.77802"
+       x="96.441322"
+       y="657.77802"
        id="text10536"><tspan
          style="font-size:36px;line-height:120%;font-family:sans-serif"
          sodipodi:role="line"
-         x="116.44132"
-         y="637.77802"
+         x="96.441322"
+         y="657.77802"
          id="tspan10534">Режим атаки — активно сканируются все </tspan><tspan
          style="font-size:36px;line-height:120%;font-family:sans-serif"
          sodipodi:role="line"
-         x="116.44132"
-         y="680.97803"
+         x="96.441322"
+         y="700.97803"
          id="tspan10595">выявленные узлы.</tspan></text>
     <rect
        style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect10538"
        width="20"
        height="20"
-       x="-413.05096"
+       x="-441.33527"
        y="506.18805"
        ry="0"
        transform="rotate(-45)" />
@@ -7183,24 +7299,24 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="116.44132"
-       y="301.93164"
+       x="96.441322"
+       y="321.93164"
        id="text10546"><tspan
          id="tspan10544"
          style="font-size:36px;line-height:100%;font-family:sans-serif"
          sodipodi:role="line"
-         x="116.44132"
-         y="301.93164">Безопасный режим — потенциально опасные </tspan><tspan
+         x="96.441322"
+         y="321.93164">Безопасный режим — потенциально опасные </tspan><tspan
          style="font-size:36px;line-height:100%;font-family:sans-serif"
          sodipodi:role="line"
-         x="116.44132"
-         y="337.93164"
+         x="96.441322"
+         y="357.93164"
          id="tspan10589">для приложения действия отключены.</tspan></text>
     <rect
        transform="rotate(-45)"
        ry="0"
        y="265.77164"
-       x="-172.63457"
+       x="-200.91884"
        height="20"
        width="20"
        id="rect10548"
@@ -7208,18 +7324,18 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="76.641235"
-       y="249.80608"
+       x="56.641235"
+       y="269.80609"
        id="text10555"><tspan
          style="font-size:36px;line-height:120%;font-family:sans-serif"
          sodipodi:role="line"
-         x="76.641235"
-         y="249.80608"
+         x="56.641235"
+         y="269.80609"
          id="tspan10550">Режимы работы:</tspan><tspan
          id="tspan10553"
          sodipodi:role="line"
-         x="76.641235"
-         y="272.3717" /></text>
+         x="56.641235"
+         y="292.3717" /></text>
     <flowRoot
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot10583"
@@ -7237,8 +7353,259 @@
        height="695"
        preserveAspectRatio="none"
        id="image10624"
-       x="1054"
-       y="95" />
+       x="1034"
+       y="115" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Настройка ZAP"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="60.715309"
+       y="140.5974"
+       id="text16740"><tspan
+         id="tspan16730"
+         sodipodi:role="line"
+         x="60.715309"
+         y="140.5974">В настройках ZAP (Tools&gt;Options...) </tspan><tspan
+         sodipodi:role="line"
+         x="60.715309"
+         y="183.79739"
+         id="tspan16738">необходимо задать параметры</tspan><tspan
+         sodipodi:role="line"
+         x="60.715309"
+         y="226.99741"
+         id="tspan16774">прокси</tspan></text>
+    <image
+       xlink:href="img/zap_options.png"
+       style="display:inline;stroke-width:1.08519"
+       width="726.14331"
+       height="540"
+       preserveAspectRatio="none"
+       id="image16805"
+       x="60"
+       y="250" />
+    <text
+       id="text16814"
+       y="758.59741"
+       x="833.64392"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan16812"
+         y="758.59741"
+         x="833.64392"
+         sodipodi:role="line">Также необходимо осуществить </tspan><tspan
+         y="801.79742"
+         x="833.64392"
+         sodipodi:role="line"
+         id="tspan16823">импорт сертификата</tspan></text>
+    <image
+       xlink:href="img/zap_cert.png"
+       style="display:inline;stroke-width:1.08333"
+       width="726.46155"
+       height="540"
+       preserveAspectRatio="none"
+       id="image16852"
+       x="833.53845"
+       y="150" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Настройка Firefox для ZAP"
+     style="display:none">
+    <text
+       id="text16861"
+       y="140.5974"
+       x="72.715302"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan16859"
+         y="140.5974"
+         x="72.715302"
+         sodipodi:role="line">Создание прокси в FoxyProxy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="875.15015"
+       y="140.5974"
+       id="text16869"><tspan
+         id="tspan16867"
+         sodipodi:role="line"
+         x="875.15015"
+         y="140.5974">Установка сертификата ZAP</tspan></text>
+    <image
+       xlink:href="img/add_zap_proxy.png"
+       style="display:inline;stroke-width:1.11034"
+       width="746.61493"
+       height="580"
+       preserveAspectRatio="none"
+       id="image16907"
+       x="63"
+       y="170" />
+    <image
+       xlink:href="img/trust_zap_cert.png"
+       style="display:inline;stroke-width:1.04091"
+       width="660"
+       height="313.18777"
+       preserveAspectRatio="none"
+       id="image16939"
+       x="872"
+       y="150" />
+    <text
+       id="text16944"
+       y="520.59741"
+       x="875.15015"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="520.59741"
+         x="875.15015"
+         sodipodi:role="line"
+         id="tspan16942">Активация ZAP-прокси</tspan></text>
+    <image
+       xlink:href="img/zap_activate.png"
+       width="371"
+       height="265"
+       preserveAspectRatio="none"
+       id="image16973"
+       x="872"
+       y="530"
+       style="display:inline" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Перехват HTTPS-трафика"
+     style="display:none">
+    <image
+       xlink:href="img/zap_intercept.png"
+       style="display:inline;stroke-width:1.05488"
+       width="820"
+       height="666.42773"
+       preserveAspectRatio="none"
+       id="image17039"
+       x="740"
+       y="128.57224" />
+    <image
+       xlink:href="img/google_plus.png"
+       width="652"
+       height="654"
+       preserveAspectRatio="none"
+       id="image17099"
+       x="40"
+       y="130"
+       style="display:inline" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="Установка точек останова"
+     style="display:none">
+    <text
+       id="text17108"
+       y="140.5974"
+       x="60.715309"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan17106"
+         y="140.5974"
+         x="60.715309"
+         sodipodi:role="line">Для изменения проходящего трафика </tspan><tspan
+         y="183.79739"
+         x="60.715309"
+         sodipodi:role="line"
+         id="tspan17127">необходимо определить точки останова</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="833.64392"
+       y="278.59741"
+       id="text17116"><tspan
+         id="tspan17114"
+         sodipodi:role="line"
+         x="833.64392"
+         y="278.59741">В появившемся диалоге необходимо</tspan><tspan
+         sodipodi:role="line"
+         x="833.64392"
+         y="321.79742"
+         id="tspan17165">задать условия остановки</tspan></text>
+    <image
+       xlink:href="img/zap_break.png"
+       width="623"
+       height="600"
+       preserveAspectRatio="none"
+       id="image17156"
+       x="97"
+       y="210"
+       style="display:inline" />
+    <image
+       xlink:href="img/zap_breakpoint.png"
+       width="477"
+       height="258"
+       preserveAspectRatio="none"
+       id="image17194"
+       x="943"
+       y="350"
+       style="display:inline" />
+    <text
+       id="text17201"
+       y="678.59741"
+       x="833.64392"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan17199"
+         y="678.59741"
+         x="833.64392"
+         sodipodi:role="line">В дальнейшем ZAP будет </tspan><tspan
+         y="721.79742"
+         x="833.64392"
+         sodipodi:role="line"
+         id="tspan17205">приостанавливать HTTP-сессию</tspan><tspan
+         y="764.99744"
+         x="833.64392"
+         sodipodi:role="line"
+         id="tspan17207">при выполнении заданных условий</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="Изменение HTTPS-трафика"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="60.715309"
+       y="140.5974"
+       id="text17219"><tspan
+         id="tspan17217"
+         sodipodi:role="line"
+         x="60.715309"
+         y="140.5974">После срабатывания точки останова можно внести необходимые изменения</tspan><tspan
+         sodipodi:role="line"
+         x="60.715309"
+         y="183.79739"
+         id="tspan17226">и продолжить выполнение </tspan></text>
+    <image
+       xlink:href="img/zap_resume.png"
+       style="display:inline;stroke-width:1.17167"
+       width="814.22473"
+       height="600"
+       preserveAspectRatio="none"
+       id="image17255"
+       x="60"
+       y="210" />
+    <image
+       xlink:href="img/google_minus.png"
+       style="display:inline;stroke-width:1.06504"
+       width="615"
+       height="611.24426"
+       preserveAspectRatio="none"
+       id="image17285"
+       x="925"
+       y="198.75574" />
   </g>
   <g
      style="display:none"
@@ -7290,7 +7657,7 @@
          id="flowPara10698" /></flowRoot>
     <image
        xlink:href="img/zap_attack.png"
-       style="stroke-width:1.04705882"
+       style="stroke-width:1.04706"
        width="765.95508"
        height="680"
        preserveAspectRatio="none"
@@ -7299,7 +7666,7 @@
        y="110" />
     <image
        xlink:href="img/zap_auto.png"
-       style="stroke-width:1.2109375"
+       style="stroke-width:1.21094"
        width="640"
        height="639.17419"
        preserveAspectRatio="none"
@@ -7311,7 +7678,7 @@
        inkscape:connector-curvature="0"
        id="path16006-7"
        d="m 360,450 c 140,120 520,120 660,0"
-       style="display:inline;fill:none;stroke:#ff0000;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0999999;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker21398-5);paint-order:stroke fill markers" />
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:3.77953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker21398-5);paint-order:stroke fill markers" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -8089,182 +8456,6 @@
        sodipodi:nodetypes="cc" />
   </g>
   <g
-     inkscape:groupmode="layer"
-     id="layer5"
-     inkscape:label="Задания для самостоятельного выполнения"
-     style="display:none">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="116.58347"
-       y="487.45282"
-       id="text7250"><tspan
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.58347"
-         y="487.45282"
-         id="tspan7559">Установите BeEF и добавьте вредоносный скрипт в демонстрационном</tspan><tspan
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.58347"
-         y="523.45282"
-         id="tspan18916">приложении http://owasp/dvwa/vulnerabilities/xss_s/</tspan></text>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="397.09171"
-       x="-303.95453"
-       height="20"
-       width="20"
-       id="rect7252"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <text
-       id="text7256"
-       y="597.07483"
-       x="116.58347"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="597.07483"
-         x="116.58347"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         id="tspan7096">С машины winxp зайдите на эту же страницу</tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect7258"
-       width="20"
-       height="20"
-       x="-368.60437"
-       y="461.74152"
-       ry="0"
-       transform="rotate(-45)" />
-    <text
-       id="text7287"
-       y="231.36023"
-       x="116.58347"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan7285"
-         y="231.36023"
-         x="116.58347"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:120%;font-family:sans-serif">С помощью nikto просканируйте машину owasp</tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect7289"
-       width="20"
-       height="20"
-       x="-110.0051"
-       y="203.14221"
-       ry="0"
-       transform="rotate(-45)" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="116.58347"
-       y="414.52515"
-       id="text7293"><tspan
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.58347"
-         y="414.52515"
-         id="tspan7090">Выполните атаку Path traversal по любому адресу, выявленному OWASP ZAP</tspan></text>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="332.44186"
-       x="-239.30473"
-       height="20"
-       width="20"
-       id="rect7295"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <text
-       id="text7299"
-       y="322.78888"
-       x="116.58347"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="322.78888"
-         x="116.58347"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         id="tspan11348">Просканируйте машину оwasp с помощью OWASP ZAP</tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect7301"
-       width="20"
-       height="20"
-       x="-174.65495"
-       y="267.79199"
-       ry="0"
-       transform="rotate(-45)" />
-    <text
-       id="text3231-91"
-       y="139.93164"
-       x="116.58347"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="139.93164"
-         x="116.58347"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         id="tspan11346">Запустите машины kali, owasp и win10</tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect8068-5"
-       width="20"
-       height="20"
-       x="-45.355289"
-       y="138.49239"
-       ry="0"
-       transform="rotate(-45)" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       x="116.58347"
-       y="670.50348"
-       id="text18920"><tspan
-         id="tspan18918"
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.58347"
-         y="670.50348">С помощью BeEF на машине win10 удалённо выполните команду для ввода</tspan><tspan
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         sodipodi:role="line"
-         x="116.58347"
-         y="706.50348"
-         id="tspan18930">пароля от почты gmail</tspan></text>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="526.3913"
-       x="-433.25418"
-       height="20"
-       width="20"
-       id="rect18922"
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
-    <text
-       id="text18926"
-       y="780.23962"
-       x="116.58347"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="780.23962"
-         x="116.58347"
-         sodipodi:role="line"
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
-         id="tspan18924">В панели управления BeEF получите сведения, введённые на машине win10</tspan></text>
-    <rect
-       style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect18928"
-       width="20"
-       height="20"
-       x="-497.90399"
-       y="591.04114"
-       ry="0"
-       transform="rotate(-45)" />
-  </g>
-  <g
      style="display:none"
      inkscape:label="Ссылки"
      id="layer12"
@@ -8506,7 +8697,7 @@
            style="font-size:40px;line-height:2;font-family:sans-serif">smurav@mail.ru </tspan></text>
     </a>
     <a
-       xlink:href="https://smurav.github.io/ta43/"
+       xlink:href="https://smurav.github.io/ta43/kii/"
        id="a4364">
       <text
          id="text4358"
@@ -8518,7 +8709,7 @@
            sodipodi:role="line"
            x="80"
            y="790"
-           style="font-size:40px;line-height:2;font-family:sans-serif">https://smurav.github.io/ta43/</tspan></text>
+           style="font-size:40px;line-height:2;font-family:sans-serif">https://smurav.github.io/ta43/kii/</tspan></text>
     </a>
   </g>
   <ns1:mousehandler

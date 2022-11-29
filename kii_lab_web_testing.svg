@@ -29,7 +29,7 @@
      inkscape:cx="793.75305"
      inkscape:cy="289.29496"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1018"
@@ -6681,6 +6681,227 @@
        style="display:inline"
        xlink:href="http://www.postgresql.org/download/"
        id="a5529-8" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Задания для самостоятельного выполнения"
+     style="display:none">
+    <a
+       id="a11144"
+       xlink:href="http://www.postgresql.org/docs/current/static/transaction-iso.html"
+       style="display:inline;fill:#800080">
+      <a
+         id="a11142"
+         xlink:href="http://www.postgresql.org/docs/current/static/sql-prepare-transaction.html" />
+    </a>
+    <a
+       style="display:inline;fill:#800080"
+       id="a11146"
+       xlink:href="http://momjian.us/main/writings/pgsql/Get_to_know_PostgreSQL.pdf"
+       transform="translate(2.871096)" />
+    <a
+       transform="translate(2.871096,-240)"
+       xlink:href="http://www.postgresql.org/docs/9.3/static/dblink.html"
+       id="a11148"
+       style="display:inline;fill:#800080" />
+    <a
+       transform="translate(2.871096,-240)"
+       xlink:href="http://www.wikisec.ru/index.php?title=%D0%93%D0%9E%D0%A1%D0%A2_%D0%A0_51275-2006"
+       id="a11150"
+       style="display:inline;fill:#800080" />
+    <a
+       transform="translate(2.871096)"
+       xlink:href="http://wiki.postgresql.org/images/7/7e/Conferences-write_a_foreign_data_wrapper_in_15_minutes-presentation.pdf"
+       id="a11152"
+       style="display:inline;fill:#800080" />
+    <text
+       id="text11156"
+       y="712.11163"
+       x="-541.44177"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:40px;line-height:1.25;font-family:sans-serif"
+         y="712.11163"
+         x="-541.44177"
+         id="tspan11154"
+         sodipodi:role="line"> </tspan></text>
+    <a
+       style="display:inline;fill:#800080"
+       id="a11158"
+       xlink:href="http://www.wikisec.ru/index.php?title=%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD_%D0%BE%D1%82_26_%D0%B8%D1%8E%D0%BB%D1%8F_2017_%D0%B3._N_187-%D0%A4%D0%97"
+       transform="translate(1.330453,63.30743)" />
+    <a
+       transform="translate(1.330453,183.30743)"
+       xlink:href="https://media.kaspersky.com/ru/business-security/Kaspersky_Anti_Targeted_Attack_Platform_Datasheet.PDF"
+       id="a11160"
+       style="display:inline;fill:#800080" />
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="224.97055"
+       x="-131.83345"
+       height="20"
+       width="20"
+       id="rect11162"
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text11166"
+       y="158.85892"
+       x="117.54475"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:32px;line-height:1;font-family:sans-serif"
+         sodipodi:role="line"
+         x="117.54475"
+         y="158.85892"
+         id="tspan11164">Установите расширение FoxyProxy и добавьте в нём OWASP ZAP</tspan></text>
+    <text
+       id="text11172"
+       y="244.84541"
+       x="117.54475"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan11168"
+         sodipodi:role="line"
+         x="117.54475"
+         y="244.84541">С помощью OWASP ZAP осуществите перехват и изменение HTTP-трафика для </tspan><tspan
+         sodipodi:role="line"
+         x="117.54475"
+         y="276.8454"
+         id="tspan16603">сайтов, размещённых на машине owasp</tspan><tspan
+         id="tspan11170"
+         sodipodi:role="line"
+         x="117.54475"
+         y="308.8454" /></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="152.57346"
+       x="-59.436386"
+       height="20"
+       width="20"
+       id="rect11174"
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text11178"
+       y="450.74176"
+       x="117.54475"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+       xml:space="preserve" />
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect11180"
+       width="20"
+       height="20"
+       x="-204.14764"
+       y="297.28476"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+       x="117.54475"
+       y="535.92981"
+       id="text11184"><tspan
+         id="tspan11182"
+         y="535.92981"
+         x="117.54475"
+         sodipodi:role="line"
+         style="font-size:32px;line-height:1;font-family:sans-serif">Исследуйте HTTPS-траффик с помощью OWASP ZAP для сайта ya.ru</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+       x="117.54475"
+       y="363.39438"
+       id="text11190"><tspan
+         y="363.39438"
+         x="117.54475"
+         sodipodi:role="line"
+         id="tspan11186">Перехватите логин и пароль, вводимые на странице http://10.0.2.4/dvwa/login.php</tspan><tspan
+         y="395.39438"
+         x="117.54475"
+         sodipodi:role="line"
+         id="tspan11188" /></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect11192"
+       width="20"
+       height="20"
+       x="-398.85495"
+       y="491.99228"
+       ry="0"
+       transform="rotate(-45)" />
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect11194"
+       width="20"
+       height="20"
+       x="-326.14853"
+       y="419.2858"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text11198"
+       y="623.0257"
+       x="117.54475"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:32px;line-height:1;font-family:sans-serif"
+         sodipodi:role="line"
+         x="117.54475"
+         y="623.0257"
+         id="tspan11196">С помощью браузера проверьте сертификат, используемый при взаимодействии с</tspan><tspan
+         style="font-size:32px;line-height:1;font-family:sans-serif"
+         sodipodi:role="line"
+         x="117.54475"
+         y="655.0257"
+         id="tspan16610">сайтом ya.ru</tspan></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="358.28534"
+       x="-265.14807"
+       height="20"
+       width="20"
+       id="rect11248"
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+       x="117.54475"
+       y="449.38086"
+       id="text11256"><tspan
+         y="449.38086"
+         x="117.54475"
+         sodipodi:role="line"
+         style="font-size:32px;line-height:1;font-family:sans-serif"
+         id="tspan11265">Установите сертификат OWASP ZAP в качестве доверенного </tspan></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="576.20575"
+       x="-483.06842"
+       height="20"
+       width="20"
+       id="rect17294"
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+       x="117.54475"
+       y="742.12158"
+       id="text17298"><tspan
+         y="742.12158"
+         x="117.54475"
+         sodipodi:role="line"
+         style="font-size:32px;line-height:1;font-family:sans-serif"
+         id="tspan17296">Создайте точку останова для обработки поисковых запросов google.com и </tspan><tspan
+         y="774.12158"
+         x="117.54475"
+         sodipodi:role="line"
+         style="font-size:32px;line-height:1;font-family:sans-serif"
+         id="tspan17300">проведите исследование механизмов перехвата и изменения HTTPS-трафика в ZAP</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
