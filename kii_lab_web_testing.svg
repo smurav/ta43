@@ -6,7 +6,7 @@
    height="900"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="kii_lab_web_testing.svg"
    enable-background="new"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -26,15 +26,15 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.55306874"
-     inkscape:cx="793.75305"
-     inkscape:cy="289.29496"
+     inkscape:cx="527.05926"
+     inkscape:cy="288.39092"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer4"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1018"
-     inkscape:window-x="-6"
-     inkscape:window-y="-6"
+     inkscape:window-height="1132"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -7061,6 +7061,102 @@
        height="20"
        x="-441.33539"
        y="534.47253"
+       ry="0"
+       transform="rotate(-45)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Задания для самостоятельного выполнения"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+       x="116.58347"
+       y="445.9538"
+       id="text7250-9"><tspan
+         style="font-size:36px;line-height:100%;font-family:sans-serif;fill:#800080"
+         sodipodi:role="line"
+         x="116.58347"
+         y="445.9538"
+         id="tspan18916-3">Выполните подбор доменных имён, сходных с mail.ru</tspan></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="354.66534"
+       x="-261.52777"
+       height="20"
+       width="20"
+       id="rect7252-9"
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text7287-0"
+       y="157.1571"
+       x="116.58347"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan7285-8"
+         y="157.1571"
+         x="116.58347"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:100%;font-family:sans-serif;fill:#800080">С помощью setoolkit выполните сбор учётных данных через шаблон</tspan><tspan
+         y="193.1571"
+         x="116.58347"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:100%;font-family:sans-serif;fill:#800080"
+         id="tspan16878">сайта twitter</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect7289-8"
+       width="20"
+       height="20"
+       x="-67.578529"
+       y="160.71581"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+       x="116.58347"
+       y="354.52515"
+       id="text7293-5"><tspan
+         style="font-size:36px;line-height:100%;font-family:sans-serif;fill:#800080"
+         sodipodi:role="line"
+         x="116.58347"
+         y="354.52515"
+         id="tspan7090-0">Сформируйте QR-код, содержащий адрес машины kali</tspan></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="290.01544"
+       x="-196.87807"
+       height="20"
+       width="20"
+       id="rect7295-9"
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text7299-6"
+       y="248.58575"
+       x="116.58347"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="248.58575"
+         x="116.58347"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:100%;font-family:sans-serif;fill:#800080"
+         id="tspan11348-3">С помощью setoolkit выполните клонирование сайта </tspan><tspan
+         y="284.58575"
+         x="116.58347"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:100%;font-family:sans-serif;fill:#800080"
+         id="tspan16880">https://org.mephi.ru/auth/login и выполните сбор учётных данных</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect7301-8"
+       width="20"
+       height="20"
+       x="-132.22835"
+       y="225.36562"
        ry="0"
        transform="rotate(-45)" />
   </g>

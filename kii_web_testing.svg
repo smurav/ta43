@@ -6,7 +6,7 @@
    height="900"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="kii_web_testing.svg"
    enable-background="new"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -26,15 +26,15 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.55306874"
-     inkscape:cx="779.2883"
-     inkscape:cy="289.29496"
+     inkscape:cx="749.45476"
+     inkscape:cy="668.09055"
      inkscape:document-units="px"
-     inkscape:current-layer="g10585"
+     inkscape:current-layer="layer16"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1018"
-     inkscape:window-x="-6"
-     inkscape:window-y="-6"
+     inkscape:window-height="1132"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -6505,6 +6505,52 @@
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(-0.6)" />
     </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker16168"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path16166"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker14886-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:collect="always">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path14884-4"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker14640"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path14638"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
   </defs>
   <metadata
      id="metadata7">
@@ -6522,7 +6568,7 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="title"
-     style="display:none">
+     style="display:inline">
     <a
        id="a3034">
       <rect
@@ -6638,7 +6684,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="master_slide"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#5f7da9;stroke-opacity:1"
@@ -7183,7 +7229,7 @@
      inkscape:groupmode="layer"
      id="g10585"
      inkscape:label="OWASP ZAP как сканер Web-приложений"
-     style="display:inline">
+     style="display:none">
     <text
        id="text10512"
        y="149.80608"
@@ -8278,7 +8324,7 @@
          id="flowPara14816" /></flowRoot>
     <image
        xlink:href="img/beef_hook.png"
-       style="stroke-width:1.20156252"
+       style="stroke-width:1.20156"
        width="753.18597"
        height="640"
        preserveAspectRatio="none"
@@ -8287,7 +8333,7 @@
        y="130" />
     <image
        xlink:href="img/beef_hook_added.png"
-       style="stroke-width:1.20156252"
+       style="stroke-width:1.20156"
        width="754.85046"
        height="640"
        preserveAspectRatio="none"
@@ -8329,23 +8375,23 @@
            id="rect14174" /></flowRegion><flowPara
          id="flowPara14178" /></flowRoot>
     <image
-       xlink:href="img/beef_winxp.png"
-       style="stroke-width:1.04857147"
-       width="761.0354"
-       height="700"
+       width="736"
+       height="597.63782"
        preserveAspectRatio="none"
-       id="image15179"
-       x="40"
-       y="110" />
+       style="stroke-width:1.38043;image-rendering:optimizeQuality"
+       xlink:href="img/beef_owasp.png"
+       id="image2701"
+       x="44"
+       y="165" />
     <image
-       xlink:href="img/beef_winxp_hooked.png"
-       style="stroke-width:1.22257555"
-       width="741.05853"
-       height="629"
+       width="634.91559"
+       height="720"
        preserveAspectRatio="none"
-       id="image15449"
-       x="818.94147"
-       y="141" />
+       style="stroke-width:1.39861;image-rendering:optimizeQuality"
+       xlink:href="img/beef_owasp_hooked.png"
+       id="image2839"
+       x="900"
+       y="90" />
   </g>
   <g
      style="display:none"
@@ -8381,22 +8427,22 @@
            y="170" /></flowRegion><flowPara
          id="flowPara15468" /></flowRoot>
     <image
-       xlink:href="img/beef_si.png"
-       style="stroke-width:1.06335795"
-       width="947"
-       height="722.2403"
-       preserveAspectRatio="none"
-       id="image15507"
-       x="33"
-       y="90" />
-    <image
        xlink:href="img/beef_facebook.png"
        width="348"
        height="240"
        preserveAspectRatio="none"
        id="image15537"
-       x="1120"
+       x="1100"
        y="330" />
+    <image
+       width="884"
+       height="697.33862"
+       preserveAspectRatio="none"
+       style="stroke-width:1.13575;image-rendering:optimizeQuality"
+       xlink:href="img/beef_owasp_si.png"
+       id="image2977"
+       x="76"
+       y="98" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -8440,20 +8486,461 @@
        x="80"
        y="330" />
     <image
-       xlink:href="img/beef_facebook_pass.png"
-       style="stroke-width:1.09714282"
-       width="916.92706"
-       height="700"
+       width="903"
+       height="713.93719"
        preserveAspectRatio="none"
-       id="image17459"
-       x="640"
-       y="100" />
+       style="stroke-width:1.11074;image-rendering:optimizeQuality"
+       xlink:href="img/beef_owasp_facebook_pass.png"
+       id="image3115"
+       x="657"
+       y="97" />
     <path
-       style="display:inline;fill:none;stroke:#ff0000;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.0999999;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker14886);paint-order:stroke fill markers"
-       d="m 360,490 c 220,40 820,20 960,-100"
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:3.77953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker14886);paint-order:stroke fill markers"
+       d="m 360,490 c 220,40 840,-20 980,-140"
        id="path14186"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Знакомство с Social Engineering Toolkit"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="56.641243"
+       y="129.80609"
+       id="text7205-3"><tspan
+         style="font-size:36px;line-height:120%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="56.641243"
+         y="129.80609"
+         id="tspan6762-9">Social-Engineer Toolkit — платформа с открытым </tspan><tspan
+         style="font-size:36px;line-height:120%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="56.641243"
+         y="173.00609"
+         id="tspan10432">исходным кодом для тестирования на </tspan><tspan
+         style="font-size:36px;line-height:120%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="56.641243"
+         y="216.2061"
+         id="tspan10434">проникновение с использованием методов</tspan><tspan
+         style="font-size:36px;line-height:120%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="56.641243"
+         y="259.4061"
+         id="tspan10436">социальной инженерии</tspan><tspan
+         id="tspan7203-0"
+         sodipodi:role="line"
+         x="56.641243"
+         y="281.97171" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="96.441307"
+       y="481.68951"
+       id="text7215-8"><tspan
+         style="font-size:36px;line-height:120%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="96.441307"
+         y="481.68951"
+         id="tspan7213-8">Web-атаки</tspan></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="364.76678"
+       x="-299.91351"
+       height="20"
+       width="20"
+       id="rect7217-50"
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="96.441307"
+       y="561.68951"
+       id="text7243-9"><tspan
+         style="font-size:36px;line-height:120%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="96.441307"
+         y="561.68951"
+         id="tspan7241-6">формирование инфицированных носителей</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect7245-3"
+       width="20"
+       height="20"
+       x="-356.48206"
+       y="421.33536"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text7259-8"
+       y="641.68951"
+       x="96.441307"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan7257-5"
+         y="641.68951"
+         x="96.441307"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:120%;font-family:sans-serif">формирование вредоносной нагрузки</tspan></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="477.90399"
+       x="-413.05066"
+       height="20"
+       width="20"
+       id="rect7261-6"
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text6770-1"
+       y="400.23932"
+       x="96.441307"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="400.23932"
+         x="96.441307"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         id="tspan10342-1">фишинговые атаки</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect6772-5"
+       width="20"
+       height="20"
+       x="-243.34499"
+       y="308.19815"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text10330-9"
+       y="329.80609"
+       x="56.641243"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan10326-8"
+         y="329.80609"
+         x="56.641243"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:120%;font-family:sans-serif">Платформа поддерживает:</tspan><tspan
+         y="352.3717"
+         x="56.641243"
+         sodipodi:role="line"
+         id="tspan10328-4" /></text>
+    <text
+       id="text10473-8"
+       y="721.68951"
+       x="96.441307"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan10471-1"
+         y="721.68951"
+         x="96.441307"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:120%;font-family:sans-serif">спам-рассылки</tspan></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="534.47266"
+       x="-469.61926"
+       height="20"
+       width="20"
+       id="rect10475-0"
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text10496-3"
+       y="801.68951"
+       x="96.441307"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan10494-0"
+         y="801.68951"
+         x="96.441307"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:120%;font-family:sans-serif">и др.</tspan></text>
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="591.04132"
+       x="-526.18799"
+       height="20"
+       width="20"
+       id="rect10498-4"
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <image
+       xlink:href="img/set.png"
+       width="483"
+       height="584"
+       preserveAspectRatio="none"
+       id="image10429"
+       x="1057"
+       y="150"
+       style="display:inline" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Web-атаки с помощью SET"
+     style="display:none">
+    <image
+       width="737.08337"
+       height="728.5567"
+       preserveAspectRatio="none"
+       style="stroke-width:1.05958;image-rendering:optimizeQuality"
+       xlink:href="img/set_web_0.png"
+       id="image5501"
+       x="42.916645"
+       y="91.904022" />
+    <image
+       width="740.93134"
+       height="726.70093"
+       preserveAspectRatio="none"
+       style="stroke-width:1.05541;image-rendering:optimizeQuality"
+       xlink:href="img/set_web_1.png"
+       id="image5559"
+       x="820"
+       y="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g9521"
+     inkscape:label="Web-атаки с помощью SET (продолжение)"
+     style="display:none">
+    <image
+       width="736.15692"
+       height="722.92688"
+       preserveAspectRatio="none"
+       style="stroke-width:1.05958;image-rendering:optimizeQuality"
+       xlink:href="img/set_web_2.png"
+       id="image9517"
+       x="42.916645"
+       y="91.904022" />
+    <image
+       width="741.88007"
+       height="726.70093"
+       preserveAspectRatio="none"
+       style="stroke-width:1.05541;image-rendering:optimizeQuality"
+       xlink:href="img/set_web_3.png"
+       id="image9519"
+       x="820"
+       y="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g7259"
+     inkscape:label="Обращение жертвы к поддельному сайту"
+     style="display:none">
+    <image
+       width="737.08337"
+       height="724.8457"
+       preserveAspectRatio="none"
+       style="stroke-width:1.05958;image-rendering:optimizeQuality"
+       xlink:href="img/set_web_4.png"
+       id="image7255"
+       x="42.916645"
+       y="91.904022" />
+    <image
+       width="740"
+       height="726.71796"
+       preserveAspectRatio="none"
+       style="stroke-width:1.05541;image-rendering:optimizeQuality"
+       xlink:href="img/set_web_5.png"
+       id="image7257"
+       x="820"
+       y="90" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path16132"
+       d="m 560,530 c 100,0 480,60 560,100"
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:3.77953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker16168);paint-order:stroke fill markers" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g11487"
+     inkscape:label="Сбор учётных данных с помощью клонированного сайта"
+     style="display:none">
+    <image
+       width="738.93768"
+       height="728.5567"
+       preserveAspectRatio="none"
+       style="stroke-width:1.05958;image-rendering:optimizeQuality"
+       xlink:href="img/set_clone_0.png"
+       id="image11483"
+       x="42.916645"
+       y="91.904022" />
+    <image
+       width="740.93134"
+       height="729.547"
+       preserveAspectRatio="none"
+       style="stroke-width:1.05541;image-rendering:optimizeQuality"
+       xlink:href="img/set_clone_1.png"
+       id="image11485"
+       x="820"
+       y="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g11493"
+     inkscape:label="Обращение жертвы к клонированному сайту"
+     style="display:none">
+    <image
+       width="738.93768"
+       height="724.81787"
+       preserveAspectRatio="none"
+       style="stroke-width:1.05958;image-rendering:optimizeQuality"
+       xlink:href="img/set_clone_2.png"
+       id="image11489"
+       x="42.916645"
+       y="91.904022" />
+    <image
+       width="741.86401"
+       height="729.547"
+       preserveAspectRatio="none"
+       style="stroke-width:1.05541;image-rendering:optimizeQuality"
+       xlink:href="img/set_clone_3.png"
+       id="image11491"
+       x="820"
+       y="90" />
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:3.77953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker14886-4);paint-order:stroke fill markers"
+       d="m 620,590 c 40,40 140,120 400,120"
+       id="path14186-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer15"
+     inkscape:label="Генерация QR-кодов"
+     style="display:none">
+    <image
+       xlink:href="img/set_qr.png"
+       width="652"
+       height="630"
+       preserveAspectRatio="none"
+       id="image14605"
+       x="148"
+       y="140"
+       style="display:inline" />
+    <image
+       xlink:href="img/qr.png"
+       width="449"
+       height="447"
+       preserveAspectRatio="none"
+       id="image14635"
+       x="1080"
+       y="243"
+       style="display:inline" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path14574"
+       d="m 760,702 c 120,-20 240,-40 340,-120"
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:3.77953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker14640);paint-order:stroke fill markers" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer16"
+     inkscape:label="Подбор доменных имён"
+     style="display:none">
+    <text
+       id="text14470"
+       y="341.80609"
+       x="56.641243"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="341.80609"
+         x="56.641243"
+         sodipodi:role="line"
+         style="font-size:36px;line-height:120%;font-family:sans-serif"
+         id="tspan14468">Запуск процедуры подбора </tspan></text>
+    <rect
+       style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77953;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect14472"
+       width="740"
+       height="80"
+       x="60"
+       y="190"
+       ry="20"
+       rx="20.000002" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="78.152946"
+       y="239.93164"
+       id="text14478"><tspan
+         id="tspan14474"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="78.152946"
+         y="239.93164">sudo apt install -y urlcrazy</tspan><tspan
+         id="tspan14476"
+         sodipodi:role="line"
+         x="78.152946"
+         y="262.49725" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="56.641243"
+       y="161.80609"
+       id="text14482"><tspan
+         style="font-size:36px;line-height:120%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="56.641243"
+         y="161.80609"
+         id="tspan14480">Установка утилиты urlcrazy</tspan></text>
+    <rect
+       rx="20.000002"
+       ry="20"
+       y="370"
+       x="60"
+       height="80"
+       width="740"
+       id="rect14484"
+       style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77953;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+    <a
+       id="a14490"
+       xlink:href="https://127.0.0.1:9392"
+       style="display:inline"
+       transform="translate(-20)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="98.152954"
+         y="419.93164"
+         id="text14488"><tspan
+           id="tspan14486"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="98.152954"
+           y="419.93164">urlcrazy &lt;целевой домен&gt;</tspan></text>
+    </a>
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot14498"
+       xml:space="preserve"
+       transform="translate(-20)"><flowRegion
+         id="flowRegion14494"><rect
+           y="470"
+           x="1240"
+           height="120"
+           width="400"
+           id="rect14492" /></flowRegion><flowPara
+         id="flowPara14496" /></flowRoot>
+    <image
+       xlink:href="img/urlcrazy.png"
+       width="652"
+       height="716"
+       preserveAspectRatio="none"
+       id="image14547"
+       x="888"
+       y="90"
+       style="display:inline" />
   </g>
   <g
      style="display:none"
