@@ -29,7 +29,7 @@
      inkscape:cx="793.75305"
      inkscape:cy="289.29496"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer5"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1018"
@@ -6910,16 +6910,16 @@
      style="display:none">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
        x="116.58347"
        y="487.45282"
        id="text7250"><tspan
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         style="font-size:36px;line-height:100%;font-family:sans-serif;fill:#800080"
          sodipodi:role="line"
          x="116.58347"
          y="487.45282"
          id="tspan7559">Установите BeEF и добавьте вредоносный скрипт в демонстрационном</tspan><tspan
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         style="font-size:36px;line-height:100%;font-family:sans-serif;fill:#800080"
          sodipodi:role="line"
          x="116.58347"
          y="523.45282"
@@ -6937,13 +6937,13 @@
        id="text7287"
        y="231.36023"
        x="116.58347"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan7285"
          y="231.36023"
          x="116.58347"
          sodipodi:role="line"
-         style="font-size:36px;line-height:120%;font-family:sans-serif">С помощью nikto просканируйте машину owasp</tspan></text>
+         style="font-size:36px;line-height:120%;font-family:sans-serif;fill:#800080">С помощью nikto просканируйте машину owasp</tspan></text>
     <rect
        style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect7289"
@@ -6955,11 +6955,11 @@
        transform="rotate(-45)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
        x="116.58347"
        y="414.52515"
        id="text7293"><tspan
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         style="font-size:36px;line-height:100%;font-family:sans-serif;fill:#800080"
          sodipodi:role="line"
          x="116.58347"
          y="414.52515"
@@ -6977,12 +6977,12 @@
        id="text7299"
        y="322.78888"
        x="116.58347"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          y="322.78888"
          x="116.58347"
          sodipodi:role="line"
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         style="font-size:36px;line-height:100%;font-family:sans-serif;fill:#800080"
          id="tspan11348">Просканируйте машину оwasp с помощью OWASP ZAP</tspan></text>
     <rect
        style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
@@ -6997,12 +6997,12 @@
        id="text3231-91"
        y="139.93164"
        x="116.58347"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          y="139.93164"
          x="116.58347"
          sodipodi:role="line"
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         style="font-size:36px;line-height:100%;font-family:sans-serif;fill:#800080"
          id="tspan11346">Запустите машины kali, owasp </tspan></text>
     <rect
        style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
@@ -7015,16 +7015,16 @@
        transform="rotate(-45)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
        x="116.58347"
        y="590.50348"
        id="text18920"><tspan
          id="tspan18918"
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         style="font-size:36px;line-height:100%;font-family:sans-serif;fill:#800080"
          sodipodi:role="line"
          x="116.58347"
          y="590.50348">С помощью BeEF на машине owasp удалённо выполните команду для </tspan><tspan
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         style="font-size:36px;line-height:100%;font-family:sans-serif;fill:#800080"
          sodipodi:role="line"
          x="116.58347"
          y="626.50348"
@@ -7042,17 +7042,17 @@
        id="text18926"
        y="700.23962"
        x="116.58347"
-       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          y="700.23962"
          x="116.58347"
          sodipodi:role="line"
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         style="font-size:36px;line-height:100%;font-family:sans-serif;fill:#800080"
          id="tspan18924">В панели управления BeEF получите сведения, введённые на машине </tspan><tspan
          y="736.23962"
          x="116.58347"
          sodipodi:role="line"
-         style="font-size:36px;line-height:100%;font-family:sans-serif"
+         style="font-size:36px;line-height:100%;font-family:sans-serif;fill:#800080"
          id="tspan22995">owasp</tspan></text>
     <rect
        style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"

@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.6030832"
-     inkscape:cx="661.60026"
+     inkscape:cx="724.60981"
      inkscape:cy="426.14352"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g11224"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1018"
@@ -7250,7 +7250,8 @@
     <a
        id="a11144"
        xlink:href="http://www.postgresql.org/docs/current/static/transaction-iso.html"
-       style="fill:#800080">
+       style="fill:#800080"
+       transform="translate(0,20)">
       <a
          id="a11142"
          xlink:href="http://www.postgresql.org/docs/current/static/sql-prepare-transaction.html" />
@@ -7259,30 +7260,30 @@
        style="fill:#800080"
        id="a11146"
        xlink:href="http://momjian.us/main/writings/pgsql/Get_to_know_PostgreSQL.pdf"
-       transform="translate(2.8710938)" />
+       transform="translate(2.8710938,20)" />
     <a
-       transform="translate(2.8710938,-240)"
+       transform="translate(2.8710938,-220)"
        xlink:href="http://www.postgresql.org/docs/9.3/static/dblink.html"
        id="a11148"
        style="fill:#800080" />
     <a
-       transform="translate(2.8710938,-240)"
+       transform="translate(2.8710938,-220)"
        xlink:href="http://www.wikisec.ru/index.php?title=%D0%93%D0%9E%D0%A1%D0%A2_%D0%A0_51275-2006"
        id="a11150"
        style="fill:#800080" />
     <a
-       transform="translate(2.8710938)"
+       transform="translate(2.8710938,20)"
        xlink:href="http://wiki.postgresql.org/images/7/7e/Conferences-write_a_foreign_data_wrapper_in_15_minutes-presentation.pdf"
        id="a11152"
        style="fill:#800080" />
     <text
        id="text11156"
-       y="712.11163"
+       y="732.11163"
        x="-541.44177"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          style="font-size:40px;line-height:1.25;font-family:sans-serif"
-         y="712.11163"
+         y="732.11163"
          x="-541.44177"
          id="tspan11154"
          sodipodi:role="line"> </tspan></text>
@@ -7290,62 +7291,42 @@
        style="display:inline;fill:#800080"
        id="a11158"
        xlink:href="http://www.wikisec.ru/index.php?title=%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD_%D0%BE%D1%82_26_%D0%B8%D1%8E%D0%BB%D1%8F_2017_%D0%B3._N_187-%D0%A4%D0%97"
-       transform="translate(1.3304513,63.30743)" />
+       transform="translate(1.3304513,83.30743)" />
     <a
-       transform="translate(1.3304513,183.30743)"
+       transform="translate(1.3304513,203.30743)"
        xlink:href="https://media.kaspersky.com/ru/business-security/Kaspersky_Anti_Targeted_Attack_Platform_Datasheet.PDF"
        id="a11160"
        style="display:inline;fill:#800080" />
     <rect
        transform="rotate(-45)"
        ry="0"
-       y="223.68248"
-       x="-130.54538"
+       y="152.9718"
+       x="-59.834694"
        height="20"
        width="20"
        id="rect11162"
        style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
     <text
-       id="text11166"
-       y="158.85892"
-       x="117.54475"
-       style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         style="font-size:32px;line-height:1;font-family:sans-serif"
-         sodipodi:role="line"
-         x="117.54475"
-         y="158.85892"
-         id="tspan11164">Запустите машины kali и owasp</tspan></text>
-    <text
        id="text11172"
-       y="243.30505"
+       y="143.30505"
        x="117.54475"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          sodipodi:role="line"
          x="117.54475"
-         y="243.30505"
+         y="143.30505"
          id="tspan16603">Откройте страницу демонстрации сохранённых XSS dvwa/vulnerabilities/xss_s/</tspan><tspan
          sodipodi:role="line"
          x="117.54475"
-         y="275.30505"
+         y="175.30505"
          id="tspan6809">на машине owasp</tspan><tspan
          id="tspan11170"
          sodipodi:role="line"
          x="117.54475"
-         y="307.30505" /></text>
-    <rect
-       transform="rotate(-45)"
-       ry="0"
-       y="152.57344"
-       x="-59.436371"
-       height="20"
-       width="20"
-       id="rect11174"
-       style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+         y="207.30505" /></text>
     <text
        id="text11178"
-       y="450.74179"
+       y="470.74179"
        x="117.54475"
        style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
        xml:space="preserve" />
@@ -7354,18 +7335,18 @@
        id="rect11180"
        width="20"
        height="20"
-       x="-201.65442"
-       y="294.7915"
+       x="-130.94376"
+       y="224.0808"
        ry="0"
        transform="rotate(-45)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
        x="117.54475"
-       y="560.54974"
+       y="460.54974"
        id="text11184"><tspan
          id="tspan11182"
-         y="560.54974"
+         y="460.54974"
          x="117.54475"
          sodipodi:role="line"
          style="font-size:32px;line-height:1;font-family:sans-serif">Откройте страницу демонстрации отраженных XSS dvwa/vulnerabilities/xss_r/</tspan></text>
@@ -7373,17 +7354,17 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
        x="117.54475"
-       y="347.24341"
+       y="247.24341"
        id="text11190"><tspan
-         y="347.24341"
+         y="247.24341"
          x="117.54475"
          sodipodi:role="line"
          id="tspan11186">Выполните вставку вредоносного сценария для получения cookie и убедитесь в</tspan><tspan
-         y="379.24341"
+         y="279.24341"
          x="117.54475"
          sodipodi:role="line"
          id="tspan6811">его выполнении</tspan><tspan
-         y="411.24341"
+         y="311.24341"
          x="117.54475"
          sodipodi:role="line"
          id="tspan11188" /></text>
@@ -7392,8 +7373,8 @@
        id="rect11192"
        width="20"
        height="20"
-       x="-414.98138"
-       y="508.11859"
+       x="-344.27063"
+       y="437.40784"
        ry="0"
        transform="rotate(-45)" />
     <rect
@@ -7401,26 +7382,26 @@
        id="rect11194"
        width="20"
        height="20"
-       x="-343.87241"
-       y="437.00955"
+       x="-273.16165"
+       y="366.2988"
        ry="0"
        transform="rotate(-45)" />
     <text
        id="text11198"
-       y="661.55835"
+       y="561.55835"
        x="117.54475"
        style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          style="font-size:32px;line-height:1;font-family:sans-serif"
          sodipodi:role="line"
          x="117.54475"
-         y="661.55835"
+         y="561.55835"
          id="tspan16610">Проверьте выполнение вредоносного сценария &lt;script&gt;alert(&quot;XSS&quot;)&lt;/script&gt;</tspan></text>
     <rect
        transform="rotate(-45)"
        ry="0"
-       y="365.90057"
-       x="-272.7634"
+       y="295.18982"
+       x="-202.0527"
        height="20"
        width="20"
        id="rect11248"
@@ -7429,14 +7410,14 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
        x="117.54475"
-       y="444.7052"
+       y="344.7052"
        id="text11256"><tspan
-         y="444.7052"
+         y="344.7052"
          x="117.54475"
          sodipodi:role="line"
          style="font-size:32px;line-height:1;font-family:sans-serif"
          id="tspan11265">Перейдите на любую другую страницу и вернитесь обратно. Выполняется ли</tspan><tspan
-         y="476.7052"
+         y="376.7052"
          x="117.54475"
          sodipodi:role="line"
          style="font-size:32px;line-height:1;font-family:sans-serif"
@@ -7444,8 +7425,8 @@
     <rect
        transform="rotate(-45)"
        ry="0"
-       y="579.2276"
-       x="-486.09039"
+       y="508.51685"
+       x="-415.37964"
        height="20"
        width="20"
        id="rect13337"
@@ -7454,14 +7435,14 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
        x="117.54475"
-       y="745.62933"
+       y="645.62933"
        id="text13341"><tspan
          id="tspan13339"
-         y="745.62933"
+         y="645.62933"
          x="117.54475"
          sodipodi:role="line"
          style="font-size:32px;line-height:1;font-family:sans-serif">Проверьте выполнение вредоносного сценария </tspan><tspan
-         y="777.62933"
+         y="677.62933"
          x="117.54475"
          sodipodi:role="line"
          style="font-size:32px;line-height:1;font-family:sans-serif"
@@ -7526,22 +7507,22 @@
        id="rect10766"
        width="20"
        height="20"
-       x="-144.68752"
-       y="237.82462"
+       x="-130.54538"
+       y="223.68248"
        ry="0"
        transform="rotate(-45)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
        x="117.54475"
-       y="166.06982"
+       y="146.06982"
        id="text10770"><tspan
          id="tspan10768"
-         y="166.06982"
+         y="146.06982"
          x="117.54475"
          sodipodi:role="line"
          style="font-size:32px;line-height:1;font-family:sans-serif">С помощью SQL-инъекции определите имена всех пользователей web-приложения</tspan><tspan
-         y="198.06982"
+         y="178.06982"
          x="117.54475"
          sodipodi:role="line"
          style="font-size:32px;line-height:1;font-family:sans-serif"
@@ -7550,17 +7531,17 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
        x="117.54475"
-       y="263.30505"
+       y="243.30505"
        id="text10778"><tspan
          id="tspan10774"
-         y="263.30505"
+         y="243.30505"
          x="117.54475"
          sodipodi:role="line">Определите имя учётной записи, которая используется приложением DVBA для</tspan><tspan
-         y="295.30505"
+         y="275.30505"
          x="117.54475"
          sodipodi:role="line"
          id="tspan10831">подключения к базе данных</tspan><tspan
-         y="327.30505"
+         y="307.30505"
          x="117.54475"
          sodipodi:role="line"
          id="tspan10776" /></text>
@@ -7569,8 +7550,8 @@
        id="rect10780"
        width="20"
        height="20"
-       x="-73.578506"
-       y="166.71558"
+       x="-59.436371"
+       y="152.57344"
        ry="0"
        transform="rotate(-45)" />
     <text
@@ -7582,42 +7563,42 @@
     <rect
        transform="rotate(-45)"
        ry="0"
-       y="308.93365"
-       x="-215.79655"
+       y="294.7915"
+       x="-201.65442"
        height="20"
        width="20"
        id="rect10786"
        style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
     <text
        id="text10791"
-       y="580.54974"
+       y="560.54974"
        x="117.54475"
        style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          style="font-size:32px;line-height:1;font-family:sans-serif"
          sodipodi:role="line"
          x="117.54475"
-         y="580.54974"
+         y="560.54974"
          id="tspan10789">Попробуйте придумать другие запросы для выполнения SQL-инъекции</tspan></text>
     <text
        id="text10799"
-       y="367.24341"
+       y="347.24341"
        x="117.54475"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan10795"
          sodipodi:role="line"
          x="117.54475"
-         y="367.24341">Определите имя базы данных, используемой приложением DVBA</tspan><tspan
+         y="347.24341">Определите имя базы данных, используемой приложением DVBA</tspan><tspan
          id="tspan10797"
          sodipodi:role="line"
          x="117.54475"
-         y="399.24341" /></text>
+         y="379.24341" /></text>
     <rect
        transform="rotate(-45)"
        ry="0"
-       y="451.1517"
-       x="-358.01456"
+       y="437.00955"
+       x="-343.87241"
        height="20"
        width="20"
        id="rect10803"
@@ -7627,13 +7608,13 @@
        id="rect10809"
        width="20"
        height="20"
-       x="-286.90555"
-       y="380.04272"
+       x="-272.7634"
+       y="365.90057"
        ry="0"
        transform="rotate(-45)" />
     <text
        id="text10815"
-       y="464.7052"
+       y="444.7052"
        x="117.54475"
        style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
@@ -7641,11 +7622,11 @@
          style="font-size:32px;line-height:1;font-family:sans-serif"
          sodipodi:role="line"
          x="117.54475"
-         y="464.7052">Получите имена таблиц, записанных в информационной схеме базы данных </tspan><tspan
+         y="444.7052">Получите имена таблиц, записанных в информационной схеме базы данных </tspan><tspan
          style="font-size:32px;line-height:1;font-family:sans-serif"
          sodipodi:role="line"
          x="117.54475"
-         y="496.7052"
+         y="476.7052"
          id="tspan10837">приложения DVBA</tspan></text>
   </g>
   <g
