@@ -29,7 +29,7 @@
      inkscape:cx="988"
      inkscape:cy="452"
      inkscape:document-units="px"
-     inkscape:current-layer="g83596"
+     inkscape:current-layer="g4179"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1018"
@@ -14602,13 +14602,13 @@
   <g
      inkscape:groupmode="layer"
      id="g4179"
-     inkscape:label="Содержание методических рекомендаций по созданию центров"
+     inkscape:label="Перечень методических документов"
      style="display:none">
     <rect
        transform="rotate(-45)"
        ry="0"
-       y="152.3535"
-       x="-59.216373"
+       y="169.12477"
+       x="-75.987648"
        height="20"
        width="20"
        id="rect4131"
@@ -14623,85 +14623,92 @@
          x="126.5921"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan4135">Общие положения</tspan></text>
-    <rect
-       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect4149"
-       width="20"
-       height="20"
-       x="-237.67148"
-       y="330.80862"
-       ry="0"
-       transform="rotate(-45)" />
+         id="tspan4135">Методические рекомендации по созданию ведомcтвенных и </tspan><tspan
+         y="204.29858"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan4781">корпоративных центров ГосСОПКА</tspan></text>
     <text
        id="text4155"
-       y="243.70262"
+       y="272.90234"
        x="126.5921"
        style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="243.70262"
+         y="272.90234"
          x="126.5921"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan87870">Функции ведомственного сегмента ГосСОПКА и способы их реализации</tspan></text>
+         id="tspan87870">Методические рекомендации по установлению причин и ликвидации</tspan><tspan
+         y="316.10236"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan4993">последствий компьютерных инцидентов, связанных с функционированием</tspan><tspan
+         y="359.30234"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan17379">информационных ресурсов Российской Федерации</tspan></text>
     <text
        id="text4159"
-       y="495.61044"
+       y="612.86646"
        x="126.5921"
        style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="495.61044"
+         y="612.86646"
          x="126.5921"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan96708">Варианты архитектуры ведомственного сегмента</tspan></text>
+         id="tspan96708">Методические рекомендации по обнаружению компьютерных атак на</tspan><tspan
+         y="656.06647"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan11675">информационные ресурсы Российской Федерации</tspan></text>
     <rect
        style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect4161"
        width="20"
        height="20"
-       x="-297.24973"
-       y="390.3869"
+       x="-249.9846"
+       y="343.1218"
        ry="0"
        transform="rotate(-45)" />
     <text
        id="text4167"
-       y="327.09769"
+       y="429.62881"
        x="126.5921"
        style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="327.09769"
+         y="429.62881"
          x="126.5921"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan4165">Рекомендации к средствам автоматизации</tspan></text>
+         id="tspan4165">Требования к подразделениям и должностным лицам субъектов ГосСОПКА</tspan></text>
     <text
        id="text4173"
-       y="412.21539"
+       y="499.34003"
        x="126.5921"
        style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="412.21539"
+         y="499.34003"
          x="126.5921"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan93620">Обеспечение безопасности информации ведомственного сегмента</tspan></text>
-    <rect
-       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect4175"
-       width="20"
-       height="20"
-       x="-178.09322"
-       y="271.23038"
-       ry="0"
-       transform="rotate(-45)" />
+         id="tspan93620">Методические рекомендации по проведению мероприятий по оценке</tspan><tspan
+         y="542.54004"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan10431">степени защищённости от компьютерных атак</tspan></text>
     <rect
        style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect4177"
        width="20"
        height="20"
-       x="-118.51498"
-       y="211.65207"
+       x="-170.31836"
+       y="263.45547"
        ry="0"
        transform="rotate(-45)" />
     <rect
@@ -14709,26 +14716,10 @@
        id="rect100326"
        width="20"
        height="20"
-       x="-415.52377"
-       y="508.66092"
+       x="-394.82672"
+       y="487.96387"
        ry="0"
        transform="rotate(-45)" />
-    <text
-       id="text100330"
-       y="747.37769"
-       x="126.5921"
-       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="747.37769"
-         x="126.5921"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan115350">Взаимодействие с главным центром ГосСОПКА</tspan><tspan
-         y="769.9433"
-         x="126.5921"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan115352" /></text>
     <rect
        style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect100332"
@@ -14740,6 +14731,171 @@
        transform="rotate(-45)" />
     <text
        id="text100336"
+       y="725.77765"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="725.77765"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan105506">Варианты реализации защищённого канала с технической </tspan><tspan
+         y="768.97766"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan13585">инфраструктурой НКЦКИ</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect100342"
+       width="20"
+       height="20"
+       x="-314.76892"
+       y="407.9061"
+       ry="0"
+       transform="rotate(-45)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g4379"
+     inkscape:label="Содержание методических рекомендаций по созданию центров"
+     style="display:none">
+    <rect
+       transform="rotate(-45)"
+       ry="0"
+       y="152.3535"
+       x="-59.216373"
+       height="20"
+       width="20"
+       id="rect4329"
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+    <text
+       id="text4333"
+       y="161.09859"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="161.09859"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan4331">Общие положения</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect4335"
+       width="20"
+       height="20"
+       x="-237.67148"
+       y="330.80862"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text4339"
+       y="243.70262"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="243.70262"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan4337">Функции ведомственного сегмента ГосСОПКА и способы их реализации</tspan></text>
+    <text
+       id="text4343"
+       y="495.61044"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="495.61044"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan4341">Варианты архитектуры ведомственного сегмента</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect4345"
+       width="20"
+       height="20"
+       x="-297.24973"
+       y="390.3869"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text4349"
+       y="327.09769"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="327.09769"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan4347">Рекомендации к средствам автоматизации</tspan></text>
+    <text
+       id="text4353"
+       y="412.21539"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="412.21539"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan4351">Обеспечение безопасности информации ведомственного сегмента</tspan></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect4355"
+       width="20"
+       height="20"
+       x="-178.09322"
+       y="271.23038"
+       ry="0"
+       transform="rotate(-45)" />
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect4357"
+       width="20"
+       height="20"
+       x="-118.51498"
+       y="211.65207"
+       ry="0"
+       transform="rotate(-45)" />
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect4359"
+       width="20"
+       height="20"
+       x="-415.52377"
+       y="508.66092"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text4365"
+       y="747.37769"
+       x="126.5921"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="747.37769"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan4361">Взаимодействие с главным центром ГосСОПКА</tspan><tspan
+         y="769.9433"
+         x="126.5921"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan4363" /></text>
+    <rect
+       style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect4367"
+       width="20"
+       height="20"
+       x="-474.88452"
+       y="568.02167"
+       ry="0"
+       transform="rotate(-45)" />
+    <text
+       id="text4371"
        y="579.4801"
        x="126.5921"
        style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
@@ -14748,9 +14904,9 @@
          x="126.5921"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan105506">Организационно-штатная структура ведомственного сегмента ГосСОПКА</tspan></text>
+         id="tspan4369">Организационно-штатная структура ведомственного сегмента ГосСОПКА</tspan></text>
     <text
-       id="text100340"
+       id="text4375"
        y="662.87518"
        x="126.5921"
        style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
@@ -14759,10 +14915,10 @@
          x="126.5921"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan100338">Порядок создания ведомственного сегмента</tspan></text>
+         id="tspan4373">Порядок создания ведомственного сегмента</tspan></text>
     <rect
        style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect100342"
+       id="rect4377"
        width="20"
        height="20"
        x="-356.38672"
