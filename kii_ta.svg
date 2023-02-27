@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.48085652"
-     inkscape:cx="852.64519"
-     inkscape:cy="509.50749"
+     inkscape:zoom="0.68003381"
+     inkscape:cx="620.55738"
+     inkscape:cy="547.03162"
      inkscape:document-units="px"
-     inkscape:current-layer="g15820"
+     inkscape:current-layer="g25430"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1018"
@@ -14443,7 +14443,7 @@
      inkscape:groupmode="layer">
     <a
        id="a8436"
-       xlink:href="https://www.ptsecurity.com/ru-ru/research/analytics/cybersecurity-threatscape-2022-q2"
+       xlink:href="https://www.ptsecurity.com/ru-ru/research/analytics/cybersecurity-threatscape-2022-q4/"
        transform="translate(0,260)">
       <text
          id="text7903"
@@ -14455,7 +14455,7 @@
            x="82.005493"
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-           id="tspan7901">Актуальные киберугрозы: 2 квартал 2022 года</tspan></text>
+           id="tspan7901">Актуальные киберугрозы: IV квартал 2022 года</tspan></text>
     </a>
     <image
        xlink:href="img/ib_stat_19_22.png"
@@ -14468,12 +14468,42 @@
   </g>
   <g
      style="display:none"
+     inkscape:label="Последствия атак"
+     id="g25430"
+     inkscape:groupmode="layer">
+    <a
+       id="a25426"
+       xlink:href="https://www.ptsecurity.com/ru-ru/research/analytics/cybersecurity-threatscape-2022-q4/"
+       transform="translate(0,260)">
+      <text
+         id="text25424"
+         y="528.8822"
+         x="82.005493"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="528.8822"
+           x="82.005493"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan25422">Актуальные киберугрозы: IV квартал 2022 года</tspan></text>
+    </a>
+    <image
+       xlink:href="img/attacks_cons_22.png"
+       y="123.33331"
+       x="69.333252"
+       id="image25428"
+       preserveAspectRatio="none"
+       height="633.56647"
+       width="1490.6667" />
+  </g>
+  <g
+     style="display:none"
      inkscape:label="Атаки на организации в 2022 году"
      id="g15515"
      inkscape:groupmode="layer">
     <a
        id="a15505"
-       xlink:href="https://www.ptsecurity.com/ru-ru/research/analytics/cybersecurity-threatscape-2022-q2/"
+       xlink:href="https://www.ptsecurity.com/ru-ru/research/analytics/cybersecurity-threatscape-2022-q4/"
        transform="translate(0,260)">
       <text
          id="text15503"
@@ -14485,7 +14515,7 @@
            x="82.005493"
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-           id="tspan15501">Актуальные киберугрозы: 2 квартал 2022 года</tspan></text>
+           id="tspan15501">Актуальные киберугрозы: iV квартал 2022 года</tspan></text>
     </a>
     <image
        xlink:href="img/attacks_org_22.png"
@@ -14494,12 +14524,12 @@
        id="image15733"
        preserveAspectRatio="none"
        height="632"
-       width="1113.7155" />
+       width="1111.0319" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="g15750"
-     inkscape:label="Категории жертв среди организаций в 2022 году"
+     inkscape:label="Типы украденных данных организаций в 2022 году"
      style="display:none">
     <a
        transform="translate(0,260)"
@@ -14524,7 +14554,37 @@
        id="image15814"
        preserveAspectRatio="none"
        height="598.66669"
-       width="1034.6667" />
+       width="1037.3334" />
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="Типы украденных данных частных лиц в 2022 году"
+     id="g25401"
+     inkscape:groupmode="layer">
+    <a
+       id="a25397"
+       xlink:href="https://www.ptsecurity.com/ru-ru/research/analytics/cybersecurity-threatscape-2022-q4/"
+       transform="translate(0,260)">
+      <text
+         id="text25395"
+         y="528.8822"
+         x="82.005493"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="528.8822"
+           x="82.005493"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan25393">Актуальные киберугрозы: iV квартал 2022 года</tspan></text>
+    </a>
+    <image
+       xlink:href="img/attacks_person_22.png"
+       y="118"
+       x="202"
+       id="image25399"
+       preserveAspectRatio="none"
+       height="632"
+       width="1060.0425" />
   </g>
   <g
      inkscape:groupmode="layer"
