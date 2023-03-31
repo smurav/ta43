@@ -2,22 +2,22 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:ns1="https://launchpad.net/jessyink"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1600"
    height="900"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="ta43_lab_tracking.svg"
-   enable-background="new">
+   enable-background="new"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:ns1="https://launchpad.net/jessyink">
   <sodipodi:namedview
      id="base"
      pagecolor="#649ccf"
@@ -26,15 +26,15 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.66277417"
-     inkscape:cx="862.70231"
-     inkscape:cy="402.80468"
+     inkscape:cx="360.60548"
+     inkscape:cy="402.85215"
      inkscape:document-units="px"
-     inkscape:current-layer="a10675"
+     inkscape:current-layer="g10414"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1137"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:window-height="1018"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -44,7 +44,8 @@
      inkscape:snap-center="false"
      inkscape:snap-others="true"
      inkscape:snap-grids="true"
-     inkscape:snap-to-guides="false">
+     inkscape:snap-to-guides="false"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid3057"
@@ -6465,7 +6466,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -6528,7 +6528,7 @@
        id="text8877"
        y="216.81267"
        x="28.420759"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0.3px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          y="216.81267"
          x="28.420759"
@@ -6556,35 +6556,35 @@
          x="1567.4302"
          id="tspan8891"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.33333206px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px">Кафедра №43</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px">Кафедра №43</tspan><tspan
          id="tspan8893"
          y="1003.8391"
          x="1567.4302"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.33333206px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px">Стратегические информационные исследования</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px">Стратегические информационные исследования</tspan></text>
     <text
        id="text8913"
        y="562.6369"
        x="798.16016"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.66666794px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:middle;fill:#203d85;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;letter-spacing:0.3px;word-spacing:0px;text-anchor:middle;fill:#203d85;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan4346"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
          y="562.6369"
-         x="798.31018"
+         x="798.16016"
          sodipodi:role="line">Отслеживание в сети Интернет</tspan><tspan
          id="tspan8919"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#203d85;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#203d85;fill-opacity:1"
          y="617.91815"
-         x="798.31018"
+         x="798.16016"
          sodipodi:role="line">лабораторная работа</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#203d85;fill-opacity:1"
-         y="671.25146"
-         x="798.31012"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#203d85;fill-opacity:1"
+         y="671.25153"
+         x="798.31018"
          sodipodi:role="line"
          id="tspan6404">Муравьёв С.К.</tspan></text>
     <path
-       style="fill:#224087;fill-opacity:1;stroke-width:0.99999994"
+       style="fill:#224087;fill-opacity:1;stroke-width:1"
        d="m 129.09366,930.40423 c -15.85799,-8.3239 -32.140275,-19.4241 -40.027805,-27.2884 -7.7415,-7.7186 -19.25137,-25.263 -21.27213,-32.2142 l 0.18331,-52.5182 c 29.30978,-1.7858 57.744495,-3.4464 86.357145,-1.6729 l 9,0.7183 -17.9636,18.2184 c -9.87999,10.02009 -18.44115,18.2183 -19.02482,18.2183 -1.08148,0 -9.5116,-8.4887 -9.5116,-9.5778 0,-0.3288 3.26252,-3.6895 7.25,-7.468 l 7.25,-6.8702 -4.49998,0.051 c -2.47502,0.028 -13.95001,0.5719 -25.50002,1.208 l -20.821415,0.978 0.68738,37.6147 c 5.81242,16.8707 26.673495,36.2696 52.924355,49.2148 l 8.79026,4.33479 8.49695,-4.3509 c 25.24384,-12.9262 42.16441,-27.7756 50.52737,-44.34259 l 2.89512,-5.7351 v -62.8828 -62.88284 l -7.25,-2.15206 C 163.02731,732.47478 118.98935,730.239 80.591775,743.14371 l -0.75761,25.97712 3.75001,-0.5709 c 2.06249,-0.314 7.0125,-0.8797 10.99998,-1.257 3.987515,-0.3774 7.250005,-0.9465 7.250005,-1.2647 0,-0.3183 -1.66844,-2.28731 -3.707645,-4.37565 l -3.70764,-3.79699 4.873475,-4.94787 4.87347,-4.94788 31.66836,28.80469 -10.25,1.5078 c -5.59022,0.8224 -20.80335,1.7955 -33.701935,3.143 -12.89855,1.3474 -23.59389,2.4499 -23.76745,2.4499 -0.17348,0 -0.19502,-11.0923 -0.048,-24.6496 l 0.26759,-24.64961 6.4964,-2.42896 c 9.51757,-3.55856 28.808135,-8.00309 42.304825,-9.74699 28.97889,-3.74435 63.54773,-0.37932 89.89338,8.75048 l 9.30539,3.22469 0.25701,68.70589 0.25701,68.706 -2.41867,5.469 c -8.86844,20.0531 -29.51702,38.6936 -59.30317,53.5359 -6.71445,3.3457 -12.56444,6.075 -12.99999,6.065 -0.43555,-0.011 -6.30013,-2.9094 -13.03234,-6.4431 z M 67.834095,801.60793 v -5.5546 l 4.74999,-0.6031 c 7.98527,-1.01391 42.402145,-3.5846 47.990065,-3.5846 h 5.25997 v 5.8096 5.8096 l -20.25003,1.2095 c -11.137475,0.6651 -24.187505,1.4926 -28.999975,1.8389 l -8.75002,0.6294 z m 69.944125,0.4135 c -4.50266,-3.646 -1.68015,-12.1558 4.03181,-12.1558 3.10961,0 7.02407,3.901 7.02407,7 0,1.893 -0.88766,3.5531 -2.63486,4.9274 -3.2521,2.5581 -5.4697,2.6182 -8.42102,0.2284 z"
        id="path4529-4"
        inkscape:connector-curvature="0"
@@ -6623,7 +6623,7 @@
        id="text8877-3"
        y="51.535156"
        x="31.882812"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0.3px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan8881-6"
          y="51.535156"
@@ -6633,7 +6633,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">Заголовок</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.33333206px;line-height:0%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-align:start;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.3333px;line-height:0%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-align:start;letter-spacing:0.3px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        x="31.882812"
        y="881.53516"
        id="text9302"><tspan
@@ -6641,12 +6641,12 @@
          x="31.882812"
          y="881.53516"
          id="tspan9304"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.33333206px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">Отслеживание в сети Интернет</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">Отслеживание в сети Интернет</tspan></text>
     <text
        id="text9306"
        y="881.53516"
        x="1470.3302"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;letter-spacing:0.3px;word-spacing:0px;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          ns1:autoText="slideNumber"
          id="tspan9308"
@@ -6656,7 +6656,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">01</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:0.3px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        x="1491.7219"
        y="881.53516"
        id="text9310"><tspan
@@ -6669,7 +6669,7 @@
        id="text9314"
        y="881.53516"
        x="1510.6763"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0.3px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan9316"
          y="881.53516"
@@ -6691,52 +6691,50 @@
        id="text10392"
        y="161.80609"
        x="76.641235"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan10390"
          y="161.80609"
          x="76.641235"
          sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">По внешнему IP-адресу возможно</tspan><tspan
+         style="font-size:36px;line-height:120%;font-family:sans-serif">По внешнему IP-адресу возможно</tspan><tspan
          y="205.00609"
          x="76.641235"
          sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
-         id="tspan6729">определенение приближенного</tspan><tspan
+         style="font-size:36px;line-height:120%;font-family:sans-serif"
+         id="tspan6729">определение приближенного</tspan><tspan
          y="248.2061"
          x="76.641235"
          sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+         style="font-size:36px;line-height:120%;font-family:sans-serif"
          id="tspan6731">местоположения устройства.</tspan><tspan
          y="270.77173"
          x="76.641235"
          sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
          id="tspan6808" /><tspan
          y="305.80609"
          x="76.641235"
          sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+         style="font-size:36px;line-height:120%;font-family:sans-serif"
          id="tspan6810">Такую информацию предоставляют</tspan><tspan
          y="349.0061"
          x="76.641235"
          sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+         style="font-size:36px;line-height:120%;font-family:sans-serif"
          id="tspan6814">регистраторы доменных имён,</tspan><tspan
          y="392.20612"
          x="76.641235"
          sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+         style="font-size:36px;line-height:120%;font-family:sans-serif"
          id="tspan6816">провайдеры и специализированные</tspan><tspan
          y="435.4061"
          x="76.641235"
          sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+         style="font-size:36px;line-height:120%;font-family:sans-serif"
          id="tspan6818">сервисы:</tspan><tspan
          y="457.97174"
          x="76.641235"
          sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
          id="tspan6812" /></text>
     <flowRoot
        xml:space="preserve"
@@ -6748,8 +6746,8 @@
            height="120"
            x="1240"
            y="470" /></flowRegion><flowPara
-         id="flowPara10452" /></flowRoot>    <image
-       sodipodi:absref="/home/sergey/Documents/git/ta43/img/geoip_mephi.png"
+         id="flowPara10452" /></flowRoot>
+    <image
        xlink:href="img/geoip_mephi.png"
        y="110"
        x="817"
@@ -6765,13 +6763,13 @@
          id="text7243-5"
          y="501.68945"
          x="116.44132"
-         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            id="tspan7241-7"
            y="501.68945"
            x="116.44132"
            sodipodi:role="line"
-           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">maxmind.com</tspan></text>
+           style="font-size:36px;line-height:120%;font-family:sans-serif">maxmind.com</tspan></text>
     </a>
     <rect
        style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
@@ -6788,11 +6786,11 @@
        transform="translate(0,20)">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
          x="116.44132"
          y="581.68945"
          id="text7259-1"><tspan
-           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
            sodipodi:role="line"
            x="116.44132"
            y="581.68945"
@@ -6813,11 +6811,11 @@
        transform="translate(0,20)">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
          x="116.44132"
          y="661.68945"
          id="text10473-38"><tspan
-           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
            sodipodi:role="line"
            x="116.44132"
            y="661.68945"
@@ -6836,13 +6834,13 @@
        id="text10496-4"
        y="761.68945"
        x="116.44132"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan10494-3"
          y="761.68945"
          x="116.44132"
          sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">и др.</tspan></text>
+         style="font-size:36px;line-height:120%;font-family:sans-serif">и др.</tspan></text>
     <rect
        transform="rotate(-45)"
        ry="0"
@@ -6862,27 +6860,26 @@
        id="text10512"
        y="129.80608"
        x="76.641235"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          y="129.80608"
          x="76.641235"
          sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+         style="font-size:36px;line-height:120%;font-family:sans-serif"
          id="tspan10631">Протокол HTTP предусматривает отправку</tspan><tspan
          y="173.00607"
          x="76.641235"
          sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+         style="font-size:36px;line-height:120%;font-family:sans-serif"
          id="tspan10569">адреса источника запроса в заголовке</tspan><tspan
          y="216.20609"
          x="76.641235"
          sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+         style="font-size:36px;line-height:120%;font-family:sans-serif"
          id="tspan10571">запроса.</tspan><tspan
          y="238.7717"
          x="76.641235"
          sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
          id="tspan10510" /></text>
     <text
        id="text10516"
@@ -6944,7 +6941,8 @@
            height="60"
            x="-40"
            y="630" /></flowRegion><flowPara
-         id="flowPara10530" /></flowRoot>    <text
+         id="flowPara10530" /></flowRoot>
+    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        x="116.44132"
@@ -6974,11 +6972,7 @@
        y="310"
        x="80"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="345.39062"
-         x="80"
-         id="tspan10540"
-         sodipodi:role="line" /></text>
+       xml:space="preserve" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
@@ -7006,17 +7000,16 @@
        style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none"
        x="76.641235"
        y="289.80609"
        id="text10555"><tspan
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+         style="font-size:36px;line-height:120%;font-family:sans-serif"
          sodipodi:role="line"
          x="76.641235"
          y="289.80609"
          id="tspan10550">Заголовок HTTP referer позволяет:</tspan><tspan
          id="tspan10553"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
          sodipodi:role="line"
          x="76.641235"
          y="312.3717" /></text>
@@ -7030,8 +7023,8 @@
            height="640"
            width="1100"
            id="rect10577" /></flowRegion><flowPara
-         id="flowPara10581" /></flowRoot>    <image
-       sodipodi:absref="/home/sergey/Documents/git/ta43/img/http_referer.png"
+         id="flowPara10581" /></flowRoot>
+    <image
        xlink:href="img/http_referer.png"
        y="110"
        x="984"
@@ -7050,27 +7043,26 @@
        xlink:href="https://smurav.github.io/ta43/ta43_lab_proxy.svg">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none"
          x="76.641235"
          y="129.80608"
          id="text10670"><tspan
            id="tspan10666"
-           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
            sodipodi:role="line"
            x="76.641235"
            y="129.80608">Для исследования механизмов </tspan><tspan
            id="tspan10741"
-           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
            sodipodi:role="line"
            x="76.641235"
            y="173.00607">отслеживания необходимо активировать </tspan><tspan
            id="tspan10745"
-           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
            sodipodi:role="line"
            x="76.641235"
            y="216.20609">Web-прокси, как было показано ранее:</tspan><tspan
            id="tspan10668"
-           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
            sodipodi:role="line"
            x="76.641235"
            y="238.7717" /></text>
@@ -7130,7 +7122,8 @@
            height="60"
            x="-40"
            y="630" /></flowRegion><flowPara
-         id="flowPara10692" /></flowRoot>    <text
+         id="flowPara10692" /></flowRoot>
+    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        x="116.44132"
@@ -7155,11 +7148,7 @@
        y="310"
        x="80"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="345.39062"
-         x="80"
-         id="tspan10704"
-         sodipodi:role="line" /></text>
+       xml:space="preserve" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
@@ -7195,7 +7184,8 @@
            height="640"
            width="1100"
            id="rect10722" /></flowRegion><flowPara
-         id="flowPara10726" /></flowRoot>    <text
+         id="flowPara10726" /></flowRoot>
+    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        x="116.44132"
@@ -7216,7 +7206,6 @@
        ry="0"
        transform="rotate(-45)" />
     <image
-       sodipodi:absref="/home/sergey/Documents/git/ta43/img/activate_burp_proxy.png"
        xlink:href="img/activate_burp_proxy.png"
        y="90"
        x="952.5191"
@@ -7233,47 +7222,46 @@
      inkscape:groupmode="layer">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none"
        x="76.641235"
        y="129.80608"
        id="text10598"><tspan
          id="tspan10594"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+         style="font-size:36px;line-height:120%;font-family:sans-serif"
          sodipodi:role="line"
          x="76.641235"
          y="129.80608">При открытии большинства </tspan><tspan
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+         style="font-size:36px;line-height:120%;font-family:sans-serif"
          sodipodi:role="line"
          x="76.641235"
          y="173.00607"
          id="tspan10875">ресурсов автоматически </tspan><tspan
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+         style="font-size:36px;line-height:120%;font-family:sans-serif"
          sodipodi:role="line"
          x="76.641235"
          y="216.20609"
          id="tspan10877">открывается и множество </tspan><tspan
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+         style="font-size:36px;line-height:120%;font-family:sans-serif"
          sodipodi:role="line"
          x="76.641235"
          y="259.40607"
          id="tspan10879">соединений со сторонними </tspan><tspan
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+         style="font-size:36px;line-height:120%;font-family:sans-serif"
          sodipodi:role="line"
          x="76.641235"
          y="302.60608"
          id="tspan10881">ресурсами, которые осуществляют </tspan><tspan
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+         style="font-size:36px;line-height:120%;font-family:sans-serif"
          sodipodi:role="line"
          x="76.641235"
          y="345.80609"
          id="tspan10883">отслеживание действий </tspan><tspan
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+         style="font-size:36px;line-height:120%;font-family:sans-serif"
          sodipodi:role="line"
          x="76.641235"
          y="389.00607"
          id="tspan10905">пользователей.</tspan><tspan
          id="tspan10596"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
          sodipodi:role="line"
          x="76.641235"
          y="411.57172" /></text>
@@ -7287,16 +7275,13 @@
            height="60"
            width="940"
            id="rect10616" /></flowRegion><flowPara
-         id="flowPara10620" /></flowRoot>    <text
+         id="flowPara10620" /></flowRoot>
+    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="80"
        y="310"
-       id="text10634"><tspan
-         sodipodi:role="line"
-         id="tspan10632"
-         x="80"
-         y="345.39062" /></text>
+       id="text10634" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot10656"
@@ -7307,8 +7292,8 @@
            height="640"
            x="-160"
            y="170" /></flowRegion><flowPara
-         id="flowPara10654" /></flowRoot>    <image
-       sodipodi:absref="/home/sergey/Documents/git/ta43/img/http_referer_mail_ru.png"
+         id="flowPara10654" /></flowRoot>
+    <image
        xlink:href="img/http_referer_mail_ru.png"
        y="90"
        x="787"
@@ -7329,27 +7314,26 @@
          id="text10967"
          y="129.80608"
          x="76.641235"
-         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="129.80608"
            x="76.641235"
            sodipodi:role="line"
-           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
            id="tspan10963">За каждым соединением, как правило,</tspan><tspan
            y="173.00607"
            x="76.641235"
            sodipodi:role="line"
-           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
            id="tspan11064">стоит установка новых и/или получение</tspan><tspan
            y="216.20609"
            x="76.641235"
            sodipodi:role="line"
-           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
            id="tspan11066">существующих Cookie, позволяющих:</tspan><tspan
            y="238.7717"
            x="76.641235"
            sodipodi:role="line"
-           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
            id="tspan10965" /></text>
     </a>
     <text
@@ -7412,7 +7396,8 @@
            height="60"
            width="940"
            id="rect10985" /></flowRegion><flowPara
-         id="flowPara10989" /></flowRoot>    <text
+         id="flowPara10989" /></flowRoot>
+    <text
        id="text10995"
        y="299.37778"
        x="116.44132"
@@ -7437,11 +7422,7 @@
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="80"
        y="310"
-       id="text11001"><tspan
-         sodipodi:role="line"
-         id="tspan10999"
-         x="80"
-         y="345.39062" /></text>
+       id="text11001" />
     <text
        id="text11007"
        y="402.08752"
@@ -7477,7 +7458,8 @@
            height="640"
            x="-160"
            y="170" /></flowRegion><flowPara
-         id="flowPara11015" /></flowRoot>    <text
+         id="flowPara11015" /></flowRoot>
+    <text
        id="text11021"
        y="766.04486"
        x="116.44132"
@@ -7498,7 +7480,6 @@
        id="rect11023"
        style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
     <image
-       sodipodi:absref="/home/sergey/Documents/git/ta43/img/cookies.png"
        xlink:href="img/cookies.png"
        y="90"
        x="871.02039"
@@ -7523,16 +7504,13 @@
            height="60"
            x="-40"
            y="630" /></flowRegion><flowPara
-         id="flowPara10929" /></flowRoot>    <text
+         id="flowPara10929" /></flowRoot>
+    <text
        id="text10935"
        y="310"
        x="80"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="345.39062"
-         x="80"
-         id="tspan10933"
-         sodipodi:role="line" /></text>
+       xml:space="preserve" />
     <flowRoot
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot10943"
@@ -7543,8 +7521,8 @@
            height="640"
            width="1100"
            id="rect10937" /></flowRegion><flowPara
-         id="flowPara10941" /></flowRoot>    <image
-       sodipodi:absref="/home/sergey/Documents/git/ta43/img/find_addon.png"
+         id="flowPara10941" /></flowRoot>
+    <image
        xlink:href="img/find_addon.png"
        y="90"
        x="100"
@@ -7554,7 +7532,6 @@
        width="653.96179"
        style="stroke-width:1.09027779" />
     <image
-       sodipodi:absref="/home/sergey/Documents/git/ta43/img/cm_addon.png"
        xlink:href="img/cm_addon.png"
        y="90"
        x="840"
@@ -7579,16 +7556,13 @@
            height="60"
            width="940"
            id="rect11150" /></flowRegion><flowPara
-         id="flowPara11154" /></flowRoot>    <text
+         id="flowPara11154" /></flowRoot>
+    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="80"
        y="310"
-       id="text11160"><tspan
-         sodipodi:role="line"
-         id="tspan11158"
-         x="80"
-         y="345.39062" /></text>
+       id="text11160" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot11168"
@@ -7599,8 +7573,8 @@
            height="640"
            x="-160"
            y="170" /></flowRegion><flowPara
-         id="flowPara11166" /></flowRoot>    <image
-       sodipodi:absref="/home/sergey/Documents/git/ta43/img/manage_cookies.png"
+         id="flowPara11166" /></flowRoot>
+    <image
        xlink:href="img/manage_cookies.png"
        y="90"
        x="789"
@@ -7609,7 +7583,6 @@
        height="702"
        width="751" />
     <image
-       sodipodi:absref="/home/sergey/Documents/git/ta43/img/add_cm_addon.png"
        xlink:href="img/add_cm_addon.png"
        y="90"
        x="65"
@@ -7630,32 +7603,31 @@
        transform="translate(0,4e-6)">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none"
          x="76.641235"
          y="129.80608"
          id="text12344"><tspan
            id="tspan12340"
-           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
            sodipodi:role="line"
            x="76.641235"
            y="129.80608">Существуют альтернативные способы отслеживания </tspan><tspan
-           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
            sodipodi:role="line"
            x="76.641235"
            y="173.00607"
            id="tspan10374">пользователей, от которых нельзя избавиться как от</tspan><tspan
-           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
            sodipodi:role="line"
            x="76.641235"
            y="216.20609"
            id="tspan10376">обычных Cookies. Такие Supercookies используют</tspan><tspan
-           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
            sodipodi:role="line"
            x="76.641235"
            y="259.40607"
            id="tspan10378">различные комбинации следующих методов:</tspan><tspan
            id="tspan12342"
-           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
            sodipodi:role="line"
            x="76.641235"
            y="281.97171" /></text>
@@ -7835,27 +7807,26 @@
          id="text10967-7"
          y="129.80608"
          x="76.641235"
-         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="129.80608"
            x="76.641235"
            sodipodi:role="line"
-           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
            id="tspan12288">Надёжная идентификация пользователей может</tspan><tspan
            y="173.00607"
            x="76.641235"
            sodipodi:role="line"
-           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
            id="tspan12325">быть выполнена с помощью цифровых отпечатков,</tspan><tspan
            y="216.20609"
            x="76.641235"
            sodipodi:role="line"
-           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
            id="tspan12292">которые включают:</tspan><tspan
            y="238.7717"
            x="76.641235"
            sodipodi:role="line"
-           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
            id="tspan10965-0" /></text>
     </a>
     <text
@@ -8030,7 +8001,6 @@
      id="g12107"
      inkscape:groupmode="layer">
     <image
-       sodipodi:absref="/home/sergey/Documents/git/ta43/img/fingerprint.png"
        xlink:href="img/fingerprint.png"
        style="stroke-width:1.07968128"
        width="1506"
@@ -8048,17 +8018,17 @@
          id="text10967-0"
          y="129.80608"
          x="76.641235"
-         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="129.80608"
            x="76.641235"
            sodipodi:role="line"
-           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
            id="tspan10963-4">Ресурс https://ipleak.net/ позволяет собирать и анализировать цифровой</tspan><tspan
            y="173.00607"
            x="76.641235"
            sodipodi:role="line"
-           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
            id="tspan10965-8">отпечаток браузера</tspan></text>
     </a>
   </g>
@@ -8072,27 +8042,26 @@
        xlink:href="https://coveryourtracks.eff.org/">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none"
          x="76.641235"
          y="129.80608"
          id="text11252"><tspan
            id="tspan11305"
-           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
            sodipodi:role="line"
            x="76.641235"
            y="129.80608">Ресурс coveryourtracks.eff.org позволяет </tspan><tspan
            id="tspan11307"
-           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
            sodipodi:role="line"
            x="76.641235"
            y="173.00607">проверить уникальность отпечатка </tspan><tspan
            id="tspan11345"
-           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
            sodipodi:role="line"
            x="76.641235"
            y="216.20609">вашего браузера</tspan><tspan
            id="tspan11250"
-           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
            sodipodi:role="line"
            x="76.641235"
            y="238.7717" /></text>
@@ -8107,16 +8076,13 @@
            height="60"
            x="-40"
            y="630" /></flowRegion><flowPara
-         id="flowPara11258" /></flowRoot>    <text
+         id="flowPara11258" /></flowRoot>
+    <text
        id="text11264"
        y="310"
        x="80"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="345.39062"
-         x="80"
-         id="tspan11262"
-         sodipodi:role="line" /></text>
+       xml:space="preserve" />
     <flowRoot
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot11272"
@@ -8127,8 +8093,8 @@
            height="640"
            width="1100"
            id="rect11266" /></flowRegion><flowPara
-         id="flowPara11270" /></flowRoot>    <image
-       sodipodi:absref="/home/sergey/Documents/git/ta43/img/panopticlick.png"
+         id="flowPara11270" /></flowRoot>
+    <image
        xlink:href="img/panopticlick.png"
        y="90"
        x="920"
@@ -8142,11 +8108,7 @@
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="320"
        y="470"
-       id="text12001"><tspan
-         sodipodi:role="line"
-         id="tspan11999"
-         x="320"
-         y="500.39062" /></text>
+       id="text12001" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot12033"
@@ -8157,8 +8119,8 @@
            height="60"
            x="500"
            y="670" /></flowRegion><flowPara
-         id="flowPara12039" /></flowRoot>    <image
-       sodipodi:absref="/home/sergey/Documents/git/ta43/img/panopticlick_results.png"
+         id="flowPara12039" /></flowRoot>
+    <image
        xlink:href="img/panopticlick_results.png"
        y="261"
        x="79.910767"
@@ -8180,27 +8142,26 @@
        transform="translate(0,4e-6)">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none"
          x="76.641235"
          y="129.80608"
          id="text10453"><tspan
            id="tspan10449"
-           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
            sodipodi:role="line"
            x="76.641235"
            y="129.80608">Большинство браузеров обладает </tspan><tspan
-           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
            sodipodi:role="line"
            x="76.641235"
            y="173.00607"
            id="tspan10544">дополнительным функционалом, который</tspan><tspan
-           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
            sodipodi:role="line"
            x="76.641235"
            y="216.20609"
            id="tspan10546">может использоваться для отслеживания:</tspan><tspan
            id="tspan10451"
-           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
            sodipodi:role="line"
            x="76.641235"
            y="238.7717" /></text>
@@ -8346,7 +8307,6 @@
        ry="0"
        transform="rotate(-45)" />
     <image
-       sodipodi:absref="/home/sergey/Documents/git/ta43/img/allow_location_access.png"
        xlink:href="img/allow_location_access.png"
        style="stroke-width:1.31073451"
        width="608.05603"
@@ -8370,27 +8330,26 @@
          id="text10562"
          y="129.80608"
          x="76.641235"
-         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f3c84;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="129.80608"
            x="76.641235"
            sodipodi:role="line"
-           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
            id="tspan10646">Отслеживание действий пользователей и</tspan><tspan
            y="173.00607"
            x="76.641235"
            sodipodi:role="line"
-           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
            id="tspan10652">формирование их профилей также</tspan><tspan
            y="216.20609"
            x="76.641235"
            sodipodi:role="line"
-           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
            id="tspan10650">осуществляют:</tspan><tspan
            y="238.7717"
            x="76.641235"
            sodipodi:role="line"
-           style="font-size:36px;line-height:120.00000477%;font-family:sans-serif"
            id="tspan10560" /></text>
     </a>
     <text
@@ -8651,13 +8610,13 @@
        id="text7287"
        y="237.36023"
        x="96.583473"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan7285"
          y="237.36023"
          x="96.583473"
          sodipodi:role="line"
-         style="font-size:36px;line-height:120.00000477%;font-family:sans-serif">Определите местоположение и другие сведения об адресе 185.60.216.35</tspan></text>
+         style="font-size:36px;line-height:120%;font-family:sans-serif">Определите местоположение и другие сведения об адресе 185.60.216.35</tspan></text>
     <rect
        style="display:inline;opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect7289"
@@ -8855,7 +8814,6 @@
            y="283.84003"
            x="120.11719"
            sodipodi:role="line"
-           style="font-size:32px;line-height:1;font-family:sans-serif"
            id="tspan10318" /></text>
     </a>
     <rect
@@ -8877,7 +8835,8 @@
            height="60"
            x="160"
            y="210" /></flowRegion><flowPara
-         id="flowPara6890" /></flowRoot>    <a
+         id="flowPara6890" /></flowRoot>
+    <a
        transform="translate(0,-20)"
        xlink:href="https://ru.wikipedia.org/wiki/Cookie"
        id="a10955">
@@ -8893,7 +8852,6 @@
            x="120.11719"
            y="251.84003">Cookie</tspan><tspan
            id="tspan10951"
-           style="font-size:32px;line-height:1;font-family:sans-serif"
            sodipodi:role="line"
            x="120.11719"
            y="283.84003" /></text>
@@ -8930,7 +8888,6 @@
            y="301.5119"
            x="120.11719"
            sodipodi:role="line"
-           style="font-size:32px;line-height:1;font-family:sans-serif"
            id="tspan12165" /></text>
     </a>
     <rect
@@ -8963,7 +8920,6 @@
            y="269.51196"
            id="tspan12185">защититься. Часть 2</tspan><tspan
            id="tspan12175"
-           style="font-size:32px;line-height:1;font-family:sans-serif"
            sodipodi:role="line"
            x="120.11719"
            y="301.51196" /></text>
@@ -8995,7 +8951,6 @@
            y="283.84003"
            x="120.11719"
            sodipodi:role="line"
-           style="font-size:32px;line-height:1;font-family:sans-serif"
            id="tspan12189" /></text>
     </a>
     <rect
@@ -9025,7 +8980,6 @@
            y="283.84003"
            x="120.11719"
            sodipodi:role="line"
-           style="font-size:32px;line-height:1;font-family:sans-serif"
            id="tspan6650" /></text>
     </a>
     <rect
@@ -9053,7 +9007,6 @@
            x="120.11719"
            y="291.84003">https://browserleaks.com/</tspan><tspan
            id="tspan10671"
-           style="font-size:32px;line-height:1;font-family:sans-serif"
            sodipodi:role="line"
            x="120.11719"
            y="323.84003" /></text>
@@ -9077,7 +9030,7 @@
        id="text8913-9"
        y="470"
        x="799.84998"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-align:center;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:middle;display:inline;fill:#203d85;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-align:center;letter-spacing:0.3px;word-spacing:0px;text-anchor:middle;display:inline;fill:#203d85;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan8919-2"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#203d85;fill-opacity:1"
