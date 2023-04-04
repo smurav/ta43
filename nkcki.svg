@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="582.65599"
-     inkscape:cy="455.37677"
+     inkscape:cx="550.83618"
+     inkscape:cy="533.15851"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer7"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1132"
@@ -8515,25 +8515,25 @@
        transform="translate(3.0517578e-4,-106.76581)"><tspan
          x="126.5921"
          y="448.73944"
-         id="tspan6808"><tspan
+         id="tspan10356"><tspan
            style="line-height:120%;-inkscape-font-specification:'sans-serif, Normal'"
-           id="tspan6806">отказывать в предоставлении информации о компьютерныхн </tspan></tspan><tspan
+           id="tspan10354">отказывать в предоставлении информации о компьютерных </tspan></tspan><tspan
          x="126.5921"
          y="493.53939"
-         id="tspan6812"><tspan
+         id="tspan10360"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.0001115799 0.00010299683"
            style="line-height:120%;-inkscape-font-specification:'sans-serif, Normal'"
-           id="tspan6810">ицидентах, связанных с функционированием объектов КИИ, по </tspan></tspan><tspan
+           id="tspan10358">ицидентах, связанных с функционированием объектов КИИ, по </tspan></tspan><tspan
          x="126.5921"
          y="538.33935"
-         id="tspan6816"><tspan
+         id="tspan10364"><tspan
            style="line-height:120%;-inkscape-font-specification:'sans-serif, Normal'"
-           id="tspan6814">запросам органа иностранного государства или международной </tspan></tspan><tspan
+           id="tspan10362">запросам органа иностранного государства или международной </tspan></tspan><tspan
          x="126.5921"
          y="583.13933"
-         id="tspan6820"><tspan
+         id="tspan10368"><tspan
            style="line-height:120%;-inkscape-font-specification:'sans-serif, Normal'"
-           id="tspan6818">организации</tspan></tspan></text>
+           id="tspan10366">организации</tspan></tspan></text>
     <rect
        style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect684807"
@@ -8552,19 +8552,19 @@
        transform="translate(3.0517578e-4,113.05483)"><tspan
          x="126.5921"
          y="448.73944"
-         id="tspan6822">создавать рабочие группы из представителей субъектов критической </tspan><tspan
+         id="tspan10370">создавать рабочие группы из представителей субъектов критической </tspan><tspan
          x="126.5921"
          y="493.53939"
-         id="tspan6824">информационной инфраструктуры по согласованию с их руководством </tspan><tspan
+         id="tspan10372">информационной инфраструктуры по согласованию с их руководством </tspan><tspan
          x="126.5921"
          y="538.33935"
-         id="tspan6828"><tspan
+         id="tspan10376"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00010490417"
-           id="tspan6826">для решения вопросов, отнесенных к компетенции НКЦКИ</tspan></tspan></text>
+           id="tspan10374">для решения вопросов, отнесенных к компетенции НКЦКИ</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text694489"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect694491);fill:#000000;fill-opacity:1;stroke:none" />
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect694491);display:inline;fill:#000000;fill-opacity:1;stroke:none" />
     <rect
        style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect717959"
@@ -8583,12 +8583,12 @@
        transform="translate(3.0517578e-4,279.99994)"><tspan
          x="126.5921"
          y="448.73944"
-         id="tspan6832"><tspan
+         id="tspan10380"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00010299683 0.00010299683"
-           id="tspan6830">привлекать к реагированию на компьютерные инциденты организации </tspan></tspan><tspan
+           id="tspan10378">привлекать к реагированию на компьютерные инциденты организации </tspan></tspan><tspan
          x="126.5921"
          y="493.53939"
-         id="tspan6834">и экспертов, осуществляющих деятельность в данной области</tspan></text>
+         id="tspan10382">и экспертов, осуществляющих деятельность в данной области</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -8658,25 +8658,25 @@
        transform="translate(3.0517578e-4,-6.76581)"><tspan
          x="126.5921"
          y="448.73944"
-         id="tspan6838"><tspan
+         id="tspan10386"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00010108948"
            style="line-height:120%;-inkscape-font-specification:'sans-serif, Normal'"
-           id="tspan6836">заключать от своего имени соглашения о сотрудничестве в области </tspan></tspan><tspan
+           id="tspan10384">заключать от своего имени соглашения о сотрудничестве в области </tspan></tspan><tspan
          x="126.5921"
          y="493.53939"
-         id="tspan6842"><tspan
+         id="tspan10390"><tspan
            style="line-height:120%;-inkscape-font-specification:'sans-serif, Normal'"
-           id="tspan6840">обнаружения, предупреждения и ликвидации последствий </tspan></tspan><tspan
+           id="tspan10388">обнаружения, предупреждения и ликвидации последствий </tspan></tspan><tspan
          x="126.5921"
          y="538.33935"
-         id="tspan6846"><tspan
+         id="tspan10394"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.00010299683"
            style="line-height:120%;-inkscape-font-specification:'sans-serif, Normal'"
-           id="tspan6844">компьютерных атак и реагирования на компьютерные инциденты</tspan></tspan></text>
+           id="tspan10392">компьютерных атак и реагирования на компьютерные инциденты</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text723241"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect723249);fill:#000000;fill-opacity:1;stroke:none" />
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect723249);display:inline;fill:#000000;fill-opacity:1;stroke:none" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -12920,7 +12920,7 @@
          xml:space="preserve"
          transform="translate(19.999998,-20.000004)"
          id="text143692"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect143694);fill:#000000;fill-opacity:1;stroke:none" />
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect143694);display:inline;fill:#000000;fill-opacity:1;stroke:none" />
     </a>
     <a
        transform="translate(-19.999998,459.99998)"
@@ -17616,7 +17616,7 @@
     <text
        xml:space="preserve"
        id="text112178"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect112180);fill:#000000;fill-opacity:1;stroke:none" />
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect112180);display:inline;fill:#000000;fill-opacity:1;stroke:none" />
     <g
        id="g112376"
        transform="matrix(0.10204082,0,0,0.10204082,54.999848,453.8078)"
