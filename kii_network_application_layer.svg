@@ -36,10 +36,10 @@
      inkscape:window-height="1132"
      inkscape:window-width="1920"
      showgrid="true"
-     inkscape:current-layer="g3608"
+     inkscape:current-layer="svg2"
      inkscape:document-units="px"
      inkscape:cy="356.052"
-     inkscape:cx="771.16871"
+     inkscape:cx="732.90143"
      inkscape:zoom="0.6010358"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.94117647"
@@ -29158,178 +29158,172 @@
     </g>
   </g>
   <g
-     inkscape:groupmode="layer"
-     id="layer11"
+     style="display:none"
      inkscape:label="Получение сертификата УЦ"
-     style="display:none">
-    <g
-       style="display:inline"
-       inkscape:label="Получение сертификата УЦ"
-       id="g6666"
-       inkscape:groupmode="layer"
-       transform="translate(0,-3.1215106)">
-      <a
-         transform="translate(10.53068)"
-         id="a6621"
-         xlink:href="https://www.kali.org/downloads/"
-         style="display:inline" />
-      <rect
-         rx="19.999998"
-         ry="20"
-         y="530"
-         x="80"
-         height="80"
-         width="1440"
-         id="rect6623"
-         style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77953;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
-      <text
-         id="text6629"
+     id="g6666"
+     inkscape:groupmode="layer"
+     transform="translate(0,-3.1215106)">
+    <a
+       transform="translate(10.53068)"
+       id="a6621"
+       xlink:href="https://www.kali.org/downloads/"
+       style="display:inline" />
+    <rect
+       rx="19.999998"
+       ry="20"
+       y="530"
+       x="80"
+       height="80"
+       width="1440"
+       id="rect6623"
+       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77953;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    <text
+       id="text6629"
+       y="579.50977"
+       x="97.441406"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan6625"
          y="579.50977"
          x="97.441406"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">wget http://pki.goog/repo/certs/gts1c3.der</tspan><tspan
+         y="602.2829"
+         x="97.441406"
+         sodipodi:role="line"
+         id="tspan6627" /></text>
+    <a
+       transform="translate(10.53068)"
+       id="a6639"
+       xlink:href="https://www.kali.org/downloads/"
+       style="display:inline">
+      <text
+         id="text6637"
+         y="140.5974"
+         x="70.184631"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           id="tspan6625"
-           y="579.50977"
-           x="97.441406"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">wget http://pki.goog/repo/certs/gts1c3.der</tspan><tspan
-           y="602.2829"
-           x="97.441406"
-           sodipodi:role="line"
-           id="tspan6627" /></text>
-      <a
-         transform="translate(10.53068)"
-         id="a6639"
-         xlink:href="https://www.kali.org/downloads/"
-         style="display:inline">
-        <text
-           id="text6637"
+           id="tspan6633"
            y="140.5974"
            x="70.184631"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-           xml:space="preserve"><tspan
-             id="tspan6633"
-             y="140.5974"
-             x="70.184631"
-             sodipodi:role="line">Путь к сертификату удостоверяющего центра можно узнать из самого </tspan><tspan
-             y="183.79739"
-             x="70.184631"
-             sodipodi:role="line"
-             id="tspan6845">сертификата.</tspan><tspan
-             id="tspan6635"
-             y="226.99741"
-             x="70.184631"
-             sodipodi:role="line" /></text>
-      </a>
-      <rect
-         style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77953;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         id="rect6641"
-         width="1440"
-         height="220"
-         x="80"
-         y="210"
-         ry="20"
-         rx="19.999998" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+           sodipodi:role="line">Путь к сертификату удостоверяющего центра можно узнать из самого </tspan><tspan
+           y="183.79739"
+           x="70.184631"
+           sodipodi:role="line"
+           id="tspan6845">сертификата.</tspan><tspan
+           id="tspan6635"
+           y="226.99741"
+           x="70.184631"
+           sodipodi:role="line" /></text>
+    </a>
+    <rect
+       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77953;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect6641"
+       width="1440"
+       height="220"
+       x="80"
+       y="210"
+       ry="20"
+       rx="19.999998" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="97.441406"
+       y="239.50977"
+       id="text6656"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
          x="97.441406"
          y="239.50977"
-         id="text6656"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-           sodipodi:role="line"
-           x="97.441406"
-           y="239.50977"
-           id="tspan6643">...            </tspan><tspan
-           id="tspan6649"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-           sodipodi:role="line"
-           x="97.441406"
-           y="282.70978">            Authority Information Access: </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-           sodipodi:role="line"
-           x="97.441406"
-           y="325.90976"
-           id="tspan38128">                OCSP - URI:http://ocsp.pki.goog/gts1c3</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-           sodipodi:role="line"
-           x="97.441406"
-           y="369.10977"
-           id="tspan38130">                CA Issuers - URI:http://pki.goog/repo/certs/gts1c3.der</tspan><tspan
-           id="tspan6652"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-           sodipodi:role="line"
-           x="97.441406"
-           y="412.30978">...</tspan><tspan
-           id="tspan6654"
-           sodipodi:role="line"
-           x="97.441406"
-           y="435.08289" /></text>
-      <a
-         style="display:inline"
-         xlink:href="https://www.kali.org/downloads/"
-         id="a6664"
-         transform="translate(10.53068,360)">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-           x="70.184631"
-           y="140.5974"
-           id="text6662"><tspan
-             sodipodi:role="line"
-             x="70.184631"
-             y="140.5974"
-             id="tspan6658">Скачиваем сертификат УЦ с помощью утилиты wget</tspan><tspan
-             sodipodi:role="line"
-             x="70.184631"
-             y="183.79739"
-             id="tspan6660" /></text>
-      </a>
-      <rect
-         style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77953;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         id="rect10526"
-         width="1440"
-         height="80"
-         x="80"
-         y="710"
-         ry="20"
-         rx="19.999998" />
+         id="tspan6643">...            </tspan><tspan
+         id="tspan6649"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="97.441406"
+         y="282.70978">            Authority Information Access: </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="97.441406"
+         y="325.90976"
+         id="tspan38128">                OCSP - URI:http://ocsp.pki.goog/gts1c3</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="97.441406"
+         y="369.10977"
+         id="tspan38130">                CA Issuers - URI:http://pki.goog/repo/certs/gts1c3.der</tspan><tspan
+         id="tspan6652"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="97.441406"
+         y="412.30978">...</tspan><tspan
+         id="tspan6654"
+         sodipodi:role="line"
+         x="97.441406"
+         y="435.08289" /></text>
+    <a
+       style="display:inline"
+       xlink:href="https://www.kali.org/downloads/"
+       id="a6664"
+       transform="translate(10.53068,360)">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="70.184631"
+         y="140.5974"
+         id="text6662"><tspan
+           sodipodi:role="line"
+           x="70.184631"
+           y="140.5974"
+           id="tspan6658">Скачиваем сертификат УЦ с помощью утилиты wget</tspan><tspan
+           sodipodi:role="line"
+           x="70.184631"
+           y="183.79739"
+           id="tspan6660" /></text>
+    </a>
+    <rect
+       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77953;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect10526"
+       width="1440"
+       height="80"
+       x="80"
+       y="710"
+       ry="20"
+       rx="19.999998" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="97.441406"
+       y="759.50977"
+       id="text10532"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
          x="97.441406"
          y="759.50977"
-         id="text10532"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-           sodipodi:role="line"
-           x="97.441406"
-           y="759.50977"
-           id="tspan10528">openssl x509 -inform der -in gts1c3.der -out gts1c3.pem</tspan><tspan
-           id="tspan10530"
-           sodipodi:role="line"
-           x="97.441406"
-           y="782.2829" /></text>
-      <a
-         transform="translate(10.53068,540)"
-         id="a10540"
-         xlink:href="https://www.kali.org/downloads/"
-         style="display:inline">
-        <text
-           id="text10538"
+         id="tspan10528">openssl x509 -inform der -in gts1c3.der -out gts1c3.pem</tspan><tspan
+         id="tspan10530"
+         sodipodi:role="line"
+         x="97.441406"
+         y="782.2829" /></text>
+    <a
+       transform="translate(10.53068,540)"
+       id="a10540"
+       xlink:href="https://www.kali.org/downloads/"
+       style="display:inline">
+      <text
+         id="text10538"
+         y="140.5974"
+         x="70.184631"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan10534"
            y="140.5974"
            x="70.184631"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
-           xml:space="preserve"><tspan
-             id="tspan10534"
-             y="140.5974"
-             x="70.184631"
-             sodipodi:role="line">Преобразуем сертификат из формата DER в формат РЕМ</tspan><tspan
-             id="tspan10536"
-             y="183.79739"
-             x="70.184631"
-             sodipodi:role="line" /></text>
-      </a>
-    </g>
+           sodipodi:role="line">Преобразуем сертификат из формата DER в формат РЕМ</tspan><tspan
+           id="tspan10536"
+           y="183.79739"
+           x="70.184631"
+           sodipodi:role="line" /></text>
+    </a>
   </g>
   <g
      inkscape:groupmode="layer"
