@@ -10097,7 +10097,7 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="title"
-     style="display:none">
+     style="display:inline">
     <rect
        y="152.36218"
        x="0"
@@ -10210,7 +10210,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="master_slide"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#5f7da9;stroke-opacity:1"
@@ -16222,7 +16222,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="Анализ графа состояний в Wireshark">
+     inkscape:label="Анализ графа состояний в Wireshark"
+     style="display:none">
     <g
        id="g28069"
        transform="translate(-322.95531,-77.97651)">
