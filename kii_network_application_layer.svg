@@ -4,7 +4,7 @@
 <svg
    enable-background="new"
    sodipodi:docname="kii_network_application_layer.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    version="1.1"
    id="svg2"
    height="900"
@@ -31,15 +31,15 @@
      inkscape:guide-bbox="true"
      showguides="true"
      inkscape:window-maximized="1"
-     inkscape:window-y="-6"
-     inkscape:window-x="-6"
-     inkscape:window-height="1018"
+     inkscape:window-y="0"
+     inkscape:window-x="1920"
+     inkscape:window-height="1132"
      inkscape:window-width="1920"
      showgrid="true"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer1"
      inkscape:document-units="px"
      inkscape:cy="489.15555"
-     inkscape:cx="811.93167"
+     inkscape:cx="809.43598"
      inkscape:zoom="0.6010358"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.94117647"
@@ -47,7 +47,9 @@
      bordercolor="#666666"
      pagecolor="#649ccf"
      id="base"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#649ccf">
     <inkscape:grid
        type="xygrid"
        id="grid3057"
@@ -13468,6 +13470,20 @@
        y1="3.9384"
        x2="35.521"
        y2="3.8450999" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker36145-7"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path36147-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
   </defs>
   <metadata
      id="metadata7">
@@ -13485,7 +13501,7 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="title"
-     style="display:none">
+     style="display:inline">
     <rect
        y="152.36218"
        x="0"
@@ -13598,7 +13614,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="master_slide"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#5f7da9;stroke-opacity:1"
@@ -28188,12 +28204,13 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="Выполнение HTTP-запроса">
+     inkscape:label="Выполнение HTTP-запроса"
+     style="display:none">
     <a
        style="display:inline"
        xlink:href="https://www.kali.org/downloads/"
        id="a7075"
-       transform="translate(10.53068,17.73982)">
+       transform="translate(10.53068,-10.26018)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
@@ -28208,51 +28225,51 @@
     <rect
        rx="19.999998"
        ry="20"
-       y="187.73982"
+       y="159.73982"
        x="80"
-       height="122.26018"
+       height="100.48731"
        width="1440"
        id="rect7077"
        style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77954;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
     <text
        id="text7089"
-       y="237.24959"
+       y="201.48798"
        x="97.441406"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="237.24959"
+         y="201.48798"
          x="97.441406"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="tspan7079">GET / HTTP/1.1</tspan><tspan
-         y="280.44958"
+         y="244.68797"
          x="97.441406"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="tspan22467">Host: 10.0.2.4</tspan><tspan
-         y="323.6496"
+         y="287.88797"
          x="97.441406"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan22469"></tspan><tspan
-         y="366.84958"
+         id="tspan22469" /><tspan
+         y="331.08798"
          x="97.441406"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="tspan22471" /><tspan
-         y="388.23715"
+         y="353.86108"
          x="97.441406"
          sodipodi:role="line"
          id="tspan7081" /><tspan
-         y="402.63715"
+         y="368.26111"
          x="97.441406"
          sodipodi:role="line"
          id="tspan7083" /><tspan
-         y="417.03714"
+         y="382.6611"
          x="97.441406"
          sodipodi:role="line"
          id="tspan7085" /><tspan
-         y="431.43713"
+         y="397.0611"
          x="97.441406"
          sodipodi:role="line"
          id="tspan7087" /></text>
@@ -28260,7 +28277,7 @@
        style="display:inline"
        xlink:href="https://www.kali.org/downloads/"
        id="a7119"
-       transform="translate(10.53068,517.73982)">
+       transform="translate(10.53068,469.73982)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
@@ -28285,7 +28302,7 @@
     <rect
        rx="19.999998"
        ry="20"
-       y="587.73981"
+       y="539.73981"
        x="80"
        height="80"
        width="1440"
@@ -28293,32 +28310,32 @@
        style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77953;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
     <text
        id="text7135"
-       y="637.24957"
+       y="589.24957"
        x="97.441406"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="637.24957"
+         y="589.24957"
          x="97.441406"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="tspan7123">mousepad respose</tspan><tspan
-         y="658.63715"
+         y="612.02271"
          x="97.441406"
          sodipodi:role="line"
          id="tspan7125" /><tspan
-         y="673.03711"
+         y="626.42267"
          x="97.441406"
          sodipodi:role="line"
          id="tspan7127" /><tspan
-         y="687.43713"
+         y="640.82269"
          x="97.441406"
          sodipodi:role="line"
          id="tspan7129" /><tspan
-         y="701.8371"
+         y="655.22272"
          x="97.441406"
          sodipodi:role="line"
          id="tspan7131" /><tspan
-         y="716.23712"
+         y="669.62268"
          x="97.441406"
          sodipodi:role="line"
          id="tspan7133" /></text>
@@ -28328,40 +28345,1323 @@
        width="1440"
        height="80"
        x="80"
-       y="407.73981"
+       y="359.73981"
        ry="20"
        rx="19.999998" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        x="97.441406"
-       y="457.24957"
+       y="409.24957"
        id="text7151"><tspan
          id="tspan7139"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="97.441406"
-         y="457.24957">echo request | nc 10.0.2.4 80 | tee response </tspan><tspan
+         y="409.24957">echo request | nc 10.0.2.4 80 | tee response </tspan><tspan
          id="tspan7141"
          sodipodi:role="line"
          x="97.441406"
-         y="478.63712" /><tspan
+         y="432.02267" /><tspan
          id="tspan7143"
          sodipodi:role="line"
          x="97.441406"
-         y="493.03711" /><tspan
+         y="446.4227" /><tspan
          id="tspan7145"
          sodipodi:role="line"
          x="97.441406"
-         y="507.43713" /><tspan
+         y="460.82269" /><tspan
          id="tspan7147"
          sodipodi:role="line"
          x="97.441406"
-         y="521.8371" /><tspan
+         y="475.22269" /><tspan
          id="tspan7149"
          sodipodi:role="line"
          x="97.441406"
-         y="536.23712" /></text>
+         y="489.62268" /></text>
+    <a
+       style="display:inline"
+       xlink:href="https://www.kali.org/downloads/"
+       id="a5330"
+       transform="translate(10.53068,557.73982)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="70.184631"
+         y="132.5974"
+         id="text5328"><tspan
+           sodipodi:role="line"
+           x="70.184631"
+           y="132.5974"
+           id="tspan5326">Выполнение HTTPS-запросa</tspan></text>
+    </a>
+    <rect
+       rx="19.999998"
+       ry="20"
+       y="719.73981"
+       x="80"
+       height="80"
+       width="1440"
+       id="rect5510"
+       style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77953;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    <text
+       id="text5350"
+       y="769.24957"
+       x="97.441406"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="769.24957"
+         x="97.441406"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan5336">chromium mail.ru</tspan><tspan
+         y="812.44958"
+         x="97.441406"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan5338" /><tspan
+         y="855.6496"
+         x="97.441406"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan5340" /><tspan
+         y="878.42267"
+         x="97.441406"
+         sodipodi:role="line"
+         id="tspan5342" /><tspan
+         y="892.82269"
+         x="97.441406"
+         sodipodi:role="line"
+         id="tspan5344" /><tspan
+         y="907.22272"
+         x="97.441406"
+         sodipodi:role="line"
+         id="tspan5346" /><tspan
+         y="921.62268"
+         x="97.441406"
+         sodipodi:role="line"
+         id="tspan5348" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Расшифровка сессий TLS"
+     style="display:none">
+    <g
+       id="g24839"
+       transform="translate(-178.31107,70.654878)"
+       style="display:inline">
+      <text
+         id="text7501"
+         y="103.60725"
+         x="215.78474"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan7499"
+           y="103.60725"
+           x="215.78474"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Для получения доступа к содержимому</tspan><tspan
+           y="146.80725"
+           x="215.78474"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan7535">сессий TLS необходимо получить доступ</tspan><tspan
+           y="190.00725"
+           x="215.78474"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan7537">к ключам шифрования.</tspan><tspan
+           y="212.57288"
+           x="215.78474"
+           sodipodi:role="line"
+           id="tspan11856" /><tspan
+           y="226.97287"
+           x="215.78474"
+           sodipodi:role="line"
+           id="tspan11858" /><tspan
+           y="262.00726"
+           x="215.78474"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan6735">Такие ключи можно получать от </tspan><tspan
+           y="305.20724"
+           x="215.78474"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan11860">браузера, если указать ему имя файла </tspan><tspan
+           y="348.40726"
+           x="215.78474"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan11921">для записи сессионных ключей через </tspan><tspan
+           y="391.60727"
+           x="215.78474"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan11862">специальную переменную окружения </tspan><tspan
+           y="434.80725"
+           x="215.78474"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan11927">SSLKEYLOGFILE</tspan><tspan
+           y="457.37289"
+           x="215.78474"
+           sodipodi:role="line"
+           id="tspan11864" /></text>
+      <rect
+         rx="20"
+         ry="20"
+         y="471.37323"
+         x="228.94295"
+         height="120"
+         width="740"
+         id="rect7716"
+         style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77953;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <text
+         id="text7722-3"
+         y="523.19415"
+         x="249.38435"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan7718"
+           y="523.19415"
+           x="249.38435"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">export SSLKEYLOGFILE=~/sslkeys.log</tspan><tspan
+           id="tspan7720-6"
+           y="566.39417"
+           x="249.38435"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">chromium --no-sandbox</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="215.78474"
+         y="663.60724"
+         id="text11882"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="215.78474"
+           y="663.60724"
+           id="tspan11919">Также нужно указать Wireshark путь к файлу с ключами в диалоге настройки</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="215.78474"
+           y="706.80725"
+           id="tspan11935"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan11937">Edit&gt;Preferences&gt;Protocols&gt;TLS</tspan>.</tspan></text>
+      <image
+         xlink:href="img/sslkeylogfile.png"
+         width="732"
+         height="560"
+         preserveAspectRatio="none"
+         id="image10415"
+         x="1008.9429"
+         y="51.373238"
+         style="display:inline" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot10418"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+         transform="translate(168.94294,-58.626764)"><flowRegion
+           id="flowRegion10420"><rect
+             id="rect10422"
+             width="20"
+             height="80"
+             x="1140"
+             y="330" /></flowRegion><flowPara
+           id="flowPara10424" /></flowRoot>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Отслеживание потоков"
+     style="display:none">
+    <g
+       id="g31867"
+       transform="translate(131.15464,93.947997)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="-86.15023"
+         y="46.406548"
+         id="text7079"><tspan
+           id="tspan7380"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="-86.15023"
+           y="46.406548">Wireshark позволяет </tspan><tspan
+           id="tspan6755"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="-86.15023"
+           y="89.606552">одновременно просматривать </tspan><tspan
+           id="tspan6769"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="-86.15023"
+           y="132.80655">целые группы связанных </tspan><tspan
+           id="tspan6763"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="-86.15023"
+           y="176.00655">пакетов, формируемых в </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="-86.15023"
+           y="219.20656"
+           id="tspan7438">процессе выполнения каких-</tspan><tspan
+           id="tspan6822"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="-86.15023"
+           y="262.40656">либо протоколов.</tspan><tspan
+           id="tspan6824"
+           sodipodi:role="line"
+           x="-86.15023"
+           y="284.97217" /><tspan
+           id="tspan6785"
+           sodipodi:role="line"
+           x="-86.15023"
+           y="299.37219" /><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="-86.15023"
+           y="334.40656"
+           id="tspan6879">Данная возможность доступна</tspan><tspan
+           id="tspan6787"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="-86.15023"
+           y="377.60657">через главное меню </tspan><tspan
+           id="tspan6789"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="-86.15023"
+           y="420.80655"><tspan
+   id="tspan6797"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Analyze &gt; Follow &gt;</tspan> или </tspan><tspan
+           id="tspan6791"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="-86.15023"
+           y="464.00656">контекстное меню <tspan
+   id="tspan6795"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Follow</tspan> </tspan><tspan
+           id="tspan6793"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="-86.15023"
+           y="507.20657">отдельного пакета группы.</tspan><tspan
+           sodipodi:role="line"
+           x="-86.15023"
+           y="529.77222"
+           id="tspan6865" /><tspan
+           sodipodi:role="line"
+           x="-86.15023"
+           y="544.17218"
+           id="tspan6881" /><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="-86.15023"
+           y="579.20654"
+           id="tspan6883">К примеру, вы можете </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="-86.15023"
+           y="622.40656"
+           id="tspan6869">целиком отследить сессию </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="-86.15023"
+           y="665.60657"
+           id="tspan6871">HTTP, содержащую запрос от </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="-86.15023"
+           y="708.80658"
+           id="tspan6875">браузера и ответ от сервера.</tspan><tspan
+           sodipodi:role="line"
+           x="-86.15023"
+           y="731.37219"
+           id="tspan6863" /><tspan
+           id="tspan6775"
+           sodipodi:role="line"
+           x="-86.15023"
+           y="745.77222" /><tspan
+           id="tspan6777"
+           sodipodi:role="line"
+           x="-86.15023"
+           y="760.17218" /><tspan
+           id="tspan6779"
+           sodipodi:role="line"
+           x="-86.15023"
+           y="774.5722" /><tspan
+           id="tspan6753"
+           sodipodi:role="line"
+           x="-86.15023"
+           y="788.97223" /></text>
+      <image
+         xlink:href="img/http_packets.png"
+         style="display:inline;stroke-width:1.32167"
+         width="580.32788"
+         height="600"
+         preserveAspectRatio="none"
+         id="image6807"
+         x="503.66513"
+         y="-4.1908498" />
+      <image
+         xlink:href="img/tls_stream.png"
+         style="display:inline;stroke-width:1.262"
+         width="500"
+         height="632.32965"
+         preserveAspectRatio="none"
+         id="image10553"
+         x="923.66516"
+         y="77.47953" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Экспорт файлов"
+     style="display:none">
+    <g
+       style="display:inline"
+       inkscape:label="Экспорт файлов"
+       id="g3608"
+       inkscape:groupmode="layer"
+       transform="translate(-9.489563,14.280426)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="77.186157"
+         y="148.1579"
+         id="text3602"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="77.186157"
+           y="148.1579"
+           id="tspan3662"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan7457">Остановив захват пакетов</tspan>, </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="77.186157"
+           y="191.35789"
+           id="tspan7453">вы можете выполнить экспорт </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="77.186157"
+           y="234.55791"
+           id="tspan7455">объектов, которые передавались </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="77.186157"
+           y="277.7579"
+           id="tspan7478">в составе захваченных пакетов.</tspan><tspan
+           sodipodi:role="line"
+           x="77.186157"
+           y="300.32352"
+           id="tspan7494" /><tspan
+           sodipodi:role="line"
+           x="77.186157"
+           y="314.72354"
+           id="tspan7496" /><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="77.186157"
+           y="349.7579"
+           id="tspan7498">Вызов диалога экспорта </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="77.186157"
+           y="392.95792"
+           id="tspan7500">осуществляется в через меню</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="77.186157"
+           y="436.1579"
+           id="tspan7502">File &gt; Export Objects</tspan></text>
+      <image
+         xlink:href="img/export_objects.png"
+         y="157"
+         x="780"
+         id="image7512"
+         preserveAspectRatio="none"
+         height="553"
+         width="760" />
+      <path
+         style="fill:#ff2020;fill-opacity:1;stroke:#000000;stroke-width:3.77953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker36145-7)"
+         d="M 769.19337,511.66256 680,610"
+         id="path7526"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <image
+         y="544"
+         x="280"
+         id="image10618"
+         xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCADOAYYDASIA AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3 ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3 uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDwQU5e o+tN6U5PvCkwJ2GQKQCnsOBSAVlcoTbSEU/FRSnC/WmtQZE7ZOBTQKSlrRKxIvFa/hnVxoevW1+y 7kjOGHsRisegGhpNNMFo7nv0/wATdCt7X7TBc75SvEQFeL+JNX/tzW578oEMmOAKzB0xTT1rOFKM HdFOTasJRnFFFaEkscxTgk1bjnyOaz6kiPOM1EoJ6lxk0Xmk9DVq2uioGDWaSaljJHesnBNFpu5p teMSeTTDclh1qkWyetPB4rLkSK5mybzSfWo3bPelpjU0kDZE/eoGqZzURraJmyI0w1IRUZ61rElj aWkpasgAcU4NTKWgBxIpppc8UlMAzS5pKKBATSUUUrjCiiigYUUUtMQlFFFTcYUUUUAFLSUtNCDN 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 "
+         preserveAspectRatio="none"
+         height="206"
+         width="390" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Знакомство с утилитой OpenSSL"
+     style="display:none">
+    <g
+       id="g37538"
+       transform="translate(280.89614,37.378983)">
+      <a
+         style="display:inline"
+         xlink:href="https://www.kali.org/downloads/"
+         id="a12045-8"
+         transform="translate(-278.59367,-39.639171)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+           x="70.184631"
+           y="140.5974"
+           id="text12043-9"><tspan
+             sodipodi:role="line"
+             x="70.184631"
+             y="140.5974"
+             id="tspan6651">OpenSSL —  криптографическая библиотека, поддерживающая множество </tspan><tspan
+             sodipodi:role="line"
+             x="70.184631"
+             y="183.79739"
+             id="tspan6667">алгоритмов хеширования, шифрования и электронной подписи.</tspan><tspan
+             sodipodi:role="line"
+             x="70.184631"
+             y="226.99741"
+             id="tspan6719" /></text>
+      </a>
+      <rect
+         style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77953;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect6896"
+         width="1440"
+         height="120"
+         x="-209.12434"
+         y="470.36084"
+         ry="20"
+         rx="19.999998" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32px;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="-191.68294"
+         y="519.87061"
+         id="text6902"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:32px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="-191.68294"
+           y="519.87061"
+           id="tspan6898">openssl s_client -connect youtube.com:443 &lt; /dev/null | </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:32px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="-191.68294"
+           y="558.82391"
+           id="tspan6744">sed -ne '/-BEGIN CERTIFICATE-/,/-END CERTIFICATE-/p' &gt; youtube.com.pem</tspan><tspan
+           id="tspan6900"
+           sodipodi:role="line"
+           x="-191.68294"
+           y="597.77722"
+           style="font-size:32px" /></text>
+      <a
+         transform="translate(-278.59367,500.36083)"
+         id="a6931"
+         xlink:href="https://www.kali.org/downloads/"
+         style="display:inline">
+        <text
+           id="text6929"
+           y="-59.402603"
+           x="70.184631"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             id="tspan6925"
+             y="-59.402603"
+             x="70.184631"
+             sodipodi:role="line">Сохранить только сертификат целевого сайта можно следующей командой</tspan><tspan
+             id="tspan6927"
+             y="-16.202602"
+             x="70.184631"
+             sodipodi:role="line" /></text>
+      </a>
+      <rect
+         rx="19.999998"
+         ry="20"
+         y="290.36084"
+         x="-209.12434"
+         height="80"
+         width="1440"
+         id="rect6722"
+         style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77953;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <text
+         id="text6728"
+         y="339.87061"
+         x="-191.68294"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan6724"
+           y="339.87061"
+           x="-191.68294"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">openssl s_client -connect youtube.com:443</tspan><tspan
+           y="362.64371"
+           x="-191.68294"
+           sodipodi:role="line"
+           id="tspan6726" /></text>
+      <a
+         style="display:inline"
+         xlink:href="https://www.kali.org/downloads/"
+         id="a6736"
+         transform="translate(-278.59367,80.360829)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+           x="70.184631"
+           y="140.5974"
+           id="text6734"><tspan
+             sodipodi:role="line"
+             x="70.184631"
+             y="140.5974"
+             id="tspan6730">OpenSSL также позволяет тестировать TLS соединения и получать </tspan><tspan
+             sodipodi:role="line"
+             x="70.184631"
+             y="183.79739"
+             id="tspan6738">информацию обо всех сертификатах в цепочке до корневого УЦ </tspan><tspan
+             sodipodi:role="line"
+             x="70.184631"
+             y="226.99741"
+             id="tspan6732" /></text>
+      </a>
+      <rect
+         style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77953;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect6746"
+         width="1440"
+         height="80"
+         x="-209.12434"
+         y="670.36084"
+         ry="20"
+         rx="19.999998" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="-191.68294"
+         y="719.87061"
+         id="text6752"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="-191.68294"
+           y="719.87061"
+           id="tspan6748">openssl x509 -in youtube.com.pem -noout -text</tspan><tspan
+           id="tspan6750"
+           sodipodi:role="line"
+           x="-191.68294"
+           y="742.64374" /></text>
+      <a
+         transform="translate(-278.59367,460.36083)"
+         id="a6762"
+         xlink:href="https://www.kali.org/downloads/"
+         style="display:inline">
+        <text
+           id="text6760"
+           y="180.5974"
+           x="70.184631"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             id="tspan6756"
+             y="180.5974"
+             x="70.184631"
+             sodipodi:role="line">Просмотр сертификата</tspan><tspan
+             id="tspan6758"
+             y="223.79739"
+             x="70.184631"
+             sodipodi:role="line" /></text>
+      </a>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="Изучение цифровой подписи сертификата"
+     style="display:none">
+    <g
+       id="g37793"
+       transform="translate(384.05139,65.663508)">
+      <a
+         style="display:inline"
+         xlink:href="https://www.kali.org/downloads/"
+         id="a6659"
+         transform="translate(-373.52072,-68.547699)" />
+      <rect
+         style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77953;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect6661"
+         width="1440"
+         height="180"
+         x="-304.05139"
+         y="321.4523"
+         ry="20"
+         rx="19.999998" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="-286.60999"
+         y="350.96207"
+         id="text6667"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="-286.60999"
+           y="350.96207"
+           id="tspan6663">... </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="-286.60999"
+           y="394.16208"
+           id="tspan6741"> 3373:d=2  hl=2 l=   9 prim: OBJECT            <tspan
+   style="fill:#ff0000"
+   id="tspan37806">:sha256WithRSAEncryption</tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="-286.60999"
+           y="437.36206"
+           id="tspan37802"> 3384:d=2  hl=2 l=   0 prim: NULL              </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="-286.60999"
+           y="480.56207"
+           id="tspan37804"> <tspan
+   style="fill:#ff0000"
+   id="tspan37910">3386</tspan>:d=1  hl=4 l= 257 prim: BIT STRING   </tspan><tspan
+           id="tspan6665"
+           sodipodi:role="line"
+           x="-286.60999"
+           y="503.33517" /></text>
+      <a
+         style="display:inline"
+         xlink:href="https://www.kali.org/downloads/"
+         id="a6677"
+         transform="translate(-373.52072,-68.547699)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+           x="70.184631"
+           y="140.5974"
+           id="text6675"><tspan
+             sodipodi:role="line"
+             x="70.184631"
+             y="140.5974"
+             id="tspan6671">Определение алгоритма выполнения подписи и позиции подписи в </tspan><tspan
+             sodipodi:role="line"
+             x="70.184631"
+             y="183.79739"
+             id="tspan6723">сертификате</tspan><tspan
+             sodipodi:role="line"
+             x="70.184631"
+             y="226.99741"
+             id="tspan6673" /></text>
+      </a>
+      <rect
+         rx="19.999998"
+         ry="20"
+         y="141.4523"
+         x="-304.05139"
+         height="80"
+         width="1440"
+         id="rect6679"
+         style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77953;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <text
+         id="text6693"
+         y="190.96207"
+         x="-286.60999"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="190.96207"
+           x="-286.60999"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan6689">openssl asn1parse -in youtube.com.pem</tspan><tspan
+           y="213.73518"
+           x="-286.60999"
+           sodipodi:role="line"
+           id="tspan6691" /></text>
+      <a
+         transform="translate(-373.52072,151.4523)"
+         id="a6701"
+         xlink:href="https://www.kali.org/downloads/"
+         style="display:inline">
+        <text
+           id="text6699"
+           y="140.5974"
+           x="70.184631"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             id="tspan6695"
+             y="140.5974"
+             x="70.184631"
+             sodipodi:role="line">Последние 3 строки вывода содержат необходимую информацию</tspan><tspan
+             id="tspan6697"
+             y="183.79739"
+             x="70.184631"
+             sodipodi:role="line" /></text>
+      </a>
+      <rect
+         rx="19.999998"
+         ry="20"
+         y="601.45227"
+         x="-304.05139"
+         height="120"
+         width="1440"
+         id="rect6703"
+         style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77953;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <text
+         id="text6709"
+         y="650.96204"
+         x="-286.60999"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan6705"
+           y="650.96204"
+           x="-286.60999"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">openssl asn1parse -in youtube.com.pem -out youtube.com.sig </tspan><tspan
+           y="694.16205"
+           x="-286.60999"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan6749">-strparse <tspan
+   style="fill:#ff0000"
+   id="tspan37912">3386 </tspan>-noout</tspan><tspan
+           y="716.93518"
+           x="-286.60999"
+           sodipodi:role="line"
+           id="tspan6707" /></text>
+      <a
+         style="display:inline"
+         xlink:href="https://www.kali.org/downloads/"
+         id="a6717"
+         transform="translate(-373.52072,471.4523)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+           x="70.184631"
+           y="100.5974"
+           id="text6715"><tspan
+             sodipodi:role="line"
+             x="70.184631"
+             y="100.5974"
+             id="tspan6711">Извлечение подписи из сертификата в отдельный файл</tspan><tspan
+             sodipodi:role="line"
+             x="70.184631"
+             y="143.79739"
+             id="tspan6713" /></text>
+      </a>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="Получение сертификата УЦ"
+     style="display:none">
+    <g
+       style="display:inline"
+       inkscape:label="Получение сертификата УЦ"
+       id="g6666"
+       inkscape:groupmode="layer"
+       transform="translate(0,-3.1215106)">
+      <a
+         transform="translate(10.53068)"
+         id="a6621"
+         xlink:href="https://www.kali.org/downloads/"
+         style="display:inline" />
+      <rect
+         rx="19.999998"
+         ry="20"
+         y="530"
+         x="80"
+         height="80"
+         width="1440"
+         id="rect6623"
+         style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77953;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <text
+         id="text6629"
+         y="579.50977"
+         x="97.441406"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan6625"
+           y="579.50977"
+           x="97.441406"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">wget http://pki.goog/repo/certs/gts1c3.der</tspan><tspan
+           y="602.2829"
+           x="97.441406"
+           sodipodi:role="line"
+           id="tspan6627" /></text>
+      <a
+         transform="translate(10.53068)"
+         id="a6639"
+         xlink:href="https://www.kali.org/downloads/"
+         style="display:inline">
+        <text
+           id="text6637"
+           y="140.5974"
+           x="70.184631"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             id="tspan6633"
+             y="140.5974"
+             x="70.184631"
+             sodipodi:role="line">Путь к сертификату удостоверяющего центра можно узнать из самого </tspan><tspan
+             y="183.79739"
+             x="70.184631"
+             sodipodi:role="line"
+             id="tspan6845">сертификата.</tspan><tspan
+             id="tspan6635"
+             y="226.99741"
+             x="70.184631"
+             sodipodi:role="line" /></text>
+      </a>
+      <rect
+         style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77953;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect6641"
+         width="1440"
+         height="220"
+         x="80"
+         y="210"
+         ry="20"
+         rx="19.999998" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="97.441406"
+         y="239.50977"
+         id="text6656"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="97.441406"
+           y="239.50977"
+           id="tspan6643">...            </tspan><tspan
+           id="tspan6649"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="97.441406"
+           y="282.70978">            Authority Information Access: </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="97.441406"
+           y="325.90976"
+           id="tspan38128">                OCSP - URI:http://ocsp.pki.goog/gts1c3</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="97.441406"
+           y="369.10977"
+           id="tspan38130">                CA Issuers - URI:http://pki.goog/repo/certs/gts1c3.der</tspan><tspan
+           id="tspan6652"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="97.441406"
+           y="412.30978">...</tspan><tspan
+           id="tspan6654"
+           sodipodi:role="line"
+           x="97.441406"
+           y="435.08289" /></text>
+      <a
+         style="display:inline"
+         xlink:href="https://www.kali.org/downloads/"
+         id="a6664"
+         transform="translate(10.53068,360)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+           x="70.184631"
+           y="140.5974"
+           id="text6662"><tspan
+             sodipodi:role="line"
+             x="70.184631"
+             y="140.5974"
+             id="tspan6658">Скачиваем сертификат УЦ с помощью утилиты wget</tspan><tspan
+             sodipodi:role="line"
+             x="70.184631"
+             y="183.79739"
+             id="tspan6660" /></text>
+      </a>
+      <rect
+         style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77953;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect10526"
+         width="1440"
+         height="80"
+         x="80"
+         y="710"
+         ry="20"
+         rx="19.999998" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="97.441406"
+         y="759.50977"
+         id="text10532"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="97.441406"
+           y="759.50977"
+           id="tspan10528">openssl x509 -inform der -in gts1c3.der -out gts1c3.pem</tspan><tspan
+           id="tspan10530"
+           sodipodi:role="line"
+           x="97.441406"
+           y="782.2829" /></text>
+      <a
+         transform="translate(10.53068,540)"
+         id="a10540"
+         xlink:href="https://www.kali.org/downloads/"
+         style="display:inline">
+        <text
+           id="text10538"
+           y="140.5974"
+           x="70.184631"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             id="tspan10534"
+             y="140.5974"
+             x="70.184631"
+             sodipodi:role="line">Преобразуем сертификат из формата DER в формат РЕМ</tspan><tspan
+             id="tspan10536"
+             y="183.79739"
+             x="70.184631"
+             sodipodi:role="line" /></text>
+      </a>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer14"
+     inkscape:label="Расшифровка цифровой подписи"
+     style="display:none">
+    <g
+       style="display:inline"
+       inkscape:label="Расшифровка цифровой подписи"
+       id="g6820"
+       inkscape:groupmode="layer"
+       transform="translate(0,-2.5677997)">
+      <a
+         transform="translate(10.53068)"
+         id="a6753"
+         xlink:href="https://www.kali.org/downloads/"
+         style="display:inline" />
+      <rect
+         rx="19.999998"
+         ry="20"
+         y="350"
+         x="60"
+         height="80"
+         width="1480"
+         id="rect6755"
+         style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77953;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <text
+         id="text6772"
+         y="399.50977"
+         x="77.441406"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="399.50977"
+           x="77.441406"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:29.3333px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan6770">openssl rsautl -verify -pubin -inkey gts1c3.pub -in youtube.com.sig -asn1parse </tspan><tspan
+           y="435.21692"
+           x="77.441406"
+           sodipodi:role="line"
+           id="tspan6952"
+           style="font-size:29.3333px" /></text>
+      <a
+         transform="translate(-9.46932)"
+         id="a6782"
+         xlink:href="https://www.kali.org/downloads/"
+         style="display:inline">
+        <text
+           id="text6780"
+           y="140.5974"
+           x="70.184631"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             y="140.5974"
+             x="70.184631"
+             sodipodi:role="line"
+             id="tspan6917">Извлекаем открытый ключ из сертификата УЦ </tspan><tspan
+             id="tspan6778"
+             y="183.79739"
+             x="70.184631"
+             sodipodi:role="line" /></text>
+      </a>
+      <rect
+         style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77953;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect6784"
+         width="1480"
+         height="80"
+         x="60"
+         y="170"
+         ry="20"
+         rx="19.999998" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="77.441406"
+         y="219.50977"
+         id="text6790"><tspan
+           id="tspan6786"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="77.441406"
+           y="219.50977">openssl x509 -in gts1c3.pem -pubkey -noout &gt; gts1c3.pub</tspan><tspan
+           id="tspan6788"
+           sodipodi:role="line"
+           x="77.441406"
+           y="242.28288" /></text>
+      <a
+         style="display:inline"
+         xlink:href="https://www.kali.org/downloads/"
+         id="a6798"
+         transform="translate(-9.46932,180)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+           x="70.184631"
+           y="140.5974"
+           id="text6796"><tspan
+             sodipodi:role="line"
+             x="70.184631"
+             y="140.5974"
+             id="tspan6792">С помощью ключа УЦ можно расшифровать подпись и извлечь хэш SHA-256 </tspan><tspan
+             sodipodi:role="line"
+             x="70.184631"
+             y="183.79739"
+             id="tspan6794" /></text>
+      </a>
+      <rect
+         style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77953;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect6960"
+         width="1480"
+         height="340"
+         x="60"
+         y="450"
+         ry="20"
+         rx="19.999998" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="77.441406"
+         y="499.50977"
+         id="text6982"><tspan
+           id="tspan6980"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:29.3333px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="77.441406"
+           y="499.50977">    0:d=0  hl=2 l=  49 cons: SEQUENCE          </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:29.3333px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="77.441406"
+           y="535.21692"
+           id="tspan38400">    2:d=1  hl=2 l=  13 cons:  SEQUENCE          </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:29.3333px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="77.441406"
+           y="570.92407"
+           id="tspan38402">    4:d=2  hl=2 l=   9 prim:   OBJECT            :sha256</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:29.3333px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="77.441406"
+           y="606.63123"
+           id="tspan38404">   15:d=2  hl=2 l=   0 prim:   NULL              </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:29.3333px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="77.441406"
+           y="642.33838"
+           id="tspan38406">   17:d=1  hl=2 l=  32 prim:  OCTET STRING      </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:29.3333px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="77.441406"
+           y="678.04553"
+           id="tspan38408">      0000 - <tspan
+   style="fill:#ff0000"
+   id="tspan38412">8e 59 f7 5d 05 b7 02 65-a1 bc 6a 0d 62 16 ad bf</tspan>   .Y.]...e..j.b...</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:29.3333px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="77.441406"
+           y="713.75269"
+           id="tspan38410">      0010 - <tspan
+   style="fill:#ff0000"
+   id="tspan38414">c9 10 4d 06 3e 08 c7 5e-bf b3 d1 77 e3 72 bd ff</tspan>   ..M.&gt;..^...w.r..</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer15"
+     inkscape:label="Расчёт хэша сертификата"
+     style="display:none">
+    <g
+       id="g38641"
+       transform="translate(197.70643,65.663508)">
+      <a
+         style="display:inline"
+         xlink:href="https://www.kali.org/downloads/"
+         id="a6718"
+         transform="translate(-184.6852,-38.785004)" />
+      <rect
+         style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77953;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect6720"
+         width="1460"
+         height="80"
+         x="-135.21588"
+         y="351.215"
+         ry="20"
+         rx="19.999998" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="-117.77448"
+         y="400.72476"
+         id="text6727"><tspan
+           id="tspan6722"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="-117.77448"
+           y="400.72476">openssl dgst -sha256 -hex youtube.com.tbs</tspan><tspan
+           id="tspan6725"
+           sodipodi:role="line"
+           x="-117.77448"
+           y="423.49786" /></text>
+      <a
+         style="display:inline"
+         xlink:href="https://www.kali.org/downloads/"
+         id="a6735"
+         transform="translate(-204.6852,-38.785004)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+           x="70.184631"
+           y="140.5974"
+           id="text6733"><tspan
+             id="tspan6729"
+             sodipodi:role="line"
+             x="70.184631"
+             y="140.5974">Так как в сертификате подписывается только подписываемая часть </tspan><tspan
+             sodipodi:role="line"
+             x="70.184631"
+             y="183.79739"
+             id="tspan6790">(To Be Signed), то её необходимо извлечь из сертификата </tspan><tspan
+             sodipodi:role="line"
+             x="70.184631"
+             y="226.99741"
+             id="tspan6731" /></text>
+      </a>
+      <rect
+         rx="19.999998"
+         ry="20"
+         y="171.215"
+         x="-135.21588"
+         height="80"
+         width="1460"
+         id="rect6737"
+         style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77953;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <text
+         id="text6744"
+         y="220.72476"
+         x="-117.77448"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.3333px;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="220.72476"
+           x="-117.77448"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:32px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan6740">openssl asn1parse -in youtube.com.pem -out youtube.com.tbs -strparse 4 -noout</tspan><tspan
+           y="257.3392"
+           x="-117.77448"
+           sodipodi:role="line"
+           id="tspan6742"
+           style="font-size:29.3333px" /></text>
+      <a
+         transform="translate(-204.6852,181.215)"
+         id="a6756"
+         xlink:href="https://www.kali.org/downloads/"
+         style="display:inline">
+        <text
+           id="text6754"
+           y="140.5974"
+           x="70.184631"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             id="tspan6746"
+             y="140.5974"
+             x="70.184631"
+             sodipodi:role="line">Вычисление хэша SHA-256 подписываемой части сертификата</tspan><tspan
+             id="tspan6752"
+             y="183.79739"
+             x="70.184631"
+             sodipodi:role="line" /></text>
+      </a>
+      <rect
+         rx="19.999998"
+         ry="20"
+         y="571.21497"
+         x="-135.21588"
+         height="120"
+         width="1460"
+         id="rect6792"
+         style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77953;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <text
+         id="text6800"
+         y="620.72473"
+         x="-117.77448"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="620.72473"
+           x="-117.77448"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1f3c84"
+           id="tspan6812">SHA256(youtube.com.tbs)= <tspan
+   style="fill:#ff0000"
+   id="tspan44120">8e59f75d05b70265a1bc6a0d6216adbf</tspan></tspan><tspan
+           y="663.92474"
+           x="-117.77448"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1f3c84"
+           id="tspan38646">                                             <tspan
+   style="fill:#ff0000"
+   id="tspan44122">c9104d063e08c75ebfb3d177e372bdff</tspan></tspan><tspan
+           y="686.69788"
+           x="-117.77448"
+           sodipodi:role="line"
+           id="tspan6798" /></text>
+      <a
+         style="display:inline"
+         xlink:href="https://www.kali.org/downloads/"
+         id="a6808"
+         transform="translate(-204.6852,341.215)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+           x="70.184631"
+           y="160.5974"
+           id="text6806"><tspan
+             sodipodi:role="line"
+             x="70.184631"
+             y="160.5974"
+             id="tspan6802">Полученный хэш совпадает со значением, извлечённым из расшифрованной </tspan><tspan
+             sodipodi:role="line"
+             x="70.184631"
+             y="203.79739"
+             id="tspan6810">подписи, что говорит о подлинности сертификата.</tspan><tspan
+             sodipodi:role="line"
+             x="70.184631"
+             y="246.99741"
+             id="tspan6804" /></text>
+      </a>
+    </g>
   </g>
   <g
      style="display:none"
