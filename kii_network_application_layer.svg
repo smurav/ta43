@@ -32,14 +32,14 @@
      showguides="true"
      inkscape:window-maximized="1"
      inkscape:window-y="0"
-     inkscape:window-x="1920"
+     inkscape:window-x="0"
      inkscape:window-height="1132"
      inkscape:window-width="1920"
      showgrid="true"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer4"
      inkscape:document-units="px"
      inkscape:cy="356.052"
-     inkscape:cx="579.83235"
+     inkscape:cx="581.49614"
      inkscape:zoom="0.6010358"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.94117647"
@@ -13515,7 +13515,7 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="title"
-     style="display:none">
+     style="display:inline">
     <rect
        y="152.36218"
        x="0"
@@ -13628,7 +13628,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="master_slide"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#5f7da9;stroke-opacity:1"
@@ -28372,7 +28372,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="97.441406"
-         y="409.24957">echo request | nc 10.0.2.4 80 | tee response </tspan><tspan
+         y="409.24957">cat request | nc 10.0.2.4 80 | tee response </tspan><tspan
          id="tspan7141"
          sodipodi:role="line"
          x="97.441406"
@@ -28741,7 +28741,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer7"
-     inkscape:label="Экспорт файлов">
+     inkscape:label="Экспорт файлов"
+     style="display:none">
     <g
        id="g5704"
        transform="translate(-11.931656,97.275581)">
