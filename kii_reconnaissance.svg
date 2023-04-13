@@ -6,7 +6,7 @@
    height="900"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="kii_reconnaissance.svg"
    enable-background="new"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -26,15 +26,15 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.55154866"
-     inkscape:cx="820.41719"
-     inkscape:cy="370.77418"
+     inkscape:cx="569.30607"
+     inkscape:cy="661.77298"
      inkscape:document-units="px"
-     inkscape:current-layer="layer12"
+     inkscape:current-layer="g2650"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1132"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:window-height="1018"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -7184,6 +7184,82 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="g2650"
+     inkscape:label="Набор инструментов OSINT"
+     style="display:none">
+    <a
+       id="a2588"
+       xlink:href="https://ru.wikipedia.org/wiki/%D0%90%D1%80%D1%85%D0%B8%D0%B2_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D0%B0"
+       transform="translate(-20,20)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="84.641235"
+         y="149.80608"
+         id="text2586"><tspan
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="84.641235"
+           y="149.80608"
+           id="tspan2562">Портал osintframework.com специализируется</tspan><tspan
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="84.641235"
+           y="193.00607"
+           id="tspan12234">на сборе информации о свободных </tspan><tspan
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="84.641235"
+           y="236.20609"
+           id="tspan17176">инструментах и ресурсах, предназначенных </tspan><tspan
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="84.641235"
+           y="279.40607"
+           id="tspan24495">для OSINT. </tspan><tspan
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="84.641235"
+           y="301.97171"
+           id="tspan2584" /></text>
+    </a>
+    <rect
+       style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77953;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect2590"
+       width="892"
+       height="80"
+       x="68"
+       y="350"
+       ry="20"
+       rx="20" />
+    <a
+       id="a2596"
+       xlink:href="https://osintframework.com/"
+       style="fill:#800080"
+       transform="translate(-20,-320)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
+         x="106.15295"
+         y="719.93164"
+         id="text2594"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#800080"
+           sodipodi:role="line"
+           x="106.15295"
+           y="719.93164"
+           id="tspan2592">https://osintframework.com/</tspan></text>
+    </a>
+    <image
+       width="575"
+       height="663.5"
+       preserveAspectRatio="none"
+       xlink:href="img/osint_framework.png"
+       id="image2740"
+       x="980"
+       y="130" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="g7371"
      inkscape:label="Собираемые данные"
      style="display:none">
@@ -7378,7 +7454,7 @@
          x="66.592102"
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-         id="tspan77628"></tspan><tspan
+         id="tspan77628" /><tspan
          y="487.02383"
          x="66.592102"
          sodipodi:role="line"
@@ -8923,7 +8999,7 @@
          height="41.742001"
          id="rect11729" />
       <polygon
-         points="144.21,149.072 155.897,162.012 347.701,162.012 539.506,162.012 551.193,149.072 347.701,101.486 "
+         points="347.701,162.012 539.506,162.012 551.193,149.072 347.701,101.486 144.21,149.072 155.897,162.012 "
          id="polygon11731" />
       <g
          id="g11749">
