@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.73811266"
-     inkscape:cx="818.98066"
-     inkscape:cy="478.24677"
+     inkscape:cx="820.33548"
+     inkscape:cy="478.24678"
      inkscape:document-units="px"
-     inkscape:current-layer="layer43"
+     inkscape:current-layer="layer49"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1132"
@@ -9054,6 +9054,52 @@
          id="path14884"
          inkscape:connector-curvature="0" />
     </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker16168"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path16166"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker14886-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:collect="always">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path14884-4"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker14640"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path14638"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
   </defs>
   <metadata
      id="metadata7">
@@ -15587,6 +15633,479 @@
        x="846"
        y="234"
        style="display:inline" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer34"
+     inkscape:label="Знакомство с Social Engineering Toolkit"
+     style="display:none">
+    <g
+       id="g39832"
+       transform="translate(190.33697,109.94349)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="-126.27122"
+         y="14.046421"
+         id="text7205-3"><tspan
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="-126.27122"
+           y="14.046421"
+           id="tspan6762-9">Social-Engineer Toolkit — платформа с открытым </tspan><tspan
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="-126.27122"
+           y="57.246422"
+           id="tspan10432">исходным кодом для тестирования на </tspan><tspan
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="-126.27122"
+           y="100.44643"
+           id="tspan10434">проникновение с использованием методов</tspan><tspan
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="-126.27122"
+           y="143.64642"
+           id="tspan10436-3">социальной инженерии</tspan><tspan
+           id="tspan7203-0"
+           sodipodi:role="line"
+           x="-126.27122"
+           y="166.21205" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="-86.471161"
+         y="365.92984"
+         id="text7215-8"><tspan
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="-86.471161"
+           y="365.92984"
+           id="tspan7213-8">Web-атаки</tspan></text>
+      <rect
+         transform="rotate(-45)"
+         ry="0"
+         y="153.57368"
+         x="-347.39771"
+         height="20"
+         width="20"
+         id="rect7217-50"
+         style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="-86.471161"
+         y="445.92984"
+         id="text7243-9"><tspan
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="-86.471161"
+           y="445.92984"
+           id="tspan7241-6">формирование инфицированных носителей</tspan></text>
+      <rect
+         style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect7245-3"
+         width="20"
+         height="20"
+         x="-403.96625"
+         y="210.14226"
+         ry="0"
+         transform="rotate(-45)" />
+      <text
+         id="text7259-8"
+         y="525.92987"
+         x="-86.471161"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan7257-5"
+           y="525.92987"
+           x="-86.471161"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120%;font-family:sans-serif">формирование вредоносной нагрузки</tspan></text>
+      <rect
+         transform="rotate(-45)"
+         ry="0"
+         y="266.71091"
+         x="-460.53485"
+         height="20"
+         width="20"
+         id="rect7261-6"
+         style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text6770-1"
+         y="284.47964"
+         x="-86.471161"
+         style="font-style:normal;font-weight:normal;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="284.47964"
+           x="-86.471161"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:100%;font-family:sans-serif"
+           id="tspan10342-1">фишинговые атаки</tspan></text>
+      <rect
+         style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect6772-5"
+         width="20"
+         height="20"
+         x="-290.82919"
+         y="97.005051"
+         ry="0"
+         transform="rotate(-45)" />
+      <text
+         id="text10330-9"
+         y="214.04642"
+         x="-126.27122"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan10326-8"
+           y="214.04642"
+           x="-126.27122"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120%;font-family:sans-serif">Платформа поддерживает:</tspan><tspan
+           y="236.61205"
+           x="-126.27122"
+           sodipodi:role="line"
+           id="tspan10328-4" /></text>
+      <text
+         id="text10473-8"
+         y="605.92987"
+         x="-86.471161"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan10471-1"
+           y="605.92987"
+           x="-86.471161"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120%;font-family:sans-serif">спам-рассылки</tspan></text>
+      <rect
+         transform="rotate(-45)"
+         ry="0"
+         y="323.27957"
+         x="-517.10345"
+         height="20"
+         width="20"
+         id="rect10475-0"
+         style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         id="text10496-3"
+         y="685.92987"
+         x="-86.471161"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan10494-0"
+           y="685.92987"
+           x="-86.471161"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120%;font-family:sans-serif">и др.</tspan></text>
+      <rect
+         transform="rotate(-45)"
+         ry="0"
+         y="379.84824"
+         x="-573.67218"
+         height="20"
+         width="20"
+         id="rect10498-4"
+         style="display:inline;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke" />
+      <image
+         xlink:href="img/set.png"
+         width="483"
+         height="584"
+         preserveAspectRatio="none"
+         id="image10429"
+         x="874.08752"
+         y="34.24033"
+         style="display:inline" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer41"
+     inkscape:label="Web-атаки с помощью SET"
+     style="display:none">
+    <g
+       id="g39870"
+       transform="translate(271.62538,123.49158)">
+      <image
+         width="737.08337"
+         height="728.5567"
+         preserveAspectRatio="none"
+         style="display:inline;stroke-width:1.05958;image-rendering:optimizeQuality"
+         xlink:href="img/set_web_0.png"
+         id="image5501"
+         x="-230.63272"
+         y="-36.817917" />
+      <image
+         width="740.93134"
+         height="726.70093"
+         preserveAspectRatio="none"
+         style="display:inline;stroke-width:1.05541;image-rendering:optimizeQuality"
+         xlink:href="img/set_web_1.png"
+         id="image5559"
+         x="546.45062"
+         y="-38.721939" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer44"
+     inkscape:label="Web-атаки с помощью SET (продолжение)"
+     style="display:none">
+    <g
+       id="g39924"
+       transform="translate(56.211092,214.26363)">
+      <image
+         width="736.15692"
+         height="722.92688"
+         preserveAspectRatio="none"
+         style="display:inline;stroke-width:1.05958;image-rendering:optimizeQuality"
+         xlink:href="img/set_web_2.png"
+         id="image9517"
+         x="-15.692815"
+         y="-125.71007" />
+      <image
+         width="741.88007"
+         height="726.70093"
+         preserveAspectRatio="none"
+         style="display:inline;stroke-width:1.05541;image-rendering:optimizeQuality"
+         xlink:href="img/set_web_3.png"
+         id="image9519"
+         x="761.39056"
+         y="-127.61409" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer45"
+     inkscape:label="Обращение жертвы к поддельному сайту"
+     style="display:none">
+    <g
+       id="g39979"
+       transform="translate(420.65411,32.719528)">
+      <image
+         width="737.08337"
+         height="724.8457"
+         preserveAspectRatio="none"
+         style="display:inline;stroke-width:1.05958;image-rendering:optimizeQuality"
+         xlink:href="img/set_web_4.png"
+         id="image7255"
+         x="-379.1958"
+         y="55.809631" />
+      <image
+         width="740"
+         height="726.71796"
+         preserveAspectRatio="none"
+         style="display:inline;stroke-width:1.05541;image-rendering:optimizeQuality"
+         xlink:href="img/set_web_5.png"
+         id="image7257"
+         x="397.88757"
+         y="53.905609" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path16132"
+         d="m 137.88756,493.90561 c 100,0 480,60 560,100"
+         style="display:inline;fill:none;stroke:#ff0000;stroke-width:3.77953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker16168);paint-order:stroke fill markers" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer46"
+     inkscape:label="Сбор учётных данных с помощью клонированного сайта"
+     style="display:none">
+    <g
+       id="g42842"
+       transform="translate(161.88602,118.07235)">
+      <image
+         width="738.93768"
+         height="728.5567"
+         preserveAspectRatio="none"
+         style="display:inline;stroke-width:1.05958;image-rendering:optimizeQuality"
+         xlink:href="img/set_clone_0.png"
+         id="image11483"
+         x="-120.89337"
+         y="-31.398687" />
+      <image
+         width="740.93134"
+         height="729.547"
+         preserveAspectRatio="none"
+         style="display:inline;stroke-width:1.05541;image-rendering:optimizeQuality"
+         xlink:href="img/set_clone_1.png"
+         id="image11485"
+         x="656.19"
+         y="-33.302711" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer47"
+     inkscape:label="Обращение жертвы к клонированному сайту"
+     style="display:none">
+    <g
+       id="g45726"
+       transform="translate(-44.044579,170.90981)">
+      <image
+         width="738.93768"
+         height="724.81787"
+         preserveAspectRatio="none"
+         style="display:inline;stroke-width:1.05958;image-rendering:optimizeQuality"
+         xlink:href="img/set_clone_2.png"
+         id="image11489"
+         x="84.570908"
+         y="-83.779289" />
+      <image
+         width="741.86401"
+         height="729.547"
+         preserveAspectRatio="none"
+         style="display:inline;stroke-width:1.05541;image-rendering:optimizeQuality"
+         xlink:href="img/set_clone_3.png"
+         id="image11491"
+         x="861.65424"
+         y="-85.683311" />
+      <path
+         style="display:inline;fill:none;stroke:#ff0000;stroke-width:3.77953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker14886-4);paint-order:stroke fill markers"
+         d="m 661.65426,414.31669 c 40,40 140,120 400.00004,120"
+         id="path14186-4"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer48"
+     inkscape:label="Генерация QR-кодов"
+     style="display:none">
+    <g
+       id="g48617"
+       transform="translate(290.59266,101.81467)">
+      <image
+         xlink:href="img/set_qr.png"
+         width="652"
+         height="630"
+         preserveAspectRatio="none"
+         id="image14605"
+         x="-181.09267"
+         y="33.185329"
+         style="display:inline" />
+      <image
+         xlink:href="img/qr.png"
+         width="449"
+         height="447"
+         preserveAspectRatio="none"
+         id="image14635"
+         x="750.90735"
+         y="136.18533"
+         style="display:inline" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path14574"
+         d="m 430.90733,595.18533 c 120,-20 240,-40 340,-120"
+         style="display:inline;fill:none;stroke:#ff0000;stroke-width:3.77953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.1;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker14640);paint-order:stroke fill markers" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer49"
+     inkscape:label="Подбор доменных имён"
+     style="display:none">
+    <g
+       id="g51603"
+       transform="translate(174.07928,81.492569)">
+      <text
+         id="text14470"
+         y="262.31351"
+         x="-116.06628"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           y="262.31351"
+           x="-116.06628"
+           sodipodi:role="line"
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
+           id="tspan14468">Запуск процедуры подбора </tspan></text>
+      <rect
+         style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77953;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect14472"
+         width="740"
+         height="80"
+         x="-112.70753"
+         y="110.50743"
+         ry="20"
+         rx="20.000002" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="-94.554581"
+         y="160.43907"
+         id="text14478"><tspan
+           id="tspan14474"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           sodipodi:role="line"
+           x="-94.554581"
+           y="160.43907">sudo apt install -y urlcrazy</tspan><tspan
+           id="tspan14476"
+           sodipodi:role="line"
+           x="-94.554581"
+           y="183.0047" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         x="-116.06628"
+         y="82.313522"
+         id="text14482"><tspan
+           style="font-size:36px;line-height:120%;font-family:sans-serif"
+           sodipodi:role="line"
+           x="-116.06628"
+           y="82.313522"
+           id="tspan14480">Установка утилиты urlcrazy</tspan></text>
+      <rect
+         rx="20.000002"
+         ry="20"
+         y="290.50742"
+         x="-112.70753"
+         height="80"
+         width="740"
+         id="rect14484"
+         style="display:inline;fill:#d7e3f4;fill-opacity:1;stroke:#2c5aa0;stroke-width:3.77953;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
+      <a
+         id="a14490"
+         xlink:href="https://127.0.0.1:9392"
+         style="display:inline"
+         transform="translate(-192.70753,-79.492569)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+           x="98.152954"
+           y="419.93164"
+           id="text14488"><tspan
+             id="tspan14486"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+             sodipodi:role="line"
+             x="98.152954"
+             y="419.93164">urlcrazy &lt;целевой домен&gt;</tspan></text>
+      </a>
+      <flowRoot
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot14498"
+         xml:space="preserve"
+         transform="translate(-192.70753,-79.492569)"><flowRegion
+           id="flowRegion14494"><rect
+             y="470"
+             x="1240"
+             height="120"
+             width="400"
+             id="rect14492" /></flowRegion><flowPara
+           id="flowPara14496" /></flowRoot>
+      <image
+         xlink:href="img/urlcrazy.png"
+         width="652"
+         height="716"
+         preserveAspectRatio="none"
+         id="image14547"
+         x="715.29248"
+         y="10.507431"
+         style="display:inline" />
+    </g>
   </g>
   <g
      style="display:none"

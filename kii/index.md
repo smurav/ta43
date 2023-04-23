@@ -18,14 +18,14 @@
 1. [Инфрастуктуры открытых ключей](../ta43_lab_pki.svg)
 
 ### 18 апреля 
-1. [Разведка и сбор данных](../kii_reconnaissance.svg)
+1. [сбор данных](../kii_reconnaissance.svg)
 1. [Сканирование](../kii_scanning.svg)
 1. [Эксплуатация уязвимостей](../kii_exploitation.svg)
 1. [Поддержание доступа](../kii_maintaining_access.svg)
 
 ### 25 апреля 
 1. [Атаки на Web-приложения](../kii_web_attacks.svg)
-1. [Тестирование Web-приложений](../kii_web_testing.svg)
+1. [Разведка и сканирование для Web](../kii_web_reconnaissance.svg)
 1. [Отслеживание в сети Интернет](../kii_tracking.svg)
 
 ## Лабораторные работы
