@@ -4,7 +4,7 @@
    height="100%"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="ta43_lab_maintaining_access.svg"
    enable-background="new"
    viewBox="0 0 1600 900"
@@ -26,15 +26,15 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.48654835"
-     inkscape:cx="581.64826"
+     inkscape:cx="584.7312"
      inkscape:cy="462.44119"
      inkscape:document-units="px"
-     inkscape:current-layer="g7297"
+     inkscape:current-layer="a7169"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1018"
-     inkscape:window-x="-6"
-     inkscape:window-y="-6"
+     inkscape:window-height="1132"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -45,7 +45,9 @@
      inkscape:snap-others="true"
      inkscape:snap-grids="true"
      inkscape:snap-to-guides="false"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#649ccf">
     <inkscape:grid
        type="xygrid"
        id="grid3057"
@@ -8133,7 +8135,7 @@
            id="tspan7165"
            sodipodi:role="line"
            x="70.184631"
-           y="140.5974">Получение доступа к командной оболчке</tspan></text>
+           y="140.5974">Получение доступа к командной оболочке</tspan></text>
     </a>
     <rect
        rx="20"
@@ -8143,7 +8145,7 @@
        height="80"
        width="820.00006"
        id="rect7171"
-       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77952695;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77953;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
     <text
        id="text7183"
        y="219.50977"
@@ -8199,7 +8201,7 @@
        height="118"
        width="820.00006"
        id="rect7191"
-       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77952719;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77953;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
     <text
        id="text7207"
        y="421.50977"
