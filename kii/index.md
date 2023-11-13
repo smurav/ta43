@@ -18,7 +18,7 @@
 1. [Инфрастуктуры открытых ключей](../ta43_lab_pki.svg)
 
 ### 29 ноября 
-1. [сбор данных](../kii_reconnaissance.svg)
+1. [Cбор данных](../kii_reconnaissance.svg)
 1. [Сканирование](../kii_scanning.svg)
 1. [Эксплуатация уязвимостей](../kii_exploitation.svg)
 1. [Поддержание доступа](../kii_maintaining_access.svg)
