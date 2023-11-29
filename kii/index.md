@@ -24,6 +24,12 @@
 1. [Эксплуатация уязвимостей](../kii_exploitation.svg)
 1. [Поддержание доступа](../kii_maintaining_access.svg)
 
+#### Дополнительные материалы
+1. [Cбор данных](../kii_lab_reconnaissance.svg)
+1. [Сканирование](../kii_lab_scanning.svg)
+1. [Эксплуатация уязвимостей](../kii_lab_exploitation.svg)
+1. [Поддержание доступа](../kii_lab_maintaining_access.svg)
+
 ### 6 декабря 
 1. [Атаки на Web-приложения](../kii_web_attacks.svg)
 1. [Разведка и сканирование для Web](../kii_web_reconnaissance.svg)
