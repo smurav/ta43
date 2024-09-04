@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:ns1="https://launchpad.net/jessyink"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="100%"
    height="100%"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="ta43_lab_wireshark.svg"
    enable-background="new"
    viewBox="0 0 1600 900"
-   style="background-color:#649ccf;">
+   style="background-color:#649ccf;"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:ns1="https://launchpad.net/jessyink">
   <sodipodi:namedview
      id="base"
      pagecolor="#649ccf"
@@ -26,15 +26,15 @@
      inkscape:pageopacity="0.94117647"
      inkscape:pageshadow="2"
      inkscape:zoom="0.56800175"
-     inkscape:cx="788.16929"
-     inkscape:cy="758.75094"
+     inkscape:cx="786.96941"
+     inkscape:cy="195.42193"
      inkscape:document-units="px"
-     inkscape:current-layer="g7334"
+     inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1135"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-height="1018"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -44,7 +44,8 @@
      inkscape:snap-center="false"
      inkscape:snap-others="true"
      inkscape:snap-grids="true"
-     inkscape:snap-to-guides="false">
+     inkscape:snap-to-guides="false"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid3057"
@@ -6802,7 +6803,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -6862,7 +6862,7 @@
        id="text8877"
        y="216.81267"
        x="28.420759"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0.3px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          y="216.81267"
          x="28.420759"
@@ -6890,30 +6890,30 @@
          x="1567.4302"
          id="tspan8891"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.33333206px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px">Кафедра №43</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px">Кафедра №43</tspan><tspan
          id="tspan8893"
          y="1003.8391"
          x="1567.4302"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.33333206px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px">Стратегические информационные исследования</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px">Стратегические информационные исследования</tspan></text>
     <text
        id="text8913"
        y="589.90778"
        x="801.10938"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.66666794px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:middle;fill:#203d85;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;letter-spacing:0.3px;word-spacing:0px;text-anchor:middle;fill:#203d85;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan4346"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
          y="589.90778"
-         x="801.25934"
+         x="801.10938"
          sodipodi:role="line">Знакомство с Wireshark</tspan><tspan
          id="tspan8919"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.66666794px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#203d85;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#203d85;fill-opacity:1"
          y="645.18903"
-         x="801.25934"
+         x="801.2594"
          sodipodi:role="line">Муравьёв С.К.</tspan></text>
     <path
-       style="fill:#224087;fill-opacity:1;stroke-width:0.99999994"
+       style="fill:#224087;fill-opacity:1;stroke-width:1"
        d="m 129.09366,930.40423 c -15.85799,-8.3239 -32.140275,-19.4241 -40.027805,-27.2884 -7.7415,-7.7186 -19.25137,-25.263 -21.27213,-32.2142 l 0.18331,-52.5182 c 29.30978,-1.7858 57.744495,-3.4464 86.357145,-1.6729 l 9,0.7183 -17.9636,18.2184 c -9.87999,10.02009 -18.44115,18.2183 -19.02482,18.2183 -1.08148,0 -9.5116,-8.4887 -9.5116,-9.5778 0,-0.3288 3.26252,-3.6895 7.25,-7.468 l 7.25,-6.8702 -4.49998,0.051 c -2.47502,0.028 -13.95001,0.5719 -25.50002,1.208 l -20.821415,0.978 0.68738,37.6147 c 5.81242,16.8707 26.673495,36.2696 52.924355,49.2148 l 8.79026,4.33479 8.49695,-4.3509 c 25.24384,-12.9262 42.16441,-27.7756 50.52737,-44.34259 l 2.89512,-5.7351 v -62.8828 -62.88284 l -7.25,-2.15206 C 163.02731,732.47478 118.98935,730.239 80.591775,743.14371 l -0.75761,25.97712 3.75001,-0.5709 c 2.06249,-0.314 7.0125,-0.8797 10.99998,-1.257 3.987515,-0.3774 7.250005,-0.9465 7.250005,-1.2647 0,-0.3183 -1.66844,-2.28731 -3.707645,-4.37565 l -3.70764,-3.79699 4.873475,-4.94787 4.87347,-4.94788 31.66836,28.80469 -10.25,1.5078 c -5.59022,0.8224 -20.80335,1.7955 -33.701935,3.143 -12.89855,1.3474 -23.59389,2.4499 -23.76745,2.4499 -0.17348,0 -0.19502,-11.0923 -0.048,-24.6496 l 0.26759,-24.64961 6.4964,-2.42896 c 9.51757,-3.55856 28.808135,-8.00309 42.304825,-9.74699 28.97889,-3.74435 63.54773,-0.37932 89.89338,8.75048 l 9.30539,3.22469 0.25701,68.70589 0.25701,68.706 -2.41867,5.469 c -8.86844,20.0531 -29.51702,38.6936 -59.30317,53.5359 -6.71445,3.3457 -12.56444,6.075 -12.99999,6.065 -0.43555,-0.011 -6.30013,-2.9094 -13.03234,-6.4431 z M 67.834095,801.60793 v -5.5546 l 4.74999,-0.6031 c 7.98527,-1.01391 42.402145,-3.5846 47.990065,-3.5846 h 5.25997 v 5.8096 5.8096 l -20.25003,1.2095 c -11.137475,0.6651 -24.187505,1.4926 -28.999975,1.8389 l -8.75002,0.6294 z m 69.944125,0.4135 c -4.50266,-3.646 -1.68015,-12.1558 4.03181,-12.1558 3.10961,0 7.02407,3.901 7.02407,7 0,1.893 -0.88766,3.5531 -2.63486,4.9274 -3.2521,2.5581 -5.4697,2.6182 -8.42102,0.2284 z"
        id="path4529-4"
        inkscape:connector-curvature="0"
@@ -6952,7 +6952,7 @@
        id="text8877-3"
        y="51.535156"
        x="31.882812"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0.3px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan8881-6"
          y="51.535156"
@@ -6962,7 +6962,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">Заголовок</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.33333206px;line-height:0%;font-family:Courier;-inkscape-font-specification:Courier;text-align:start;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.3333px;line-height:0%;font-family:Courier;-inkscape-font-specification:Courier;text-align:start;letter-spacing:0.3px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        x="31.882812"
        y="881.53516"
        id="text9302"><tspan
@@ -6970,12 +6970,12 @@
          x="31.882812"
          y="881.53516"
          id="tspan9304"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.33333206px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'">Знакомство с Wireshark</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.3333px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'">Знакомство с Wireshark</tspan></text>
     <text
        id="text9306"
        y="881.53516"
        x="1470.3302"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:end;letter-spacing:0.3px;word-spacing:0px;text-anchor:end;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          ns1:autoText="slideNumber"
          id="tspan9308"
@@ -6985,7 +6985,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif">01</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:0.3px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        x="1491.7219"
        y="881.53516"
        id="text9310"><tspan
@@ -6998,7 +6998,7 @@
        id="text9314"
        y="881.53516"
        x="1510.6763"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0.3px;word-spacing:0px;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan9316"
          y="881.53516"
@@ -7021,123 +7021,111 @@
        id="a3316">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
          x="70.184631"
          y="140.5974"
          id="text3314"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="70.184631"
            y="140.5974"
            id="tspan3560">Одним из наиболее популярных</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="70.184631"
            y="183.79739"
            id="tspan7372">инструментов для анализа траффика</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="70.184631"
            y="226.99741"
            id="tspan7374">является wireshark</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="70.184631"
            y="248.90147"
            id="tspan7376" /><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="70.184631"
            y="263.30148"
            id="tspan7378" /><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="70.184631"
            y="277.70148"
            id="tspan7387" /><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="70.184631"
            y="292.10147"
            id="tspan7399" /><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="70.184631"
            y="327.79739"
            id="tspan7419">Wireshark входит в группу инструментов</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="70.184631"
            y="370.99741"
            id="tspan7393">для сниффинга и спуфинга Kali Linux, </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="70.184631"
            y="414.19742"
            id="tspan7397">доступную в главном меню</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="70.184631"
            y="436.10147"
            id="tspan7401" /><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="70.184631"
            y="450.5015"
            id="tspan7403" /><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="70.184631"
            y="464.90149"
            id="tspan7405" /><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="70.184631"
            y="479.30148"
            id="tspan7415" /><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="70.184631"
            y="514.99744"
            id="tspan7417">Wireshark «знает» структуру самых </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="70.184631"
            y="558.19739"
            id="tspan7407">различных сетевых протоколов, и </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="70.184631"
            y="601.3974"
            id="tspan7409">поэтому позволяет разобрать сетевой </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="70.184631"
            y="644.59741"
            id="tspan7411">пакет, отображая значение каждого </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="70.184631"
            y="687.79742"
            id="tspan7413">поля протокола любого уровня.</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="70.184631"
            y="709.70148"
            id="tspan7391" /><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="70.184631"
            y="724.1015"
            id="tspan7395" /><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="70.184631"
            y="738.50146"
            id="tspan3558" /></text>
     </a>
     <image
-       sodipodi:absref="/home/sergey/Documents/git/ta43/img/run_wireshark.png"
        xlink:href="img/run_wireshark.png"
        width="706"
        height="666"
@@ -7159,36 +7147,32 @@
          id="text2459"
          y="140.5974"
          x="50.184631"
-         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            id="tspan2451"
            y="140.5974"
            x="50.184631"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">При запуске Wireshark необходимо</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">При запуске Wireshark необходимо</tspan><tspan
            y="183.79739"
            x="50.184631"
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            id="tspan2859">выбрать сетевой интерфейс для анализа</tspan><tspan
            id="tspan2453"
            y="206.36302"
            x="50.184631"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /><tspan
+           sodipodi:role="line" /><tspan
            id="tspan2455"
            y="220.76303"
            x="50.184631"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /><tspan
+           sodipodi:role="line" /><tspan
            id="tspan2457"
            y="235.16302"
            x="50.184631"
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></text>
+           sodipodi:role="line" /></text>
     </a>
     <image
-       sodipodi:absref="/home/sergey/Documents/git/ta43/img/start_wireshark.png"
        xlink:href="img/start_wireshark.png"
        y="210"
        x="61.436584"
@@ -7198,7 +7182,6 @@
        width="654.62305"
        style="stroke-width:1.17166662" />
     <image
-       sodipodi:absref="/home/sergey/Documents/git/ta43/img/names_wireshark.png"
        xlink:href="img/names_wireshark.png"
        y="100.20834"
        x="860"
@@ -7213,50 +7196,47 @@
        transform="translate(806.56342,480)">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
          x="50.184631"
          y="140.5974"
          id="text2882"><tspan
            id="tspan2874"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="50.184631"
            y="140.5974">При первом запуске полезно будет</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="50.184631"
            y="183.79739"
            id="tspan2888">настроить отображение доменных</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="50.184631"
            y="226.99741"
            id="tspan2890">имён вместо &quot;цифровых&quot; адресов в</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="50.184631"
            y="270.19739"
            id="tspan2896">диалоге настройки <tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
    id="tspan2898">Edit&gt;</tspan></tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="50.184631"
            y="313.3974"
            id="tspan2903"><tspan
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
              id="tspan2905">Preferences&gt;Name Resolution</tspan></tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="50.184631"
            y="335.96304"
            id="tspan2876" /><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="50.184631"
            y="350.36304"
            id="tspan2878" /><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="50.184631"
            y="364.76303"
@@ -7315,7 +7295,6 @@
          y="644.23401"
          id="tspan6641">выбранного поля</tspan></text>
     <image
-       sodipodi:absref="/home/sergey/Documents/git/ta43/img/wireshark_interface.png"
        xlink:href="img/wireshark_interface.png"
        width="706"
        height="666"
@@ -7334,71 +7313,68 @@
        id="a12045">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
          x="70.184631"
          y="140.5974"
          id="text12043"><tspan
            id="tspan12041"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="70.184631"
            y="140.5974">Wireshark обладает развитыми </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="70.184631"
            y="183.79739"
            id="tspan6659">возможностями фильтрации для </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="70.184631"
            y="226.99741"
            id="tspan6661">удаления &quot;шума&quot; и концентрации </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="70.184631"
            y="270.19739"
            id="tspan6667">внимания на интересующих пакетах.</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="70.184631"
            y="292.76303"
            id="tspan6709" /><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="70.184631"
            y="307.16302"
            id="tspan6669" /><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="70.184631"
            y="321.56302"
            id="tspan6671" /><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="70.184631"
            y="356.59741"
            id="tspan6732">Фильтровать трафик можно по </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="70.184631"
            y="399.79739"
            id="tspan6673">MAC-адресу, IP-адресу, подсети </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="70.184631"
            y="442.99741"
            id="tspan6675">или протоколу. Также можно </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="70.184631"
            y="486.19742"
            id="tspan6677">формировать любые комбинации</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="70.184631"
            y="529.3974"
            id="tspan6679">фильтров с помощью логических</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            sodipodi:role="line"
            x="70.184631"
            y="572.59741"
@@ -7412,30 +7388,29 @@
        height="160"
        width="740"
        id="rect7716-5"
-       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77952743;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+       style="display:inline;opacity:1;fill:#d7e3f4;fill-opacity:1;stroke:#203d85;stroke-width:3.77953;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
     <text
        id="text7722-4"
        y="689.82092"
        x="94.441406"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120.00000477%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan7718-4"
          y="689.82092"
          x="94.441406"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">!(ip.addr == 192.168.0.0/24)</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">!(ip.addr == 192.168.0.0/24)</tspan><tspan
          y="733.02094"
          x="94.441406"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="tspan6707">tcp.port == 80 || udp.port == 80</tspan><tspan
          id="tspan7720-8"
          y="776.22095"
          x="94.441406"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">http</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">http</tspan></text>
     <image
-       sodipodi:absref="/home/sergey/Documents/git/ta43/img/filtration.png"
        xlink:href="img/filtration.png"
        y="86.271179"
        x="860"
@@ -7443,7 +7418,102 @@
        preserveAspectRatio="none"
        height="723.72882"
        width="700"
-       style="display:inline;stroke-width:1.09571433" />
+       style="display:inline;stroke-width:1.09571" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Статистика сетевых взаимодействий"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       x="77.641235"
+       y="149.80609"
+       id="text8196"><tspan
+         style="font-size:36px;line-height:120%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="77.641235"
+         y="149.80609"
+         id="tspan10327">Анализируя статистику по </tspan><tspan
+         style="font-size:36px;line-height:120%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="77.641235"
+         y="193.00609"
+         id="tspan6848">перехваченным сетевым пакетам</tspan><tspan
+         style="font-size:36px;line-height:120%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="77.641235"
+         y="236.2061"
+         id="tspan6850">(<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan6852-3">Statistics&gt;Conversations</tspan>) в</tspan><tspan
+         style="font-size:36px;line-height:120%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="77.641235"
+         y="279.4061"
+         id="tspan6854-6">Wireshark можно установить</tspan><tspan
+         style="font-size:36px;line-height:120%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="77.641235"
+         y="322.60611"
+         id="tspan6856-7">все логические и физические</tspan><tspan
+         style="font-size:36px;line-height:120%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="77.641235"
+         y="365.80609"
+         id="tspan6858-5">адреса хостов, участвующих в</tspan><tspan
+         style="font-size:36px;line-height:120%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="77.641235"
+         y="409.0061"
+         id="tspan6860-3">сетевом взаимодействии.</tspan><tspan
+         sodipodi:role="line"
+         x="77.641235"
+         y="431.57172"
+         id="tspan6862-5" /><tspan
+         sodipodi:role="line"
+         x="77.641235"
+         y="445.97174"
+         id="tspan6864" /><tspan
+         style="font-size:36px;line-height:120%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="77.641235"
+         y="481.0061"
+         id="tspan6872">Также по использованным </tspan><tspan
+         style="font-size:36px;line-height:120%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="77.641235"
+         y="524.20612"
+         id="tspan6866">портам и содержанию пакетов</tspan><tspan
+         style="font-size:36px;line-height:120%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="77.641235"
+         y="567.40613"
+         id="tspan6868">можно определить активные </tspan><tspan
+         style="font-size:36px;line-height:120%;font-family:sans-serif"
+         sodipodi:role="line"
+         x="77.641235"
+         y="610.60608"
+         id="tspan6870">сервисы.</tspan></text>
+    <image
+       xlink:href="img/conversations_eth.png"
+       width="741"
+       height="331"
+       preserveAspectRatio="none"
+       id="image6679"
+       x="800"
+       y="110"
+       style="display:inline" />
+    <image
+       xlink:href="img/conversations.png"
+       width="741"
+       height="331"
+       preserveAspectRatio="none"
+       id="image6741"
+       x="800"
+       y="470"
+       style="display:inline" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -7592,12 +7662,7 @@
        y="450.74179"
        x="117.54475"
        style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan2512"
-         style="font-size:32px;line-height:1;font-family:sans-serif"
-         sodipodi:role="line"
-         x="117.54475"
-         y="475.05429" /></text>
+       xml:space="preserve" />
     <rect
        transform="rotate(-45)"
        ry="0"
@@ -7661,7 +7726,6 @@
          y="741.54663"
          x="117.54475"
          sodipodi:role="line"
-         style="font-size:32px;line-height:1;font-family:sans-serif"
          id="tspan2532" /></text>
     <rect
        style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
@@ -7704,62 +7768,59 @@
        id="text7501"
        y="162.23401"
        x="46.841797"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan7499"
          y="162.23401"
          x="46.841797"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Для получения доступа к содержимому</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Для получения доступа к содержимому</tspan><tspan
          y="205.43401"
          x="46.841797"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="tspan7535">сессий TLS необходимо получить доступ</tspan><tspan
          y="248.63402"
          x="46.841797"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="tspan7537">к ключам шифрования.</tspan><tspan
          y="271.19965"
          x="46.841797"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="tspan11856" /><tspan
          y="285.59964"
          x="46.841797"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="tspan11858" /><tspan
          y="320.634"
          x="46.841797"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="tspan6735">Такие ключи можно получать от </tspan><tspan
          y="363.83401"
          x="46.841797"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="tspan11860">браузера, если указать ему имя файла </tspan><tspan
          y="407.03403"
          x="46.841797"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="tspan11921">для записи сессионных ключей через </tspan><tspan
          y="450.23401"
          x="46.841797"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="tspan11862">специальную переменную окружения </tspan><tspan
          y="493.43402"
          x="46.841797"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="tspan11927">SSLKEYLOGFILE</tspan><tspan
          y="515.99963"
          x="46.841797"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="tspan11864" /></text>
     <rect
        rx="20"
@@ -7774,30 +7835,30 @@
        id="text7722"
        y="581.82092"
        x="80.441406"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120.00000477%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120%;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan7718"
          y="581.82092"
          x="80.441406"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">export SSLKEYLOGFILE=~/sslkeys.log</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">export SSLKEYLOGFILE=~/sslkeys.log</tspan><tspan
          id="tspan7720"
          y="625.02094"
          x="80.441406"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120.00000477%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">chromium --no-sandbox</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:semi-condensed;font-size:36px;line-height:120%;font-family:'Lucida Console';-inkscape-font-specification:'Lucida Console, Semi-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">chromium --no-sandbox</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        x="46.841797"
        y="722.23401"
        id="text11882"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="46.841797"
          y="722.23401"
          id="tspan11919">Также нужно указать Wireshark путь к файлу с ключами в диалоге настройки</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="46.841797"
          y="765.43402"
@@ -7805,7 +7866,6 @@
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
    id="tspan11937">Edit&gt;Preferences&gt;Protocols&gt;TLS</tspan>.</tspan></text>
     <image
-       sodipodi:absref="/home/sergey/Documents/git/ta43/img/sslkeylogfile.png"
        xlink:href="img/sslkeylogfile.png"
        width="732"
        height="560"
@@ -7823,7 +7883,8 @@
            height="80"
            x="1140"
            y="330" /></flowRegion><flowPara
-         id="flowPara10424"></flowPara></flowRoot>  </g>
+         id="flowPara10424" /></flowRoot>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="g7095"
@@ -7831,136 +7892,126 @@
      style="display:none">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        x="70.184631"
        y="140.5974"
        id="text7079"><tspan
          id="tspan7380"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="70.184631"
          y="140.5974">Wireshark позволяет </tspan><tspan
          id="tspan6755"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="70.184631"
          y="183.79739">одновременно просматривать </tspan><tspan
          id="tspan6769"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="70.184631"
          y="226.99741">целые группы связанных </tspan><tspan
          id="tspan6763"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="70.184631"
          y="270.19739">пакетов, формируемых в </tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="70.184631"
          y="313.3974"
          id="tspan7438">процессе выполнения каких-</tspan><tspan
          id="tspan6822"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="70.184631"
          y="356.59741">либо протоколов.</tspan><tspan
          id="tspan6824"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="70.184631"
          y="379.16302" /><tspan
          id="tspan6785"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="70.184631"
          y="393.56302" /><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="70.184631"
          y="428.59741"
          id="tspan6879">Данная возможность доступна</tspan><tspan
          id="tspan6787"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="70.184631"
          y="471.79742">через главное меню </tspan><tspan
          id="tspan6789"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="70.184631"
          y="514.99744"><tspan
    id="tspan6797"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Analyze &gt; Follow &gt;</tspan> или </tspan><tspan
          id="tspan6791"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="70.184631"
          y="558.19739">контекстное меню <tspan
    id="tspan6795"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Follow</tspan> </tspan><tspan
          id="tspan6793"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="70.184631"
          y="601.3974">отдельного пакета группы.</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="70.184631"
          y="623.96301"
          id="tspan6865" /><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="70.184631"
          y="638.36304"
          id="tspan6881" /><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="70.184631"
          y="673.3974"
          id="tspan6883">К примеру, вы можете </tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="70.184631"
          y="716.59741"
          id="tspan6869">целиком отследить сессию </tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="70.184631"
          y="759.79742"
          id="tspan6871">HTTP, содержащую запрос от </tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="70.184631"
          y="802.99744"
          id="tspan6875">браузера и ответ от сервера.</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="70.184631"
          y="825.56305"
          id="tspan6863" /><tspan
          id="tspan6775"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="70.184631"
          y="839.96307" /><tspan
          id="tspan6777"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="70.184631"
          y="854.36304" /><tspan
          id="tspan6779"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="70.184631"
          y="868.76306" /><tspan
          id="tspan6753"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="70.184631"
          y="883.16302" /></text>
     <image
-       sodipodi:absref="/home/sergey/Documents/git/ta43/img/http_packets.png"
        xlink:href="img/http_packets.png"
        style="stroke-width:1.3216666"
        width="580.32788"
@@ -7970,7 +8021,6 @@
        x="660"
        y="90" />
     <image
-       sodipodi:absref="/home/sergey/Documents/git/ta43/img/tls_stream.png"
        xlink:href="img/tls_stream.png"
        style="stroke-width:1.26199996"
        width="500"
@@ -7987,59 +8037,56 @@
      inkscape:groupmode="layer">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:120.00000477%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;line-height:120%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1f3c84;fill-opacity:1;stroke:none"
        x="77.186157"
        y="148.1579"
        id="text3602"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="77.186157"
          y="148.1579"
          id="tspan3662"><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
    id="tspan7457">Остановив захват пакетов</tspan>, </tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="77.186157"
          y="191.35789"
          id="tspan7453">вы можете выполнить экспорт </tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="77.186157"
          y="234.55791"
          id="tspan7455">объектов, которые передавались </tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="77.186157"
          y="277.7579"
          id="tspan7478">в составе захваченных пакетов.</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="77.186157"
          y="300.32352"
          id="tspan7494" /><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="77.186157"
          y="314.72354"
          id="tspan7496" /><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="77.186157"
          y="349.7579"
          id="tspan7498">Вызов диалога экспорта </tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="77.186157"
          y="392.95792"
          id="tspan7500">осуществляется в через меню</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="77.186157"
          y="436.1579"
          id="tspan7502">File &gt; Export Objects</tspan></text>
     <image
-       sodipodi:absref="/home/sergey/Documents/git/ta43/img/export_objects.png"
        xlink:href="img/export_objects.png"
        y="157"
        x="780"
@@ -8057,199 +8104,7 @@
        y="544"
        x="280"
        id="image10618"
-       xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
-HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
-MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCADOAYYDASIA
-AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
-AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
-ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
-p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
-AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
-BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
-U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
-uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDwQU5e
-o+tN6U5PvCkwJ2GQKQCnsOBSAVlcoTbSEU/FRSnC/WmtQZE7ZOBTQKSlrRKxIvFa/hnVxoevW1+y
-7kjOGHsRisegGhpNNMFo7nv0/wATdCt7X7TBc75SvEQFeL+JNX/tzW578oEMmOAKzB0xTT1rOFKM
-HdFOTasJRnFFFaEkscxTgk1bjnyOaz6kiPOM1EoJ6lxk0Xmk9DVq2uioGDWaSaljJHesnBNFpu5p
-teMSeTTDclh1qkWyetPB4rLkSK5mybzSfWo3bPelpjU0kDZE/eoGqZzURraJmyI0w1IRUZ61rElj
-aWkpasgAcU4NTKWgBxIpppc8UlMAzS5pKKBATSUUUrjCiiigYUUUtMQlFFFTcYUUUUAFLSUtNCDN
-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
-"
+       xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCADOAYYDASIA AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3 ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3 uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDwQU5e o+tN6U5PvCkwJ2GQKQCnsOBSAVlcoTbSEU/FRSnC/WmtQZE7ZOBTQKSlrRKxIvFa/hnVxoevW1+y 7kjOGHsRisegGhpNNMFo7nv0/wATdCt7X7TBc75SvEQFeL+JNX/tzW578oEMmOAKzB0xTT1rOFKM HdFOTasJRnFFFaEkscxTgk1bjnyOaz6kiPOM1EoJ6lxk0Xmk9DVq2uioGDWaSaljJHesnBNFpu5p teMSeTTDclh1qkWyetPB4rLkSK5mybzSfWo3bPelpjU0kDZE/eoGqZzURraJmyI0w1IRUZ61rElj aWkpasgAcU4NTKWgBxIpppc8UlMAzS5pKKBATSUUUrjCiiigYUUUtMQlFFFTcYUUUUAFLSUtNCDN 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 "
        preserveAspectRatio="none"
        height="206"
        width="390" />
@@ -8401,12 +8256,7 @@ b7i5ozSUUCFzRmkooA0dMOfN/D+tFJpf/LX8P60Va2Ez/9k=
        style="font-style:normal;font-weight:normal;font-size:32px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#800080;fill-opacity:1;stroke:none"
        x="117.54475"
        y="450.74179"
-       id="text7304"><tspan
-         y="475.05429"
-         x="117.54475"
-         sodipodi:role="line"
-         style="font-size:32px;line-height:1;font-family:sans-serif"
-         id="tspan7344" /></text>
+       id="text7304" />
     <rect
        style="opacity:1;fill:#1f3d85;fill-opacity:1;stroke:#1f3d85;stroke-linecap:square;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect7306"
@@ -8468,7 +8318,6 @@ b7i5ozSUUCFzRmkooA0dMOfN/D+tFJpf/LX8P60Va2Ez/9k=
          x="117.54475"
          y="709.54663">Остановите захват пакетов</tspan><tspan
          id="tspan7324"
-         style="font-size:32px;line-height:1;font-family:sans-serif"
          sodipodi:role="line"
          x="117.54475"
          y="741.54663" /></text>
@@ -8618,7 +8467,7 @@ b7i5ozSUUCFzRmkooA0dMOfN/D+tFJpf/LX8P60Va2Ez/9k=
        id="text8913-9"
        y="470"
        x="799.84998"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Courier;-inkscape-font-specification:Courier;text-align:center;letter-spacing:0.30000001px;word-spacing:0px;text-anchor:middle;display:inline;fill:#203d85;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Courier;-inkscape-font-specification:Courier;text-align:center;letter-spacing:0.3px;word-spacing:0px;text-anchor:middle;display:inline;fill:#203d85;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan8919-2"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#203d85;fill-opacity:1"
