@@ -29,7 +29,7 @@
      inkscape:cx="754"
      inkscape:cy="446"
      inkscape:document-units="px"
-     inkscape:current-layer="g80108"
+     inkscape:current-layer="g8545"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1018"
@@ -7776,7 +7776,7 @@
            x="77.186157"
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
-           id="tspan34858">Установка пакета</tspan><tspan
+           id="tspan34858">Удаление пакета</tspan><tspan
            id="tspan34860"
            y="392.55789"
            x="77.186157"
@@ -9667,7 +9667,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="tspan7226">с помощью утилиты <tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
-   id="tspan7228">ssh-keygen</tspan></tspan><tspan
+   id="tspan7228">ssh-keygen -t rsa</tspan></tspan><tspan
          id="tspan7150"
          y="555.12354"
          x="77.186157"
